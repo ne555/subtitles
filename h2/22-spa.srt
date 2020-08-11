@@ -1,0 +1,916 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+00:01:34,100 --> 00:01:38,910
+Yo soy Hiro Kunimi, lanzador de primer año
+en el club de béisbol de la preparatoria Senkawa.
+
+13
+00:01:38,910 --> 00:01:41,750
+Soy amigo de Hideo Tachibana,
+el bateador de limpieza de Meiwa.
+
+14
+00:01:44,660 --> 00:01:49,060
+Me pidió que lo reemplace en su cita,
+y no pude negarme.
+
+15
+00:01:49,870 --> 00:01:52,100
+La cita es con Hikari, mi amiga de la infancia.
+
+16
+00:01:54,500 --> 00:01:56,550
+La conozco desde que éramos niños,
+
+17
+00:01:56,550 --> 00:01:59,160
+por lo que no debería haber ninguna razón
+para ponerme nervioso, pero...
+
+18
+00:02:00,910 --> 00:02:03,820
+
+
+19
+00:02:01,050 --> 00:02:09,080
+
+
+20
+00:02:01,050 --> 00:02:09,080
+
+21
+00:02:01,050 --> 00:02:09,080
+"Bateador de emergencia para la cita:
+la pareja no puede volver a casa"
+
+22
+00:02:10,900 --> 00:02:13,150
+#Puentes de Madison
+
+23
+00:02:12,000 --> 00:02:19,340
+#Cenicienta
+
+24
+00:02:20,450 --> 00:02:32,650
+#Masacre en Nueva York
+
+25
+00:04:05,070 --> 00:04:06,240
+Hey...
+
+26
+00:04:10,180 --> 00:04:12,400
+Oh, no...
+
+27
+00:04:12,400 --> 00:04:14,020
+Tonto.
+
+28
+00:04:16,520 --> 00:04:19,020
+¿No estabas en el tren?
+
+29
+00:04:19,730 --> 00:04:23,360
+No, supuse que esto pasaría.
+
+30
+00:04:23,360 --> 00:04:26,000
+Haces esta clase de cosas desde niño.
+
+31
+00:04:29,480 --> 00:04:30,400
+Toma.
+
+32
+00:04:30,400 --> 00:04:31,310
+Gracias.
+
+33
+00:04:36,260 --> 00:04:37,960
+Esto me trae recuerdos.
+
+34
+00:04:37,960 --> 00:04:38,820
+¿Verdad?
+
+35
+00:04:38,820 --> 00:04:42,150
+Hace mucho que no salimos juntos.
+
+36
+00:04:43,550 --> 00:04:44,470
+¿En serio?
+
+37
+00:05:04,940 --> 00:05:06,270
+Bueno.
+
+38
+00:05:08,640 --> 00:05:09,400
+Vamos.
+
+39
+00:05:10,260 --> 00:05:11,050
+Vamos.
+
+40
+00:05:14,520 --> 00:05:15,840
+Muchas gracias.
+
+41
+00:05:15,840 --> 00:05:16,790
+No es nada.
+
+42
+00:05:23,320 --> 00:05:24,840
+¿Qué pasa?
+
+43
+00:05:24,840 --> 00:05:26,020
+No, nada.
+
+44
+00:05:29,100 --> 00:05:31,650
+¿Qué pasa? Me molesta.
+
+45
+00:05:31,650 --> 00:05:32,730
+¿Te molesta?
+
+46
+00:05:32,730 --> 00:05:33,550
+Sí.
+
+47
+00:05:34,250 --> 00:05:38,040
+Tan sólo pensaba que hasta hace poco no hubieras
+ni siquiera alcanzado la correa para sujetarte.
+
+48
+00:05:38,640 --> 00:05:40,900
+¿Era eso?
+
+49
+00:05:40,900 --> 00:05:42,100
+¿No te lo dije?
+
+50
+00:05:42,100 --> 00:05:46,190
+Tengo manos y pies grandes,
+definitivamente creceré más.
+
+51
+00:05:46,190 --> 00:05:48,320
+En verdad has crecido.
+
+52
+00:06:13,100 --> 00:06:15,140
+Te la obsequio.
+
+53
+00:06:15,140 --> 00:06:15,950
+Gracias.
+
+54
+00:06:34,350 --> 00:06:42,100
+%Cuando alguien me necesita
+
+55
+00:06:42,100 --> 00:06:48,950
+%por primera vez entiendo dónde estoy.
+
+56
+00:06:48,950 --> 00:06:56,600
+%De la misma forma que el metrónomo se apaga
+
+57
+00:06:56,600 --> 00:07:04,560
+%y sólo unos pocos escuchan su monótono sonido.
+
+58
+00:07:04,560 --> 00:07:12,480
+%Con un estrépito, mi frente apoya en la ventana.
+
+59
+00:07:12,480 --> 00:07:22,030
+%¿Por qué lloro? Miro a través del cielo.
+
+60
+00:07:22,030 --> 00:07:29,840
+%Cuando no estás conmigo, te desbordas.
+
+61
+00:07:29,840 --> 00:07:38,030
+%En las calles a través de la ventana,
+%surgen las pistas.
+
+62
+00:07:38,030 --> 00:07:46,310
+%La soledad no nos encierra.
+
+63
+00:07:46,310 --> 00:07:54,530
+%Sino que nos enseña a quién no podemos perder.
+
+64
+00:08:12,170 --> 00:08:20,100
+%Incluso de esas largas y difíciles noches
+%que nos hacen retroceder
+
+65
+00:08:20,100 --> 00:08:30,380
+%podremos reírnos algún día,
+%como una cicatriz de la niñez.
+
+66
+00:08:34,180 --> 00:08:41,900
+%Volvamos a ser "nosotros los dos",
+
+67
+00:08:41,900 --> 00:08:50,170
+%volvamos juntos en lugar de
+%perder el tiempo en arrepentimientos.
+
+68
+00:08:50,170 --> 00:08:58,300
+%La felicidad no es algo que otro hace por mí.
+
+69
+00:08:58,300 --> 00:09:06,950
+%Significa que tengo a alguien a quien abrazar.
+
+70
+00:09:44,190 --> 00:09:45,040
+Hey.
+
+71
+00:09:46,060 --> 00:09:47,060
+¿Eh?
+
+72
+00:09:50,120 --> 00:09:53,100
+¿Te gustó el jugo?
+
+73
+00:09:53,100 --> 00:09:54,350
+Te lo agradezco.
+
+74
+00:09:55,050 --> 00:09:56,260
+¿Lo conoces?
+
+75
+00:09:56,260 --> 00:09:57,270
+Algo así.
+
+76
+00:09:57,730 --> 00:10:00,000
+Me encontré con él hace tres horas.
+
+77
+00:11:10,000 --> 00:11:12,450
+#Estación Shin-Tokoroguchiko
+
+78
+00:11:12,450 --> 00:11:16,150
+#Debido a la inundación de las vías
+#se suspende el servicio entre Shirai y Mikami
+#Gracias por su entendimiento
+
+79
+00:11:16,730 --> 00:11:18,700
+¡Increíble!
+
+80
+00:11:19,220 --> 00:11:22,560
+Debido a la lluvia, acortaron el concierto.
+
+81
+00:11:22,560 --> 00:11:26,800
+Se veía la ropa interior de las chicas
+y el servicio de trenes se detuvo.
+
+82
+00:11:27,650 --> 00:11:30,700
+Se tienen que hacer más conciertos
+al aire libre durante el verano.
+
+83
+00:11:30,700 --> 00:11:31,300
+Te lo dije.
+
+84
+00:11:31,300 --> 00:11:31,900
+Sí.
+
+85
+00:11:36,350 --> 00:11:39,000
+Son las 8:30.
+
+86
+00:11:39,760 --> 00:11:48,190
+¿Crees que esta es la clase de escenario donde la pareja
+que no puede volver a casa pasa la noche juntos?
+
+87
+00:11:43,650 --> 00:11:48,190
+
+88
+00:11:50,070 --> 00:11:51,300
+Lo siento.
+
+89
+00:11:51,300 --> 00:11:54,600
+Dicen que los trenes volverán
+en más o menos media hora.
+
+90
+00:11:56,000 --> 00:11:56,900
+Bien.
+
+91
+00:11:57,800 --> 00:12:00,350
+Pasemos el tiempo en la cafetería cerca de la estación.
+
+92
+00:12:00,350 --> 00:12:01,100
+¡Corre!
+
+93
+00:12:11,280 --> 00:12:11,640
+
+94
+00:12:34,090 --> 00:12:37,600
+¿De qué cosas sueles hablar con Hideo?
+
+95
+00:12:37,600 --> 00:12:38,600
+¿Quieres saber?
+
+96
+00:12:39,710 --> 00:12:40,790
+Es sólo curiosidad.
+
+97
+00:12:42,460 --> 00:12:43,850
+Ya veo.
+
+98
+00:12:43,850 --> 00:12:46,230
+Del servicio social, problemas ambientales...
+
+99
+00:12:47,560 --> 00:12:49,000
+... los impuestos...
+
+100
+00:12:49,700 --> 00:12:52,800
+Y nuestros sueños para el futuro.
+
+101
+00:12:52,800 --> 00:12:53,840
+¿Sueños?
+
+102
+00:12:57,790 --> 00:13:00,450
+¿Cuáles son los sueños de Hideo?
+
+103
+00:13:00,450 --> 00:13:02,170
+Primero, el campeonato nacional.
+
+104
+00:13:02,170 --> 00:13:04,090
+Volverse profesional.
+
+105
+00:13:04,090 --> 00:13:07,050
+Novato del año. El juego de las estrellas.
+
+106
+00:13:07,050 --> 00:13:10,300
+Títulos individuales. Ganar el campeonato.
+
+107
+00:13:10,300 --> 00:13:13,310
+Romper muchos récords y retirarse.
+
+108
+00:13:13,310 --> 00:13:16,040
+Ser comentador deportivo y luego mánager de campo.
+
+109
+00:13:16,040 --> 00:13:19,700
+Y tener tres hijos y un hogar acogedor.
+
+110
+00:13:20,550 --> 00:13:22,300
+Contigo como esposa.
+
+111
+00:13:23,640 --> 00:13:26,010
+Eso no lo dijo.
+
+112
+00:13:29,080 --> 00:13:31,030
+No hace falta.
+
+113
+00:13:31,030 --> 00:13:33,190
+Tú también quieres ser profesional, ¿verdad?
+
+114
+00:13:33,190 --> 00:13:35,220
+No estoy seguro.
+
+115
+00:13:35,220 --> 00:13:39,090
+Jugar al béisbol para vivir suena difícil.
+
+116
+00:13:39,630 --> 00:13:43,100
+Pero estoy seguro de que jugaré
+hasta que ya no pueda moverme.
+
+117
+00:13:43,100 --> 00:13:47,120
+Pero en mi caso podría ser en
+las ligas menores o de aficionados.
+
+118
+00:13:53,850 --> 00:13:55,060
+Supongo.
+
+119
+00:13:56,330 --> 00:14:00,320
+Quiero que siempre te diviertas jugando al béisbol.
+
+120
+00:14:01,550 --> 00:14:02,940
+¿Entonces?
+
+121
+00:14:02,940 --> 00:14:04,000
+
+122
+00:14:04,850 --> 00:14:06,200
+¿Cuál es tu sueño?
+
+123
+00:14:09,200 --> 00:14:12,600
+El crimen perfecto y la reforma política.
+
+124
+00:14:13,000 --> 00:14:15,900
+Parece que paró de llover.
+
+125
+00:14:18,290 --> 00:14:20,400
+Sí quiero casarme.
+
+126
+00:14:29,610 --> 00:14:33,650
+Pero antes de eso, quiero un trabajo
+donde me sienta cómoda.
+
+127
+00:14:33,650 --> 00:14:39,650
+Y volverme una adulta independiente
+con mi propia perspectiva.
+
+128
+00:14:39,650 --> 00:14:42,530
+¿Entonces quieres enfocarte en tu carrera?
+
+129
+00:14:42,530 --> 00:14:46,250
+No me refiero a nada grandioso.
+
+130
+00:14:46,250 --> 00:14:50,870
+Pero al menos, no quiero vivir mi vida
+simplemente siguiendo a mi pareja.
+
+131
+00:14:57,760 --> 00:15:01,220
+Por eso no me importa si mi esposo
+es un jugador de béisbol profesional...
+
+132
+00:15:01,220 --> 00:15:03,300
+... o un lanzador en la liga del barrio.
+
+133
+00:15:03,300 --> 00:15:04,300
+Ups.
+
+134
+00:15:06,030 --> 00:15:07,580
+¿Por qué "ups"?
+
+135
+00:15:11,360 --> 00:15:14,120
+Parece que volvieron los trenes. Vamos.
+
+136
+00:15:21,280 --> 00:15:22,610
+Muchas gracias.
+
+137
+00:15:27,120 --> 00:15:29,700
+¿Qué haces? Llegaremos tarde.
+
+138
+00:15:30,400 --> 00:15:31,800
+Sí.
+
+
+
+139
+00:15:32,550 --> 00:15:34,900
+Parece que evitamos los problemas.
+
+140
+00:15:36,170 --> 00:15:37,350
+¿A qué te refieres?
+
+141
+00:15:38,350 --> 00:15:43,320
+Si no pudiésemos volver a casa y tuviéramos que
+pasar la noche juntos, Hideo me daría una paliza.
+
+142
+00:15:44,550 --> 00:15:45,770
+¿Por qué?
+
+143
+00:15:45,770 --> 00:15:48,950
+¿Por qué? ¡Es obvio!
+
+144
+00:15:48,950 --> 00:15:51,170
+Un hombre y una mujer pasando la noche juntos...
+
+145
+00:15:53,000 --> 00:15:55,430
+¿Qué podría suceder entre nosotros dos?
+
+146
+00:15:56,350 --> 00:16:00,300
+Oh, suenas muy confiada.
+
+147
+00:16:00,300 --> 00:16:01,700
+Es obvio.
+
+148
+00:16:08,520 --> 00:16:11,550
+Qué extraño. ¿Adónde estará?
+
+149
+00:16:14,100 --> 00:16:15,000
+Disculpa...
+
+150
+00:16:22,470 --> 00:16:25,050
+No hay ningún anillo aquí.
+
+151
+00:16:26,120 --> 00:16:28,650
+No debes precipitarte.
+
+152
+00:16:30,080 --> 00:16:31,200
+No puedo encontrarlo.
+
+153
+00:16:31,200 --> 00:16:33,910
+¿Adónde habrá ido a parar?
+
+154
+00:16:36,900 --> 00:16:40,230
+¿Deberíamos rendirnos?
+
+155
+00:16:40,230 --> 00:16:42,020
+¡No, hay que buscarlo!
+
+156
+00:16:42,750 --> 00:16:43,140
+Por favor.
+
+157
+00:16:44,200 --> 00:16:46,600
+Ya sé. Es un anillo de compromiso.
+
+158
+00:16:47,510 --> 00:16:49,650
+¡Sí, así es, señorita!
+
+159
+00:16:49,650 --> 00:16:53,310
+Te llamas Hikari, ¿verdad? Tienes toda la razón.
+
+160
+00:16:53,310 --> 00:16:57,210
+Tienes suerte de que sea tu novia.
+
+161
+00:16:57,210 --> 00:16:59,000
+¡Perdón por ser tan mala novia!
+
+162
+00:16:59,600 --> 00:17:01,250
+No quise decir eso.
+
+163
+00:17:02,030 --> 00:17:04,500
+¡Fue tu culpa, Lacchie!
+
+164
+00:17:04,500 --> 00:17:07,000
+¡Cómo se te ocurre pedírmelo en este lugar!
+
+165
+00:17:07,000 --> 00:17:10,900
+¡Quería dártelo después del concierto!
+
+166
+00:17:11,600 --> 00:17:15,550
+Calma, no deberían pelear, Lacchie.
+
+167
+00:17:15,550 --> 00:17:18,100
+Tiene razón. Lo encontraremos.
+
+168
+00:17:19,120 --> 00:17:20,000
+¿En verdad?
+
+169
+00:17:21,310 --> 00:17:22,440
+¿Podremos encontrarlo?
+
+170
+00:17:22,440 --> 00:17:23,550
+Lo encontraremos.
+
+171
+00:17:37,120 --> 00:17:38,000
+¡Aquí está!
+
+172
+00:17:38,750 --> 00:17:40,010
+¿En verdad?
+
+173
+00:17:40,010 --> 00:17:41,200
+¡Qué alivio!
+
+174
+00:17:45,790 --> 00:17:47,430
+Esto es...
+
+175
+00:17:47,430 --> 00:17:48,250
+Sí.
+
+176
+00:17:48,250 --> 00:17:54,000
+Ahora es de vidrio, pero un día
+te daré un anillo verdadero.
+
+177
+00:17:54,000 --> 00:17:58,900
+Uno muy brillante. Confía en mí y quédate a mi lado.
+
+178
+00:18:03,470 --> 00:18:05,290
+Parece que están brillando.
+
+179
+00:18:05,810 --> 00:18:07,720
+Sí, resplandecen.
+
+180
+00:18:08,970 --> 00:18:10,050
+¿No es así?
+
+181
+00:18:21,940 --> 00:18:22,850
+Hikari.
+
+182
+00:18:22,850 --> 00:18:23,650
+Dime.
+
+183
+00:18:23,650 --> 00:18:26,900
+Date prisa o perderemos el tren.
+
+184
+00:18:26,900 --> 00:18:28,030
+Sí, vamos.
+
+185
+00:18:35,400 --> 00:18:37,950
+Para cuando lleguemos a casa será medianoche.
+
+186
+00:18:37,950 --> 00:18:39,170
+Sí, gracias.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+187
+00:19:04,450 --> 00:19:06,800
+¡Déjalos! ¡No tenemos tiempo!
+
+188
+00:19:06,800 --> 00:19:07,930
+Está bien...
+
+189
+00:19:15,120 --> 00:19:15,750
+Hikari.
+
+190
+00:19:18,400 --> 00:19:19,280
+¡Hikari!
+
+191
+00:19:28,600 --> 00:19:30,300
+¡Ya no resisto, cariño!
+
+192
+00:19:31,150 --> 00:19:34,440
+¡El bebé está saliendo! ¡Está saliendo!
+
+193
+00:19:35,750 --> 00:19:37,410
+¿Estás bien? ¡Resiste!
+
+194
+00:19:39,650 --> 00:19:41,660
+De ninguna manera les ayudaremos.
+
+195
+00:19:42,770 --> 00:19:45,170
+¡Ya no puedo más, cariño!
+
+196
+00:19:45,170 --> 00:19:48,600
+¡Resiste! ¡Enseguida estaremos en el hospital!
+
+197
+00:19:57,150 --> 00:19:57,970
+¡Maldición!
+
+198
+00:20:03,650 --> 00:20:06,400
+¡El bebé está saliendo...!
+
+199
+00:20:09,000 --> 00:20:12,000
+#Clínica Yamada
+#Cirugía - Ginecología - Medicina interna
+
+200
+00:21:09,400 --> 00:21:12,350
+#El servicio de trenes ha terminado por hoy
+
+201
+00:21:36,210 --> 00:21:37,100
+Entonces...
+
+202
+00:21:49,090 --> 00:21:52,360
+Es un alivio que llegaran a tiempo.
+
+203
+00:21:52,360 --> 00:21:53,340
+Sí.
+
+204
+00:21:54,300 --> 00:22:06,800
+#Concierto
+
+205
+00:21:56,550 --> 00:21:59,910
+¿Qué haremos ahora, entonces?
+
+231
+00:23:41,880 --> 00:23:44,890
+Al final, no pudimos volver a casa.
+
+232
+00:23:44,890 --> 00:23:46,540
+Pero me siento a salvo con Hiro.
+
+233
+00:23:46,540 --> 00:23:47,930
+¿Qué quieres decir?
+
+234
+00:23:47,930 --> 00:23:50,210
+Es que somos como hermanos.
+
+235
+00:23:50,210 --> 00:23:55,010
+No entiendes nada. Eres una hermosa mujer
+que agita el corazón de los hombres.
+
+236
+00:23:55,010 --> 00:23:56,460
+¿Eso crees?
+
+237
+00:23:56,460 --> 00:23:58,270
+Puede que sí, puede que no.
+
+238
+00:23:58,270 --> 00:24:00,650
+¡Hiro se volverá un lobo!
+
+239
+00:24:02,190 --> 00:24:06,670
+En el próximo H2: "No puedo dormir...
+Una noche solos los dos"
+
+240
+00:24:04,200 --> 00:24:08,700
+
+241
+00:24:04,200 --> 00:24:08,700
+
+242
+00:24:04,200 --> 00:24:08,700
+
+243
+00:24:04,200 --> 00:24:08,700
+
+244
+00:24:06,670 --> 00:24:07,730
+¿Tienes un entrenamiento renovador?
+
+245
+00:24:08,120 --> 00:24:08,800
+
+

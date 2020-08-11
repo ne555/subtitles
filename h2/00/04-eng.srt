@@ -1,0 +1,1214 @@
+﻿1
+00:00:00,000 --> 00:00:00,000
+  Original file: DH2:H2Ep04.txt.js
+
+2
+00:00:00,000 --> 00:00:00,000
+0:00:16.00 0:00:17.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+3
+00:00:00,000 --> 00:00:00,000
+0:00:46.00 0:00:47.00  {Note: "get some change back" means that you've paid too much / it's too much.
+H2, Episode #4, "Baseball Is Just Different"
+
+4
+00:00:00,000 --> 00:00:00,000
+0:00:48.00 0:00:49.00  get some change back" means that you've paid too much / it's too much. Even with just fastballs, Kine thinks he's too good for the Fan Club.}
+H2, Episode #4, "Baseball Is Just Different"
+
+5
+00:00:00,000 --> 00:00:00,000
+0:00:58.00 0:00:59.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+6
+00:00:00,000 --> 00:00:00,000
+0:01:06.00 0:01:07.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+7
+00:00:00,000 --> 00:00:00,000
+0:01:22.00 0:01:23.00  "wan tan men" is a type of noodle dish. It's probably a play on "one, two, three."}
+H2, Episode #4, "Baseball Is Just Different"
+
+8
+00:00:00,000 --> 00:00:00,000
+0:04:24.00 0:04:25.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+9
+00:00:00,000 --> 00:00:00,000
+0:04:48.00 0:04:49.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+10
+00:00:00,000 --> 00:00:00,000
+0:04:52.00 0:04:53.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+11
+00:00:00,000 --> 00:00:00,000
+0:05:12.00 0:05:13.00  ...
+H2, Episode #4, "Baseball Is Just Different"
+
+12
+00:00:00,000 --> 00:00:00,000
+0:05:18.00 0:05:19.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+13
+00:00:00,000 --> 00:00:00,000
+0:06:40.00 0:06:41.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+14
+00:00:00,000 --> 00:00:00,000
+0:06:42.00 0:06:43.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+15
+00:00:00,000 --> 00:00:00,000
+0:07:02.00 0:07:03.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+16
+00:00:00,000 --> 00:00:00,000
+0:07:28.00 0:07:29.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+17
+00:00:00,000 --> 00:00:00,000
+0:07:38.00 0:07:39.00  
+H2, Episode #4, "Baseball Is Just Different"
+
+18
+00:00:00,000 --> 00:00:00,000
+0:08:00.00 0:08:01.00  {Note: Kunimi is playing a Japanese word-chain game, where he starts a word with the sound that ended the previous word.
+H2, Episode #4, "Baseball Is Just Different"
+
+19
+00:00:00,000 --> 00:00:00,000
+0:08:02.00 0:08:03.00  Kunimi is playing a Japanese word-chain game, where he starts a word with the sound that ended the previous word. "Yakyu Baka" [baseball idiot] leads to "kamonohashi" [platypus], which leads to "shio" [salt] and then "onna-yu" [women's bath],
+H2, Episode #4, "Baseball Is Just Different"
+
+20
+00:00:00,000 --> 00:00:00,000
+0:08:04.00 0:08:05.00  Kunimi is playing a Japanese word-chain game, where he starts a word with the sound that ended the previous word. "Yakyu Baka" [baseball idiot] leads to "kamonohashi" [platypus], which leads to "shio" [salt] and then "onna-yu" [women's bath], which leads to "yumi-ya" [bow and arrow], and it goes back to the "ya" soundi.e. "yakyu" [baseball].
+H2, Episode #4, "Baseball Is Just Different"
+
+21
+00:00:00,000 --> 00:00:00,000
+Processed by Central Anime's NUMIT On 04/16/2013
+H2, Episode #4, "Baseball Is Just Different"
+
+22
+00:00:00,000 --> 00:00:00,010
+H2, Episode #4, "Baseball Is Just Different"
+
+23
+00:01:56,450 --> 00:01:59,790
+Strike ! Batter out !
+
+24
+00:02:06,360 --> 00:02:08,600
+That pitch was high.
+
+25
+00:02:08,600 --> 00:02:09,930
+Oh, really ?
+
+26
+00:02:11,920 --> 00:02:14,300
+Wow, Kine !
+
+27
+00:02:14,300 --> 00:02:16,560
+You're cool !
+
+28
+00:02:19,740 --> 00:02:20,690
+Hi.
+
+29
+00:02:25,000 --> 00:02:26,200
+Don't worry.
+
+30
+00:02:26,200 --> 00:02:29,040
+Let's settle down. 
+Things are just starting.
+
+
+
+31
+00:02:33,880 --> 00:02:36,560
+We're doing fine ! Let's score some runs, one by one !
+
+32
+00:02:37,170 --> 00:02:38,800
+Pull yourself together !
+Let's try our best !
+
+33
+00:02:40,130 --> 00:02:41,790
+What's wrong, catcher ?
+
+34
+00:02:42,710 --> 00:02:44,600
+You don't seem energetic !
+
+35
+00:02:45,000 --> 00:02:47,540
+Let's give it a shout !
+
+36
+00:02:48,540 --> 00:02:50,150
+Two outs ! Two outs !
+
+37
+00:02:50,480 --> 00:02:51,400
+Yeah !
+
+38
+00:02:53,000 --> 00:02:54,950
+Bright spring day.
+
+39
+00:02:54,950 --> 00:03:00,400
+This Sunday afternoon, in the game between Soccer Club and Baseball Fan Club...
+
+40
+00:03:00,400 --> 00:03:02,660
+...the Soccer Club is
+leading by three runs.
+
+41
+00:03:04,350 --> 00:03:06,920
+It's not that I'm
+narrating this to anyone.
+
+42
+00:03:20,550 --> 00:03:21,670
+Strike !
+
+43
+00:03:23,150 --> 00:03:26,050
+You were right not to
+have swung at that pitch.
+
+44
+00:03:26,050 --> 00:03:27,310
+I guess so...
+
+45
+00:03:28,070 --> 00:03:32,230
+Maybe it was too fast, even though I said I'd only throw fastballs ?
+
+46
+00:03:34,070 --> 00:03:38,200
+No wonder you said that you'd get some change back even with just fastballs.
+Impressive. No wonder you said that you'd get some change back even with just fastballs.
+
+47
+00:03:38,650 --> 00:03:39,650
+Right, Kine ?
+
+48
+00:03:44,300 --> 00:03:45,770
+Here's your change.
+
+49
+00:03:49,990 --> 00:03:52,050
+I'm going to throw the next one right down the middle.
+
+50
+00:03:55,990 --> 00:03:57,990
+What's wrong with him ?
+
+51
+00:04:01,600 --> 00:04:03,010
+Strike !
+
+52
+00:04:09,300 --> 00:04:11,550
+This is you as a fifth-grader ?
+
+53
+00:04:11,550 --> 00:04:15,600
+Yeah, I was like that when
+I joined the Hakusan Angels.
+
+54
+00:04:17,960 --> 00:04:19,890
+You were big.
+
+55
+00:04:19,890 --> 00:04:20,680
+Really ?
+
+56
+00:04:21,750 --> 00:04:23,480
+Really.
+
+57
+00:04:24,170 --> 00:04:27,150
+I mean, Hiro was about 
+this height back then.
+
+58
+00:04:28,100 --> 00:04:31,210
+When we were playing together, 
+people thought he was my little brother.
+
+59
+00:04:32,390 --> 00:04:34,100
+Hikari's little brother, huh ?
+
+60
+00:04:34,670 --> 00:04:38,060
+Then it would be Kodama, Nozomi, or Tsubasa...
+
+61
+00:04:39,070 --> 00:04:41,770
+I'm not a bullet train.
+
+62
+00:04:41,770 --> 00:04:44,840
+He couldn't measure up to me no matter what we did.
+
+63
+00:04:45,300 --> 00:04:46,520
+Hurry, hurry !
+
+64
+00:04:46,520 --> 00:04:48,190
+Hey, wait !
+
+65
+00:04:54,860 --> 00:04:58,200
+Running, tree-climbing, sumo wrestling.
+
+66
+00:04:58,200 --> 00:04:59,920
+I was better at everything.
+
+67
+00:04:59,920 --> 00:05:01,350
+Baseball, too ?
+
+68
+00:05:04,240 --> 00:05:07,500
+That's right. Baseball
+was the only exception.
+
+69
+00:05:08,670 --> 00:05:12,760
+He was often taken out to join
+my father's bush-league games.
+
+70
+00:05:12,760 --> 00:05:15,530
+Not just to fill up the roster,
+but rather as a player.
+
+71
+00:05:15,530 --> 00:05:16,000
+See ?
+
+72
+00:05:17,110 --> 00:05:21,900
+Back then, I was getting attention as the 
+cleanup batter for the Hakusan Angels...
+
+73
+00:05:21,900 --> 00:05:24,670
+...so I was getting really cocky.
+
+74
+00:05:24,670 --> 00:05:27,610
+But he struck me out on three pitches.
+
+75
+00:05:33,790 --> 00:05:41,730
+A midget with an oversized uniform took a big motion and threw an unbelievable pitch.
+
+76
+00:05:42,700 --> 00:05:47,700
+Thanks to that, I, who disliked practice
+and had been playing with just pure talent...
+
+77
+00:05:47,700 --> 00:05:52,220
+...ended up taking practice swings from morning to night for all three years of junior high.
+
+78
+00:05:55,760 --> 00:05:58,300
+Thus, giving birth to the slugger...
+
+79
+00:05:58,300 --> 00:06:02,740
+...who will hit cleanup as a first year in the prestigious Meiwa Daiichi club.
+
+80
+00:06:02,740 --> 00:06:03,860
+Maybe.
+
+
+
+
+81
+00:06:04,310 --> 00:06:05,350
+But on the whole...
+
+82
+00:06:05,350 --> 00:06:08,590
+...you have a good record against him throughout the intra-squad games, right ?
+
+83
+00:06:10,780 --> 00:06:14,400
+There's no ace pitcher who seriously 
+crushes his own team's cleanup batter.
+
+84
+00:06:14,980 --> 00:06:17,700
+When you think about the games you'll be pitching...
+
+85
+00:06:17,700 --> 00:06:20,250
+...you want your cleanup batter feeling good about himself.
+
+86
+00:06:22,210 --> 00:06:23,460
+Is that true ?
+
+
+87
+00:06:24,960 --> 00:06:28,110
+Hiro isn't that thoughtful though.
+
+88
+00:06:33,710 --> 00:06:39,140
+Well, either way, an earnest match
+between you two will never happen.
+
+89
+00:06:42,050 --> 00:06:43,500
+Hey, who's he ?
+
+
+
+
+
+90
+00:06:45,210 --> 00:06:48,470
+This guy in the back,
+who always looks sullen.
+
+91
+00:06:53,880 --> 00:06:55,600
+Hmm...
+
+92
+00:06:58,760 --> 00:06:59,550
+Oh, yeah.
+
+93
+00:07:00,250 --> 00:07:05,600
+He's the guy who was the ace pitcher hitting cleanup until I joined the Hakusan Angels.
+
+94
+00:07:06,170 --> 00:07:07,470
+An ace pitcher hitting cleanup ?
+
+95
+00:07:07,470 --> 00:07:08,830
+Yeah.
+
+96
+00:07:08,830 --> 00:07:10,000
+As I recall...
+
+97
+00:07:10,750 --> 00:07:14,800
+...his name was something like Fune or Yone.
+
+98
+00:07:16,070 --> 00:07:17,930
+Kine !
+
+99
+00:07:25,310 --> 00:07:26,600
+Change !
+
+100
+00:07:26,600 --> 00:07:28,090
+Wow, Kine !
+
+101
+00:07:28,700 --> 00:07:29,920
+You're cool !
+
+102
+00:07:29,920 --> 00:07:32,050
+Look this way !
+
+103
+00:07:32,050 --> 00:07:34,480
+He's the best !
+
+104
+00:07:41,010 --> 00:07:43,360
+They're members of my fan club.
+
+105
+00:07:43,360 --> 00:07:45,040
+I didn't ask.
+
+106
+00:07:45,040 --> 00:07:47,410
+There'll be at least one
+more before summer.
+
+107
+00:07:47,410 --> 00:07:49,010
+A special member, I mean.
+
+108
+00:07:50,710 --> 00:07:51,800
+Let's stay focused !
+
+109
+00:08:06,730 --> 00:08:09,200
+I like baseball better, though.
+
+110
+00:08:11,500 --> 00:08:12,300
+Ouch.
+
+111
+00:08:13,770 --> 00:08:16,170
+It's your turn to hit.
+
+112
+00:08:26,850 --> 00:08:28,180
+Don't swing at balls, okay ?
+
+113
+00:08:29,630 --> 00:08:31,670
+Hey, are you listening to me, Kunimi ?
+
+114
+00:08:32,830 --> 00:08:36,170
+Come to think of it, I've been keeping the same posture for a while now.
+
+115
+00:08:38,860 --> 00:08:41,530
+Watch the ball well.
+It's a lousy pitch.
+
+116
+00:08:47,990 --> 00:08:48,640
+Ball.
+
+117
+00:08:49,660 --> 00:08:50,920
+His body...
+
+118
+00:08:50,920 --> 00:08:52,150
+Hm ?
+
+
+119
+00:08:52,150 --> 00:08:54,200
+He's thrusting his body
+forward a bit too much.
+
+120
+00:09:02,220 --> 00:09:04,210
+Oh, you noticed.
+
+121
+00:09:04,210 --> 00:09:06,650
+If he stays back on his 
+back foot a little more...
+
+122
+00:09:06,650 --> 00:09:09,500
+...he'll be able to make crisper pitches, with better command.
+
+123
+00:09:10,620 --> 00:09:13,510
+I see, staying back
+on the back foot.
+
+124
+00:09:13,510 --> 00:09:14,230
+Timeout.
+
+125
+00:09:17,470 --> 00:09:18,650
+What's going on ?
+
+126
+00:09:18,650 --> 00:09:21,050
+The day will be over soon if they
+keep taking timeouts like this !
+
+127
+00:09:21,860 --> 00:09:24,200
+Sorry for the wait.
+
+128
+00:09:24,200 --> 00:09:24,990
+Okay.
+
+129
+00:09:26,510 --> 00:09:27,200
+Play.
+
+130
+00:09:33,230 --> 00:09:34,340
+Strike !
+
+131
+00:09:36,560 --> 00:09:40,130
+He should stop moving his head, too.
+
+132
+00:09:40,130 --> 00:09:43,310
+It takes his eyes 
+off the catcher's mitt.
+
+133
+00:09:43,890 --> 00:09:45,600
+Yeah, that's right.
+
+134
+00:09:46,290 --> 00:09:46,680
+Timeout.
+
+135
+00:09:47,260 --> 00:09:48,700
+Hey, hey, hey, hey !
+
+136
+00:09:54,420 --> 00:09:55,760
+Sorry for the wait.
+
+137
+00:09:55,760 --> 00:09:56,490
+Play.
+
+138
+00:10:00,510 --> 00:10:01,810
+Strike two !
+
+139
+00:10:03,300 --> 00:10:05,040
+How was that ?
+
+140
+00:10:05,040 --> 00:10:07,660
+Now, he needs to use his arm
+better and stay back at the waist.
+
+141
+00:10:07,660 --> 00:10:10,270
+Using his arm better and staying back at the waist.
+
+142
+00:10:11,290 --> 00:10:12,540
+Um...
+
+143
+00:10:12,540 --> 00:10:13,280
+Hm ?
+
+144
+00:10:13,280 --> 00:10:16,700
+If you say all those things
+at once, he'll get confused.
+
+145
+00:10:16,700 --> 00:10:17,980
+Okay ?
+
+146
+00:10:17,980 --> 00:10:19,070
+Oh, yeah.
+
+147
+00:10:20,550 --> 00:10:21,550
+That's right.
+
+148
+00:10:44,220 --> 00:10:46,100
+Strike ! Batter out !
+
+149
+00:10:47,490 --> 00:10:50,450
+What were you doing ?
+All you did was just stand there.
+
+150
+00:10:50,450 --> 00:10:54,270
+Well, we don't have
+to be so greedy, Kine.
+
+151
+00:10:54,270 --> 00:10:58,930
+He's good enough
+to catch your pitches.
+
+152
+00:10:58,930 --> 00:11:00,500
+Right, Kunimi ?
+
+153
+00:11:00,500 --> 00:11:01,580
+Thanks.
+
+154
+00:11:08,970 --> 00:11:10,600
+You can catch it, right fielder !
+
+155
+00:11:10,600 --> 00:11:11,910
+Ah, center fielder !
+
+156
+00:11:14,560 --> 00:11:16,410
+Nice job, center fielder !
+
+157
+00:11:16,410 --> 00:11:17,660
+Keep up the good work !
+
+158
+00:11:18,490 --> 00:11:20,050
+Let's stay focused !
+
+159
+00:11:20,550 --> 00:11:21,590
+Nice job !
+
+160
+00:11:38,340 --> 00:11:39,470
+Call me Hikari.
+
+161
+00:11:41,090 --> 00:11:41,490
+EYECATCH
+
+162
+00:12:03,700 --> 00:12:04,820
+Strike !
+
+163
+00:12:06,650 --> 00:12:07,550
+Strike two !
+
+164
+00:12:09,700 --> 00:12:11,610
+Strike ! Batter out !
+
+165
+00:12:14,720 --> 00:12:16,550
+I'm sorry.
+
+166
+00:12:16,550 --> 00:12:17,460
+Don't worry.
+
+167
+00:12:18,560 --> 00:12:20,440
+Don't worry !
+
+168
+00:12:21,980 --> 00:12:23,360
+Let's give it our best !
+
+169
+00:12:24,840 --> 00:12:27,010
+Don't worry, huh ?
+
+170
+00:12:27,010 --> 00:12:27,600
+Yeah.
+
+171
+00:12:49,480 --> 00:12:50,530
+Hikari.
+
+172
+00:13:06,860 --> 00:13:08,340
+Call me Hikari.
+
+173
+00:13:09,630 --> 00:13:12,420
+Kine, play with them a little bit.
+
+174
+00:13:25,650 --> 00:13:26,200
+There !
+
+175
+00:13:31,000 --> 00:13:31,690
+Yes !
+
+176
+00:13:41,800 --> 00:13:42,700
+Here's a pass !
+
+177
+00:13:43,100 --> 00:13:43,700
+All right !
+
+178
+00:13:44,550 --> 00:13:46,100
+Shoot !
+
+179
+00:13:50,900 --> 00:13:51,650
+Okay.
+
+180
+00:13:51,650 --> 00:13:53,460
+Congratulations on your double.
+
+181
+00:13:59,820 --> 00:14:01,030
+Don't worry.
+
+182
+00:14:08,050 --> 00:14:10,550
+Won, tan, men !
+
+183
+00:14:13,550 --> 00:14:15,770
+That's unfortunate. 
+Right at the third baseman.
+
+184
+00:14:20,260 --> 00:14:21,760
+Oh, I dropped it.
+
+185
+00:14:29,040 --> 00:14:30,040
+Out !
+
+186
+00:14:31,530 --> 00:14:32,340
+Okay.
+
+187
+00:14:32,900 --> 00:14:34,340
+Nice work.
+
+188
+00:14:43,070 --> 00:14:45,240
+Salt, ra, men !
+
+189
+00:14:53,810 --> 00:14:55,490
+That's pathetic.
+
+190
+00:14:55,490 --> 00:14:59,360
+It was right down the middle.
+He should've hit it over the outfielder.
+
+191
+00:15:05,700 --> 00:15:08,550
+The second base runner has rounded third base.
+
+192
+00:15:08,550 --> 00:15:09,720
+Throw home.
+
+193
+00:15:10,170 --> 00:15:11,090
+All right.
+
+194
+00:15:20,800 --> 00:15:21,640
+Safe !
+
+195
+00:15:25,050 --> 00:15:27,170
+What're you doing ?
+
+196
+00:15:27,170 --> 00:15:28,880
+You should have caught it.
+
+197
+00:15:30,220 --> 00:15:32,250
+Weren't you playing around ?
+
+198
+00:15:32,980 --> 00:15:36,020
+You didn't have to give
+them a run, moron.
+
+199
+00:15:37,050 --> 00:15:37,800
+Oh, well.
+
+200
+00:15:42,600 --> 00:15:43,920
+The runner is on the move.
+
+201
+00:16:02,400 --> 00:16:03,200
+Out.
+
+202
+00:16:13,400 --> 00:16:15,130
+Two outs. Two outs.
+
+203
+00:16:17,790 --> 00:16:19,400
+That's not too bad.
+
+204
+00:16:19,400 --> 00:16:20,660
+What ?
+
+205
+00:16:21,650 --> 00:16:28,310
+But the transfer needs to be smoother, otherwise he can't get fast runners out.
+
+206
+00:16:28,310 --> 00:16:29,860
+Who are you ?
+
+207
+00:16:29,860 --> 00:16:32,390
+I'm just a swimming club member
+who just happened to be passing by.
+
+208
+00:16:34,300 --> 00:16:35,400
+Hit !
+
+209
+00:16:37,780 --> 00:16:41,200
+Honestly, even if you go to 
+baseball clubs around here...
+
+210
+00:16:41,200 --> 00:16:43,330
+...you won't find as 
+good a pitcher as him.
+
+211
+00:16:43,330 --> 00:16:44,200
+Oh...
+
+212
+00:16:44,200 --> 00:16:46,610
+Who in the world is he ?
+
+213
+00:16:49,420 --> 00:16:51,560
+Strike ! Batter out !
+
+214
+00:16:52,690 --> 00:16:53,410
+Tane !
+
+215
+00:16:53,410 --> 00:16:54,410
+That's not it.
+
+216
+00:16:55,300 --> 00:16:56,990
+Maybe it's Yone.
+
+217
+00:16:58,280 --> 00:17:00,350
+That sounds like an old woman's name.
+
+218
+00:17:00,600 --> 00:17:02,300
+That's right.
+
+219
+00:17:02,300 --> 00:17:07,140
+He was a smart pitcher with a great tactical mind, especially for a grade-schooler.
+
+
+
+220
+00:17:09,040 --> 00:17:11,850
+His crisp curveball was particularly remarkable.
+
+221
+00:17:13,530 --> 00:17:15,600
+Does he still play baseball ?
+
+222
+00:17:16,700 --> 00:17:18,410
+I don't know.
+
+223
+00:17:18,410 --> 00:17:21,200
+Come to think of it, I haven't 
+heard anything about him since.
+
+224
+00:17:22,270 --> 00:17:27,120
+With that kind of talent, he 
+should be on a prestigious team.
+
+225
+00:17:30,520 --> 00:17:31,150
+It's just that...
+
+226
+00:17:31,770 --> 00:17:32,500
+It's just that ?
+
+227
+00:17:33,150 --> 00:17:34,560
+He was a jerk.
+
+228
+00:17:45,560 --> 00:17:47,200
+Hey, Koga.
+
+229
+00:17:47,200 --> 00:17:50,430
+You'll just feel miserable if you keep cheering for those pathetic guys.
+
+230
+00:17:51,880 --> 00:17:55,800
+There's nothing more meaningless than effort made by people without talent.
+
+231
+00:17:55,800 --> 00:17:57,640
+You should run seriously.
+
+232
+00:18:00,740 --> 00:18:03,500
+If I ran seriously, it would be an easy inside-the-park homerun.
+
+233
+00:18:05,330 --> 00:18:06,290
+There.
+
+234
+00:18:07,250 --> 00:18:11,100
+In that backyard, you can't even practice relay throws, can you ?
+
+235
+00:18:11,100 --> 00:18:14,390
+You're an eyesore. Why don't
+you just disband already, Senior ?
+
+236
+00:18:14,390 --> 00:18:15,530
+Um...
+
+237
+00:18:52,360 --> 00:18:54,120
+Batting fourth, third baseman, Akagi.
+
+238
+00:19:08,700 --> 00:19:09,680
+Out !
+
+239
+00:19:10,860 --> 00:19:11,200
+What a moron.
+
+240
+00:19:11,200 --> 00:19:12,290
+Nice job ! Nice catch !
+What a moron.
+
+241
+00:19:12,290 --> 00:19:13,650
+Nice job ! Nice catch !
+
+242
+00:19:13,650 --> 00:19:14,650
+Let's keep it up !
+
+243
+00:19:40,550 --> 00:19:42,000
+I got it. I got it.
+
+244
+00:19:43,360 --> 00:19:44,110
+Out !
+
+245
+00:19:44,760 --> 00:19:45,610
+Damn.
+
+246
+00:19:45,610 --> 00:19:47,050
+Moron.
+
+247
+00:19:47,050 --> 00:19:49,510
+What are you doing hitting
+a silly ball from a 3-0 count ?
+
+248
+00:19:49,510 --> 00:19:52,810
+Really ? If it were you, 
+you'd work a walk ?
+
+249
+00:19:52,810 --> 00:19:54,040
+No way.
+
+250
+00:19:54,350 --> 00:19:55,550
+See ?
+
+251
+00:19:55,550 --> 00:19:57,340
+It's okay because
+we're just fooling around.
+
+252
+00:20:06,350 --> 00:20:08,910
+Get Hideo to the plate !
+Get on base no matter what !
+
+253
+00:20:09,520 --> 00:20:11,420
+We're going to turn the
+score around ! Got that ?
+
+254
+00:20:11,420 --> 00:20:12,330
+Yeah !
+
+255
+00:21:00,470 --> 00:21:01,550
+Batter out !
+
+256
+00:21:02,850 --> 00:21:04,910
+Yeah ! 
+We kept them scoreless !
+
+257
+00:21:05,560 --> 00:21:06,330
+You did it !
+
+258
+00:21:06,330 --> 00:21:09,200
+Keep it up ! Keep it up !
+
+259
+00:21:09,200 --> 00:21:10,400
+Nice work ! Nice work !
+
+260
+00:21:16,290 --> 00:21:17,660
+Let's go home, Hiro.
+
+261
+00:21:19,240 --> 00:21:20,670
+50 more pitches.
+
+262
+00:21:21,730 --> 00:21:25,110
+If you don't stop, you're going to become a baseball idiot.
+
+263
+00:21:28,450 --> 00:21:29,670
+Baseball idiot...
+
+264
+00:21:31,740 --> 00:21:34,250
+Platypus. Salt.
+
+265
+00:21:34,250 --> 00:21:38,650
+Women's bath.
+
+266
+00:21:38,650 --> 00:21:40,450
+Bow and arrow.
+
+267
+00:21:40,450 --> 00:21:41,470
+Arrow...
+
+268
+00:21:42,300 --> 00:21:45,010
+All right, let's go ! Nice work !
+
+269
+00:21:46,380 --> 00:21:47,920
+They're such morons.
+
+270
+00:21:54,050 --> 00:21:54,820
+B...
+
+271
+00:21:55,620 --> 00:21:56,550
+B...
+
+272
+00:22:01,140 --> 00:22:02,630
+Baseball...
+
+273
+00:22:10,590 --> 00:22:11,350
+
+
+274
+00:23:40,960 --> 00:23:43,540
+Hiro, are you going to
+quit the soccer club ?
+
+275
+00:23:43,540 --> 00:23:46,930
+I'm getting tired of going
+along with this bullshit game.
+
+276
+00:23:46,930 --> 00:23:48,270
+So you are going to...
+
+277
+00:23:48,270 --> 00:23:52,010
+Of course. I'll join the baseball fan club, along with Noda.
+
+278
+00:23:52,010 --> 00:23:54,350
+Noda will resume baseball, too ?
+
+279
+00:23:54,350 --> 00:23:57,430
+He comes in to pinch-hit in a bases-loaded opportunity.
+
+280
+00:23:57,430 --> 00:23:59,800
+He must have intended to
+make a timely appearance.
+
+281
+00:24:00,510 --> 00:24:04,740
+Next episode of H2, 
+"Do You Require a Registration Form ?"
+
+282
+00:24:04,740 --> 00:24:06,170
+Are you having a refreshing workout ?
+
+283
+00:24:06,170 --> 00:24:07,090
+episode of H2 is Do You Require a Registration Form ? Look forward to it !}
+

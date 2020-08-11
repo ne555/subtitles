@@ -1,0 +1,1413 @@
+1
+00:00:14,900 --> 00:00:21,800
+
+2
+00:00:24,740 --> 00:00:30,300
+
+3
+00:00:32,330 --> 00:00:39,420
+
+4
+00:00:39,790 --> 00:00:47,150
+
+5
+00:00:47,300 --> 00:00:54,160
+
+6
+00:00:54,990 --> 00:00:58,120
+
+7
+00:00:58,650 --> 00:01:02,100
+
+8
+00:01:02,570 --> 00:01:06,170
+
+9
+00:01:06,290 --> 00:01:09,240
+
+10
+00:01:09,450 --> 00:01:16,740
+
+11
+00:01:16,950 --> 00:01:25,400
+
+12
+00:01:32,760 --> 00:01:36,310
+
+
+13
+00:01:32,850 --> 00:01:36,600
+
+
+
+
+
+
+
+
+
+14
+00:01:32,850 --> 00:01:36,600
+"Las cosas no van bien"
+
+15
+00:01:36,600 --> 00:01:41,000
+#Preparatoria Senkawa
+
+16
+00:01:54,320 --> 00:01:56,380
+¿Dónde está la mánager?
+
+17
+00:01:57,020 --> 00:01:58,550
+Fue a recibirlo.
+
+18
+00:02:00,020 --> 00:02:01,730
+¿A recibir a quién?
+
+
+
+
+
+19
+00:02:02,290 --> 00:02:05,530
+Ya sabes, al presidente de la
+asociación de padres y maestros.
+
+20
+00:02:08,230 --> 00:02:09,100
+Ah.
+
+21
+00:02:10,000 --> 00:02:12,800
+¿Piensas que podrá convencer al director?
+
+22
+00:02:14,680 --> 00:02:15,930
+No lo sé.
+
+23
+00:02:19,650 --> 00:02:24,000
+Cielos, te has vuelto muy hermosa.
+
+24
+00:02:27,440 --> 00:02:33,230
+Dicen que las chicas crecen rápido, y después de
+no haberte visto por un tiempo lo comprendo.
+
+25
+00:02:33,910 --> 00:02:38,100
+Usted sabe cómo hablar a las damas.
+
+26
+00:02:38,100 --> 00:02:40,000
+No son sólo palabras.
+
+27
+00:02:40,410 --> 00:02:42,360
+¿Qué quiere decir?
+
+28
+00:02:42,360 --> 00:02:47,840
+Veamos. Creo que debería divorciarme de mi esposa
+y proponerte matrimonio.
+
+29
+00:02:47,840 --> 00:02:48,930
+¿Qué?
+
+30
+00:03:00,710 --> 00:03:02,550
+Lo dejo en sus manos.
+
+31
+00:03:03,510 --> 00:03:05,750
+Puedes confiar en mí.
+
+32
+00:03:05,750 --> 00:03:08,340
+Me aseguraré de que el club
+de béisbol sea oficial.
+
+33
+00:03:11,980 --> 00:03:15,010
+¿Por qué esa cara? ¿Estás preocupada?
+
+34
+00:03:16,100 --> 00:03:17,170
+¿Se dio cuenta?
+
+35
+00:03:18,090 --> 00:03:22,350
+No te preocupes. Después de todo, soy el presidente
+de la asociación de padres y maestros.
+
+36
+00:03:23,260 --> 00:03:24,790
+Muy bien.
+
+37
+00:03:26,660 --> 00:03:27,710
+¿Qué te parece esto?
+
+38
+00:03:31,130 --> 00:03:32,750
+Muchas gracias.
+
+39
+00:03:32,750 --> 00:03:33,630
+De nada.
+
+40
+00:03:40,500 --> 00:03:42,400
+#Oficina del director
+
+41
+00:04:01,010 --> 00:04:05,500
+No me iré hasta obtener una respuesta afirmativa.
+
+42
+00:04:16,410 --> 00:04:19,320
+Entonces, ¿qué te parece esto?
+
+43
+00:04:27,900 --> 00:04:30,350
+#El encuentro final
+#¡Meiwa y Shinkawa se enfrentan mañana!
+
+44
+00:04:31,450 --> 00:04:36,060
+¿Qué pasa con Meiwa y Shinkawa?
+
+45
+00:04:43,990 --> 00:04:45,650
+#Vertidor de mujeres
+
+46
+00:04:56,000 --> 00:04:57,170
+¿Qué te parece esto?
+
+47
+00:04:59,300 --> 00:05:00,700
+¡Tú puedes atraparla!
+
+48
+00:05:00,700 --> 00:05:01,500
+¡Sí!
+
+49
+00:05:06,290 --> 00:05:07,780
+¡Perdón por la demora!
+
+50
+00:05:12,700 --> 00:05:14,240
+¿Parece que funcionará?
+
+51
+00:05:16,020 --> 00:05:18,910
+El Sr. Takemura dijo que se encargaría.
+
+52
+00:05:19,790 --> 00:05:22,700
+Dijiste que era el presidente de una constructora.
+
+53
+00:05:22,700 --> 00:05:24,000
+¿Qué clase de persona es?
+
+54
+00:05:25,750 --> 00:05:29,050
+A pesar de su apariencia, es muy @despistado.
+
+55
+00:05:29,050 --> 00:05:31,010
+Y se deja llevar por sus impulsos.
+
+56
+00:05:31,150 --> 00:05:37,400
+#Oficina del director
+
+57
+00:05:32,200 --> 00:05:35,460
+Habla mucho y luego se desentiende de lo que dijo.
+
+58
+00:05:36,430 --> 00:05:39,930
+Pero aún así, nadie le guarda rencor.
+Hace buen uso de su personalidad.
+
+59
+00:05:42,070 --> 00:05:45,150
+Tal vez deberíamos considerar
+nuestro próximo movimiento...
+
+60
+00:05:43,600 --> 00:05:47,500
+#El encuentro final
+#Meiwa contra Shinkawa
+
+61
+00:05:51,170 --> 00:05:55,600
+Hola, Haruka. ¿Vas a aceptar mi proposición?
+
+62
+00:06:02,850 --> 00:06:04,110
+Otra vez...
+
+63
+00:06:06,370 --> 00:06:08,370
+¿Cómo le fue?
+
+64
+00:06:10,510 --> 00:06:14,300
+Ah, acerca de que el club de béisbol sea oficial.
+
+65
+00:06:14,300 --> 00:06:15,750
+Por supuesto que aceptó.
+
+66
+00:06:22,500 --> 00:06:23,440
+¿En verdad?
+
+67
+00:06:25,550 --> 00:06:28,490
+Te dije que yo me encargaría.
+
+68
+00:06:29,310 --> 00:06:30,430
+Perdone...
+
+69
+00:06:31,460 --> 00:06:32,600
+¿Qué quieres?
+
+70
+00:06:32,600 --> 00:06:35,350
+¿Cómo pudo hacer que ese director testarudo
+acepte tan fácilmente?
+
+71
+00:06:36,370 --> 00:06:38,690
+No, no fue nada fácil.
+
+72
+00:06:39,190 --> 00:06:40,650
+¿Qué quieres decir?
+
+73
+00:06:41,370 --> 00:06:45,350
+El director exigió una condición imposible.
+
+74
+00:06:46,220 --> 00:06:47,340
+¿Una condición?
+
+75
+00:06:49,000 --> 00:06:51,130
+Sí, la condición es...
+
+76
+00:06:52,260 --> 00:06:55,650
+... que tengan un juego de práctica
+con los campeones de este año.
+
+77
+00:06:55,650 --> 00:06:58,790
+Si ganan, el club será oficial.
+
+
+78
+00:07:02,900 --> 00:07:04,610
+No puede ser. Es absurdo.
+
+79
+00:07:06,630 --> 00:07:08,000
+No te preocupes.
+
+80
+00:07:08,880 --> 00:07:11,250
+Por supuesto que me negué.
+
+81
+00:07:11,250 --> 00:07:13,210
+"¡No seas ridículo!", le dije.
+
+82
+00:07:13,900 --> 00:07:14,700
+
+
+83
+00:07:16,950 --> 00:07:18,650
+Sobran las palabras.
+
+84
+00:07:18,650 --> 00:07:21,450
+No hay manera de que una escuela
+que avanza al campeonato nacional
+
+85
+00:07:21,450 --> 00:07:23,600
+tenga tiempo para un juego de práctica.
+
+86
+00:07:23,600 --> 00:07:25,050
+Es cierto.
+
+
+87
+00:07:25,750 --> 00:07:30,940
+Así que jugarán contra los segundos.
+
+88
+00:07:31,510 --> 00:07:32,130
+
+89
+00:07:33,110 --> 00:07:34,200
+¿Qué?
+
+90
+00:07:38,370 --> 00:07:40,900
+¿Quién de ustedes es Kunimi?
+
+91
+00:07:41,450 --> 00:07:43,000
+Aquí...
+
+92
+00:07:43,000 --> 00:07:44,550
+Soy yo.
+
+
+93
+00:07:45,570 --> 00:07:46,750
+Ah, tú.
+
+94
+00:07:47,750 --> 00:07:50,050
+Haruka me habló de ti.
+
+95
+00:07:50,050 --> 00:07:52,590
+Dicen que tus lanzamientos son impresionantes.
+
+96
+00:07:53,130 --> 00:07:54,370
+Oh.
+
+97
+00:07:54,370 --> 00:07:59,030
+Cuando este sea un club oficial,
+sin ninguna duda, llegarán a las nacionales.
+
+98
+00:07:55,900 --> 00:07:59,030
+
+99
+00:07:59,820 --> 00:08:01,320
+No, más aún.
+
+100
+00:08:01,320 --> 00:08:04,450
+Escuché que no es un sueño imposible
+ganar el campeonato nacional.
+
+101
+00:08:08,640 --> 00:08:11,900
+No tendrán problemas para derrotar
+a los segundos de un torneo regional
+
+102
+00:08:11,900 --> 00:08:15,100
+y dejar a ese director boquiabierto.
+
+103
+00:08:15,100 --> 00:08:17,920
+Hasta luego, muchachos, les deseo suerte.
+
+104
+00:08:17,920 --> 00:08:20,310
+
+105
+00:08:22,680 --> 00:08:23,650
+Ah, es cierto.
+
+106
+00:08:23,650 --> 00:08:25,900
+No hace falta que se preocupen,
+
+107
+00:08:25,900 --> 00:08:33,170
+pero si llegan a perder, eliminarán el club,
+así que no se contengan con sus rivales.
+
+108
+00:08:42,720 --> 00:08:44,900
+¿Quién es el que ganará el campeonato nacional?
+
+109
+00:08:44,900 --> 00:08:46,310
+¿Qué?
+
+110
+00:08:46,310 --> 00:08:50,870
+Creo que él no es el único que habla mucho
+y se deja llevar por sus impulsos.
+
+111
+00:08:52,030 --> 00:08:54,100
+¡Vamos, a practicar!
+
+
+112
+00:08:54,100 --> 00:08:56,170
+Si perdemos, nos quitarán el club.
+
+113
+00:09:00,290 --> 00:09:00,540
+
+
+114
+00:09:04,450 --> 00:09:05,440
+
+
+115
+00:09:10,270 --> 00:09:12,370
+¡Vamos, a entrenar!
+
+116
+00:09:12,990 --> 00:09:14,660
+¡El cielo es azul!
+
+117
+00:09:22,800 --> 00:09:24,430
+¿Es en serio?
+
+118
+00:09:26,820 --> 00:09:28,600
+¡Qué divertido!
+
+119
+00:09:29,380 --> 00:09:31,590
+¡Escuchen, tengo grandes noticias!
+
+120
+00:09:32,760 --> 00:09:34,020
+¿Qué sucede, capitán?
+
+121
+00:09:35,250 --> 00:09:37,510
+Prepárense para sorprenderse.
+
+122
+00:09:37,510 --> 00:09:41,480
+El club de béisbol será oficial.
+
+123
+00:09:42,100 --> 00:09:43,010
+¿Qué?
+
+124
+00:09:44,450 --> 00:09:54,410
+Con la condición de que ganen un juego de práctica
+contra los perdedores de la final de mañana.
+
+125
+00:09:48,200 --> 00:09:54,410
+
+126
+00:09:54,410 --> 00:09:55,550
+¿Y si pierden?
+
+127
+00:09:55,550 --> 00:09:56,650
+Entonces ya no existirán.
+
+128
+00:09:56,650 --> 00:10:00,430
+Ese director debe en verdad odiar el béisbol.
+
+129
+00:10:03,650 --> 00:10:05,690
+Si ganan será un club oficial...
+
+130
+00:10:07,370 --> 00:10:09,110
+¿En qué estás pensando?
+
+131
+00:10:09,110 --> 00:10:11,490
+Sus únicos buenos jugadores son la batería.
+
+132
+00:10:11,490 --> 00:10:14,170
+No hay manera de que ganen
+con tantos huecos en la defensa.
+
+133
+00:10:15,540 --> 00:10:19,300
+Tienes razón. No sé por qué me preocupaba.
+
+134
+00:10:19,300 --> 00:10:20,890
+¡Ya no existirán más!
+
+135
+00:10:30,400 --> 00:10:32,800
+Qué decepción.
+
+136
+00:10:32,800 --> 00:10:36,250
+¿Cómo podría siquiera considerar a Meiwa?
+
+137
+00:10:36,250 --> 00:10:39,230
+¿Tal vez sienta cierta rivalidad contra ellos?
+
+138
+00:10:40,320 --> 00:10:43,600
+Nuestro oponente seguramente será Shinkawa.
+
+139
+00:10:43,600 --> 00:10:48,730
+No puedes saberlo. Pero por supuesto,
+yo quiero que Hideo vaya a las nacionales.
+
+140
+00:10:48,730 --> 00:10:50,000
+¿Te preocupa?
+
+141
+00:10:50,000 --> 00:10:52,030
+Claro que sí.
+
+
+
+
+
+
+
+142
+00:10:52,030 --> 00:10:55,310
+Todo saldrá bien. Meiwa ganará, sin ninguna duda.
+
+143
+00:10:55,660 --> 00:10:57,010
+Eso no es lo que me preocupa.
+
+144
+00:10:58,340 --> 00:11:03,310
+El problema es que podamos o no
+derrotar a los segundos.
+
+145
+00:11:03,310 --> 00:11:05,740
+Ya te entiendo.
+
+146
+00:11:05,740 --> 00:11:10,350
+Shinkawa no pudo llegar
+hasta la final a base de suerte.
+
+147
+00:11:10,350 --> 00:11:11,450
+Así es.
+
+148
+00:11:16,330 --> 00:11:16,800
+
+149
+00:11:32,300 --> 00:11:32,650
+
+150
+00:11:35,320 --> 00:11:38,000
+Cuando llega la noche antes de la final,
+
+151
+00:11:39,370 --> 00:11:41,410
+incluso tú pareces nervioso.
+
+152
+00:11:42,700 --> 00:11:44,400
+No en realidad.
+
+153
+00:11:44,400 --> 00:11:46,000
+Aunque si el lanzador fuera Hiro,
+
+154
+00:11:47,300 --> 00:11:49,880
+tal vez sí.
+
+155
+00:11:54,100 --> 00:11:56,410
+Vendrás mañana, ¿no es así?
+
+156
+00:11:58,750 --> 00:11:59,800
+Sobre eso...
+
+157
+00:12:03,960 --> 00:12:05,210
+No podré ir.
+
+158
+00:12:09,210 --> 00:12:12,080
+El club de arquería tiene
+un torneo la próxima semana.
+
+159
+00:12:12,080 --> 00:12:14,590
+Así que debes practicar.
+
+160
+00:12:14,590 --> 00:12:17,330
+Nuestra @entrenadora está muy emocionada.
+
+161
+00:12:18,050 --> 00:12:19,800
+
+162
+00:12:19,800 --> 00:12:23,830
+Pero iré a verte a las nacionales para compensarte.
+
+163
+00:12:42,890 --> 00:12:43,720
+¿Qué sucede?
+
+164
+00:12:44,570 --> 00:12:46,620
+No, nada.
+
+165
+00:13:03,000 --> 00:13:06,100
+#¡La final!
+#Meiwa contra Shinkawa
+
+166
+00:13:17,400 --> 00:13:18,220
+Fuera.
+
+167
+00:13:29,000 --> 00:13:33,200
+Así que el campeonato nacional no será un sueño
+imposible una vez que seamos un club oficial.
+
+168
+00:13:33,200 --> 00:13:38,200
+Me dejé llevar mientras les hablaba de ti...
+
+169
+00:13:38,200 --> 00:13:39,300
+¿Te molesta?
+
+170
+00:13:39,300 --> 00:13:41,140
+No, es muy divertido.
+
+171
+00:13:41,140 --> 00:13:43,200
+Si fuese acerca de otra persona, claro.
+
+172
+00:13:43,690 --> 00:13:46,020
+Tal vez me excedí.
+
+173
+00:13:46,610 --> 00:13:51,450
+No pasa nada. Después de todo,
+la mánager debe tener confianza.
+
+174
+00:13:51,450 --> 00:13:55,510
+Esperemos que Meiwa no pierda este partido.
+
+175
+00:13:56,070 --> 00:13:56,660
+
+
+176
+00:13:57,280 --> 00:13:59,950
+Pero, en verdad, ese director es ridículo.
+
+177
+00:14:02,740 --> 00:14:06,500
+Parte alta de la primera. A pesar de las preocupaciones
+sobre Koyama, el lanzador de Shinkawa,
+
+178
+00:14:06,500 --> 00:14:12,010
+el gran poder ofensivo de Meiwa fue contenido
+y la entrada termina con sólo tres bateadores.
+
+179
+00:14:06,840 --> 00:14:09,200
+#Yanagi
+
+180
+00:14:15,200 --> 00:14:17,900
+El encuentro final que decidirá quién
+participará en el campeonato nacional
+
+181
+00:14:17,900 --> 00:14:20,610
+se desarrolla entre las
+preparatorias Meiwa y Shinkawa.
+
+182
+00:14:20,610 --> 00:14:22,780
+Parte baja de la primera,
+Shinkawa en la ofensiva.
+
+183
+00:14:24,960 --> 00:14:28,460
+¿Qué sucede? ¿Por qué estás mirando
+béisbol de preparatoria?
+
+184
+00:14:44,000 --> 00:14:46,170
+Parte alta de la segunda, Meiwa en la ofensiva.
+
+185
+00:14:46,170 --> 00:14:48,760
+Comienza la entrada Tachibana,
+tercera base y cuarto bateador.
+
+186
+00:14:52,550 --> 00:14:54,190
+¿Alguna que sea bonita?
+
+187
+00:14:54,190 --> 00:14:55,830
+No encuentro...
+
+188
+00:14:55,830 --> 00:14:58,200
+Tal vez tus expectativas son demasiado altas.
+
+189
+00:14:58,200 --> 00:14:59,200
+... a Hikari.
+
+190
+00:15:01,980 --> 00:15:02,240
+
+191
+00:15:08,380 --> 00:15:11,000
+¿Dónde está Amamiya?
+
+192
+00:15:11,000 --> 00:15:12,250
+No sabemos.
+
+193
+00:15:32,810 --> 00:15:33,680
+¡Un cuadrangular!
+
+194
+00:15:33,930 --> 00:15:35,000
+¡Es un cuadrangular!
+
+195
+00:15:35,000 --> 00:15:38,900
+Tachibana de primer año conecta un monstruoso cuadrangular
+hacia el tablero del jardín central.
+
+196
+00:15:35,900 --> 00:15:38,700
+Meiwa 1, Shinkawa 0.
+
+197
+00:15:38,900 --> 00:15:39,900
+¡Muy bien!
+
+198
+00:15:39,900 --> 00:15:41,990
+¿Qué haces aquí, Amamiya?
+
+199
+00:15:43,540 --> 00:15:46,150
+Perdón, lo siento.
+
+200
+00:15:47,120 --> 00:15:49,150
+#Meiwa
+#Shinkawa
+
+201
+00:15:47,120 --> 00:15:49,150
+
+202
+00:15:50,400 --> 00:15:52,660
+No hay forma de que le demos a eso.
+
+203
+00:15:53,500 --> 00:15:57,760
+Ese lanzador era jardinero central
+hasta el año pasado.
+
+204
+00:15:57,760 --> 00:15:59,360
+¿En verdad?
+
+205
+00:15:59,360 --> 00:16:06,610
+En el torneo pasado, con su brazo logró eliminar
+a tres corredores que se dirigían al plato.
+
+206
+00:16:06,610 --> 00:16:10,880
+Increíble. Se nota que eres una fanática
+del béisbol de preparatoria.
+
+207
+00:16:10,880 --> 00:16:14,030
+Ya veo. Por eso no se encuentra cómodo en el montículo.
+
+208
+00:16:15,210 --> 00:16:17,150
+¿No se encuentra cómodo?
+
+209
+00:16:17,150 --> 00:16:18,070
+¿Por qué lo dices?
+
+210
+00:16:23,510 --> 00:16:25,330
+¡Strike! ¡Bateador fuera!
+
+211
+00:16:26,580 --> 00:16:30,660
+A decir verdad, esos lanzamientos, y encima
+de un zurdo, deben ser difíciles de conectar.  
+
+212
+00:16:30,660 --> 00:16:32,480
+No, nosotros podremos.
+
+213
+00:16:32,480 --> 00:16:34,360
+¿En verdad lo crees?
+
+214
+00:16:34,360 --> 00:16:38,300
+Todavía no sabemos si nos enfrentaremos a Shinkawa.
+
+215
+00:16:38,300 --> 00:16:40,280
+No seas pájaro de mal agüero.
+
+216
+00:16:40,280 --> 00:16:42,580
+No importa quién sea nuestro rival,
+igual no tendremos suerte.
+
+217
+00:16:47,300 --> 00:16:48,610
+¡Patea!
+
+218
+00:16:50,590 --> 00:16:51,270
+¡Hey, Nabe!
+
+219
+00:16:51,270 --> 00:16:54,000
+¿Qué clase de disparo fue ese? ¿Qué estás haciendo?
+
+220
+00:16:54,720 --> 00:16:55,480
+¡Akagi!
+
+221
+00:16:56,310 --> 00:16:57,820
+Cierto, ¿cómo van?
+
+222
+00:16:59,840 --> 00:17:02,630
+Después de cinco entradas, Meiwa gana 1 a 0.
+
+223
+00:17:02,630 --> 00:17:04,150
+Lo que pensaba.
+
+224
+00:17:04,150 --> 00:17:07,710
+El bateador de limpieza de primer año
+hizo otro cuadrangular.
+
+225
+00:17:07,710 --> 00:17:10,540
+¿Tachibana? Él es realmente increíble.
+
+226
+00:17:15,390 --> 00:17:17,460
+Tachibana...
+
+227
+00:17:18,810 --> 00:17:20,870
+Tachibana...
+
+228
+00:17:21,890 --> 00:17:23,810
+¡Hideo Tachibana!
+
+229
+00:17:26,680 --> 00:17:33,020
+Voy a renunciar a los Ángeles de Hakusan
+si ponen a Tachibana de cuarto bateador.
+
+230
+00:17:34,110 --> 00:17:38,100
+¿No te importa perder al
+lanzador estrella, entrenador?
+
+231
+00:17:38,100 --> 00:17:44,250
+Soy yo o Tachibana. Dejemos eso en claro.
+
+232
+00:17:45,550 --> 00:17:45,950
+
+233
+00:17:54,590 --> 00:17:55,820
+¡Maldito!
+
+234
+00:17:56,150 --> 00:17:57,620
+Si tan sólo...
+
+235
+00:17:57,620 --> 00:17:59,640
+¡Si tan sólo no hubiera aparecido!
+
+236
+00:18:00,390 --> 00:18:00,660
+
+
+237
+00:18:07,200 --> 00:18:08,720
+¡Gol!
+
+238
+00:18:10,070 --> 00:18:11,850
+Límpiate la nariz.
+
+239
+00:18:20,000 --> 00:18:23,450
+¡Muy bien! Como se esperaba de Meiwa.
+
+240
+00:18:23,450 --> 00:18:25,950
+Un hit más y estarán en dos cifras.
+
+241
+00:18:25,950 --> 00:18:29,800
+Pero sólo tienen una carrera,
+del cuadrangular de Hideo.
+
+242
+00:18:30,490 --> 00:18:32,900
+Después de todo sufrieron tres doble matanzas.
+
+243
+00:18:37,440 --> 00:18:38,300
+¡Fuera!
+
+244
+00:18:39,000 --> 00:18:42,720
+@Pero los buenos hits están terminando así.
+
+245
+00:18:43,550 --> 00:18:45,400
+Debe ser suerte.
+
+246
+00:18:46,450 --> 00:18:47,770
+Es un mal presagio.
+
+247
+00:18:48,710 --> 00:18:53,350
+No habrá problema. No podrán conseguirle
+una carrera al lanzador de Meiwa.
+
+248
+00:18:53,350 --> 00:18:54,500
+Eso espero.
+
+249
+00:18:55,410 --> 00:18:56,490
+Muchas gracias.
+
+250
+00:18:57,110 --> 00:18:57,390
+
+251
+00:19:08,660 --> 00:19:09,730
+La octava entrada.
+
+252
+00:19:10,680 --> 00:19:11,590
+¡Muy bien!
+
+253
+00:19:18,900 --> 00:19:20,750
+Esto no me gusta.
+
+254
+00:19:21,570 --> 00:19:22,900
+¿De qué hablas?
+
+255
+00:19:22,900 --> 00:19:26,050
+Un fuera en la novena, y el lanzador
+sólo permitió tres hits en total.
+
+256
+00:19:26,050 --> 00:19:29,450
+Sólo necesita dos fueras más.
+Probablemente se acabe aquí.
+
+257
+00:19:29,450 --> 00:19:30,750
+Es pan comido.
+
+258
+00:19:31,240 --> 00:19:33,150
+El lanzador se lesionó.
+
+259
+00:19:33,150 --> 00:19:36,100
+A su reemplazo le falta experiencia.
+
+260
+00:19:36,100 --> 00:19:38,100
+Se le acumuló la fatiga de los juegos.
+
+261
+00:19:38,100 --> 00:19:39,950
+Parte baja de la novena, arriba por una carrera.
+
+262
+00:19:39,950 --> 00:19:42,990
+Si logra contener a sus rivales,
+llegarán a las nacionales.
+
+263
+00:19:43,820 --> 00:19:45,490
+Te preocupas demasiado.
+
+264
+00:19:46,570 --> 00:19:48,170
+Bola. Bola cuatro.
+
+265
+00:19:52,600 --> 00:19:54,910
+Las cosas no van bien.
+
+266
+00:19:54,910 --> 00:19:55,880
+Saldrá bien.
+
+267
+00:20:05,120 --> 00:20:05,930
+¡Quieto!
+
+268
+00:20:07,020 --> 00:20:07,840
+¡Quieto!
+
+269
+00:20:11,750 --> 00:20:14,890
+Después de unos toques exitosos, @Shinkawa tiene
+la oportunidad de ganar el encuentro.
+
+270
+00:20:14,890 --> 00:20:16,590
+No podemos decir cómo continuará este juego.
+
+271
+00:20:25,270 --> 00:20:26,000
+Fuera.
+
+272
+00:20:27,200 --> 00:20:30,300
+Dos fueras con corredores en segunda y tercera
+en la novena entrada. ¿Qué harías?
+
+
+
+
+
+
+273
+00:20:31,480 --> 00:20:33,900
+Camino al bateador y lleno las bases.
+
+274
+00:20:34,800 --> 00:20:38,590
+Pero por la forma en que está lanzando ahora,
+me preocupa que lo haga caminar con las bases llenas.
+
+275
+00:20:38,910 --> 00:20:39,650
+Ya veo.
+
+276
+00:20:43,250 --> 00:20:44,550
+Cuenta completa.
+
+277
+00:20:47,350 --> 00:20:49,070
+¿Qué le pedirías que lance?
+
+278
+00:20:49,070 --> 00:20:51,330
+Cierra los ojos y tira al medio.
+
+279
+00:20:51,330 --> 00:20:52,150
+Supongo.
+
+280
+00:21:40,610 --> 00:21:41,920
+Ya sabemos quién será nuestro oponente.
+
+281
+00:21:41,450 --> 00:21:42,450
+#Meiwa
+
+282
+00:21:45,600 --> 00:21:48,500
+No pongan esa cara.
+
+283
+00:21:48,500 --> 00:21:50,510
+¿Y qué cara quieres que pongamos?
+
+284
+00:21:51,580 --> 00:21:52,700
+¡Sonrían!
+
+285
+00:21:54,630 --> 00:21:58,500
+Debemos volver a casa y practicar.
+¡Tenemos que dar nuestro mejor esfuerzo!
+
+286
+00:21:59,760 --> 00:22:01,600
+Las cosas no van bien...
+
+287
+00:22:01,600 --> 00:22:02,600
+¿Ves?
+
+288
+00:22:02,600 --> 00:22:05,500
+#Meiwa
+#Shinkawa
+
+289
+00:22:02,600 --> 00:22:05,500
+
+290
+00:22:08,700 --> 00:22:13,650
+
+291
+00:22:08,700 --> 00:22:13,650
+
+292
+00:22:10,370 --> 00:22:10,940
+
+293
+00:22:10,650 --> 00:22:16,950
+
+294
+00:22:14,700 --> 00:22:19,700
+
+295
+00:22:14,700 --> 00:22:19,700
+
+296
+00:22:18,690 --> 00:22:24,750
+
+297
+00:22:20,980 --> 00:22:29,720
+
+298
+00:22:25,700 --> 00:22:32,620
+
+299
+00:22:29,720 --> 00:22:36,550
+
+
+300
+00:22:33,420 --> 00:22:40,470
+
+301
+00:22:36,550 --> 00:22:42,720
+
+302
+00:22:36,550 --> 00:22:42,720
+
+303
+00:22:36,550 --> 00:22:42,720
+
+304
+00:22:36,550 --> 00:22:42,720
+
+305
+00:22:36,550 --> 00:22:42,720
+
+306
+00:22:41,250 --> 00:22:44,070
+
+307
+00:22:44,470 --> 00:22:48,550
+
+308
+00:22:49,250 --> 00:22:54,170
+
+309
+00:22:54,480 --> 00:22:58,300
+
+310
+00:22:58,700 --> 00:23:06,280
+
+311
+00:23:06,450 --> 00:23:14,400
+
+312
+00:23:14,580 --> 00:23:17,800
+
+313
+00:23:18,230 --> 00:23:22,630
+
+314
+00:23:22,930 --> 00:23:31,200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+315
+00:23:40,320 --> 00:23:42,850
+¿Ya decidieron la alineación?
+
+316
+00:23:42,850 --> 00:23:46,810
+Si pudiéramos tener una línea sólida en el medio,
+daríamos buena pelea.
+
+317
+00:23:46,810 --> 00:23:48,450
+¿Algún candidato?
+
+318
+00:23:48,450 --> 00:23:51,660
+Tengo un segunda base en mente.
+El problema es el jardinero central.
+
+319
+00:23:51,660 --> 00:23:55,750
+Lo ideal sería alguien que corra rápido,
+tenga un buen brazo y sepa jugar al béisbol.
+
+320
+00:23:53,450 --> 00:23:55,750
+
+321
+00:23:55,750 --> 00:23:59,850
+¿Te refieres a alguien arrogante,
+egoísta y que le encanta lucirse?
+
+322
+00:23:59,850 --> 00:24:03,640
+En el próximo H2:
+"Derroten a la preparatoria Meiwa".
+Next episode of H2 is,
+
+323
+00:24:02,500 --> 00:24:06,950
+
+324
+00:24:02,500 --> 00:24:06,950
+
+325
+00:24:02,500 --> 00:24:06,950
+
+326
+00:24:03,640 --> 00:24:05,540
+¿Tienes un entrenamiento renovador?
+
+327
+00:24:05,540 --> 00:24:06,560
+
+

@@ -1,0 +1,31 @@
+(Pitcher) Lanzador
+(Catcher) Receptor
+(First baseman) Primera base
+(Second baseman) Segunda base
+(Third baseman) Tercera base
+(Short stop) Campocorto, parador en corto
+(Left fielder) Jardinero izquierdo o exterior izquierdo
+(Center fielder) Jardinero central o exterior central
+(Right fielder) Jardinero derecho o exterior derecho
+(Designated hitter) Bateador designado
+(Inning) Entrada 
+(windup, set) distintas posiciones de lanzamiento
+(change up) como si fuera una bola rápida, pero más lenta
+
+out -> fuera
+safe -> quieto
+strike -> strike
+
+home plate -> plato
+hit -> hit, bateo
+bunt -> toque
+foul -> foul
+
+squeeze play -> jugada de cuña
+
+https://es.wikipedia.org/wiki/Anexo:Glosario_de_b%C3%A9isbol
+http://mlb.mlb.com/mlb/features/mexican_baseball/glossary.jsp
+
+outfielder -> jardinero
+
+¥

@@ -1,0 +1,1212 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22
+00:00:00,000 --> 00:00:00,010
+H2, Episodio #4, "el béisbol Es Justo Diferente"
+
+23
+00:01:56,450 --> 00:01:59,790
+¡Strike! ¡Bateador eliminado!
+
+24
+00:02:06,360 --> 00:02:08,600
+El lanzamiento se fue arriba.
+
+25
+00:02:08,600 --> 00:02:09,930
+¿Ah, sí?
+
+26
+00:02:11,920 --> 00:02:14,300
+¡Kine!
+
+27
+00:02:14,300 --> 00:02:16,560
+¡Eres maravilloso!
+
+28
+00:02:19,740 --> 00:02:20,690
+Hola.
+
+29
+00:02:25,000 --> 00:02:26,200
+No pasa nada.
+
+30
+00:02:26,200 --> 00:02:29,040
+Cálmense. Esto recién comienza.
+#**Equipos
+#Club de Fútbol
+#Club de Aficionados al Béisbol
+
+31
+00:02:33,880 --> 00:02:36,560
+¡Vamos bien! ¡Consigamos una carrera!
+
+32
+00:02:37,170 --> 00:02:38,800
+¡Ustedes pueden! ¡Vamos!
+
+33
+00:02:40,130 --> 00:02:41,790
+¿Qué te pasa, receptor?
+
+34
+00:02:42,710 --> 00:02:44,600
+¡No pareces muy animado!
+
+
+35
+00:02:45,000 --> 00:02:47,540
+¡Tienes que gritar!
+
+36
+00:02:48,540 --> 00:02:50,150
+¡Dos fuera! ¡Dos fuera!
+
+37
+00:02:50,480 --> 00:02:51,400
+¡Sí!
+
+38
+00:02:53,000 --> 00:02:54,950
+Un hermoso día de primavera.
+
+39
+00:02:54,950 --> 00:03:00,400
+Esta tarde de domingo, en el juego entre
+el Club de Fútbol y el Club de Aficionados...
+
+40
+00:03:00,400 --> 00:03:02,660
+... el Club de Fútbol gana por tres carreras.
+
+41
+00:03:04,350 --> 00:03:06,920
+No es como si estuviera narrando el partido...
+
+42
+00:03:20,550 --> 00:03:21,670
+¡Strike!
+
+
+43
+00:03:23,150 --> 00:03:26,050
+Fue una buena decisión dejar pasar este lanzamiento.
+
+44
+00:03:26,050 --> 00:03:27,310
+Eso creo...
+
+45
+00:03:28,070 --> 00:03:32,230
+Tal vez fue demasiado fuerte, aunque dije
+que sólo lanzaría bolas rápidas.
+
+46
+00:03:34,070 --> 00:03:38,200
+Ahora entiendo por qué decías te quedarías
+con el cambio incluso usando sólo bolas rápidas.
+
+47
+00:03:38,650 --> 00:03:39,650
+¿No es así, Kine?
+
+48
+00:03:44,300 --> 00:03:45,770
+Aquí tienes tu cambio.
+
+49
+00:03:49,990 --> 00:03:52,050
+La siguiente irá justo al centro.
+
+50
+00:03:55,990 --> 00:03:57,990
+¿Qué le pasa a ese tipo?
+
+51
+00:04:01,600 --> 00:04:03,010
+¡Strike!
+
+52
+00:04:09,300 --> 00:04:11,550
+¿Eres tú cuando estabas en quinto grado?
+
+53
+00:04:11,550 --> 00:04:15,600
+Sí, fue cuando me uní a los Ángeles de Hakusan.
+
+54
+00:04:17,960 --> 00:04:19,890
+Eras enorme.
+
+55
+00:04:19,890 --> 00:04:20,680
+¿En verdad?
+
+56
+00:04:21,750 --> 00:04:23,480
+Sí...
+
+57
+00:04:24,170 --> 00:04:27,150
+Digo, Hiro tenía esta altura en aquel entonces.
+
+58
+00:04:28,100 --> 00:04:31,210
+La gente pensaba que era mi hermano menor
+cuando jugábamos juntos.
+
+59
+00:04:32,390 --> 00:04:34,100
+Conque el hermano menor de Hikari.
+
+60
+00:04:34,670 --> 00:04:38,060
+Entonces sería Kodama, Nozomi o Tsubasa...
+
+61
+00:04:39,070 --> 00:04:41,770
+¡No soy el tren bala!
+
+62
+00:04:41,770 --> 00:04:44,840
+Él no lograba alcanzarme,
+sin importar lo que hiciéramos.
+
+63
+00:04:45,300 --> 00:04:46,520
+¡Vamos, deprisa!
+
+64
+00:04:46,520 --> 00:04:48,190
+¡Espérame!
+
+65
+00:04:54,860 --> 00:04:58,200
+Correr, trepar árboles, sumo.
+
+66
+00:04:58,200 --> 00:04:59,920
+Yo era mejor en todo.
+
+67
+00:04:59,920 --> 00:05:01,350
+¿En el béisbol también?
+
+68
+00:05:04,240 --> 00:05:07,500
+Es verdad, el béisbol era la única excepción.
+
+
+
+69
+00:05:08,670 --> 00:05:12,760
+Mi papá lo llevaba a sus juegos
+de la liga de aficionados.
+
+70
+00:05:12,760 --> 00:05:15,530
+No sólo para rellenar el plantel, sino como jugador.
+
+71
+00:05:15,530 --> 00:05:16,000
+¿Ves?
+
+72
+00:05:17,110 --> 00:05:21,900
+En aquel entonces había conseguido fama como
+el cuarto bateador de los Ángeles de Hakusan,
+
+73
+00:05:21,900 --> 00:05:24,670
+por lo que me estaba volviendo arrogante.
+
+74
+00:05:24,670 --> 00:05:27,610
+Pero él me eliminó con tres lanzamientos.
+
+75
+00:05:33,790 --> 00:05:41,730
+Un enano con un uniforme demasiado grande
+realizó un lanzamiento increíble.
+
+76
+00:05:42,700 --> 00:05:47,700
+Gracias a eso, yo, que aborrecía el entrenamiento
+y me valía sólo de mi talento,
+
+77
+00:05:47,700 --> 00:05:52,220
+comencé a realizar prácticas de bateo de sol a sol
+durante mis tres años de secundaria.
+
+78
+00:05:55,760 --> 00:05:58,300
+Y así nació quien conseguiría ser
+el bateador de limpieza...
+
+79
+00:05:58,300 --> 00:06:02,740
+...durante su primer año en el
+prestigioso club de Meiwa Daiichi.
+
+80
+00:06:02,740 --> 00:06:03,860
+Tal vez.
+
+81
+00:06:04,310 --> 00:06:08,590
+Pero en total tienes un récord positivo contra él
+en los juegos del equipo, ¿no es así?
+
+82
+00:06:05,350 --> 00:06:08,590
+
+83
+00:06:10,780 --> 00:06:14,400
+Ningún lanzador destruiría
+a su propio bateador de limpieza.
+
+84
+00:06:14,980 --> 00:06:17,700
+Cuando piensas en los juegos en los que lanzarás,
+
+85
+00:06:17,700 --> 00:06:20,250
+quieres que tu bateador de limpieza
+tenga confianza en sí mismo.
+
+86
+00:06:22,210 --> 00:06:23,460
+¿Ah, sí?
+
+87
+00:06:24,960 --> 00:06:28,110
+Pero Hiro no es tan considerado.
+**Apunta al campeonato nacional
+Hiro
+**Apunta al Koshion
+Tachibana Hideo
+
+88
+00:06:33,710 --> 00:06:39,140
+De todas formas, un verdadero enfrentamiento
+entre ustedes ya no sucederá nunca.
+
+89
+00:06:42,050 --> 00:06:43,500
+¿Quién es él?
+
+90
+00:06:45,210 --> 00:06:48,470
+Este sujeto en el fondo, con aspecto lúgubre.
+
+91
+00:06:53,880 --> 00:06:55,600
+
+92
+00:06:58,760 --> 00:06:59,550
+Ah...
+
+93
+00:07:00,250 --> 00:07:05,600
+Él era el lanzador estrella y bateador de limpieza
+hasta que yo llegara a los Ángeles de Hakusan.
+
+94
+00:07:06,170 --> 00:07:07,470
+¿Lanzador y bateador de limpieza?
+
+95
+00:07:07,470 --> 00:07:08,830
+Sí.
+
+96
+00:07:08,830 --> 00:07:10,000
+Si no me equivoco...
+
+97
+00:07:10,750 --> 00:07:14,800
+... se llamaba Fune, Yone, o algo así.
+
+98
+00:07:16,070 --> 00:07:17,930
+¡Kine!
+
+99
+00:07:25,310 --> 00:07:26,600
+¡Cambio!
+
+100
+00:07:26,600 --> 00:07:28,090
+¡Sí, Kine!
+
+101
+00:07:28,700 --> 00:07:29,920
+¡Eres genial!
+
+102
+00:07:29,920 --> 00:07:32,050
+¡Por aquí!
+
+103
+00:07:32,050 --> 00:07:34,480
+¡Es el mejor!
+
+104
+00:07:41,010 --> 00:07:43,360
+Son de mi club de admiradoras.
+
+105
+00:07:43,360 --> 00:07:45,040
+Nadie te preguntó.
+
+106
+00:07:45,040 --> 00:07:47,410
+Una más se agregará antes del verano.
+
+107
+00:07:47,410 --> 00:07:49,010
+Alguien especial, quiero decir.
+
+
+
+108
+00:07:50,710 --> 00:07:51,800
+¡Concéntrense!
+
+109
+00:08:06,730 --> 00:08:09,200
+Pero yo prefiero el béisbol.
+
+110
+00:08:11,500 --> 00:08:12,300
+Ay.
+
+111
+00:08:13,770 --> 00:08:16,170
+Es tu turno al bat.
+
+112
+00:08:26,850 --> 00:08:28,180
+@No te comas las bolas.
+
+113
+00:08:29,630 --> 00:08:31,670
+¿Me escuchaste, Kunimi?
+
+114
+00:08:32,830 --> 00:08:36,170
+Ahora que lo pienso, llevo un
+largo rato en esta postura.
+
+115
+00:08:38,860 --> 00:08:41,530
+Mira bien la pelota.
+Es un pésimo lanzador.
+
+116
+00:08:47,990 --> 00:08:48,640
+Bola.
+
+117
+00:08:49,660 --> 00:08:50,920
+Su cuerpo...
+
+118
+00:08:50,920 --> 00:08:52,150
+¿Eh?
+
+119
+00:08:52,150 --> 00:08:54,200
+Se tira demasiado hacia adelante.
+
+120
+00:09:02,220 --> 00:09:04,210
+Ah, lo notaste.
+
+121
+00:09:04,210 --> 00:09:09,500
+Si se quedara un poco más en el pie de atrás,
+tendría más control en sus lanzamientos.
+
+122
+00:09:06,650 --> 00:09:09,500
+
+123
+00:09:10,620 --> 00:09:13,510
+Ya veo, apoyarse en el pie de atrás.
+
+124
+00:09:13,510 --> 00:09:14,230
+¡Tiempo!
+
+125
+00:09:17,470 --> 00:09:18,650
+¿Qué sucede?
+
+126
+00:09:18,650 --> 00:09:21,050
+Se nos acabará el día si siguen pidiendo tiempo.
+
+127
+00:09:21,860 --> 00:09:24,200
+Perdón por la demora.
+
+128
+00:09:24,200 --> 00:09:24,990
+Está bien.
+
+129
+00:09:26,510 --> 00:09:27,200
+¡Jueguen!
+
+130
+00:09:33,230 --> 00:09:34,340
+¡Strike!
+
+131
+00:09:36,560 --> 00:09:40,130
+También debería dejar de mover la cabeza.
+
+
+
+
+
+132
+00:09:40,130 --> 00:09:43,310
+Porque entonces pierde de vista
+el guante del receptor.
+
+133
+00:09:43,890 --> 00:09:45,600
+Sí, tienes razón.
+
+134
+00:09:46,290 --> 00:09:46,680
+¡Tiempo!
+
+135
+00:09:47,260 --> 00:09:48,700
+¡Hey!
+
+136
+00:09:54,420 --> 00:09:55,760
+Disculpen.
+
+137
+00:09:55,760 --> 00:09:56,490
+¡Jueguen!
+
+138
+00:10:00,510 --> 00:10:01,810
+¡Strike dos!
+
+139
+00:10:03,300 --> 00:10:05,040
+¿Qué te pareció?
+
+140
+00:10:05,040 --> 00:10:07,660
+Ahora debe mejorar el movimiento del brazo
+y retroceder la cintura.
+
+141
+00:10:07,660 --> 00:10:10,270
+Mejorar el brazo y retroceder la cintura.
+
+142
+00:10:11,290 --> 00:10:12,540
+Oye...
+
+143
+00:10:12,540 --> 00:10:13,280
+¿Sí?
+
+144
+00:10:13,280 --> 00:10:16,700
+Si le dices todo eso de una vez,
+sólo lo confundirás.
+
+145
+00:10:16,700 --> 00:10:17,980
+¿Entiendes?
+
+146
+00:10:17,980 --> 00:10:19,070
+Sí, ya veo.
+
+147
+00:10:20,550 --> 00:10:21,550
+Tienes razón.
+
+148
+00:10:44,220 --> 00:10:46,100
+¡Strike! ¡Bateador eliminado!
+
+149
+00:10:47,490 --> 00:10:50,450
+¿Qué fuiste a hacer? Sólo te quedaste ahí parado.
+
+150
+00:10:50,450 --> 00:10:54,270
+No hace falta ser codiciosos, Kine.
+
+151
+00:10:54,270 --> 00:10:58,930
+Es suficientemente bueno como para
+atrapar tus lanzamientos.
+
+152
+00:10:58,930 --> 00:11:00,500
+¿No es así, Kunimi?
+
+153
+00:11:00,500 --> 00:11:01,580
+Gracias.
+
+154
+00:11:08,970 --> 00:11:10,600
+¡Tú puedes, campo derecho!
+
+155
+00:11:10,600 --> 00:11:11,910
+¡Ah, centro!
+
+156
+00:11:14,560 --> 00:11:16,410
+¡Buena atrapada! 
+
+157
+00:11:16,410 --> 00:11:17,660
+¡Sigan así!
+
+158
+00:11:18,490 --> 00:11:20,050
+¡Hay que mantenerse en el juego!
+
+159
+00:11:20,550 --> 00:11:21,590
+¡Muy bien!
+
+160
+00:11:38,340 --> 00:11:39,470
+Puedes decirme Hikari.
+
+161
+00:11:41,090 --> 00:11:41,490
+
+162
+00:12:03,700 --> 00:12:04,820
+¡Strike!
+
+163
+00:12:06,650 --> 00:12:07,550
+¡Strike dos!
+
+164
+00:12:09,700 --> 00:12:11,610
+¡Strike! ¡Bateador eliminado!
+
+165
+00:12:14,720 --> 00:12:16,550
+Lo siento.
+
+166
+00:12:16,550 --> 00:12:17,460
+No te preocupes.
+
+167
+00:12:18,560 --> 00:12:20,440
+¡No te preocupes!
+
+168
+00:12:21,980 --> 00:12:23,360
+¡Da tu mejor esfuerzo!
+
+169
+00:12:24,840 --> 00:12:27,010
+Que no me preocupe, ¿eh?
+
+170
+00:12:27,010 --> 00:12:27,600
+Sí.
+
+171
+00:12:49,480 --> 00:12:50,530
+Hikari.
+
+172
+00:13:06,860 --> 00:13:08,340
+Puedes llamarme Hikari.
+
+
+
+
+173
+00:13:09,630 --> 00:13:12,420
+Kine, @déjalos jugar un poco.
+
+174
+00:13:25,650 --> 00:13:26,200
+¡Ahí va!
+
+175
+00:13:31,000 --> 00:13:31,690
+¡Sí!
+
+176
+00:13:41,800 --> 00:13:42,700
+¡Un pase!
+
+177
+00:13:43,100 --> 00:13:43,700
+Muy bien.
+
+178
+00:13:44,550 --> 00:13:46,100
+¡Patea!
+
+179
+00:13:50,900 --> 00:13:51,650
+Bien.
+
+180
+00:13:51,650 --> 00:13:53,460
+Felicitaciones por el doble.
+
+181
+00:13:59,820 --> 00:14:01,030
+No se preocupen.
+
+182
+00:14:08,050 --> 00:14:10,550
+¡Wantan-men!
+
+183
+00:14:13,550 --> 00:14:15,770
+Una lástima. Derecho al tercera base.
+
+184
+00:14:20,260 --> 00:14:21,760
+Oh, se me cayó.
+
+185
+00:14:29,040 --> 00:14:30,040
+¡Fuera!
+
+186
+00:14:31,530 --> 00:14:32,340
+
+187
+00:14:32,900 --> 00:14:34,340
+Bien hecho.
+
+188
+00:14:43,070 --> 00:14:45,240
+¡Ramen!
+
+189
+00:14:53,810 --> 00:14:55,490
+Dan lástima.
+
+190
+00:14:55,490 --> 00:14:59,360
+Fue justo al centro. Tendría que haberla
+mandado por arriba del jardinero.
+
+191
+00:15:05,700 --> 00:15:08,550
+El corredor de segunda llegó a tercera.
+
+192
+00:15:08,550 --> 00:15:09,720
+Lánzala al plato.
+
+193
+00:15:10,170 --> 00:15:11,090
+Bien.
+
+194
+00:15:20,800 --> 00:15:21,640
+¡Quieto!
+
+195
+00:15:25,050 --> 00:15:27,170
+¿Qué estás haciendo?
+
+196
+00:15:27,170 --> 00:15:28,880
+Tendrías que haberla atrapado.
+
+197
+00:15:30,220 --> 00:15:32,250
+Pensé que no estábamos jugando en serio.
+
+198
+00:15:32,980 --> 00:15:36,020
+Pero no les tenías que regalar una carrera, idiota.
+
+199
+00:15:37,050 --> 00:15:37,800
+Demonios.
+
+200
+00:15:42,600 --> 00:15:43,920
+El corredor se está moviendo.
+
+201
+00:16:02,400 --> 00:16:03,200
+Fuera.
+
+202
+00:16:13,400 --> 00:16:15,130
+Dos outs. Dos outs.
+
+203
+00:16:17,790 --> 00:16:19,400
+Nada mal.
+
+204
+00:16:19,400 --> 00:16:20,660
+¿Qué?
+
+205
+00:16:21,650 --> 00:16:28,310
+Pero la transferencia debe ser más suave
+o no podrá ponchar a corredores rápidos.
+
+206
+00:16:28,310 --> 00:16:29,860
+¿Quién eres?
+
+207
+00:16:29,860 --> 00:16:32,390
+Sólo un miembro del club de natación
+que pasaba por aquí.
+
+208
+00:16:34,300 --> 00:16:35,400
+¡Dale!
+
+209
+00:16:37,780 --> 00:16:41,200
+En verdad, aunque busques en
+los clubes de béisbol de por aquí,
+
+210
+00:16:41,200 --> 00:16:43,330
+no encontrarás a un lanzador tan bueno como él.
+
+211
+00:16:43,330 --> 00:16:44,200
+Oh...
+
+212
+00:16:44,200 --> 00:16:46,610
+¿Quién diablos es?
+
+
+
+
+
+213
+00:16:49,420 --> 00:16:51,560
+¡Strike! ¡Bateador eliminado!
+
+214
+00:16:52,690 --> 00:16:53,410
+¡Tane!
+
+215
+00:16:53,410 --> 00:16:54,410
+No, así no era.
+
+216
+00:16:55,300 --> 00:16:56,990
+Tal vez era Yone.
+
+217
+00:16:58,280 --> 00:17:00,350
+Eso suena a nombre de abuela.
+
+218
+00:17:00,600 --> 00:17:02,300
+Así es.
+
+219
+00:17:02,300 --> 00:17:07,140
+Era un lanzador inteligente, con buena táctica,
+especialmente considerando su edad.
+
+220
+00:17:09,040 --> 00:17:11,850
+Su bola curva era particularmente excepcional.
+
+221
+00:17:13,530 --> 00:17:15,600
+¿Sigue jugando al béisbol?
+
+222
+00:17:16,700 --> 00:17:18,410
+No lo sé.
+
+223
+00:17:18,410 --> 00:17:21,200
+Ahora que lo pienso, no escuché nada
+sobre él desde aquel entonces.
+
+224
+00:17:22,270 --> 00:17:27,120
+Con ese talento, debería estar en un equipo famoso.
+
+225
+00:17:30,520 --> 00:17:31,150
+Pero es que...
+
+226
+00:17:31,770 --> 00:17:32,500
+¿Qué cosa?
+
+227
+00:17:33,150 --> 00:17:34,560
+Era un imbécil.
+
+228
+00:17:45,560 --> 00:17:47,200
+Escucha, Koga.
+
+229
+00:17:47,200 --> 00:17:50,430
+Tu vida será miserable si te la pasas
+animando a estos inútiles.
+
+230
+00:17:51,880 --> 00:17:55,800
+No hay mayor desperdicio que el esfuerzo
+realizado por los que no tienen talento. 
+
+231
+00:17:55,800 --> 00:17:57,640
+Deberías correr en serio.
+
+232
+00:18:00,740 --> 00:18:03,500
+Si lo hiciera en serio, conseguiría
+fácilmente un home-run dentro del campo. 
+
+233
+00:18:05,330 --> 00:18:06,290
+Llegué.
+
+234
+00:18:07,250 --> 00:18:11,100
+En ese patio ni siquiera pueden practicar pases.
+
+235
+00:18:11,100 --> 00:18:14,390
+Son una molestia. ¿Por qué no cierran
+el club de una vez?
+
+236
+00:18:14,390 --> 00:18:15,530
+
+237
+00:18:52,360 --> 00:18:54,120
+Cuarto bateador, tercera base, Akagi.
+
+238
+00:19:08,700 --> 00:19:09,680
+¡Fuera!
+
+239
+00:19:10,860 --> 00:19:12,290
+&Qué tonto.
+
+240
+00:19:11,200 --> 00:19:13,650
+&¡Muy bien! ¡Buena atrapada!
+
+241
+00:19:12,290 --> 00:19:13,650
+
+242
+00:19:13,650 --> 00:19:14,650
+¡Sigamos así!
+
+243
+00:19:40,550 --> 00:19:42,000
+La tengo. La tengo.
+
+244
+00:19:43,360 --> 00:19:44,110
+¡Fuera!
+
+245
+00:19:44,760 --> 00:19:45,610
+Maldición.
+
+246
+00:19:45,610 --> 00:19:47,050
+Tonto.
+
+247
+00:19:47,050 --> 00:19:49,510
+¿Cómo se te ocurre batear con la cuenta 3 a 0?
+
+248
+00:19:49,510 --> 00:19:52,810
+¿Ah, sí? ¿Tú podrías forzar la base?
+
+249
+00:19:52,810 --> 00:19:54,040
+Imposible.
+
+250
+00:19:54,350 --> 00:19:55,550
+¿Ves?
+
+251
+00:19:55,550 --> 00:19:57,340
+Está bien, porque sólo nos estamos divirtiendo.
+
+252
+00:20:06,350 --> 00:20:08,910
+¡Qué Hideo llegue al plato!
+¡Tienes que conseguir una base a como dé lugar!
+
+253
+00:20:09,520 --> 00:20:11,420
+¡Daremos vuelta el partido! ¿Me escuchaste?
+
+254
+00:20:11,420 --> 00:20:12,330
+¡Sí!
+*Secundaria Saijou
+*Secundaria Seinan
+
+255
+00:21:00,470 --> 00:21:01,550
+¡Bateador eliminado!
+
+256
+00:21:02,850 --> 00:21:04,910
+¡Muy bien! ¡Los mantuvimos a cero!
+
+257
+00:21:05,560 --> 00:21:06,330
+¡Lo hiciste!
+
+258
+00:21:06,330 --> 00:21:09,200
+¡A seguir así!
+
+259
+00:21:09,200 --> 00:21:10,400
+¡Buen trabajo!
+
+260
+00:21:16,290 --> 00:21:17,660
+Vamos a casa, Hiro.
+
+
+
+
+
+261
+00:21:19,240 --> 00:21:20,670
+¡Cincuenta lanzamientos más!
+
+262
+00:21:21,730 --> 00:21:25,110
+Si no paras, te convertirás
+en un idiota del béisbol.
+
+263
+00:21:28,450 --> 00:21:29,670
+$Cada palabra empieza con la sílaba de la anterior.
+Idiota del béisbol...
+
+264
+00:21:31,740 --> 00:21:34,250
+Ornitorrinco. Sal.
+
+265
+00:21:34,250 --> 00:21:38,650
+Baño de mujeres.
+
+266
+00:21:38,650 --> 00:21:40,450
+Arco y flecha.
+
+267
+00:21:40,450 --> 00:21:41,470
+Flecha...
+
+268
+00:21:42,300 --> 00:21:45,010
+¡Muy bien! ¡Buen trabajo!
+
+269
+00:21:46,380 --> 00:21:47,920
+Son unos tontos.
+
+270
+00:21:54,050 --> 00:21:54,820
+B...
+
+271
+00:21:55,620 --> 00:21:56,550
+B...
+
+272
+00:22:01,140 --> 00:22:02,630
+Béisbol...
+
+273
+00:22:10,590 --> 00:22:11,350
+
+
+274
+00:23:40,960 --> 00:23:43,540
+Hiro, ¿vas a dejar el club de fútbol?
+
+275
+00:23:43,540 --> 00:23:46,930
+Estoy harto de las tonterías en este partido.
+
+276
+00:23:46,930 --> 00:23:48,270
+Entonces vas a...
+
+277
+00:23:48,270 --> 00:23:52,010
+Por supuesto. Me uniré al club de aficionados
+al béisbol, junto con Noda.
+
+278
+00:23:52,010 --> 00:23:54,350
+¿Noda también volverá al béisbol?
+
+279
+00:23:54,350 --> 00:23:57,430
+Entrará para @lanzar en una situación de bases llenas.
+
+280
+00:23:57,430 --> 00:23:59,800
+Quiere dejar una gran impresión.
+
+281
+00:24:00,510 --> 00:24:04,740
+En el próximo H2:
+"¿Necesito una hoja de inscripción?"
+
+282
+00:24:04,740 --> 00:24:06,170
+¿Tienes un entrenamiento renovador?
+
+283
+00:24:06,170 --> 00:24:07,090
