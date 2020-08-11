@@ -1,0 +1,1479 @@
+1
+00:01:34,240 --> 00:01:36,400
+¡Inokuma! ¡Inokuma!
+
+2
+00:01:37,170 --> 00:01:39,490
+¿Estás en casa, Yawara Inokuma?
+
+3
+00:01:39,490 --> 00:01:43,540
+¡Unas palabras, por favor, Yawara!
+
+4
+00:01:52,080 --> 00:01:54,690
+Buenos días, caballeros.
+
+5
+00:01:55,380 --> 00:02:02,390
+"Irás al Campeonato Mundial"
+
+6
+00:02:04,360 --> 00:02:05,930
+Oh, sólo es Jigoro.
+
+7
+00:02:05,930 --> 00:02:07,390
+¿Cómo que sólo Jigoro?
+
+8
+00:02:07,390 --> 00:02:11,320
+Pero puedo entender por qué
+ustedes inundan ese lugar.
+
+9
+00:02:11,320 --> 00:02:16,400
+Yawara ganó el torneo nacional ayer
+e irá al Campeonato Mundial.
+
+10
+00:02:14,260 --> 00:02:16,400
+
+11
+00:02:16,750 --> 00:02:19,740
+No hay mejor artículo que ese.
+
+12
+00:02:19,740 --> 00:02:23,390
+Les contestaré todo lo que quieran saber.
+Vamos, pregunten cualquier cosa.
+
+13
+00:02:23,390 --> 00:02:24,580
+Es que...
+
+14
+00:02:24,580 --> 00:02:26,410
+De hecho...
+
+15
+00:02:26,830 --> 00:02:29,590
+Vinimos por algo incluso más grande que su victoria.
+
+16
+00:02:29,590 --> 00:02:31,380
+¿No leyó los periódicos de la mañana?
+
+17
+00:02:31,380 --> 00:02:34,290
+#¡Pelea! ¡Queremos a Yawara!
+#Tres empresas en candente disputa por Yawara
+
+18
+00:02:31,870 --> 00:02:37,320
+Mire, están gastando mucha tinta
+en las ofertas de trabajo de Yawara.
+
+19
+00:02:34,120 --> 00:02:36,420
+#Ginza Can-Can, Viajes Oshiuri y Mini House
+#¿Cuál será el futuro de Yawara?
+
+20
+00:02:34,290 --> 00:02:36,420
+
+21
+00:02:36,420 --> 00:02:37,320
+
+
+
+
+
+
+
+22
+00:02:37,320 --> 00:02:41,850
+@@En todo caso, Viajes Oshiuri,
+Ginza Can-Can y Mini House,
+
+23
+00:02:41,850 --> 00:02:47,420
+@@todos se adjudicaron a Yawara en el torneo de ayer.
+
+24
+00:02:47,420 --> 00:02:51,590
+Los diarios usan tanto color
+estos días que me lastiman los ojos. 
+
+25
+00:02:53,880 --> 00:02:57,500
+Y el <i>Todos los Deportes</i>
+vuelve a esparcir rumores infundados.
+
+26
+00:02:56,920 --> 00:02:59,400
+#¡Yawara Inokuma se dirige a Saikai!
+#Fujiko Itou se une en una transferencia doble
+
+27
+00:02:57,500 --> 00:03:02,270
+Siempre serán un periódico de cuarta
+si siguen escribiendo esa basura.
+
+28
+00:02:59,400 --> 00:03:02,270
+
+29
+00:03:05,000 --> 00:03:05,950
+¡Matsuda!
+
+30
+00:03:05,950 --> 00:03:08,950
+No se preocupe. Confíe en mi corazonada.
+
+31
+00:03:09,500 --> 00:03:13,880
+¡Imbécil! ¿Quién diablos escribe un artículo
+basándose en una corazonada?
+
+32
+00:03:13,880 --> 00:03:15,720
+¿Entonces, en dónde trabajará Yawara?
+
+33
+00:03:15,720 --> 00:03:18,960
+Escuché que Mini House es su primera elección.
+
+34
+00:03:21,270 --> 00:03:24,820
+Bien, creo que es hora de abrir la clínica.
+
+35
+00:03:24,820 --> 00:03:28,290
+¿Quieren que les arregle la espalda o algo así?
+
+36
+00:03:28,290 --> 00:03:30,430
+No evite la pregunta.
+
+37
+00:03:31,100 --> 00:03:35,150
+Casi lo olvido. Le traje unos dulces deliciosos.
+
+38
+00:03:35,770 --> 00:03:37,650
+Denos algún indicio, por favor.
+
+39
+00:03:39,790 --> 00:03:41,770
+Está delicioso. ¿Dónde los compraste?
+
+40
+00:03:41,770 --> 00:03:45,200
+¿Verdad? Le traeré más si nos da algo.
+
+41
+00:03:48,200 --> 00:03:52,420
+¡Yawara no será un insignificante oficinista!
+
+42
+00:03:52,420 --> 00:03:54,710
+¡Ella irá a Saikai para practicar judo!
+
+43
+00:03:55,950 --> 00:03:56,880
+¿Qué dijo?
+
+44
+00:03:56,880 --> 00:03:58,670
+¡<i>Todos los Deportes</i> nos ganó otra vez!
+
+45
+00:03:59,270 --> 00:04:01,660
+Imaginen que fueran una chica oficinista.
+
+46
+00:04:01,660 --> 00:04:06,120
+Sólo desperdiciarían el dinero que tanto
+les costó ganar en hombres y diversión.
+
+47
+00:04:06,120 --> 00:04:09,290
+¡Maldición, el editor me
+despellejará vivo por esto!
+
+48
+00:04:09,290 --> 00:04:11,680
+¡Te maldigo <i>Todos los Deportes Noticiosos</i>!
+
+49
+00:04:12,010 --> 00:04:13,250
+Se va de Mitsuba.
+
+50
+00:04:13,250 --> 00:04:14,450
+Hacia Saikai.
+
+51
+00:04:15,560 --> 00:04:21,020
+Puede hacer lo que quiera en el poco tiempo
+que le queda en el pregrado.
+
+52
+00:04:21,020 --> 00:04:24,660
+¡Hey! ¡¿No piensan escucharme?!
+
+53
+00:04:25,360 --> 00:04:28,200
+¡Será una buena historia!
+
+54
+00:04:29,540 --> 00:04:30,530
+Matsuda.
+
+55
+00:04:30,530 --> 00:04:32,700
+¿Sí, jefe?
+
+56
+00:04:32,700 --> 00:04:36,820
+¡Eres un genio! Les ganaste la exclusiva, Matsuda.
+
+57
+00:04:36,820 --> 00:04:37,670
+Sí.
+
+58
+00:04:38,230 --> 00:04:40,570
+Un reportero imperturbable que sigue sus instintos.
+
+59
+00:04:40,570 --> 00:04:43,720
+Eres el ideal del periodismo.
+
+60
+00:04:43,720 --> 00:04:46,640
+<i>¿Así que seguirá con el judo en Saikai?</i>
+
+61
+00:04:47,410 --> 00:04:50,700
+<i>¿En verdad resultará así?</i>
+
+62
+00:04:50,700 --> 00:04:53,640
+¡Venderemos el doble de copias!
+
+63
+00:04:56,810 --> 00:04:58,150
+#Itou
+
+64
+00:04:59,750 --> 00:05:03,110
+<i>Quizás lloró tanto anoche que está</i>
+<i>demasiado cansada para levantarse.</i>
+
+65
+00:05:05,780 --> 00:05:08,160
+<i>Hoy tampoco tenemos clases.</i>
+
+66
+00:05:15,040 --> 00:05:16,590
+¡No puede ser!
+
+67
+00:05:18,830 --> 00:05:21,290
+¿Fujiko? ¿Fujiko?
+
+68
+00:05:21,880 --> 00:05:24,420
+¿Fujiko? ¡Fujiko!
+
+69
+00:05:24,420 --> 00:05:25,300
+Disculpa.
+
+70
+00:05:27,200 --> 00:05:30,300
+Si buscas a Itou, se fue hace un rato.
+
+71
+00:05:32,240 --> 00:05:34,350
+¡Muchas gracias!
+
+72
+00:05:39,680 --> 00:05:42,150
+<i>Debe estar muy alterada.</i>
+
+73
+00:05:42,150 --> 00:05:44,840
+<i>Se dejó todo en la práctica para ese torneo.</i>
+
+74
+00:05:44,840 --> 00:05:49,140
+<i>Ella quería tanto ir al</i>
+<i>Campeonato Mundial en Yugoslavia.</i>
+
+75
+00:05:54,990 --> 00:05:58,080
+<i>Es cierto, tengo mis propios</i>
+<i>problemas de los que ocuparme.</i>
+
+76
+00:06:03,310 --> 00:06:05,800
+Mire, señor.
+
+77
+00:06:06,470 --> 00:06:10,300
+El único que dice que irá a Saikai
+es el <i>Todos los Deportes</i>.
+
+78
+00:06:11,070 --> 00:06:17,810
+Tal vez deberíamos habernos quedado e
+intentado una última vez en lugar de irnos.
+
+79
+00:06:18,570 --> 00:06:22,910
+Si Oshiuri la consigue,
+estaremos en serios problemas.
+
+80
+00:06:22,910 --> 00:06:25,530
+¿Podrías parar de una vez?
+
+81
+00:06:26,040 --> 00:06:31,070
+¿Por qué vendría con nosotros
+si no tenemos un equipo de judo?
+
+82
+00:06:31,710 --> 00:06:35,290
+Yawara Inokuma irá a Saikai.
+
+83
+00:06:35,290 --> 00:06:39,040
+Entonces alcanzará la cima del mundo
+como la mejor judoca.
+
+84
+00:06:40,610 --> 00:06:43,180
+¡Señor presidente! ¡Jefe de asuntos generales!
+
+85
+00:06:43,180 --> 00:06:45,090
+¿Qué sucede? Al menos golpea antes de entrar.
+
+86
+00:06:46,130 --> 00:06:47,550
+Discúlpenme, por favor.
+
+87
+00:06:47,550 --> 00:06:52,050
+¡Es enorme! Ino... Inoku...
+
+88
+00:06:52,810 --> 00:06:54,050
+¿Qué?
+
+89
+00:06:54,480 --> 00:06:59,060
+¡Recibimos una llamada de Yawara Inokuma!
+Dijo que vendría.
+
+90
+00:07:01,600 --> 00:07:04,560
+@@#Viajes cordiales - Hawai
+¿Por qué viene aquí?
+
+91
+00:07:04,560 --> 00:07:06,370
+¿Por qué?
+
+92
+00:07:04,570 --> 00:07:06,370
+
+93
+00:07:06,370 --> 00:07:09,230
+Debe estar furiosa.
+
+94
+00:07:09,230 --> 00:07:12,820
+Fuimos con tanta confianza a reclutarla cuando
+ni siquiera tenemos un equipo de judo.
+
+95
+00:07:12,820 --> 00:07:14,100
+¿Qué hacemos?
+
+96
+00:07:14,100 --> 00:07:18,290
+No, espera. En todo caso, debemos
+ser corteses. Y lo digo en serio.
+
+97
+00:07:15,780 --> 00:07:18,290
+#Agencia de Viajes - Recepción
+
+98
+00:07:17,740 --> 00:07:19,660
+Sí...
+
+99
+00:07:18,290 --> 00:07:19,660
+
+100
+00:07:23,920 --> 00:07:26,380
+#Sala de reuniones
+
+101
+00:07:28,420 --> 00:07:30,970
+Gracias por venir hasta aquí.
+
+102
+00:07:30,970 --> 00:07:34,250
+Queremos disculparnos por
+nuestro comportamiento de ayer.
+
+103
+00:07:34,250 --> 00:07:36,490
+Y además, felicitarte por tu victoria.
+
+104
+00:07:36,490 --> 00:07:39,560
+Así es. Felicitaciones.
+
+105
+00:07:39,560 --> 00:07:40,890
+Muchas gracias.
+
+106
+00:07:45,250 --> 00:07:45,900
+Yo...
+
+107
+00:07:46,420 --> 00:07:47,900
+
+108
+00:07:48,290 --> 00:07:49,900
+-Lo siento mucho.
+-Lo sentimos mucho.
+
+109
+00:07:48,480 --> 00:07:49,900
+
+110
+00:07:52,020 --> 00:07:57,370
+Fueron hasta el estadio ayer,
+y no los traté con consideración.
+
+111
+00:07:58,150 --> 00:08:01,870
+No, nosotros intentamos reclutarte a pesar
+de que no tenemos equipo de judo.
+
+112
+00:08:02,380 --> 00:08:05,510
+Sé que fui muy egoísta.
+
+113
+00:08:05,510 --> 00:08:10,880
+Nosotros pensamos que nuestras ganancias
+se duplicarían si te contratábamos.
+
+114
+00:08:11,790 --> 00:08:14,380
+Quisiera saber si no es demasiado tarde.
+
+115
+00:08:23,170 --> 00:08:25,140
+¿Yuutenji?
+
+116
+00:08:25,760 --> 00:08:27,480
+¿Un enjambre de reporteros?
+
+117
+00:08:27,480 --> 00:08:30,260
+¿No te dieron de esos dulces?
+
+118
+00:08:31,250 --> 00:08:32,150
+¿Qué?
+
+119
+00:08:32,150 --> 00:08:38,510
+El consejo directivo aprobó oficialmente la
+admisión de Fujiko Itou, junto con la de Yawara.
+
+120
+00:08:36,520 --> 00:08:38,510
+
+121
+00:08:38,510 --> 00:08:41,370
+Todo lo que deben hacer es
+un simple examen de ingreso.
+
+122
+00:08:41,760 --> 00:08:44,620
+¿Ah, sí? Hiciste un gran trabajo, Yuutenji.
+
+123
+00:08:44,620 --> 00:08:49,340
+Pero todavía necesito otro favor
+respecto de la larguirucha.
+
+124
+00:08:49,680 --> 00:08:54,870
+Para celebrar esta pequeña victoria, te invito
+un guiso de cangrejo en Rai-Rai Ken.
+
+125
+00:08:51,670 --> 00:08:54,870
+
+126
+00:08:54,870 --> 00:08:56,880
+¡Te va a encantar!
+
+127
+00:09:01,390 --> 00:09:03,220
+¿Qué dijiste?
+
+128
+00:09:03,220 --> 00:09:05,350
+¿Qué fue lo que dijiste?
+
+129
+00:09:05,990 --> 00:09:09,440
+Sí. Sé que vine demasiado tarde.
+
+130
+00:09:09,440 --> 00:09:12,410
+Pero me gustaría trabajar para Viajes Tsurukame--
+
+131
+00:09:12,410 --> 00:09:16,360
+Quiero decir, por su preciada compañía.
+
+132
+00:09:21,520 --> 00:09:22,870
+Como pensé, es imposible.
+
+133
+00:09:23,440 --> 00:09:26,970
+No, para nada, Inokuma.
+
+134
+00:09:26,970 --> 00:09:28,880
+Te suplicamos que te unas a nosotros.
+
+135
+00:09:29,500 --> 00:09:31,880
+Pero todavía no tenemos un equipo de judo.
+
+136
+00:09:32,310 --> 00:09:33,380
+Lo sé.
+
+137
+00:09:34,030 --> 00:09:36,670
+Pero aún quiero trabajar para ustedes.
+
+138
+00:09:37,430 --> 00:09:40,390
+¿Qué sucederá con tu transferencia a Saikai?
+
+139
+00:09:41,980 --> 00:09:46,100
+No tengo intenciones de ir a Saikai.
+
+140
+00:09:46,890 --> 00:09:51,850
+Pero tu abuelo estaba seguro de que irías a Saikai.
+
+141
+00:09:51,850 --> 00:09:53,110
+¿No habrá problemas?
+
+142
+00:09:54,090 --> 00:09:56,960
+Estará bien.
+
+143
+00:09:56,960 --> 00:10:00,410
+Le aclararé las cosas. Y le convenceré.
+
+144
+00:10:02,360 --> 00:10:04,370
+¿En verdad?
+
+145
+00:10:12,920 --> 00:10:15,010
+<i>Fujiko no contesta.</i>
+
+146
+00:10:20,420 --> 00:10:22,250
+Qué lío.
+
+147
+00:10:22,250 --> 00:10:24,950
+Tengo que convencer al abuelo de alguna forma.
+
+148
+00:10:25,620 --> 00:10:28,250
+Y mientras tanto, Fujiko está deprimida.
+
+149
+00:10:30,680 --> 00:10:32,950
+¡Lo juro, todo es culpa del judo!
+
+150
+00:10:32,950 --> 00:10:34,610
+¡Te equivocas!
+
+151
+00:10:35,290 --> 00:10:38,110
+El judo es el camino correcto para ti.
+
+152
+00:10:38,500 --> 00:10:41,160
+¿Hanazono y Fujiko?
+
+153
+00:10:41,960 --> 00:10:47,060
+Pero siempre fallo en los momentos importantes.
+
+154
+00:10:47,060 --> 00:10:53,130
+Le prometí a Inokuma muchas veces
+que iría con ella a Yugoslavia.
+
+155
+00:10:53,800 --> 00:10:56,580
+Pero en el encuentro crítico durante el torneo...
+
+156
+00:10:57,820 --> 00:11:01,630
+Sin importar lo que hiciera,
+di lástima como siempre.
+
+157
+00:11:02,110 --> 00:11:03,140
+No es cierto.
+
+158
+00:11:03,580 --> 00:11:12,360
+Aunque siga practicando judo con Inokuma
+en Saikai, seguiré siendo un fracaso.  
+
+159
+00:11:08,310 --> 00:11:12,360
+
+160
+00:11:12,360 --> 00:11:16,150
+Me preocupa que sólo seré una carga para ella.
+
+161
+00:11:16,610 --> 00:11:17,650
+¡Te equivocas!
+
+162
+00:11:19,240 --> 00:11:22,660
+¡Tú no eres una carga para nada, Fujiko!
+
+163
+00:11:23,500 --> 00:11:26,120
+Inokuma te necesita, Fujiko.
+
+164
+00:11:26,700 --> 00:11:31,030
+Inokuma sigue con el judo porque
+tú estás ahí para ella.
+
+165
+00:11:31,030 --> 00:11:37,630
+Y ella no te ve sólo como amiga,
+sino también como judoca.
+
+166
+00:11:38,270 --> 00:11:40,630
+¿Inokuma piensa eso de mí?
+
+167
+00:11:41,260 --> 00:11:47,510
+Pero si sigues sintiendo lástima por ti
+como ahora, destruirás a Inokuma.
+
+168
+00:11:45,490 --> 00:11:47,510
+
+169
+00:11:48,140 --> 00:11:51,450
+Y a mí, más que a Inokuma...
+
+170
+00:11:55,800 --> 00:12:00,210
+Lo entiendo, Hanazono. No llores, por favor.
+
+171
+00:12:01,150 --> 00:12:04,780
+Fue una estupidez deprimirse por algo así.
+
+172
+00:12:05,600 --> 00:12:07,870
+Me alegra que hayas venido a verme.
+
+173
+00:12:08,420 --> 00:12:10,810
+Me siento mucho mejor, gracias.
+
+174
+00:12:10,810 --> 00:12:12,910
+¿Estás segura, Fujiko?
+
+175
+00:12:13,680 --> 00:12:14,790
+Sí.
+
+176
+00:12:20,530 --> 00:12:24,070
+Eres afortunada al tener
+a alguien que te apoya, Fujiko.
+
+177
+00:12:24,860 --> 00:12:27,440
+Parece que no tengo que preocuparme,
+después de todo.
+
+178
+00:12:51,410 --> 00:12:54,410
+#Teleshikova explota con un uranage.
+#Domina el Campeonato Abierto Europeo
+
+179
+00:12:55,390 --> 00:12:57,920
+¡Yawara, ven! ¡Yawara!
+
+180
+00:13:08,830 --> 00:13:10,260
+¡Qué delicia!
+
+181
+00:13:10,810 --> 00:13:12,970
+¡Yawara! ¡Hey, Yawara!
+
+182
+00:13:14,080 --> 00:13:15,350
+¡Yawara!
+
+183
+00:13:16,230 --> 00:13:18,270
+¿No me escuchaste, Yawara?
+
+184
+00:13:19,090 --> 00:13:21,410
+¿Por qué gritas?
+
+185
+00:13:21,410 --> 00:13:24,320
+La cena estará lista enseguida, ten paciencia.
+
+186
+00:13:25,180 --> 00:13:27,570
+Te encantará lo que tendremos para la cena.
+
+187
+00:13:27,570 --> 00:13:30,320
+La comida es importante, pero mira esto.
+
+188
+00:13:30,320 --> 00:13:32,830
+Aquí tienes. Es gazpacho.
+
+189
+00:13:34,250 --> 00:13:35,330
+¿Qué es esto?
+
+190
+00:13:35,990 --> 00:13:38,090
+Es gazpacho. Gazpacho.
+
+191
+00:13:37,210 --> 00:13:43,490
+#Cocina española
+
+192
+00:13:38,090 --> 00:13:38,550
+
+193
+00:13:38,550 --> 00:13:43,040
+Es una sopa fría a base de jugo de tomate.
+Se come como ensalada.
+
+194
+00:13:43,040 --> 00:13:44,800
+Es de la cocina española.
+
+195
+00:13:43,490 --> 00:13:44,800
+
+196
+00:13:45,300 --> 00:13:47,440
+$Gas blast: explosión de gas.
+¿Por qué se llama gas blasto?
+
+197
+00:13:47,440 --> 00:13:48,800
+¡Es gazpacho!
+
+198
+00:13:49,380 --> 00:13:50,280
+<i>Cielos.</i>
+
+
+
+199
+00:13:56,980 --> 00:14:01,010
+Ves, está delicioso. Se llama san jacobo.
+
+200
+00:14:01,010 --> 00:14:03,320
+¿San jacobo? ¿Que no son chuletas de cerdo?
+
+201
+00:14:03,800 --> 00:14:06,110
+¡No son chuletas de cerdo!
+
+202
+00:14:06,110 --> 00:14:08,570
+¡Por qué eres tan gruñón e insensible!
+
+203
+00:14:09,720 --> 00:14:11,960
+Llámalo como quieras, es delicioso.
+
+204
+00:14:11,960 --> 00:14:15,580
+¿Por qué es que últimamente
+te esmeras en la cocina?
+
+205
+00:14:16,120 --> 00:14:20,210
+Tengo que ponerte de buen humor
+dándote buena comida.
+
+206
+00:14:20,210 --> 00:14:21,170
+¿Qué?
+
+207
+00:14:23,130 --> 00:14:24,920
+No, nada. ¿Te gusta?
+
+208
+00:14:26,090 --> 00:14:27,880
+<i>No hace falta apresurarse.</i>
+
+209
+00:14:27,880 --> 00:14:32,470
+<i>Tengo que decirle con cuidado</i>
+<i>que trabajaré para Viajes Tsurukame.</i>
+
+210
+00:14:32,470 --> 00:14:35,430
+Casi lo olvido. Mira esto.
+
+211
+00:14:35,840 --> 00:14:38,930
+No es de buena educación traer un diario a la mesa.
+
+212
+00:14:38,930 --> 00:14:41,440
+#Teleshikova explota con un uranage.
+
+213
+00:14:44,890 --> 00:14:47,440
+¿No te hierve la sangre?
+
+214
+00:14:47,440 --> 00:14:51,970
+Podrás enfrentarte a esa judoca de clase mundial,
+Tele-algo, en muy poco tiempo.
+
+215
+00:14:54,020 --> 00:14:55,410
+No me importa.
+
+216
+00:14:56,210 --> 00:14:58,320
+¿Cómo que no te importa?
+
+217
+00:14:58,320 --> 00:15:03,560
+Hoy te clasificaron oficialmente para representar
+a Japón en el Campeonato Mundial.
+
+218
+00:15:03,560 --> 00:15:04,790
+No iré.
+
+219
+00:15:07,460 --> 00:15:09,930
+¡No hagas uno de tus berrinches!
+
+220
+00:15:10,880 --> 00:15:13,390
+¡Eres una inútil mentirosa!
+
+221
+00:15:14,290 --> 00:15:16,600
+¿Mentir? ¿De qué estás hablando?
+
+222
+00:15:17,050 --> 00:15:21,390
+Hiciste una declaración pública y muy firme ayer.
+
+223
+00:15:22,150 --> 00:15:24,400
+¡Tú puedes! ¡Tú puedes, Fujiko!
+
+224
+00:15:24,400 --> 00:15:27,480
+¡Tú me dijiste que iríamos juntas a Yugoslavia!
+
+225
+00:15:28,160 --> 00:15:30,990
+¿Una declaración? Eso era...
+
+226
+00:15:31,550 --> 00:15:33,490
+No me digas que lo olvidaste.
+
+227
+00:15:34,020 --> 00:15:38,230
+Eso fue porque Fujiko quería ir
+con todas sus fuerzas.
+
+228
+00:15:38,230 --> 00:15:42,750
+Si Fujiko no va, no tiene sentido que yo vaya.
+
+229
+00:15:43,900 --> 00:15:48,960
+Aún puedes ir a Yugoslavia
+aunque no participes en el campeonato.
+
+230
+00:15:49,610 --> 00:15:50,660
+Escucha, Yawara.
+
+231
+00:15:50,660 --> 00:15:56,390
+Vas a ganar el Campeonato Mundial e irás
+a Saikai con la larguirucho, y eso es todo.
+
+232
+00:15:52,840 --> 00:15:56,390
+
+233
+00:15:56,390 --> 00:15:58,400
+¿Quién eres tú para decidir?
+
+234
+00:16:00,300 --> 00:16:03,640
+<i>No, no debo pelear con él.</i>
+
+235
+00:16:03,640 --> 00:16:06,610
+<i>Sino desperdiciaré toda esta deliciosa comida.</i>
+
+236
+00:16:09,220 --> 00:16:10,250
+Están llamando.
+
+237
+00:16:14,000 --> 00:16:18,000
+Habla Inokuma. Yawara irá a Saikai y punto final.
+
+238
+00:16:18,000 --> 00:16:20,770
+Si todavía tienes algo para decir, adelante.
+
+239
+00:16:21,580 --> 00:16:23,130
+¿Qué es esto?
+
+240
+00:16:23,740 --> 00:16:28,130
+Lo puse en el contestador para esas
+molestias de recursos humanos.
+
+241
+00:16:28,130 --> 00:16:32,090
+Soy Munakata de recursos humanos de Viajes Oshiuri.
+
+242
+00:16:32,090 --> 00:16:35,130
+Nos gustaría reunirnos con Yawara Inokuma.
+
+243
+00:16:35,770 --> 00:16:37,780
+Disculpen las molestias.
+
+244
+00:16:38,780 --> 00:16:41,470
+¡Qué te dije! Son peor que moscas.
+
+245
+00:16:41,470 --> 00:16:45,480
+¿Y si es una llamada importante?
+
+246
+00:16:45,480 --> 00:16:48,600
+Si eso pasa, les llamaremos de vuelta.
+
+247
+00:16:51,560 --> 00:16:54,950
+<i>Puede que Viajes Tsurukame haya dejado un mensaje.</i>
+
+248
+00:16:57,120 --> 00:16:59,840
+Somos de Ginza Can-Can.
+
+249
+00:17:00,860 --> 00:17:03,560
+Hablamos de Mini House.
+
+250
+00:17:03,560 --> 00:17:07,410
+Lamentamos las molestias, soy Munakata de Oshiuri--
+
+251
+00:17:07,410 --> 00:17:10,960
+No hay ninguna llamada que te interese. Ven y come.
+
+252
+00:17:14,650 --> 00:17:18,230
+Hablo de Sake Mikawaya. Su orden--
+
+253
+00:17:18,230 --> 00:17:20,220
+Por favor, ven a Ginza Can-Can--
+
+254
+00:17:21,540 --> 00:17:25,190
+<i>Supongo que no llegué a tiempo a Viajes Tsurukame.</i>
+
+255
+00:17:26,070 --> 00:17:27,690
+¡<i>Hola</i>, Yawara!
+
+256
+00:17:28,630 --> 00:17:30,800
+¡<i>Hola</i>, habla Jody!
+
+257
+00:17:30,800 --> 00:17:31,980
+¡Jody!
+
+258
+00:17:33,980 --> 00:17:35,780
+Me recuperé por completo.
+
+259
+00:17:35,780 --> 00:17:39,490
+Estoy lista y en óptimas condiciones
+para el campeonato canadiense.
+
+260
+00:17:40,040 --> 00:17:45,500
+Quería oír tu voz antes de mis encuentros,
+pero no te preocupes, me aseguraré de ganar.
+
+261
+00:17:43,290 --> 00:17:45,500
+
+262
+00:17:46,050 --> 00:17:49,610
+Hasta luego. Nos veremos en el Campeonato Mundial.
+
+263
+00:17:49,610 --> 00:17:53,500
+Dale mis saludos al maestro Jigoro. <i>¡Adiós!</i>
+
+264
+00:17:53,500 --> 00:17:56,280
+¡Era una llamada internacional de Jody!
+
+265
+00:17:56,280 --> 00:17:57,510
+Conque Jody.
+
+266
+00:17:57,950 --> 00:18:04,470
+No pude hablar con ella porque
+activaste la contestadora.
+
+267
+00:18:04,470 --> 00:18:06,880
+¿No escuchaste lo que dijo Jody?
+
+268
+00:18:07,940 --> 00:18:10,480
+Va a encontrarse contigo en el Campeonato Mundial.
+
+269
+00:18:11,980 --> 00:18:15,150
+No hace falta que hagas una llamada internacional.
+
+270
+00:18:15,160 --> 00:18:17,820
+Puedes verla en Yugoslavia.
+
+271
+00:18:19,280 --> 00:18:20,950
+Ahora vamos, es hora de comer.
+
+272
+00:18:26,610 --> 00:18:30,040
+<i>Fuiste muy oportuna, Jody.</i>
+
+273
+00:18:30,040 --> 00:18:34,840
+<i>Sólo necesita otro empujoncito</i>
+<i>para que vaya al Campeonato Mundial.</i>
+
+274
+00:18:34,840 --> 00:18:37,840
+#Yawara Inokuma clasifica para el Campeonato
+#Mundial en la categoría de hasta 48 kg.
+
+275
+00:18:39,300 --> 00:18:42,140
+Las cosas van demasiado bien.
+
+276
+00:18:42,810 --> 00:18:46,490
+La transferencia a Saikai y el Campeonato Mundial.
+
+277
+00:18:46,490 --> 00:18:50,950
+¿Quién imaginaría que Yawara continuaría
+con el judo sin ningún problema?
+
+278
+00:18:52,270 --> 00:18:54,650
+De todas formas, debería ir a verla.
+
+279
+00:18:54,650 --> 00:18:57,350
+Hace mucho que no hablo con ella.
+
+280
+00:18:57,350 --> 00:18:58,610
+Sí, eso haré.
+
+281
+00:18:59,170 --> 00:19:01,640
+¿A quién vas a ver?
+
+282
+00:19:02,730 --> 00:19:08,370
+Estaba pensando en hacerle una entrevista
+a ese luchador profesional, Naota Maeda.
+
+283
+00:19:08,810 --> 00:19:14,530
+¡Nunca tenemos tiempo a solas, Kosaku!
+
+284
+00:19:14,530 --> 00:19:16,920
+No lo digas así, no lo digas.
+
+285
+00:19:16,920 --> 00:19:19,910
+Matsuda, te llegó un telegrama.
+
+286
+00:19:19,910 --> 00:19:21,670
+Gracias.
+
+287
+00:19:21,670 --> 00:19:22,900
+¿Qué es esto?
+
+288
+00:19:22,900 --> 00:19:26,970
+Matsuda, mantén privados tus romances de oficina.
+
+289
+00:19:26,970 --> 00:19:28,850
+¡No es eso!
+
+290
+00:19:29,440 --> 00:19:30,790
+Por mil demonios...
+
+291
+00:19:32,630 --> 00:19:34,930
+¡Jody!
+
+292
+00:19:34,930 --> 00:19:37,360
+¡Ah, es esa gigante del torneo en Seúl!
+
+293
+00:19:38,010 --> 00:19:43,360
+Ganó la categoría abierta en el torneo canadiense,
+y ahora irá al Campeonato Mundial.
+
+294
+00:19:40,410 --> 00:19:43,360
+
+295
+00:19:44,390 --> 00:19:47,570
+Ya veo. Está completamente recuperada.
+
+296
+00:19:47,570 --> 00:19:52,290
+Irá al Campeonato Mundial. Felicitaciones, Jody.
+
+297
+00:19:52,290 --> 00:19:54,420
+No es para llorar.
+
+298
+00:19:55,480 --> 00:20:01,500
+<i>Ayer Teleshikova ganó el campeonato europeo,</i>
+<i>y con las noticias de hoy de Jody.</i>
+
+299
+00:19:59,390 --> 00:20:01,500
+
+300
+00:20:01,500 --> 00:20:03,130
+<i>No tienes más remedio que ir.</i>
+
+301
+00:20:03,530 --> 00:20:05,840
+Otra vez estás mirando al vacío.
+
+302
+00:20:06,560 --> 00:20:10,260
+<i>¿Entonces participarás en el</i>
+<i>Campeonato Mundial, Yawara?</i>
+
+303
+00:20:10,260 --> 00:20:12,890
+Oye, vamos a almorzar.
+
+304
+00:20:12,890 --> 00:20:16,350
+#Sala de reuniones#
+Debemos ser cuidadosos.
+
+305
+00:20:17,110 --> 00:20:20,970
+Aunque Yawara Inokuma haya venido por su cuenta,
+
+306
+00:20:20,970 --> 00:20:25,150
+todavía tenemos obstáculos
+que sortear para emplearla.
+
+307
+00:20:25,150 --> 00:20:26,110
+¿No es así, señor?
+
+308
+00:20:26,530 --> 00:20:27,500
+Sí.
+
+309
+00:20:27,500 --> 00:20:32,460
+Aún así, a pesar de toda la pompa que Oshiuri
+y las otras empresas estás desplegando,
+
+310
+00:20:32,460 --> 00:20:36,370
+Viajes Tsurukame es la
+primera opción de Yawara Inokuma.
+
+311
+00:20:36,370 --> 00:20:39,640
+Debemos sentarnos firmemente
+y enrollar el carretel, señores.
+
+312
+00:20:39,640 --> 00:20:45,460
+Pero escuché un rumos de que Oshiuri
+planeaba llevarla en un crucero mundial,
+
+313
+00:20:45,460 --> 00:20:48,050
+para obtener una audiencia cautiva.
+
+314
+00:20:50,870 --> 00:20:54,560
+En ese caso, la enviaremos a dos
+o incluso tres cruceros mundiales.
+
+315
+00:20:55,280 --> 00:20:58,060
+Pero acaba de decir que
+debíamos sentarnos firmemente.
+
+316
+00:20:58,060 --> 00:21:00,650
+¿Entonces qué debemos hacer?
+
+317
+00:21:00,650 --> 00:21:02,280
+Señor, puede relajarse.
+
+318
+00:21:03,020 --> 00:21:06,280
+Ella irá a un campamento de entrenamiento
+para prepararse para el Campeonato Mundial.
+
+319
+00:21:06,840 --> 00:21:10,780
+Ni Oshiuri ni Mini House podrán llegar a ella.
+
+320
+00:21:11,320 --> 00:21:14,220
+Pero eso quiere decir que nosotros tampoco.
+
+321
+00:21:14,220 --> 00:21:15,790
+Es verdad, es un problema.
+
+322
+00:21:17,370 --> 00:21:19,470
+¿Qué podemos hacer?
+
+323
+00:21:19,470 --> 00:21:20,290
+Señor...
+
+324
+00:21:21,030 --> 00:21:23,300
+El problema es su abuelo.
+
+325
+00:21:24,310 --> 00:21:27,300
+Sí, su abuelo.
+
+326
+00:21:30,270 --> 00:21:31,470
+Tienes una llamada.
+
+327
+00:21:31,920 --> 00:21:32,760
+¿Para mí?
+
+328
+00:21:33,330 --> 00:21:35,810
+No, para la larguirucha.
+
+329
+00:21:36,370 --> 00:21:39,070
+¿Para mí? ¿Quién podrá ser?
+
+330
+00:21:39,070 --> 00:21:40,770
+Contesta y descúbrelo.
+
+331
+00:21:40,770 --> 00:21:41,940
+Sí.
+
+332
+00:21:45,640 --> 00:21:48,320
+<i>Tsurukame no me llama.</i>
+
+333
+00:21:48,880 --> 00:21:53,470
+$Uchi-komi: ejercicio de lanzamiento.
+Yawara no te quedes ahí parada.
+Practica uchi komi o algo.
+
+334
+00:21:53,470 --> 00:21:54,330
+¡Sí!
+
+335
+00:22:09,540 --> 00:22:10,300
+¡Inokuma!
+
+336
+00:22:12,550 --> 00:22:14,470
+Era el entrenador Yuutenji.
+
+337
+00:22:14,930 --> 00:22:22,270
+Yo... ¡Fui elegida como compañera de práctica
+para el Campeonato Mundial en Yugoslavia!
+
+338
+00:22:22,270 --> 00:22:24,820
+¡Sí!
+
+339
+00:22:25,320 --> 00:22:30,280
+No podré participar en ningún encuentro,
+pero aún podré ir a Yugoslavia contigo.
+
+340
+00:22:31,320 --> 00:22:32,780
+Fujiko...
+
+341
+00:22:34,970 --> 00:22:36,830
+¡Viva!
+
+342
+00:22:36,830 --> 00:22:41,960
+Bien. Consigámoste otra medalla
+de oro en el Campeonato Mundial.
+
+343
+00:22:45,840 --> 00:22:52,890
+#Faltan 348 días para
+#los Juegos Olímpicos de Barcelona.
+
+344
+00:22:57,270 --> 00:23:01,020
+Abuelo, Fujiko dijo que irá a Yugoslavia conmigo.
+
+345
+00:23:02,280 --> 00:23:06,200
+Así que tú y la larguirucha
+me conseguirán dos medallas de oro.
+
+346
+00:23:06,200 --> 00:23:09,390
+Pero Fujiko dice que sólo será
+una compañera de práctica.
+
+347
+00:23:09,390 --> 00:23:12,780
+Pero aún así, ustedes dos
+practicarán judo en Yugoslavia.
+
+348
+00:23:13,430 --> 00:23:14,500
+¡Yawara!
+
+349
+00:23:14,500 --> 00:23:16,810
+El primer campamento de entrenamiento de Fujiko.
+
+350
+00:23:16,810 --> 00:23:20,310
+Sufrirás mi cascanueces si no lo miras.
+
+351
+00:23:17,790 --> 00:23:20,310
+
+352
+00:23:20,310 --> 00:23:22,830

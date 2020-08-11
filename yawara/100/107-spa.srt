@@ -1,0 +1,1411 @@
+﻿1
+00:01:35,070 --> 00:01:37,990
+#Viajes Tsurukame - Sucursal Shinbocho
+
+2
+00:01:36,410 --> 00:01:37,990
+¡Felicitaciones, Inokuma!
+
+3
+00:01:38,560 --> 00:01:42,240
+¡Te vi por televisión! ¡Estuviste maravillosa!
+
+4
+00:01:43,300 --> 00:01:44,650
+Muchas gracias.
+
+5
+00:01:44,650 --> 00:01:48,310
+¡Destrozaste a todas y cada una de tus rivales!
+
+6
+00:01:48,310 --> 00:01:52,460
+Fue muy emocionante verte arrojar a Sayaka Honami
+justo frente al cartel de la compañía.
+
+7
+00:01:52,500 --> 00:01:55,460
+#Viajes Cordiales Tsurukame
+
+8
+00:01:53,000 --> 00:01:55,460
+¡Sí, ese ippon seoi fue cosa de otro mundo!
+
+9
+00:01:56,180 --> 00:01:58,160
+Me gustaría que me arrojaras alguna vez.
+
+10
+00:01:58,160 --> 00:02:00,500
+Te equivocas, fue un seoi otoshi.
+
+11
+00:02:00,500 --> 00:02:01,970
+¡Sabes de todo, Tanda!
+
+12
+00:02:02,700 --> 00:02:04,850
+¡Nosotros te seguiremos animando!
+
+13
+00:02:05,170 --> 00:02:06,660
+Muchas gracias.
+
+14
+00:02:06,660 --> 00:02:08,460
+Arrójame alguna vez.
+
+15
+00:02:08,460 --> 00:02:10,020
+¡Pero qué dices!
+
+16
+00:02:11,280 --> 00:02:11,940
+<i>Sin embargo...</i>
+
+17
+00:02:12,860 --> 00:02:15,690
+<i>¿Qué sucedió con el asistente de gerente Hagoromo?</i>
+
+18
+00:02:15,690 --> 00:02:19,490
+<i>Tendría que haber vuelto de Hokkaido esta tarde.</i>
+
+19
+00:02:21,490 --> 00:02:28,460
+"Tal vez me quede esta noche"
+
+20
+00:02:31,660 --> 00:02:34,420
+¡Te lo ordeno como tu supervisor! ¡Ahora vete!
+
+21
+00:02:35,480 --> 00:02:36,170
+¡Sí, señor!
+
+22
+00:02:36,880 --> 00:02:40,220
+¡Y haz que Honami se caiga de cola! ¡Es una orden!
+
+23
+00:02:44,330 --> 00:02:45,850
+<i>¿¿Qué debería hacer?</i>
+
+24
+00:02:45,850 --> 00:02:49,230
+<i>Terminé haciendo un embrollo con el trabajo.</i>
+
+25
+00:02:50,830 --> 00:02:53,670
+<i>Por mi culpa, el señor Hagoromo...</i>
+
+26
+00:02:54,470 --> 00:02:56,730
+¿Hagoromo todavía no regresó?
+
+27
+00:02:56,730 --> 00:03:00,530
+No, él ya debería haber regresado.
+
+28
+00:03:00,530 --> 00:03:01,700
+¿Ni siquiera hizo una llamada?
+
+29
+00:03:01,700 --> 00:03:04,320
+No, nada.
+
+30
+00:03:04,320 --> 00:03:05,200
+<i>¡El gerente!</i>
+
+31
+00:03:06,740 --> 00:03:08,580
+¡Ese imbécil!
+
+32
+00:03:08,580 --> 00:03:09,650
+¡Ven conmigo, jefe de sección!
+
+33
+00:03:09,650 --> 00:03:10,250
+¡Sí, señor!
+
+34
+00:03:14,220 --> 00:03:15,810
+<i>¿Qué habrá sucedido?</i>
+
+35
+00:03:16,550 --> 00:03:18,710
+¿Qué le pasa al gerente?
+
+36
+00:03:19,340 --> 00:03:22,190
+Seguramente el asistente Hagoromo volvió a liarla.
+
+37
+00:03:22,190 --> 00:03:24,720
+¿Te refieres al viaje con Kato Chu?
+
+38
+00:03:25,110 --> 00:03:27,370
+Todos sabían que Hagoromo no podría manejarlo.
+
+39
+00:03:27,370 --> 00:03:28,080
+Es verdad.
+
+
+40
+00:03:28,080 --> 00:03:30,230
+Seguramente lo transferirán.
+
+41
+00:03:30,610 --> 00:03:34,240
+Diablos, incluso podrían despedirlo.
+
+42
+00:03:34,880 --> 00:03:35,990
+<i>¿Despedirlo?</i>
+
+43
+00:03:37,750 --> 00:03:39,190
+<i>¡Y es todo mi culpa!</i>
+
+44
+00:03:40,510 --> 00:03:41,780
+<i>¿Qué hago?</i>
+
+45
+00:03:42,740 --> 00:03:45,160
+#Viajes Tsurukame - Sucursal Shinbocho
+
+46
+00:03:55,690 --> 00:03:58,080
+Ahí llega Hagoromo.
+
+47
+00:03:58,080 --> 00:04:00,690
+@Tiene el ánimo por el piso.
+
+48
+00:04:00,690 --> 00:04:03,560
+Después de todo, está en la cuerda floja.
+
+49
+00:04:03,560 --> 00:04:04,050
+¡Puede oirte!
+
+50
+00:04:09,670 --> 00:04:11,420
+Disculpe...
+
+51
+00:04:17,790 --> 00:04:19,990
+¿Señor Hagoromo?
+
+52
+00:04:21,020 --> 00:04:23,120
+En verdad lo siento.
+
+53
+00:04:25,340 --> 00:04:27,480
+¿Señor Hagoromo?
+
+54
+00:04:29,910 --> 00:04:33,120
+Lo siento. ¡Fue todo mi culpa!
+
+55
+00:04:36,070 --> 00:04:40,460
+No tan fuerte, tengo resaca.
+
+56
+00:04:41,330 --> 00:04:45,270
+¡Ya regresaste, Hagoromo!
+
+57
+00:04:45,270 --> 00:04:51,470
+¡Genial! Inokuma, ¿podrías venir a
+mi oficina junto con Hagoromo?
+
+58
+00:04:53,460 --> 00:04:56,980
+¡Deja de quejarte! ¡Deprisa, Hagoromo!
+
+59
+00:04:56,980 --> 00:04:59,360
+#Oficina del gerente
+
+60
+00:05:01,750 --> 00:05:05,050
+¿Está bien, señor Hagoromo?
+
+61
+00:05:05,050 --> 00:05:07,370
+Quizás no sobreviva.
+
+62
+00:05:08,020 --> 00:05:09,490
+¡Señor!
+
+63
+00:05:09,490 --> 00:05:11,600
+¡Deprisa, entren!
+
+64
+00:05:11,600 --> 00:05:12,910
+¡Sí, señor!
+
+65
+00:05:13,540 --> 00:05:14,960
+Con permiso.
+
+66
+00:05:16,920 --> 00:05:19,420
+¡Asistente de gerente Hagoromo!
+
+67
+00:05:19,420 --> 00:05:20,690
+¡El...!
+
+68
+00:05:20,690 --> 00:05:22,130
+¡El presidente!
+
+69
+00:05:22,130 --> 00:05:24,030
+¡Lo hiciste!
+
+70
+00:05:24,030 --> 00:05:27,600
+¡En verdad lo hiciste, Hagoromo!
+
+71
+00:05:27,600 --> 00:05:31,330
+Sí, afortunadamente todo salió bien.
+
+72
+00:05:32,180 --> 00:05:37,690
+Entonces... el trabajo con Kato Chu.
+
+73
+00:05:37,690 --> 00:05:40,970
+¡Sí, fue una tremenda victoria!
+
+74
+00:05:40,970 --> 00:05:44,650
+Lo logramos gracias a ti.
+
+75
+00:05:51,060 --> 00:05:54,860
+¡Eso es maravilloso, señor Hagoromo!
+
+76
+00:05:54,860 --> 00:05:57,660
+Pero eso no es todo.
+
+77
+00:05:57,660 --> 00:06:02,380
+Este hombre no nos consiguió sólo a Kato Chu.
+
+78
+00:06:08,840 --> 00:06:11,050
+#Presidente
+¡¿Qué dijiste?!
+
+79
+00:06:11,050 --> 00:06:15,770
+¿Viajes Tsurukame consiguió la cuenta de Kato Chu?
+
+80
+00:06:16,720 --> 00:06:18,250
+¡No puede ser!
+
+81
+00:06:18,250 --> 00:06:22,770
+Pero me dijeron que habían fracasado.
+
+82
+00:06:23,870 --> 00:06:26,380
+¿Que quién me lo dijo?
+
+83
+00:06:26,380 --> 00:06:29,280
+Escuché ciertos rumores.
+
+84
+00:06:29,970 --> 00:06:35,450
+En todo caso, debemos hacer lo que podamos
+para minimizar el daño.
+
+85
+00:06:36,570 --> 00:06:40,040
+¡¿No perdimos solamente a Kato Chu?!
+
+86
+00:06:40,040 --> 00:06:42,540
+¡Explícate!
+
+87
+00:06:42,540 --> 00:06:43,500
+Con permiso.
+
+88
+00:06:43,500 --> 00:06:45,840
+No pasa nada. Puedes decirme.
+
+89
+00:06:45,840 --> 00:06:49,700
+Dudo que me sorprenda más de lo que estoy.
+
+90
+00:06:52,600 --> 00:06:53,580
+Aquí tiene.
+
+91
+00:06:57,890 --> 00:06:59,390
+¡Quema!
+
+92
+00:06:59,390 --> 00:07:00,600
+¡Quema! ¡Quema!
+
+93
+00:07:00,940 --> 00:07:04,570
+Lo siento muchísimo. Haré que los laven enseguida.
+
+94
+00:07:10,760 --> 00:07:15,580
+¿Viajes Tsurukame también nos robó
+la cuenta de Automóviles Toyosan?
+
+95
+00:07:15,930 --> 00:07:20,330
+Perderemos cerca de 40 mil millones de yenes.
+
+96
+00:07:21,410 --> 00:07:24,390
+¿Por qué me pasa esto a mí?
+
+97
+00:07:27,960 --> 00:07:35,300
+¿Por qué tuvo que suceder esta calamidad
+justo cuando asumí como presidente?
+
+98
+00:07:43,090 --> 00:07:50,820
+Mi único consuelo es la libertad que conseguí
+al posponer el casamiento con Sayaka.
+
+99
+00:07:45,360 --> 00:07:50,820
+
+100
+00:07:50,820 --> 00:07:52,440
+Yawara...
+
+101
+00:07:53,090 --> 00:07:57,560
+Eres la única que puede aliviar esta alma en pena.
+
+102
+00:07:56,260 --> 00:07:57,560
+
+103
+00:07:58,080 --> 00:07:59,560
+Yawara.
+
+104
+00:08:06,240 --> 00:08:09,750
+¿Está bien, señor Hagoromo?
+
+105
+00:08:10,340 --> 00:08:11,780
+Sí.
+
+106
+00:08:12,490 --> 00:08:18,810
+Se me paró el corazón cuando el presidente
+nos dijo lo de Toyosan.
+
+107
+00:08:19,190 --> 00:08:23,410
+¡No puedo creer que haya conseguido
+a Automóviles Toyosan!
+
+108
+00:08:23,410 --> 00:08:25,510
+¡Usted es increíble, señor Hagoromo!
+
+109
+00:08:26,050 --> 00:08:29,850
+¡Yo soy el que está más sorprendido que nadie!
+
+110
+00:08:29,850 --> 00:08:32,280
+¡En verdad no puedo creerlo!
+
+111
+00:08:32,950 --> 00:08:35,050
+Es todo gracias a ti.
+
+112
+00:08:35,050 --> 00:08:37,030
+Gracias, Inokuma.
+
+113
+00:08:37,030 --> 00:08:40,390
+No, todo lo que hice fue competir en el torneo.
+
+114
+00:08:40,390 --> 00:08:42,470
+Casi lo olvido.
+
+115
+00:08:46,340 --> 00:08:48,540
+También debemos agradecerle a él.
+
+116
+00:08:48,540 --> 00:08:53,010
+#¡Yawara campeona nacional!
+#Yawara arrasa en el Abierto Nacional
+
+117
+00:08:49,240 --> 00:08:52,570
+Si no fuera por él, no habrías
+llegado a tiempo al torneo.
+
+118
+00:08:52,570 --> 00:08:53,010
+
+119
+00:08:55,500 --> 00:08:55,990
+¡Vámonos!
+
+120
+00:08:55,990 --> 00:08:57,010
+¡Sí!
+
+121
+00:08:59,350 --> 00:09:00,220
+¡Matsuda!
+
+122
+00:09:00,220 --> 00:09:01,890
+¡De prisa, ve!
+
+123
+00:09:02,210 --> 00:09:06,640
+Haz que sea un gran enfrentamiento para que
+pueda escribir un artículo increíble.
+
+124
+00:09:10,820 --> 00:09:12,150
+Matsuda...
+
+125
+00:09:12,150 --> 00:09:14,810
+Ese artículo es estupendo.
+
+126
+00:09:14,810 --> 00:09:18,410
+Me hizo revivir las emociones que sentí
+cuando vi tus encuentros.
+
+127
+00:09:19,930 --> 00:09:22,160
+Él no podría escribir así
+a menos que estuviera enamorado.
+
+128
+00:09:24,300 --> 00:09:27,040
+En verdad debe amar...
+
+129
+00:09:28,140 --> 00:09:29,710
+... el judo.
+
+130
+00:09:36,170 --> 00:09:40,180
+Bueno, volvamos al trabajo.
+
+131
+00:09:40,180 --> 00:09:41,600
+¡Vamos, Inokuma!
+
+132
+00:09:42,740 --> 00:09:43,600
+¡Sí, señor!
+
+133
+00:10:02,580 --> 00:10:10,100
+Tus encuentros contra Sayaka y Fujiko fueron
+lo mejor que jamás he visto, Yawara.
+
+134
+00:10:10,100 --> 00:10:13,210
+Sí, eres fenomenal.
+
+135
+00:10:17,600 --> 00:10:19,720
+Te vuelves más fuerte cada día.
+
+136
+00:10:19,720 --> 00:10:21,720
+#¡Yawara campeona nacional!
+
+137
+00:10:22,220 --> 00:10:25,050
+Cada vez eres una mejor súper estrella.
+
+138
+00:10:31,160 --> 00:10:33,740
+¡Por la súper estrella!
+
+139
+00:10:37,240 --> 00:10:41,240
+¿Quién es? ¡Está abierto! ¿Eres tú, Kamoda?
+
+140
+00:10:41,960 --> 00:10:43,200
+Soy yo.
+
+141
+00:10:44,800 --> 00:10:46,200
+¡Yawara!
+
+142
+00:10:48,810 --> 00:10:51,110
+¡Ya te abro!
+
+143
+00:10:52,740 --> 00:10:54,090
+¡Demonios!
+
+144
+00:10:56,400 --> 00:10:59,840
+Espera un momento, déjame ordenar un poco.
+
+145
+00:11:01,050 --> 00:11:03,550
+No hace falta, estaré sólo un momento.
+
+146
+00:11:04,460 --> 00:11:07,310
+¡Espera! Termino en un segundo, de verdad.
+
+147
+00:11:08,900 --> 00:11:12,270
+¡Maldito Kamoda! ¿Por qué me dejaste esto?
+
+148
+00:11:12,720 --> 00:11:15,650
+En realidad deberías descansar.
+
+149
+00:11:15,650 --> 00:11:19,240
+Tu jefe dijo que te tomaste el día
+debido a tu pierna.
+
+150
+00:11:19,240 --> 00:11:22,590
+No es nada que debas preocuparte.
+
+151
+00:11:22,590 --> 00:11:23,990
+Puedes quedarte el tiempo que quieras.
+
+152
+00:11:24,530 --> 00:11:30,490
+Te traje algo de comer. Lo dejaré por aquí.
+
+153
+00:11:31,340 --> 00:11:34,000
+No debiste molestarte.
+
+154
+00:11:58,480 --> 00:12:00,500
+¡Lo siento!
+
+155
+00:12:00,500 --> 00:12:02,630
+Me tropecé.
+
+156
+00:12:02,630 --> 00:12:04,160
+No es nada.
+
+157
+00:12:04,160 --> 00:12:07,570
+No puede apoyar la pierna, por eso...
+
+158
+00:12:07,570 --> 00:12:11,040
+Con mucho cuidado, intenta
+mover tu peso al pie izquierdo.
+
+159
+00:12:11,040 --> 00:12:12,370
+¿A mi pie izquierdo?
+
+160
+00:12:12,370 --> 00:12:15,600
+Ah, sí, a mi pie izquierdo.
+
+161
+00:12:21,880 --> 00:12:23,560
+¡Lo siento!
+
+162
+00:12:25,050 --> 00:12:28,390
+¿Cómo podría ayudarte?
+
+163
+00:12:29,340 --> 00:12:31,690
+No te preocupes. Puedo pararme.
+
+164
+00:12:38,720 --> 00:12:40,790
+¡Lo siento!
+
+165
+00:12:40,790 --> 00:12:42,720
+No es nada.
+
+166
+00:12:42,720 --> 00:12:44,720
+Ahora me levanto.
+
+167
+00:12:44,720 --> 00:12:47,410
+&¿Estás bien?
+
+168
+00:12:45,340 --> 00:12:47,410
+¿Qué es todo este escándalo?
+
+169
+00:12:47,890 --> 00:12:48,850
+¿Oh?
+
+170
+00:12:49,730 --> 00:12:50,580
+¡Oh!
+
+171
+00:12:52,740 --> 00:12:57,290
+No me hagan caso. Veo que
+están ocupados. Perdónenme.
+
+172
+00:13:00,910 --> 00:13:05,260
+¡Espere! ¡Ayúdenos, por favor!
+
+173
+00:13:16,220 --> 00:13:19,310
+¡Diablos, no puedo perder el tiempo!
+
+174
+00:13:19,310 --> 00:13:21,730
+Tengo que deshacerme de estas cosas.
+
+175
+00:13:22,250 --> 00:13:24,110
+¡Maldito Kamoda!
+
+176
+00:13:24,110 --> 00:13:29,150
+No tengo problema en que traiga porno,
+pero no debería dejarla aquí.
+
+177
+00:13:29,150 --> 00:13:30,160
+Y encima es explícito.
+
+178
+00:13:30,160 --> 00:13:31,240
+¡Matsuda!
+
+179
+00:13:31,830 --> 00:13:33,240
+¿Dime?
+
+180
+00:13:33,840 --> 00:13:36,960
+Tienes la pierna lesionada, debes hacer reposo.
+
+181
+00:13:36,960 --> 00:13:38,500
+Yo limpiaré luego.
+
+182
+00:13:39,250 --> 00:13:44,760
+No hace falta. Son sólo unos documentos
+que necesito organizar yo mismo.
+
+183
+00:13:44,760 --> 00:13:46,020
+Matsuda.
+
+184
+00:13:46,020 --> 00:13:48,510
+Gracias por todo lo que hiciste.
+
+185
+00:13:49,230 --> 00:13:52,510
+Gracias a ti, mi trabajo en Hokkaido terminó bien.
+
+186
+00:13:53,060 --> 00:13:54,770
+Ya no sigas.
+
+187
+00:13:54,770 --> 00:13:57,520
+Yo debería agradecerte por darme
+un gran artículo para escribir.
+
+188
+00:13:58,320 --> 00:14:02,720
+Mi supervisor, Hagoromo, también quería agradecerte.
+
+189
+00:14:03,640 --> 00:14:06,760
+Es un admirador tuyo, Matsuda.
+
+190
+00:14:06,760 --> 00:14:07,490
+¿Mi admirador?
+
+191
+00:14:07,490 --> 00:14:12,150
+Dijo que tu artículo le hizo
+revivir la emoción de ayer.
+
+192
+00:14:12,150 --> 00:14:14,990
+También dijo que no hay muchos escritores
+que podrían lograr algo así.
+
+193
+00:14:15,330 --> 00:14:17,000
+Vaya...
+
+194
+00:14:17,680 --> 00:14:21,260
+Dijo que debes amar el judo.
+
+195
+00:14:21,260 --> 00:14:23,670
+Me sentí feliz al escuchar eso.
+
+196
+00:14:40,970 --> 00:14:44,110
+¡Cielos, ese Kamoda! ¿Cuándo lo habrá colgado?
+
+197
+00:14:44,110 --> 00:14:48,610
+¿Todavía tienes esa foto como póster?
+
+198
+00:14:49,460 --> 00:14:53,070
+Yo... lo siento.
+
+199
+00:14:55,970 --> 00:14:58,080
+¡Estoy perdiendo la paciencia!
+
+200
+00:14:58,510 --> 00:15:00,080
+Ya regresé.
+
+201
+00:15:00,080 --> 00:15:02,640
+Oh, viniste temprano. ¿Qué quiere de cenar?
+
+202
+00:15:03,640 --> 00:15:04,910
+No te molestes.
+
+203
+00:15:07,600 --> 00:15:09,870
+Cielos, ¿volviste a beber?
+
+204
+00:15:11,270 --> 00:15:14,550
+Tengo resaca. Me hicieron tomar
+hasta la mañana en Hokkaido.
+
+205
+00:15:14,960 --> 00:15:17,970
+Suficiente. ¿Y a eso llamas trabajo?
+
+206
+00:15:18,710 --> 00:15:22,270
+El trabajo fue estupendo.
+Esta vez atrapé uno grande.
+
+207
+00:15:22,270 --> 00:15:25,390
+¿Otro cuento de pesca?
+
+208
+00:15:25,390 --> 00:15:26,980
+Lo digo en serio.
+
+209
+00:15:26,980 --> 00:15:29,490
+Papá, ¿mi cangrejo?
+
+210
+00:15:30,100 --> 00:15:33,080
+No grites. Me suenan las orejas.
+
+211
+00:15:33,080 --> 00:15:37,680
+¡Dijiste que me traerías un cangrejo! ¡Un cangrejo!
+
+212
+00:15:38,330 --> 00:15:41,210
+Haré que te envíen el cangrejo por correo.
+
+213
+00:15:41,210 --> 00:15:44,950
+Estaba esperando el cangrejo, no a ti.
+
+214
+00:15:51,160 --> 00:15:53,680
+¿Podrías bajar el volumen?
+
+215
+00:15:53,680 --> 00:15:56,680
+No lo molestes. Acaba de volver de la escuela.
+
+216
+00:16:04,440 --> 00:16:06,150
+Katsuo.
+
+217
+00:16:07,590 --> 00:16:10,150
+¿Te gustaría practicar judo?
+
+218
+00:16:15,600 --> 00:16:16,660
+¡Estuvo delicioso!
+
+219
+00:16:17,110 --> 00:16:18,330
+Hay más si quieres.
+
+220
+00:16:18,770 --> 00:16:20,620
+No, estoy lleno.
+
+221
+00:16:20,620 --> 00:16:22,430
+Bien, haré algo de té.
+
+222
+00:16:22,430 --> 00:16:23,330
+Gracias.
+
+223
+00:16:23,930 --> 00:16:27,570
+Debo decir que tu comida es deliciosa.
+
+224
+00:16:27,570 --> 00:16:30,840
+Esos pastelillos chinos y los rollitos primavera
+estuvieron excepcionales.
+
+225
+00:16:30,840 --> 00:16:34,070
+No era comida china.
+
+226
+00:16:34,070 --> 00:16:37,850
+Eran platos italianos: <i>ravioles</i> y <i>canelones</i>.
+
+227
+00:16:37,850 --> 00:16:41,350
+Ah, italiano, como el líder de los Drifters.
+
+228
+00:16:44,940 --> 00:16:46,900
+No, ese es Ikariya.
+
+229
+00:16:46,900 --> 00:16:48,480
+No, nada.
+
+230
+00:16:48,480 --> 00:16:53,100
+¡No puedo creer lo ordenado que está este lugar!
+
+231
+00:16:53,100 --> 00:16:55,360
+No parece mi habitación.
+
+232
+00:16:55,720 --> 00:16:57,990
+Eso mismo dijiste la última vez.
+
+233
+00:16:57,990 --> 00:16:59,120
+Toma. Está caliente.
+
+234
+00:16:59,620 --> 00:17:01,000
+Gracias.
+
+235
+00:17:02,210 --> 00:17:05,080
+La última vez que viniste fue hace mucho tiempo.
+
+236
+00:17:05,490 --> 00:17:08,080
+Todavía estaba en preparatoria.
+
+237
+00:17:08,770 --> 00:17:14,380
+Estaba el revuelo en los medios cuando
+descubrieron quién eras en realidad.
+
+238
+00:17:14,380 --> 00:17:16,760
+No tuviste más remedio que esconderte aquí.
+
+239
+00:17:16,760 --> 00:17:20,640
+En primer lugar, fue por tu culpa,
+¿o no te acuerdas?
+
+240
+00:17:21,460 --> 00:17:22,780
+¿Estás bien?
+
+241
+00:17:22,780 --> 00:17:24,610
+Sí, estoy bien.
+
+242
+00:17:24,610 --> 00:17:27,150
+Te dije que estaba caliente.
+
+243
+00:17:28,010 --> 00:17:30,110
+El tiempo pasa volando.
+
+244
+00:17:32,600 --> 00:17:34,580
+Ya pasaron cuatro años.
+
+245
+00:17:40,270 --> 00:17:41,720
+Cuatro años...
+
+246
+00:17:43,780 --> 00:17:46,160
+En verdad, el tiempo vuela.
+
+247
+00:17:46,630 --> 00:17:47,660
+¡Ya es tarde!
+
+248
+00:17:47,660 --> 00:17:49,880
+¡Muy tarde!
+
+249
+00:17:49,880 --> 00:17:53,880
+Lo siento, Jigoro. Enseguida te llevo la sopa.
+
+250
+00:17:53,880 --> 00:17:56,200
+No, hablaba de Yawara.
+
+251
+00:17:56,200 --> 00:17:59,340
+¿Adónde se habrá ido esa tonta oficinista?
+
+252
+00:17:59,840 --> 00:18:05,350
+Seguramente estará celebrando la victoria
+con sus compañeros de trabajo.
+
+253
+00:18:06,470 --> 00:18:08,840
+Conque emborrachándose después de ganar.
+
+254
+00:18:08,840 --> 00:18:11,360
+Si sigue perdiendo el tiempo, tendrá dificultades.
+
+255
+00:18:11,820 --> 00:18:15,260
+Los atletas tienen una vida dura.
+
+256
+00:18:15,260 --> 00:18:16,490
+Aquí está la sopa.
+
+257
+00:18:16,490 --> 00:18:17,110
+¡Exquisito!
+
+258
+00:18:17,540 --> 00:18:21,190
+¡Tamao, este guiso de pollo es una delicia!
+
+259
+00:18:21,920 --> 00:18:23,570
+Hay más si quieres.
+
+260
+00:18:23,570 --> 00:18:27,330
+Tienes razón. Los atletas llevamos una vida dura.
+¡Tan sólo mira a la larguirucha!
+
+261
+00:18:27,700 --> 00:18:32,930
+Es cierto. Hoy estabas entrenando con ella,
+un día después del torneo.
+
+262
+00:18:32,930 --> 00:18:38,340
+¡Así es como debería ser!
+Desearía que Yawara siguiera su ejemplo.
+
+263
+00:18:39,800 --> 00:18:43,100
+Fujiko podría haber comido algo antes de irse.
+
+264
+00:18:44,100 --> 00:18:46,100
+¿Todavía no volvió a casa? Ya veo.
+
+265
+00:18:48,370 --> 00:18:51,290
+No, no era nada. Adiós.
+
+266
+00:18:58,310 --> 00:19:01,040
+Hanazono está muy dedicado al entrenamiento.
+
+267
+00:19:02,110 --> 00:19:04,150
+<i>¿Hasta estas horas?</i>
+
+268
+00:19:05,210 --> 00:19:06,790
+¡No puede ser, Morio!
+
+269
+00:19:06,790 --> 00:19:08,120
+¡Es verdad, lo juro!
+
+270
+00:19:08,120 --> 00:19:09,230
+Mentira.
+
+271
+00:19:12,290 --> 00:19:17,590
+<i>Él es un hombre sincero, dulce y maravilloso.</i>
+
+272
+00:19:19,460 --> 00:19:22,090
+<i>¡Por supuesto que las mujeres lo buscarán!</i>
+
+273
+00:19:27,680 --> 00:19:29,080
+¡No puede ser!
+
+274
+00:19:29,080 --> 00:19:32,310
+Hanazono debe estar esforzándose en el judo.
+
+275
+00:19:32,350 --> 00:19:37,820
+#Estación de Shibuya
+
+276
+00:19:33,390 --> 00:19:34,890
+¡Estoy segura!
+
+277
+00:19:34,890 --> 00:19:37,820
+Y entonces tuvieron una gran discusión
+al finalizar la luna de miel.
+
+278
+00:19:37,820 --> 00:19:44,530
+Ya no podía soportar estar con él, así que
+nos pidió usar nuestra habitación.
+
+279
+00:19:42,120 --> 00:19:44,530
+
+280
+00:19:46,560 --> 00:19:48,540
+¡Parece que es un trabajo duro!
+
+281
+00:19:48,870 --> 00:19:50,660
+Así es.
+
+282
+00:19:50,660 --> 00:19:52,500
+¡Cielos, mira la hora!
+
+283
+00:19:52,980 --> 00:19:54,770
+Te acompaño hasta la estación.
+
+284
+00:19:54,770 --> 00:19:57,500
+No puedes con la pierna en ese estado.
+
+285
+00:19:57,500 --> 00:19:59,300
+Es verdad.
+
+286
+00:19:59,300 --> 00:20:02,010
+Sería un molestia si me tropiezo y vuelvo a caer.
+
+287
+00:20:03,590 --> 00:20:05,060
+Tienes toda la razón.
+
+288
+00:20:09,510 --> 00:20:12,980
+Tal vez debería pasar la noche, como la última vez.
+
+289
+00:20:15,730 --> 00:20:17,980
+¡Era broma!
+
+290
+00:20:17,980 --> 00:20:21,720
+Sí, claro que sí.
+
+291
+00:20:21,720 --> 00:20:22,990
+No me asustes así.
+
+292
+00:20:23,390 --> 00:20:27,570
+¡Tú me asustaste cuando escupiste el té!
+
+293
+00:20:27,570 --> 00:20:28,490
+Perdona.
+
+294
+00:20:29,290 --> 00:20:35,460
+Pero si me quedara aquí, tu dormirías
+afuera como la última vez.
+
+295
+00:20:35,460 --> 00:20:37,500
+¡Hey, podría volver a resfriarme!
+
+296
+00:20:49,080 --> 00:20:50,970
+¿En verdad piensas quedarte?
+
+297
+00:20:53,220 --> 00:20:53,490
+#
+
+298
+00:21:06,460 --> 00:21:07,570
+Estaba bromeando.
+
+299
+00:21:08,950 --> 00:21:10,130
+Yo...
+
+300
+00:21:11,580 --> 00:21:13,830
+¡Kosaku, soy yo!
+
+301
+00:21:14,690 --> 00:21:16,330
+¿Estás guardando reposo?
+
+302
+00:21:16,890 --> 00:21:17,830
+¿Eh?
+
+303
+00:21:21,130 --> 00:21:22,590
+¡Kuniko!
+
+304
+00:21:22,590 --> 00:21:25,710
+Oh, es Yawara.
+
+305
+00:21:25,710 --> 00:21:28,050
+¿Viniste a ver cómo estaba? Muchas gracias.
+
+306
+00:21:28,760 --> 00:21:33,060
+Supuse que vendrías, después de todo,
+es tu culpa que Kosaku se haya lastimado.
+
+307
+00:21:33,790 --> 00:21:35,850
+¿Qué estás haciendo aquí?
+
+308
+00:21:36,180 --> 00:21:37,580
+¿Que qué hago?
+
+309
+00:21:37,580 --> 00:21:42,360
+Esto es para la cena, y esto
+para pasar la noche aquí.
+
+310
+00:21:42,690 --> 00:21:45,780
+¿Para pasar la noche? ¡Qué demonios!
+
+311
+00:21:45,780 --> 00:21:47,080
+¿Algún problema?
+
+312
+00:21:48,140 --> 00:21:50,820
+Con su permiso, debo irme.
+
+313
+00:21:52,330 --> 00:21:54,830
+Oh, qué lástima. Ve con cuidado.
+
+314
+00:21:55,790 --> 00:21:57,830
+¡Espera!
+
+315
+00:21:58,560 --> 00:21:59,640
+¡Yawara!
+
+316
+00:21:59,640 --> 00:22:01,290
+¡No puedes caminar con esa pierna!
+
+317
+00:22:01,640 --> 00:22:02,860
+¡Yawara!
+
+318
+00:22:02,860 --> 00:22:04,760
+¡Quédate quieto, Kosaku!
+
+319
+00:22:05,540 --> 00:22:06,410
+¡Suéltame!
+
+320
+00:22:06,410 --> 00:22:07,510
+¡Kosaku!
+
+321
+00:22:10,010 --> 00:22:11,010
+¡Yawara!
+
+322
+00:22:26,390 --> 00:22:29,450
+Vamos, Kosaku, vuelve adentro.
+
+323
+00:22:29,450 --> 00:22:31,460
+Necesitas guardar reposo.
+
+324
+00:22:31,460 --> 00:22:33,540
+¡No tires!
+
+325
+00:22:33,540 --> 00:22:35,430
+Además, ¿por qué estás aquí?
+
+326
+00:22:35,430 --> 00:22:36,180
+¡No seas malo!
+
+327
+00:22:36,180 --> 00:22:39,950
+Vine a cuidarte, ¿acaso prefieres a Yawara?
+
+328
+00:22:39,950 --> 00:22:43,350
+No era lo que quería decir.
+
+329
+00:22:43,350 --> 00:22:46,050
+¡Entonces olvídala! ¡Vamos, ven!
+
+330
+00:22:46,470 --> 00:22:52,080
+Así que jugaba a dos puntas.
+Ese joven @no tiene nada de suerte.
+
+331
+00:22:52,970 --> 00:22:59,980
+#Faltan 75 días para
+#los Juegos Olímpicos de Barcelona.
+
+332
+00:23:02,110 --> 00:23:03,980
+¡Malditos sean los hombres!
+
+333
+00:23:03,980 --> 00:23:09,940
+Yawara, para encontrar un hombre bueno como yo
+entre todas las hordas, lo que debes hacer es...
+
+334
+00:23:09,940 --> 00:23:10,900
+¿Qué debo hacer?
+
+335
+00:23:10,900 --> 00:23:13,810
+¡Concentrarte en un entrenamiento intensivo!
+
+336
+00:23:13,810 --> 00:23:15,610
+¡Qué estupidez!
+
+337
+00:23:15,610 --> 00:23:18,990
+Estoy celosa de Fujiko. Tiene a
+Hanazono para ella sola.
+
+338
+00:23:18,990 --> 00:23:22,540
+¡¿Qué dijiste?! ¿En realidad te gusta ese gorila?
+
+339
+00:23:22,540 --> 00:23:23,890
+¡Yawara!
+
+340
+00:23:23,890 --> 00:23:26,030
+La determinación de los hombres.
+
+341
+00:23:24,920 --> 00:23:26,030
+
+342
+00:23:26,030 --> 00:23:28,730
+Sufrirás mi uchi mata si no lo miras.
+
+343
+00:23:28,730 --> 00:23:29,920
+
+344
+00:11:46,010 --> 0:11:48,680
+**Eyecatch
