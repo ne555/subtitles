@@ -1,0 +1,9 @@
+set nobomb
+% s/,Default,/,H2 (Inferior),/
+% s/ \+$//
+% s/\(\\N\)\+$//
+/\[Events\]
+normal 2kdgg
+0r header.ass
+g/,,$/d
+!ln % video/%:s#-spa##
