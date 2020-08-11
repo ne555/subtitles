@@ -1,0 +1,16 @@
+set nobomb
+g/,note,/normal A#
+g#,thought,#normal A</i>
+% s#^Comment:#Dialogue:
+"g/,Karaoke Translation-furigana,/d
+"g/,Kanji Karaoke-furigana,/d
+"g/,Romaji Karaoke-furigana,/d
+"g/,Romaji Karaoke,/d
+"g/,Karaoke Translation,/d
+"g/,Kanji Karaoke,/d
+"g/,Romaji Karaoke op,/d
+"g/,Karaoke Translation op,/d
+"g/,Kanji Karaoke op,/d
+saveas! %:r-eng.%:e
+!python ../ssa2srt.py % %:r.srt
+!cp %:r.srt %:s/-.*$/-spa.srt/
