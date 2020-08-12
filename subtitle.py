@@ -15,9 +15,9 @@ class Subtitle:
         extension = os.path.splitext(filename)[1]
 
         if extension=='.srt':
-            player = SrtPlayer(self.vim)
+            player = SrtPlayer(self.vim, args)
         elif extension=='.ass':
-            player = AssPlayer(self.vim)
+            player = AssPlayer(self.vim, args)
         else:
             raise Exception('No known subtitle file type')
 
@@ -29,17 +29,28 @@ class Subtitle:
 
 
 class SubPlayer:
-    def __init__(self, vim):
+    def __init__(self, vim, args):
         self.vim = vim
-        self.command = 'mpv --vo=null --start={start} --end={end} {videofile}'
+        if 'video' in args:
+            video = ''
+        else:
+            video = '--vo=null'
+
+        if 'keep-going' in args:
+            keep = ''
+        else:
+            keep = '--end={end}'
+
+        #self.command = 'mpv --vo=null --start={start} --end={end} {videofile}'
+        self.command = 'mpv {video} --start={{start}} {keep} {{videofile}}'.format(video=video, keep=keep)
 
     def play_subtitle(self, range, videofile):
         raise NotImplementedError('play_subtitle() needs to be overrided')
 
 
 class SrtPlayer(SubPlayer):
-    def __init__(self, vim):
-        super().__init__(vim)
+    def __init__(self, vim, args):
+        super().__init__(vim, args)
 
     def play_subtitle(self, range, videofile):
         line = self.vim.current.line
@@ -75,8 +86,8 @@ class SrtPlayer(SubPlayer):
         return len(time)==3 and time[1]=='-->'
 
 class AssPlayer(SubPlayer):
-    def __init__(self, vim):
-        super().__init__(vim)
+    def __init__(self, vim, args):
+        super().__init__(vim, args)
 
     def play_subtitle(self, range, videofile):
         #Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
