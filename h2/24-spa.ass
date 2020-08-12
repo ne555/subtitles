@@ -30,7 +30,7 @@ Dialogue: 0,0:02:20.30,0:02:21.50,H2 (Inferior),,0,0,0,,#Youkou
 Dialogue: 0,0:02:21.70,0:02:25.66,H2 (Inferior),,0,0,0,,Tenemos la suerte de recibir un tiempo\Nestupendo en el estadio Koshien.
 Dialogue: 0,0:02:25.66,0:02:27.30,H2 (Inferior),,0,0,0,,Como pueden ver, el estadio está repleto.
 Dialogue: 0,0:02:28.05,0:02:30.30,H2 (Inferior),,0,0,0,,Este es el encuentro final del torneo de verano.
-Dialogue: 0,0:02:30.90,0:02:34.76,H2 (Inferior),,0,0,0,,Como @comentarista tendremos a Ichitaro Nehori.
+Dialogue: 0,0:02:30.90,0:02:34.76,H2 (Inferior),,0,0,0,,Como comentarista tendremos a Ichitaro Nehori.
 Dialogue: 0,0:02:35.37,0:02:36.70,H2 (Inferior),,0,0,0,,Es un placer.
 Dialogue: 0,0:02:47.91,0:02:50.00,H2 (Inferior),,0,0,0,,Parte alta de la primera, Saeki Chuuou al bat.
 Dialogue: 0,0:02:51.05,0:02:53.70,H2 (Inferior),,0,0,0,,Así es como debe ser el verano japonés.
@@ -73,7 +73,7 @@ Dialogue: 0,0:06:22.35,0:06:23.20,H2 (Inferior),,0,0,0,,Lo siento.
 Dialogue: 0,0:06:27.96,0:06:30.25,H2 (Inferior),,0,0,0,,¿Podría traerme más café?
 Dialogue: 0,0:06:30.25,0:06:31.25,H2 (Inferior),,0,0,0,,Ya es su séptima taza...
 Dialogue: 0,0:06:33.17,0:06:36.08,H2 (Inferior),,0,0,0,,Es 11 a 0, una ventaja infranqueable.
-Dialogue: 0,0:06:36.08,0:06:38.35,H2 (Inferior),,0,0,0,,@Espero que resistan y logren terminar el partido.
+Dialogue: 0,0:06:36.08,0:06:38.35,H2 (Inferior),,0,0,0,,Espero que se mantengan así el resto del partido.
 Dialogue: 0,0:06:38.94,0:06:39.88,H2 (Inferior),,0,0,0,,Es cierto.
 Dialogue: 0,0:06:40.91,0:06:42.05,H2 (Inferior),,0,0,0,,Así es.
 Dialogue: 0,0:06:43.21,0:06:45.25,H2 (Inferior),,0,0,0,,Hablando de juegos desparejos\Nen el campeonato nacional,
@@ -106,7 +106,7 @@ Dialogue: 0,0:08:13.21,0:08:14.80,H2 (Inferior),,0,0,0,,¡Qué tontos!
 Dialogue: 0,0:08:14.80,0:08:17.00,H2 (Inferior),,0,0,0,,¿Qué están haciendo? ¡Así no!
 Dialogue: 0,0:08:18.10,0:08:20.25,H2 (Inferior),,0,0,0,,¡Dejen que dirija el equipo!
 Dialogue: 0,0:08:21.25,0:08:26.20,H2 (Inferior),,0,0,0,,#Apunta al campeonato nacional\N#Hiro Kunimi
-Dialogue: 0,0:08:26.20,0:08:30.05,H2 (Inferior),,0,0,0,,#Saeki Chuuou\N#Youkou
+Dialogue: 0,0:08:26.20,0:08:30.05,H2 (Inferior),,0,0,0,,#Saeki Chuuou - Youkou
 Dialogue: 0,0:08:27.00,0:08:30.05,H2 (Inferior),,0,0,0,,¡El juego terminó! 16 a 0.
 Dialogue: 0,0:08:30.90,0:08:34.13,H2 (Inferior),,0,0,0,,¡La preparatoria Youkou gana el campeonato nacional!
 Dialogue: 0,0:08:40.12,0:08:41.25,H2 (Inferior),,0,0,0,,Bueno...
@@ -158,7 +158,6 @@ Dialogue: 0,0:12:35.53,0:12:38.50,H2 (Inferior),,0,0,0,,Oh, es cierto. Hoy son l
 Dialogue: 0,0:12:39.55,0:12:41.00,H2 (Inferior),,0,0,0,,¡Cómo pasa el tiempo!
 Dialogue: 0,0:12:41.10,0:12:45.95,H2 (Inferior),,0,0,0,,#Festival de fuegos artificiales
 Dialogue: 0,0:12:51.44,0:12:52.27,H2 (Inferior),,0,0,0,,Bienvenidos.
-Dialogue: 0,0:12:54.85,0:12:56.65,H2 (Inferior),,0,0,0,,#Lanzamiento de anillos\N#¥200 por intento
 Dialogue: 0,0:12:55.73,0:12:56.65,H2 (Inferior),,0,0,0,,Aquí tienes.
 Dialogue: 0,0:13:01.55,0:13:03.78,H2 (Inferior),,0,0,0,,¡Qué mucha gente!
 Dialogue: 0,0:13:03.78,0:13:06.91,H2 (Inferior),,0,0,0,,¿Dónde estará Hiro?
@@ -287,8 +286,8 @@ Dialogue: 0,0:20:10.80,0:20:11.80,H2 (Inferior),,0,0,0,,Diablos...
 Dialogue: 0,0:20:12.95,0:20:15.00,H2 (Inferior),,0,0,0,,¡Ay, duele!
 Dialogue: 0,0:20:15.00,0:20:16.45,H2 (Inferior),,0,0,0,,¡Tonto beisbolista!
 Dialogue: 0,0:20:16.45,0:20:17.97,H2 (Inferior),,0,0,0,,¡Guarda silencio, chico de los fideos!
-Dialogue: 0,0:20:16.65,0:20:22.60,H2 (Inferior),,0,0,0,,#¡Apunta al campeonato nacional!\N#Hideo Tachibana
 Dialogue: 0,0:20:17.97,0:20:20.31,H2 (Inferior),,0,0,0,,¿Chico? ¿Quién te crees que eres para hablarme así?
+Dialogue: 0,0:20:16.65,0:20:22.60,H2 (Inferior),,0,0,0,,#¡Apunta al campeonato nacional!\N#Hideo Tachibana
 Dialogue: 0,0:20:22.55,0:20:23.80,H2 (Inferior),,0,0,0,,¡Ay! ¡Ay!
 Dialogue: 0,0:20:23.80,0:20:24.96,H2 (Inferior),,0,0,0,,¡Toma!
 Dialogue: 0,0:20:30.24,0:20:32.20,H2 (Inferior),,0,0,0,,Oh, ya limpio todo.

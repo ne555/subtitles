@@ -45,7 +45,7 @@ Dialogue: 0,0:03:07.97,0:03:10.54,H2 (Inferior),,0,0,0,,No me trates como a un a
 Dialogue: 0,0:03:14.67,0:03:15.99,H2 (Inferior),,0,0,0,,¿Quieres ir a algún lugar?
 Dialogue: 0,0:03:17.17,0:03:19.04,H2 (Inferior),,0,0,0,,¡Imbécil! ¡Así no!
 Dialogue: 0,0:03:21.27,0:03:23.10,H2 (Inferior),,0,0,0,,¡Fallaron la jugada de cuña!
-Dialogue: 0,0:03:21.27,0:03:23.10,H2 (Top),,0,0,0,,$Jugada de cuña: toque de sacrificio\Npara que anote el corredor en tercera.
+Dialogue: 0,0:03:21.27,0:03:23.10,H2 (Superior),,0,0,0,,$Jugada de cuña: toque de sacrificio\Npara que anote el corredor en tercera.
 Dialogue: 0,0:03:23.10,0:03:25.00,H2 (Inferior),,0,0,0,,&El corredor está entre las bases.
 Dialogue: 0,0:03:24.50,0:03:26.00,H2 (Inferior),,0,0,0,,&¿Pero qué hacen?
 Dialogue: 0,0:03:25.00,0:03:26.00,H2 (Inferior),,0,0,0,,&¡Y lo eliminan!
@@ -95,8 +95,7 @@ Dialogue: 0,0:06:26.00,0:06:29.42,H2 (Inferior),,0,0,0,,... haremos un estallido
 Dialogue: 0,0:06:43.35,0:06:51.10,H2 (Inferior),,0,0,0,,#Helado
 Dialogue: 0,0:06:47.30,0:06:49.56,H2 (Inferior),,0,0,0,,¿Quieres un poco, Kunimi?
 Dialogue: 0,0:06:52.13,0:06:53.00,H2 (Inferior),,0,0,0,,Prefiero aquellos.
-Dialogue: 0,0:06:53.00,0:06:58.00,H2 (Inferior),,0,0,0,,#Raspados
-Dialogue: 0,0:06:53.00,0:06:58.00,H2 (Inferior),,0,0,0,,#Iso Chidori
+Dialogue: 0,0:06:53.00,0:06:58.00,H2 (Inferior),,0,0,0,,#Iso Chidori\N#Raspados
 Dialogue: 0,0:06:58.02,0:07:01.95,H2 (Inferior),,0,0,0,,#Raspados
 Dialogue: 0,0:07:06.97,0:07:07.83,H2 (Inferior),,0,0,0,,¡Acérquense!
 Dialogue: 0,0:07:12.39,0:07:14.65,H2 (Inferior),,0,0,0,,Terminamos la práctica por hoy.
@@ -111,8 +110,7 @@ Dialogue: 0,0:07:40.24,0:07:43.65,H2 (Inferior),,0,0,0,,Bien, por hoy pueden des
 Dialogue: 0,0:07:43.65,0:07:44.50,H2 (Inferior),,0,0,0,,Eso es todo.
 Dialogue: 0,0:07:44.50,0:07:45.60,H2 (Inferior),,0,0,0,,Gracias.
 Dialogue: 0,0:07:49.51,0:07:51.45,H2 (Inferior),,0,0,0,,Me pregunto si Hikari se enojará conmigo.
-Dialogue: 0,0:07:54.95,0:07:57.93,H2 (Inferior),,0,0,0,,#Iso Chidori
-Dialogue: 0,0:07:54.95,0:07:57.93,H2 (Inferior),,0,0,0,,#Raspados
+Dialogue: 0,0:07:54.95,0:07:57.93,H2 (Inferior),,0,0,0,,#Iso Chidori\N#Raspados
 Dialogue: 0,0:08:18.43,0:08:20.11,H2 (Inferior),,0,0,0,,¡Está frío!
 Dialogue: 0,0:08:20.11,0:08:21.22,H2 (Inferior),,0,0,0,,¿Estás bien?
 Dialogue: 0,0:08:21.22,0:08:22.25,H2 (Inferior),,0,0,0,,Sí, estoy bien.
@@ -164,11 +162,11 @@ Dialogue: 0,0:11:08.50,0:11:09.80,H2 (Inferior),,0,0,0,,¿Por qué no vas tú?
 Dialogue: 0,0:11:09.80,0:11:10.83,H2 (Inferior),,0,0,0,,¿Con quién?
 Dialogue: 0,0:11:10.83,0:11:13.51,H2 (Inferior),,0,0,0,,No sé, ¿Hiro?
 Dialogue: 0,0:11:13.51,0:11:14.59,H2 (Inferior),,0,0,0,,Supongo.
-Dialogue: 0,0:11:59.20,0:12:02.35,H2 (Inferior),,0,0,0,,¿Sabías, Kunimi, que hay cangrejos\Nque caminan hacia adelante?
+Dialogue: 0,0:11:59.20,0:12:02.35,H2 (Inferior),,0,0,0,,Kunimi, ¿sabías que hay cangrejos\Nque caminan hacia adelante?
 Dialogue: 0,0:12:03.45,0:12:04.80,H2 (Inferior),,0,0,0,,Estás mintiendo.
 Dialogue: 0,0:12:06.05,0:12:09.00,H2 (Inferior),,0,0,0,,Es verdad. Lo leí en una enciclopedia.
 Dialogue: 0,0:12:09.00,0:12:11.99,H2 (Inferior),,0,0,0,,¿En verdad?
-Dialogue: 0,0:12:09.00,0:12:11.99,H2 (Top),,0,0,0,,$Kani: cangrejo.
+Dialogue: 0,0:12:09.00,0:12:11.99,H2 (Superior),,0,0,0,,$Kani: cangrejo.
 Dialogue: 0,0:12:12.50,0:12:13.74,H2 (Inferior),,0,0,0,,Cielos.
 Dialogue: 0,0:12:20.58,0:12:22.95,H2 (Inferior),,0,0,0,,Ten cuidado.
 Dialogue: 0,0:12:22.95,0:12:23.42,H2 (Inferior),,0,0,0,,¿Por qué?
@@ -197,11 +195,11 @@ Dialogue: 0,0:15:34.60,0:15:36.17,H2 (Inferior),,0,0,0,,&Ahora que lo pienso...
 Dialogue: 0,0:15:43.05,0:15:46.65,H2 (Inferior),,0,0,0,,Ahora que lo pienso, creo que era por aquí.
 Dialogue: 0,0:15:47.65,0:15:49.00,H2 (Inferior),,0,0,0,,¿Qué cosa?
 Dialogue: 0,0:15:50.01,0:15:54.27,H2 (Inferior),,0,0,0,,Cuando estaba en primaria, me resbalé\Ny me lastimé muy mal la pierna.
-Dialogue: 0,0:15:56.62,0:15:58.50,H2 (Inferior),,0,0,0,,Debe haber sido difícil
+Dialogue: 0,0:15:56.62,0:15:58.50,H2 (Inferior),,0,0,0,,Debe haber sido difícil...
 Dialogue: 0,0:15:58.50,0:16:03.65,H2 (Inferior),,0,0,0,,... llevarme en su espalda y caminar hasta\Nla cabaña donde estaban mis padres...
 Dialogue: 0,0:16:03.65,0:16:06.31,H2 (Inferior),,0,0,0,,... mientras sangraba por la cabeza.
 Dialogue: 0,0:16:06.31,0:16:07.00,H2 (Inferior),,0,0,0,,¿Quién lo hizo?
-Dialogue: 0,0:16:15.48,0:16:19.90,H2 (Inferior),,0,0,0,,Bueno, mi altura y peso era menor\Nal promedio en ese entonces...
+Dialogue: 0,0:16:15.48,0:16:19.90,H2 (Inferior),,0,0,0,,Bueno, mi altura y peso eran menores\Nal promedio en ese entonces...
 Dialogue: 0,0:16:19.90,0:16:21.70,H2 (Inferior),,0,0,0,,... tal vez no fue tan difícil.
 Dialogue: 0,0:16:36.72,0:16:38.31,H2 (Inferior),,0,0,0,,¡Se despejó!
 Dialogue: 0,0:17:02.45,0:17:03.87,H2 (Inferior),,0,0,0,,¿Te arrepientes?
@@ -228,7 +226,7 @@ Dialogue: 0,0:18:53.34,0:18:54.29,H2 (Inferior),,0,0,0,,Quién sabe.
 Dialogue: 0,0:18:55.18,0:18:58.45,H2 (Inferior),,0,0,0,,Pero es más importante que\Nmires el camino al manejar, hermano.
 Dialogue: 0,0:18:58.45,0:18:59.12,H2 (Inferior),,0,0,0,,Cierto.
 Dialogue: 0,0:19:06.90,0:19:12.25,H2 (Inferior),,0,0,0,,Pero el béisbol de preparatoria es\Nrealmente interesante, ¿no lo crees?
-Dialogue: 0,0:19:12.92,0:19:15.50,H2 (Inferior),,0,0,0,,Así es, @hermano.
+Dialogue: 0,0:19:12.92,0:19:15.50,H2 (Inferior),,0,0,0,,Así es, hermano.
 Dialogue: 0,0:19:15.50,0:19:17.69,H2 (Inferior),,0,0,0,,El sacrificio termina en foul.
 Dialogue: 0,0:19:17.69,0:19:19.92,H2 (Inferior),,0,0,0,,¿Qué están haciendo? ¡Así no!
 Dialogue: 0,0:19:19.92,0:19:21.89,H2 (Inferior),,0,0,0,,Deberían ponerme a mí de entrenador.
@@ -256,7 +254,7 @@ Dialogue: 0,0:20:43.55,0:20:49.74,H2 (Inferior),,0,0,0,,Este campamento surgió 
 Dialogue: 0,0:20:49.74,0:20:52.43,H2 (Inferior),,0,0,0,,¡Yo esperaba con ansias ir al concierto, demonios!
 Dialogue: 0,0:20:53.25,0:20:55.30,H2 (Inferior),,0,0,0,,Tendrías que haber ido al campeonato nacional.
 Dialogue: 0,0:20:57.25,0:21:02.36,H2 (Inferior),,0,0,0,,De todas maneras, ya se lo dije a Hikari.\N¡Por favor, cuento contigo!
-Dialogue: 0,0:21:02.36,0:21:05.05,H2 (Inferior),,0,0,0,,¿De esta forma pides favores?
+Dialogue: 0,0:21:02.36,0:21:05.05,H2 (Inferior),,0,0,0,,¿Así pides favores?
 Dialogue: 0,0:21:09.25,0:21:11.80,H2 (Inferior),,0,0,0,,Bueno, debo prepararme para mañana, me voy a casa.
 Dialogue: 0,0:21:13.95,0:21:16.87,H2 (Inferior),,0,0,0,,#Apunta al campeonato nacional\N#Hiro Kunimi
 Dialogue: 0,0:21:17.53,0:21:18.68,H2 (Inferior),,0,0,0,,Tu letra es espantosa.

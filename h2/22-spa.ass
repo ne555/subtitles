@@ -19,14 +19,11 @@ Style: H2 (Superior),Fontin Sans Rg,28,&H0000FFFF,&H000000FF,&H00000000,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:34.10,0:01:38.91,H2 (Inferior),,0,0,0,,Yo soy Hiro Kunimi, lanzador de primer año\Nen el club de béisbol de la preparatoria Senkawa.
 Dialogue: 0,0:01:38.91,0:01:41.75,H2 (Inferior),,0,0,0,,Soy amigo de Hideo Tachibana,\Nel bateador de limpieza de Meiwa.
-Dialogue: 0,0:01:44.66,0:01:49.06,H2 (Inferior),,0,0,0,,Me pidió que lo reemplace en su cita,\Ny no pude negarme.
+Dialogue: 0,0:01:44.66,0:01:49.06,H2 (Inferior),,0,0,0,,Me pidió que lo reemplace en su cita\Ny no pude negarme.
 Dialogue: 0,0:01:49.87,0:01:52.10,H2 (Inferior),,0,0,0,,La cita es con Hikari, mi amiga de la infancia.
 Dialogue: 0,0:01:54.50,0:01:56.55,H2 (Inferior),,0,0,0,,La conozco desde que éramos niños,
 Dialogue: 0,0:01:56.55,0:01:59.16,H2 (Inferior),,0,0,0,,por lo que no debería haber ninguna razón\Npara ponerme nervioso, pero...
 Dialogue: 0,0:02:01.05,0:02:09.08,H2 (Inferior),,0,0,0,,"Bateador de emergencia para la cita:\Nla pareja no puede volver a casa"
-Dialogue: 0,0:02:10.90,0:02:13.15,H2 (Inferior),,0,0,0,,#Puentes de Madison
-Dialogue: 0,0:02:12.00,0:02:19.34,H2 (Inferior),,0,0,0,,#Cenicienta
-Dialogue: 0,0:02:20.45,0:02:32.65,H2 (Inferior),,0,0,0,,#Masacre en Nueva York
 Dialogue: 0,0:04:05.07,0:04:06.24,H2 (Inferior),,0,0,0,,Hey...
 Dialogue: 0,0:04:10.18,0:04:12.40,H2 (Inferior),,0,0,0,,Oh, no...
 Dialogue: 0,0:04:12.40,0:04:14.02,H2 (Inferior),,0,0,0,,Tonto.
@@ -88,7 +85,7 @@ Dialogue: 0,0:11:27.65,0:11:30.70,H2 (Inferior),,0,0,0,,Se tienen que hacer más
 Dialogue: 0,0:11:30.70,0:11:31.30,H2 (Inferior),,0,0,0,,Te lo dije.
 Dialogue: 0,0:11:31.30,0:11:31.90,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:11:36.35,0:11:39.00,H2 (Inferior),,0,0,0,,Son las 8:30.
-Dialogue: 0,0:11:39.76,0:11:48.19,H2 (Inferior),,0,0,0,,¿Crees que esta es la clase de escenario donde la pareja\Nque no puede volver a casa pasa la noche juntos?
+Dialogue: 0,0:11:39.76,0:11:48.19,H2 (Inferior),,0,0,0,,¿Será este el escenario donde la pareja\Nque no puede volver a casa pasa la noche juntos?
 Dialogue: 0,0:11:50.07,0:11:51.30,H2 (Inferior),,0,0,0,,Lo siento.
 Dialogue: 0,0:11:51.30,0:11:54.60,H2 (Inferior),,0,0,0,,Dicen que los trenes volverán\Nen más o menos media hora.
 Dialogue: 0,0:11:56.00,0:11:56.90,H2 (Inferior),,0,0,0,,Bien.

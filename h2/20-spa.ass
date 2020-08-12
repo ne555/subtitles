@@ -26,7 +26,7 @@ Dialogue: 0,0:01:50.00,0:01:52.30,H2 (Inferior),,0,0,0,,Perdimos el juego,
 Dialogue: 0,0:01:52.30,0:01:56.80,H2 (Inferior),,0,0,0,,pero ese fue el origen del\Nclub de béisbol de Senkawa.
 Dialogue: 0,0:01:56.80,0:02:00.06,H2 (Inferior),,0,0,0,,Así es, ahora comienza mi\Nhistoria de amor con el béisbol.
 Dialogue: 0,0:02:01.80,0:02:07.85,H2 (Inferior),,0,0,0,,"¡Persecución! Hiro contra Haruka"
-Dialogue: 0,0:02:08.34,0:02:13.30,H2 (Inferior),,0,0,0,,#Campeonato Nacional
+Dialogue: 0,0:02:08.34,0:02:13.30,H2 (Inferior),,0,0,0,,#Koshien
 Dialogue: 0,0:02:58.05,0:03:00.10,H2 (Inferior),,0,0,0,,#Senkawa\N#Takamori
 Dialogue: 0,0:02:59.60,0:03:01.00,H2 (Inferior),,0,0,0,,Juego terminado.
 Dialogue: 0,0:03:01.00,0:03:04.60,H2 (Inferior),,0,0,0,,En su primera aparición en el campeonato nacional,\Nla preparatoria Senkawa gana su primer juego.
@@ -39,7 +39,7 @@ Dialogue: 0,0:03:32.15,0:03:35.21,H2 (Inferior),,0,0,0,,Deberías hacer que te v
 Dialogue: 0,0:03:35.21,0:03:38.35,H2 (Inferior),,0,0,0,,En un lugar serio, a diferencia de la clínica Uetake.
 Dialogue: 0,0:03:38.35,0:03:42.25,H2 (Inferior),,0,0,0,,Finalmente estás en un club de béisbol\Ny tu codo no tiene problemas.
 Dialogue: 0,0:03:46.00,0:03:49.90,H2 (Inferior),,0,0,0,,Supongo que debo hacer que un doctor me revise.
-Dialogue: 0,0:04:10.80,0:04:12.50,H2 (Inferior),,0,0,0,,¡Gran disparo!\NNice shot!
+Dialogue: 0,0:04:10.80,0:04:12.50,H2 (Inferior),,0,0,0,,¡Gran disparo!
 Dialogue: 0,0:04:12.50,0:04:16.14,H2 (Inferior),,0,0,0,,¡Increíble! Estás soltero, ¿no es así?
 Dialogue: 0,0:04:16.14,0:04:17.36,H2 (Inferior),,0,0,0,,Así es.
 Dialogue: 0,0:04:19.25,0:04:21.76,H2 (Inferior),,0,0,0,,Es mi turno, Kunimi.
@@ -102,7 +102,7 @@ Dialogue: 0,0:07:47.55,0:07:48.44,H2 (Inferior),,0,0,0,,Muy bien.
 Dialogue: 0,0:07:48.87,0:07:50.84,H2 (Inferior),,0,0,0,,¡A practicar!
 Dialogue: 0,0:08:08.60,0:08:10.16,H2 (Inferior),,0,0,0,,Siguiente, por favor.
 Dialogue: 0,0:08:10.16,0:08:11.34,H2 (Inferior),,0,0,0,,Sí.
-Dialogue: 0,0:08:15.53,0:08:20.24,H2 (Inferior),,0,0,0,,{\i1}Aunque el lanzador se acerque al plato,{\i}\N{\i1}no tiene problemas para conectar.{\i}
+Dialogue: 0,0:08:15.53,0:08:20.24,H2 (Inferior),,0,0,0,,{\i1}Aun con el lanzador más cerca del plato,{\i}\N{\i1}no tiene problemas para conectar.{\i}
 Dialogue: 0,0:08:28.85,0:08:33.10,H2 (Inferior),,0,0,0,,{\i1}Ese partido no fue un desperdicio.{\i}\N{\i1}Todo lo contrario.{\i}
 Dialogue: 0,0:08:44.91,0:08:46.26,H2 (Inferior),,0,0,0,,Hiro Kunimi...
 Dialogue: 0,0:09:00.10,0:09:03.00,H2 (Inferior),,0,0,0,,Bien. Estoy en buena forma.
@@ -130,10 +130,10 @@ Dialogue: 0,0:10:23.03,0:10:25.04,H2 (Inferior),,0,0,0,,Todos los fanáticos del
 Dialogue: 0,0:10:27.75,0:10:31.35,H2 (Inferior),,0,0,0,,¡Espérenlo con ansias! Firma Hiro Kunimi.
 Dialogue: 0,0:10:37.03,0:10:38.75,H2 (Inferior),,0,0,0,,¿Ese era Hiro?
 Dialogue: 0,0:10:38.75,0:10:41.98,H2 (Inferior),,0,0,0,,Sí. Nos trajo el almuerzo.
-Dialogue: 0,0:10:45.82,0:10:49.48,H2 (Inferior),,0,0,0,,Te hice tu favorito, cardo salteado.
+Dialogue: 0,0:10:45.82,0:10:49.48,H2 (Inferior),,0,0,0,,Te hice tu favorito, kinpira gobo.
 Dialogue: 0,0:10:49.48,0:10:52.26,H2 (Inferior),,0,0,0,,Me tomó bastante tiempo hacerlo.
 Dialogue: 0,0:10:53.83,0:10:54.77,H2 (Inferior),,0,0,0,,A comer.
-Dialogue: 0,0:10:56.65,0:10:59.91,H2 (Inferior),,0,0,0,,Ahora que lo pienso, a Hiro también le gusta el cardo.
+Dialogue: 0,0:10:56.65,0:10:59.91,H2 (Inferior),,0,0,0,,Ahora que lo pienso, a Hiro también\Nle gusta el kinpira gobo.
 Dialogue: 0,0:11:01.86,0:11:03.44,H2 (Inferior),,0,0,0,,Gracias por la comida.
 Dialogue: 0,0:11:06.36,0:11:07.09,H2 (Inferior),,0,0,0,,¿Eh?
 Dialogue: 0,0:11:12.55,0:11:17.30,H2 (Inferior),,0,0,0,,#Mi objetivo es el campeonato nacional
@@ -148,7 +148,7 @@ Dialogue: 0,0:12:30.10,0:12:32.67,H2 (Inferior),,0,0,0,,Soy Taro Kunimi de la te
 Dialogue: 0,0:12:38.61,0:12:41.40,H2 (Inferior),,0,0,0,,Veamos, el hospital está muy lejos.
 Dialogue: 0,0:12:49.80,0:12:56.20,H2 (Inferior),,0,0,0,,#Clínica Kato
 Dialogue: 0,0:12:50.36,0:12:53.03,H2 (Inferior),,0,0,0,,Creo que paso.
-Dialogue: 0,0:12:56.25,0:12:59.20,H2 (Inferior),,0,0,0,,#Clínica Yamazaki\N#Medicina interna\N#Gastroenterología\N#Cirugía\N#Ortopedia
+Dialogue: 0,0:12:56.25,0:12:59.20,H2 (Inferior),,0,0,0,,#Clínica Yamazaki
 Dialogue: 0,0:13:03.81,0:13:06.26,H2 (Inferior),,0,0,0,,Prefiero a alguien más delgada.
 Dialogue: 0,0:13:07.65,0:13:10.50,H2 (Inferior),,0,0,0,,#Koide
 Dialogue: 0,0:13:13.20,0:13:13.89,H2 (Inferior),,0,0,0,,¿Oh?
@@ -171,7 +171,7 @@ Dialogue: 0,0:14:15.81,0:14:18.50,H2 (Inferior),,0,0,0,,Es más probable que te 
 Dialogue: 0,0:14:18.50,0:14:21.07,H2 (Inferior),,0,0,0,,No creo que debas preocuparte porque te despidan.
 Dialogue: 0,0:14:26.01,0:14:26.88,H2 (Inferior),,0,0,0,,¿En verdad?
 Dialogue: 0,0:14:37.55,0:14:39.15,H2 (Inferior),,0,0,0,,Ahí está.
-Dialogue: 0,0:14:39.57,0:14:40.34,H2 (Inferior),,0,0,0,,Detente aquí.
+Dialogue: 0,0:14:39.57,0:14:40.34,H2 (Inferior),,0,0,0,,Detén el auto.
 Dialogue: 0,0:14:43.54,0:14:44.59,H2 (Inferior),,0,0,0,,¡Kunimi!
 Dialogue: 0,0:14:47.25,0:14:48.20,H2 (Inferior),,0,0,0,,Hola.
 Dialogue: 0,0:15:01.20,0:15:02.70,H2 (Inferior),,0,0,0,,¿Fuiste al doctor?
@@ -197,7 +197,7 @@ Dialogue: 0,0:16:17.34,0:16:18.20,H2 (Inferior),,0,0,0,,¡Ah!
 Dialogue: 0,0:16:18.20,0:16:20.61,H2 (Inferior),,0,0,0,,Recuerdo que tomaba raspados aquí de niño.
 Dialogue: 0,0:16:20.61,0:16:21.74,H2 (Inferior),,0,0,0,,¿Qué?
 Dialogue: 0,0:16:23.01,0:16:25.72,H2 (Inferior),,0,0,0,,¡Qué nostalgia!
-Dialogue: 0,0:16:25.72,0:16:30.31,H2 (Inferior),,0,0,0,,Alto. Sé que esta cafetería\Ntiene salida a la otra calle.
+Dialogue: 0,0:16:25.72,0:16:30.31,H2 (Inferior),,0,0,0,,Detente. Sé que esta cafetería\Ntiene salida a la otra calle.
 Dialogue: 0,0:16:31.55,0:16:32.53,H2 (Inferior),,0,0,0,,Un ov--
 Dialogue: 0,0:16:32.53,0:16:34.73,H2 (Inferior),,0,0,0,,Un ovni volando, ¿no es así?
 Dialogue: 0,0:16:35.40,0:16:37.00,H2 (Inferior),,0,0,0,,¡El cielo es azul!
@@ -228,14 +228,14 @@ Dialogue: 0,0:19:45.53,0:19:50.10,H2 (Inferior),,0,0,0,,Si en verdad tuviese una
 Dialogue: 0,0:19:58.70,0:20:02.40,H2 (Inferior),,0,0,0,,Siempre fue así desde que éramos niños.
 Dialogue: 0,0:20:15.30,0:20:16.53,H2 (Inferior),,0,0,0,,¿Por qué estás molesta?
 Dialogue: 0,0:20:20.88,0:20:22.80,H2 (Inferior),,0,0,0,,No es nada.
-Dialogue: 0,0:20:22.80,0:20:24.65,H2 (Inferior),,0,0,0,,@¡Apunta! ¿No es así?
+Dialogue: 0,0:20:22.80,0:20:24.65,H2 (Inferior),,0,0,0,,¡Apunta! ¿No es así?
 Dialogue: 0,0:20:31.71,0:20:33.80,H2 (Inferior),,0,0,0,,Lamento decirte...
 Dialogue: 0,0:20:33.80,0:20:35.80,H2 (Inferior),,0,0,0,,... que es sólo un raspón.
 Dialogue: 0,0:20:35.30,0:20:43.20,H2 (Inferior),,0,0,0,,#Hospital de la Universidad Keinan
 Dialogue: 0,0:20:35.30,0:20:43.20,H2 (Inferior),,0,0,0,,#Ambulancias
 Dialogue: 0,0:20:35.80,0:20:38.20,H2 (Inferior),,0,0,0,,No hay daño al hueso o a los ligamentos.
 Dialogue: 0,0:20:38.20,0:20:42.10,H2 (Inferior),,0,0,0,,Debería sanar en unos días, pero por si acaso,\Nte pediré que vuelvas a venir.
-Dialogue: 0,0:20:45.87,0:20:47.50,H2 (Inferior),,0,0,0,,¿Quieres @pasar?
+Dialogue: 0,0:20:45.87,0:20:47.50,H2 (Inferior),,0,0,0,,¿Quieres pasar?
 Dialogue: 0,0:21:28.20,0:21:34.10,H2 (Inferior),,0,0,0,,#Apunta al campeonato nacional\N#Hiro Kunimi
 Dialogue: 0,0:21:34.90,0:21:37.54,H2 (Inferior),,0,0,0,,Tenía muchos deseos de colgar esto.
 Dialogue: 0,0:21:50.84,0:21:53.20,H2 (Inferior),,0,0,0,,Quería mostrártelo.

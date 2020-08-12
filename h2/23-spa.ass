@@ -18,10 +18,10 @@ Style: H2 (Superior),Fontin Sans Rg,28,&H0000FFFF,&H000000FF,&H00000000,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:37.35,0:01:39.67,H2 (Inferior),,0,0,0,,Fui a un concierto de rock junto a Hikari.
-Dialogue: 0,0:01:41.50,0:01:42.40,H2 (Inferior),,0,0,0,,#Debido a la inundación de las vías\N#se suspende el servicio entre Shirai y Mikami\N#Gracias por su entendimiento
 Dialogue: 0,0:01:44.31,0:01:48.22,H2 (Inferior),,0,0,0,,Debido a la tormenta, se interrumpió el servicio\Nde trenes y muchos otros accidentes sucedieron.
 Dialogue: 0,0:01:48.70,0:01:50.15,H2 (Inferior),,0,0,0,,#El servicio de trenes ha terminado por hoy
-Dialogue: 0,0:01:51.95,0:01:59.01,H2 (Inferior),,0,0,0,,No pudimos regresar a casa, generándose un escenario\Ndonde Hikari y yo tuvimos que pasar la noche juntos.
+Dialogue: 0,0:01:51.95,0:01:55.51,H2 (Inferior),,0,0,0,,No pudimos regresar a casa,\Ngenerándose un escenario...
+Dialogue: 0,0:01:55.51,0:01:59.01,H2 (Inferior),,0,0,0,,... donde Hikari y yo tuvimos\Nque pasar la noche juntos.
 Dialogue: 0,0:02:01.00,0:02:06.50,H2 (Inferior),,0,0,0,,"No puedo dormir...  Una noche solos los dos"
 Dialogue: 0,0:02:10.45,0:02:12.70,H2 (Inferior),,0,0,0,,#Concierto
 Dialogue: 0,0:02:43.70,0:02:45.39,H2 (Inferior),,0,0,0,,Bienvenidos.
@@ -41,21 +41,21 @@ Dialogue: 0,0:03:51.15,0:03:55.77,H2 (Inferior),,0,0,0,,Un relajante baño para 
 Dialogue: 0,0:03:55.77,0:03:57.42,H2 (Inferior),,0,0,0,,¿No piensas lo mismo, hermana?
 Dialogue: 0,0:03:57.42,0:03:58.65,H2 (Inferior),,0,0,0,,Así es.
 Dialogue: 0,0:03:58.65,0:04:01.12,H2 (Inferior),,0,0,0,,Espero que disfruten su estadía.
-Dialogue: 0,0:04:09.58,0:04:12.99,H2 (Inferior),,0,0,0,,Parecía que sospechaba un poco, ¿no te parece, hermana?
+Dialogue: 0,0:04:09.58,0:04:12.99,H2 (Inferior),,0,0,0,,Parecía que sospechaba un poco,\N¿no te parece, hermana?
 Dialogue: 0,0:04:12.99,0:04:14.56,H2 (Inferior),,0,0,0,,Supongo.
-Dialogue: 0,0:04:15.41,0:04:21.42,H2 (Inferior),,0,0,0,,Podría haber funcionado hace tres años, pero ahora\Nes difícil hacer que crean que somos hermanos.
+Dialogue: 0,0:04:15.41,0:04:21.42,H2 (Inferior),,0,0,0,,Quizás hace tres años, pero ahora es difícil\Nhacer que crean que somos hermanos.
 Dialogue: 0,0:04:21.42,0:04:23.90,H2 (Inferior),,0,0,0,,Me pregunto qué habrá pensado de nosotros.
 Dialogue: 0,0:04:28.35,0:04:29.35,H2 (Inferior),,0,0,0,,Quién sabe.
 Dialogue: 0,0:04:45.67,0:04:47.45,H2 (Inferior),,0,0,0,,No la ensucies.
 Dialogue: 0,0:04:47.45,0:04:48.71,H2 (Inferior),,0,0,0,,Pensé que compramos dos.
-Dialogue: 0,0:04:50.16,0:04:52.24,H2 (Inferior),,0,0,0,,Uno es para Hide.
+Dialogue: 0,0:04:50.16,0:04:52.24,H2 (Inferior),,0,0,0,,Una es para Hide.
 Dialogue: 0,0:04:55.15,0:04:55.99,H2 (Inferior),,0,0,0,,Ya veo.
 Dialogue: 0,0:05:00.32,0:05:04.20,H2 (Inferior),,0,0,0,,También compraste dos camisetas, ¿verdad?
 Dialogue: 0,0:05:04.20,0:05:04.99,H2 (Inferior),,0,0,0,,Sí.
-Dialogue: 0,0:05:06.30,0:05:08.00,H2 (Inferior),,0,0,0,,@Por algo así.
+Dialogue: 0,0:05:06.30,0:05:08.00,H2 (Inferior),,0,0,0,,Por algo así.
 Dialogue: 0,0:05:08.97,0:05:11.42,H2 (Inferior),,0,0,0,,¿Qué quieres decir con eso?
 Dialogue: 0,0:05:11.42,0:05:13.16,H2 (Inferior),,0,0,0,,No, nada.
-Dialogue: 0,0:05:13.16,0:05:17.88,H2 (Inferior),,0,0,0,,Es que si no hubiéramos estas cosas,\Ntendríamos dinero para volver en taxi.
+Dialogue: 0,0:05:13.16,0:05:17.88,H2 (Inferior),,0,0,0,,Es que sin estas cosas, tendríamos el dinero\Npara volver en taxi.
 Dialogue: 0,0:05:17.88,0:05:21.16,H2 (Inferior),,0,0,0,,¿Quieres decir que es mi culpa?
 Dialogue: 0,0:05:22.56,0:05:28.44,H2 (Inferior),,0,0,0,,Para nada. Sólo pensaba que\Npodríamos haber conseguido un taxi.
 Dialogue: 0,0:05:28.44,0:05:30.65,H2 (Inferior),,0,0,0,,Nunca te rindes.
@@ -99,7 +99,7 @@ Dialogue: 0,0:08:42.15,0:08:48.15,H2 (Inferior),,0,0,0,,Desde la secundaria que 
 Dialogue: 0,0:08:49.65,0:08:50.65,H2 (Inferior),,0,0,0,,Me refería a ti.
 Dialogue: 0,0:08:54.10,0:09:00.55,H2 (Inferior),,0,0,0,,#Posada Yasui
 Dialogue: 0,0:08:56.06,0:09:00.50,H2 (Inferior),,0,0,0,,Es que éramos tan cercanos que\Nno podía verte con claridad.
-Dialogue: 0,0:09:01.44,0:09:09.50,H2 (Inferior),,0,0,0,,Tan sólo hace poco comencé a comprender por qué\Nlos chicos hacían tanto lío por ti.
+Dialogue: 0,0:09:01.44,0:09:09.50,H2 (Inferior),,0,0,0,,Fue hace poco que comencé a comprender\Npor qué los chicos hacían tanto lío por ti.
 Dialogue: 0,0:09:11.24,0:09:13.92,H2 (Inferior),,0,0,0,,Yo tampoco te veía claramente.
 Dialogue: 0,0:09:19.93,0:09:22.20,H2 (Inferior),,0,0,0,,Porque eras demasiado pequeño.
 Dialogue: 0,0:09:23.20,0:09:23.85,H2 (Inferior),,0,0,0,,¡No!
@@ -122,7 +122,7 @@ Dialogue: 0,0:10:37.50,0:10:38.80,H2 (Inferior),,0,0,0,,{\i1}¿Es un baño mixto
 Dialogue: 0,0:10:42.25,0:10:48.23,H2 (Inferior),,0,0,0,,{\i1}¿Es esa clase de disposición donde tienen entradas{\i}\N{\i1}separadas pero terminan en el mismo lugar?{\i}
 Dialogue: 0,0:10:48.23,0:10:49.58,H2 (Inferior),,0,0,0,,{\i1}Eso quiere decir que...{\i}
 Dialogue: 0,0:11:24.95,0:11:25.82,H2 (Inferior),,0,0,0,,{\i1}¿Qué?{\i}
-Dialogue: 0,0:11:31.71,0:11:32.74,H2 (Inferior),,0,0,0,,¡Maldición!
+Dialogue: 0,0:11:31.71,0:11:32.74,H2 (Inferior),,0,0,0,,¡Qué!
 Dialogue: 0,0:11:53.40,0:11:56.25,H2 (Inferior),,0,0,0,,Y entonces perdí el último tren.
 Dialogue: 0,0:11:57.63,0:12:03.15,H2 (Inferior),,0,0,0,,No tenía suficiente dinero para un taxi,\Npero me alcanzó para pasar la noche aquí.
 Dialogue: 0,0:12:04.55,0:12:06.55,H2 (Inferior),,0,0,0,,Qué coincidencia.
@@ -165,7 +165,7 @@ Dialogue: 0,0:15:35.61,0:15:36.63,H2 (Inferior),,0,0,0,,No, gracias.
 Dialogue: 0,0:15:40.50,0:15:43.09,H2 (Inferior),,0,0,0,,¿Qué tiene esto de especial?
 Dialogue: 0,0:15:44.78,0:15:47.58,H2 (Inferior),,0,0,0,,Los que no entienden nunca entenderán.
 Dialogue: 0,0:15:47.58,0:15:49.02,H2 (Inferior),,0,0,0,,Supongo que tienes razón.
-Dialogue: 0,0:16:06.93,0:16:07.91,H2 (Inferior),,0,0,0,,¿Necesitas el cepillo?
+Dialogue: 0,0:16:06.93,0:16:07.91,H2 (Inferior),,0,0,0,,¿Quieres el cepillo?
 Dialogue: 0,0:16:42.71,0:16:51.98,H2 (Inferior),,0,0,0,,%Con las manos entrelazadas caminamos bajo el sol.
 Dialogue: 0,0:16:51.98,0:17:00.99,H2 (Inferior),,0,0,0,,%Sentimos el calor y hablamos de muchas cosas.
 Dialogue: 0,0:17:01.58,0:17:11.03,H2 (Inferior),,0,0,0,,%Estar juntos no debería dolernos.
