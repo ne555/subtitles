@@ -1,0 +1,1180 @@
+1
+00:00:02,535 --> 00:00:04,526
+
+2
+00:00:06,406 --> 00:00:07,896
+
+3
+00:00:08,174 --> 00:00:08,608
+
+4
+00:00:08,608 --> 00:00:09,609
+
+5
+00:00:09,609 --> 00:00:11,711
+
+6
+00:00:11,711 --> 00:00:15,482
+
+7
+00:00:15,482 --> 00:00:19,319
+
+8
+00:00:19,319 --> 00:00:23,156
+
+9
+00:00:23,156 --> 00:00:26,455
+
+10
+00:00:26,893 --> 00:00:30,563
+
+11
+00:00:30,563 --> 00:00:34,401
+
+12
+00:00:34,401 --> 00:00:38,667
+
+13
+00:00:39,906 --> 00:00:43,877
+
+14
+00:00:43,877 --> 00:00:47,680
+
+15
+00:00:47,680 --> 00:00:51,446
+
+16
+00:00:51,684 --> 00:00:55,388
+
+17
+00:00:55,388 --> 00:00:57,490
+
+18
+00:00:57,490 --> 00:00:59,225
+
+19
+00:00:59,225 --> 00:01:01,261
+
+20
+00:01:01,261 --> 00:01:02,996
+
+21
+00:01:02,996 --> 00:01:04,898
+
+22
+00:01:04,898 --> 00:01:06,733
+
+23
+00:01:06,733 --> 00:01:10,703
+
+24
+00:01:10,703 --> 00:01:14,507
+
+25
+00:01:14,507 --> 00:01:18,244
+
+26
+00:01:18,244 --> 00:01:22,048
+
+27
+00:01:22,048 --> 00:01:26,075
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+00:01:34,494 --> 00:01:36,696
+#Reservado
+
+29
+00:01:36,696 --> 00:01:37,464
+#Reservado
+% Dame una sacudida para vengar esta época.
+
+30
+00:01:37,464 --> 00:01:42,068
+% Dame una sacudida para vengar esta época.
+
+31
+00:01:42,068 --> 00:01:47,506
+% Los trucos baratos sólo traerán dolor al mundo.
+
+
+
+
+32
+00:02:00,520 --> 00:02:02,722
+Ryo, ya bebiste suficiente.
+
+33
+00:02:02,722 --> 00:02:06,392
+Para nada. No estoy borracho.
+
+34
+00:02:06,392 --> 00:02:09,062
+¡Oye, Umibozu, ya no quedan bebidas!
+
+35
+00:02:09,062 --> 00:02:12,665
+¡Miki, Kasumi, vengan!
+
+36
+00:02:12,665 --> 00:02:14,098
+Cielos...
+
+37
+00:02:15,535 --> 00:02:17,437
+¡Eso es!
+
+38
+00:02:17,437 --> 00:02:21,841
+Espera, Umibozu. Te invito, bebe.
+
+39
+00:02:21,841 --> 00:02:25,044
+¡Miki, Kasumi, brindemos!
+
+40
+00:02:25,044 --> 00:02:27,413
+¿Saeba, en verdad estás bien?
+
+41
+00:02:27,413 --> 00:02:29,315
+¡Sí, estoy bien!
+
+42
+00:02:29,315 --> 00:02:30,782
+¡Salud!
+
+43
+00:02:34,754 --> 00:02:37,056
+Ryo, ya fue suficiente.
+
+44
+00:02:37,056 --> 00:02:40,960
+¿Por qué? ¡Recién empezaba a divertirme!
+
+45
+00:02:40,960 --> 00:02:44,197
+Voy a cambiar de ambiente y beber un poco más.
+
+46
+00:02:44,197 --> 00:02:45,858
+¡Oye, Ryo!
+
+47
+00:02:48,101 --> 00:02:49,568
+Déjalo solo.
+
+
+48
+00:02:50,136 --> 00:02:53,230
+Hoy es un día especial para él.
+
+49
+00:02:56,709 --> 00:03:01,669
+"Adiós Ciudad, Un Regalo de Despedida (Parte 1)"
+
+
+
+50
+00:03:15,862 --> 00:03:17,363
+¡Roberto, a festejar!
+
+51
+00:03:17,363 --> 00:03:18,990
+¡Vamos!
+
+52
+00:03:53,833 --> 00:03:56,893
+Te esperaré en el infierno.
+
+53
+00:03:57,604 --> 00:03:59,697
+¡Roberto!
+
+54
+00:04:13,820 --> 00:04:17,051
+Es cierto, hoy es el aniversario
+de la muerte de Roberto.
+
+55
+00:04:17,657 --> 00:04:19,592
+No fue su culpa.
+
+56
+00:04:19,592 --> 00:04:23,119
+Es lo que sucede cuando dos profesionales
+se enfrentan con todo su orgullo y coraje.
+
+57
+00:04:23,963 --> 00:04:27,023
+Pero no puede olvidar sus amigos.
+
+58
+00:04:28,968 --> 00:04:31,095
+Él es demasiado amable.
+
+59
+00:04:33,606 --> 00:04:36,734
+#Distrito Kabuki Bloque 1
+
+60
+00:04:39,679 --> 00:04:42,648
+¡Muy bien, vayamos a otro bar!
+Bien, dejado es va a uno más barra!
+
+61
+00:04:54,560 --> 00:04:56,960
+#Cabaré Gatitas
+
+62
+00:04:57,030 --> 00:05:01,100
+¡Uno, dos, uno, dos, uno dos, Mokkori!
+
+63
+00:05:01,100 --> 00:05:05,104
+¡Uno, dos, Mokkori, Mokkori!
+
+64
+00:05:05,104 --> 00:05:10,303
+¡Uno, dos, uno, dos, uno dos, Mo...!
+
+65
+00:05:18,017 --> 00:05:19,484
+Ryo...
+
+
+66
+00:05:43,976 --> 00:05:44,943
+¡No está!
+
+67
+00:05:45,244 --> 00:05:47,644
+¿Cuál es la idea, que desde ayer...?
+
+68
+00:05:49,615 --> 00:05:54,450
+Estoy de muy mal humor ahora mismo. Responde.
+
+
+69
+00:06:00,693 --> 00:06:04,026
+¡¿Qué te pasa?! ¡¿Tienes algo en mi contra?!
+
+70
+00:06:12,605 --> 00:06:17,633
+Creo que primero que nada deberíamos tener
+un Mokkori internacional de buena voluntad.
+
+71
+00:06:18,444 --> 00:06:20,639
+Podremos hablar luego.
+
+72
+00:06:27,854 --> 00:06:31,381
+¡Maldito! ¡Yo estaba preocupada y tú haces esto!
+
+73
+00:06:43,403 --> 00:06:48,941
+<i>Soy la directora general de la Asociación</i>
+<i>de Detectives Privados de EEUU, Sofía Silverman.</i>
+
+74
+00:06:48,941 --> 00:06:49,942
+Encantada.
+
+75
+00:06:49,942 --> 00:06:52,912
+¿<i>Detectives Privados de EEUU</i>?
+
+76
+00:06:52,912 --> 00:06:57,350
+¡¿Podría ser esa famosa agencia de mercenarios?!
+
+
+77
+00:06:57,350 --> 00:07:00,853
+Así es. Tomamos los trabajos de los clientes
+
+78
+00:07:00,853 --> 00:07:05,085
+y luego se los enviamos a la persona
+mejor preparada para encararlos.
+
+79
+00:07:05,992 --> 00:07:09,162
+El nombre de City Hunter es bastante
+conocido en Estados Unidos.
+
+80
+00:07:09,162 --> 00:07:13,032
+Me gustaría poder convertirme en su representante.
+
+81
+00:07:13,032 --> 00:07:15,535
+Por supuesto, seré cuidadosa
+con los trabajos que escoja.
+
+82
+00:07:15,535 --> 00:07:20,940
+¡Lo logramos, Ryo! Ahora podremos
+ser famosos en el mundo entero.
+
+83
+00:07:20,940 --> 00:07:23,704
+Ya no tendremos que preocuparnos por la comida.
+
+
+84
+00:07:24,377 --> 00:07:26,538
+Te parece bien, ¿verdad?
+
+85
+00:07:28,981 --> 00:07:31,950
+Tu mirada tiene algo que me molesta.
+
+
+86
+00:07:35,521 --> 00:07:38,257
+Está actuando un poco raro por la resaca.
+
+
+87
+00:07:38,257 --> 00:07:40,122
+No le haga caso.
+
+88
+00:07:41,093 --> 00:07:44,263
+Hay una condición con respecto al contrato.
+
+89
+00:07:44,263 --> 00:07:45,765
+¿Una condición?
+
+90
+00:07:45,765 --> 00:07:48,359
+Me gustaría verlo trabajar.
+
+
+91
+00:07:49,235 --> 00:07:50,403
+Por supuesto,
+
+92
+00:07:50,403 --> 00:07:53,304
+necesito conocer su valor para poder venderlo.
+
+93
+00:07:55,308 --> 00:07:58,311
+¿Verlo trabajar? Espero que no haya problemas.
+
+
+94
+00:07:58,311 --> 00:08:01,041
+De ser posible, quisiera estar
+realmente cerca para observarlo.
+
+95
+00:08:01,481 --> 00:08:03,039
+¿Realmente cerca?
+
+96
+00:08:03,483 --> 00:08:06,419
+Muy bien. Acepto esa condición.
+
+97
+00:08:06,419 --> 00:08:08,221
+Empecemos desde ahora.
+
+98
+00:08:08,221 --> 00:08:08,955
+¡Hey!
+
+99
+00:08:08,955 --> 00:08:11,423
+Vamos, debemos estar cerca.
+
+100
+00:08:12,658 --> 00:08:14,216
+¡Ah, Ryo!
+
+101
+00:08:15,795 --> 00:08:18,628
+No abandones a tu compañero, bastardo.
+
+
+102
+00:08:28,307 --> 00:08:33,506
+<i>Esto es un problema. Si descubre</i>
+<i>su verdadera naturaleza, adiós contrato.</i>
+
+103
+00:08:34,447 --> 00:08:35,971
+¡Ryo!
+
+104
+00:08:37,116 --> 00:08:38,584
+¿Quiénes son?
+
+105
+00:08:38,584 --> 00:08:43,356
+Mi club de admiradoras, soy prácticamente
+una estrella en esta ciudad.
+
+106
+00:08:43,356 --> 00:08:45,654
+Muy bien, si quieren mi autógrafo formen una fila.
+
+
+107
+00:08:46,025 --> 00:08:47,960
+No me interesa tu autógrafo, ¡páganos!
+
+108
+00:08:47,960 --> 00:08:50,796
+Así es. Vinimos a recoger tus deudas acumuladas.
+
+
+109
+00:08:50,796 --> 00:08:52,732
+No te dejaremos escapar.
+
+110
+00:08:52,732 --> 00:08:53,858
+¡Paga la cuenta!
+
+111
+00:08:55,301 --> 00:08:57,792
+¡¿Qué diablos hacen?!
+
+112
+00:09:13,185 --> 00:09:18,024
+Es el colmo, descontaré el dinero de tu sueldo.
+
+
+113
+00:09:18,024 --> 00:09:19,491
+Está bien.
+
+114
+00:09:21,127 --> 00:09:25,798
+El cliente escribe "XYZ" en esta pizarra.
+
+
+115
+00:09:25,798 --> 00:09:29,063
+Yo reviso el mensaje y decido
+si aceptar o no el trabajo.
+
+116
+00:09:29,569 --> 00:09:32,238
+En otras palabras, tú eres su representante.
+
+117
+00:09:32,238 --> 00:09:33,739
+Bueno, supongo.
+
+118
+00:09:33,739 --> 00:09:35,263
+¿Y qué relación tienen entre ustedes?
+
+
+119
+00:09:36,242 --> 00:09:39,378
+Somos solamente socios empresariales.
+
+120
+00:09:39,378 --> 00:09:40,680
+Así es.
+
+121
+00:09:40,680 --> 00:09:43,171
+¿En verdad? ¿No sienten nada el uno por el otro?
+
+
+122
+00:09:43,849 --> 00:09:45,051
+¡Qué asco!
+
+123
+00:09:45,051 --> 00:09:47,144
+¡Lo mismo digo!
+
+124
+00:09:48,054 --> 00:09:50,056
+Sin embargo, las condiciones son propicias.
+
+125
+00:09:50,056 --> 00:09:54,293
+La mejor manera para unir a un hombre
+y una mujer es que se conviertan en socios.
+
+126
+00:09:54,293 --> 00:09:56,591
+Más aún si el trabajo es peligroso.
+
+127
+00:09:57,930 --> 00:10:00,057
+¿Hablas por experiencia propia?
+
+128
+00:10:02,602 --> 00:10:04,503
+¿Quién es el cliente?
+
+129
+00:10:04,503 --> 00:10:09,742
+Veamos, un extraño la ha estado siguiendo
+últimamente y comienza a sentirse amenazada.
+
+130
+00:10:09,742 --> 00:10:11,937
+Es una universitaria que ganó
+el concurso Señorita Cuerpo.
+
+131
+00:10:13,346 --> 00:10:15,247
+¿Quién es?
+
+132
+00:10:15,247 --> 00:10:17,116
+Ya lo dije, la Señorita Cuerpo.
+
+133
+00:10:17,116 --> 00:10:19,243
+¡Rechaza ese trabajo de inmediato!
+
+134
+00:10:19,885 --> 00:10:21,921
+¿Por qué estás tan emocionado?
+
+135
+00:10:21,921 --> 00:10:25,591
+Es muy raro. Es la clase de clientes que te gustan.
+
+
+136
+00:10:25,591 --> 00:10:29,362
+Un trabajo tan trivial no mostrará
+mis verdaderas habilidades.
+
+137
+00:10:29,362 --> 00:10:33,890
+Eso no es cierto. Todos los trabajos
+revelan el carácter de las personas.
+
+138
+00:10:34,233 --> 00:10:35,368
+Pero...
+
+139
+00:10:35,368 --> 00:10:36,335
+¿Qué pasa?
+
+140
+00:10:36,335 --> 00:10:38,671
+¿Hay algún problema?
+
+141
+00:10:38,671 --> 00:10:40,206
+No, es que...
+
+142
+00:10:40,206 --> 00:10:43,442
+De todas formas, no podemos darnos
+el lujo de ser exigentes.
+
+143
+00:10:43,442 --> 00:10:45,344
+Ya lo acepté, así que deja de quejarte.
+
+144
+00:10:45,344 --> 00:10:46,311
+Sí.
+
+145
+00:10:49,682 --> 00:10:51,684
+¿Por qué los lentes de sol?
+
+146
+00:10:51,684 --> 00:10:55,245
+Pensé que me harían ver más genial.
+
+147
+00:10:59,125 --> 00:11:00,717
+¿Señorita Midoriko Sayama?
+
+148
+00:11:01,394 --> 00:11:03,021
+¿Usted es City Hunter?
+
+149
+00:11:03,963 --> 00:11:07,400
+Fue como hace una semana
+cuando lo noté por primera vez.
+
+150
+00:11:07,400 --> 00:11:10,903
+Adonde quiera que voy, ese hombre está ahí.
+
+151
+00:11:10,903 --> 00:11:12,471
+¿Qué ha hecho?
+
+152
+00:11:12,471 --> 00:11:16,237
+Es demasiado persistente, siempre cerca mío
+
+153
+00:11:59,552 --> 00:12:01,349
+¡No!
+
+154
+00:12:04,724 --> 00:12:08,427
+A este paso ya no podré ni dormir.
+
+
+
+155
+00:12:08,427 --> 00:12:10,896
+Sin duda se trata de un pervertido.
+
+156
+00:12:10,896 --> 00:12:13,032
+¿Podría describirlo?
+
+157
+00:12:13,032 --> 00:12:17,036
+Bueno, es bastante alto, como de 1,90.
+
+158
+00:12:17,036 --> 00:12:19,138
+Parece delgado cuando lleva ropa,
+
+159
+00:12:19,138 --> 00:12:21,868
+pero era bastante musculoso
+cuando lo vi en la piscina.
+
+
+160
+00:12:24,176 --> 00:12:26,879
+Su cabello no es ni muy largo ni muy corto.
+
+161
+00:12:26,879 --> 00:12:29,048
+Su boca tiene una sonrisa maliciosa,
+
+162
+00:12:29,048 --> 00:12:31,117
+y sus ojos son los de un pervertido.
+
+163
+00:12:31,117 --> 00:12:33,085
+Usa una chaqueta deportiva arremangada
+
+164
+00:12:33,085 --> 00:12:34,787
+y una camiseta.
+
+165
+00:12:34,787 --> 00:12:38,591
+No te preocupes, me encargaré
+de este pervertido inmediatamente.
+
+166
+00:12:38,591 --> 00:12:39,992
+Muchas gracias.
+
+
+167
+00:12:39,992 --> 00:12:40,993
+¡Ryo!
+
+168
+00:12:40,993 --> 00:12:42,161
+¿Sí?
+
+169
+00:12:42,161 --> 00:12:43,562
+¡¿Adónde crees que vas?!
+
+170
+00:12:43,562 --> 00:12:46,165
+¿Ese pervertido se veía así?
+
+171
+00:12:46,165 --> 00:12:47,533
+Sí.
+
+172
+00:12:47,533 --> 00:12:49,797
+¡Siéntate!
+
+173
+00:12:50,269 --> 00:12:51,896
+¡Te arrancaré la cabeza!
+
+174
+00:12:56,542 --> 00:12:59,879
+¡Increíble, ya lo atrapaste!
+
+175
+00:12:59,879 --> 00:13:01,938
+Ya puedo seguir con mi vida.
+
+176
+00:13:02,548 --> 00:13:05,117
+¡Muchas gracias!
+
+
+177
+00:13:05,117 --> 00:13:06,175
+De nada.
+
+178
+00:13:06,619 --> 00:13:08,246
+Fue un placer.
+
+179
+00:13:20,833 --> 00:13:22,698
+Definitivamente es Sofía.
+
+180
+00:13:23,903 --> 00:13:25,504
+Espera, Serano.
+
+181
+00:13:25,504 --> 00:13:26,505
+¿Por qué?
+
+182
+00:13:26,505 --> 00:13:30,066
+La orden del presidente fue matar
+a Sofía ni bien la veamos.
+
+183
+00:13:31,777 --> 00:13:33,379
+El hombre que la acompaña...
+
+184
+00:13:33,379 --> 00:13:35,939
+Estoy bastante seguro de que
+se trata de City Hunter.
+
+185
+00:13:36,549 --> 00:13:38,016
+¿Qué?
+
+186
+00:13:47,426 --> 00:13:51,297
+Aquí, por favor, siéntete como en casa.
+
+
+187
+00:13:51,297 --> 00:13:52,764
+Gracias.
+
+188
+00:13:53,566 --> 00:13:56,467
+Con permiso. Buenas noches.
+
+189
+00:13:58,804 --> 00:14:02,433
+¡¿Por qué tengo que rebajarme así?!
+
+190
+00:14:03,442 --> 00:14:05,706
+Todo por culpa de ese hombre Mokkori.
+
+191
+00:14:07,513 --> 00:14:09,640
+¡Piedad, misericordia!
+
+192
+00:14:09,915 --> 00:14:13,819
+¡No, será mejor que reflexiones lo que hiciste!
+
+193
+00:14:13,819 --> 00:14:18,057
+Si algo así se vuelve público
+no volveremos a tener otro trabajo.
+
+194
+00:14:18,057 --> 00:14:24,730
+¡Lo siento! ¡Dios, Buda, Kaori,
+por favor, déjenme bajar!
+
+195
+00:14:24,730 --> 00:14:27,096
+¡¿Maldito, cuántas veces tenemos
+que pasar por lo mismo?!
+
+196
+00:14:57,196 --> 00:15:00,632
+Al final nunca puedo resistir
+la tentación de Mokkori.
+
+197
+00:15:00,933 --> 00:15:03,035
+¡Sofía!
+
+198
+00:15:03,035 --> 00:15:04,502
+¿Qué?
+
+199
+00:15:48,580 --> 00:15:50,950
+No puedo decir que apruebo ese pasatiempo.
+
+200
+00:15:50,950 --> 00:15:53,043
+Curiosear entre los secretos de los demás.
+
+201
+00:15:56,288 --> 00:15:58,518
+¿Tienes algún interés especial en esa pistola?
+
+202
+00:16:00,092 --> 00:16:03,493
+No, pero sí sé dispararla.
+
+203
+00:16:14,239 --> 00:16:17,299
+Se apunta a quién se quiere matar
+y se jala el gatillo.
+
+204
+00:16:27,753 --> 00:16:29,846
+Walther P38...
+
+205
+00:16:30,422 --> 00:16:33,255
+Es la segunda vez que su cañón me apunta.
+
+
+206
+00:16:34,093 --> 00:16:38,189
+¿Qué le sucedió a la persona que te apuntó
+con ella por primera vez?
+
+207
+00:16:40,933 --> 00:16:45,097
+Lo siento, pero de todas estas armas,
+no quiero que nadie toque ésta.
+
+208
+00:16:53,345 --> 00:16:54,480
+¿Ryo?
+
+209
+00:16:54,480 --> 00:16:55,848
+¿Sí?
+
+210
+00:16:55,848 --> 00:16:59,918
+¿No se suponía que estuvieras en el techo
+arrepintiéndote de tus pecados?
+
+211
+00:16:59,918 --> 00:17:01,286
+¿Por qué estás aquí?
+
+212
+00:17:01,286 --> 00:17:05,591
+¿Qué? Bueno, es que anoche salí a pasear.
+
+213
+00:17:05,591 --> 00:17:08,994
+¡Increíble! Será mejor que no
+le hayas hecho nada a Sofía.
+
+214
+00:17:08,994 --> 00:17:11,986
+¡Lo juro por Dios!
+
+215
+00:17:12,464 --> 00:17:15,092
+¿Sofía, es eso cierto?
+
+216
+00:17:15,701 --> 00:17:18,568
+Estuvimos juntos en un pequeño cuarto.
+
+217
+00:17:22,641 --> 00:17:25,405
+Bueno, eso es cierto, pero...
+
+218
+00:17:30,482 --> 00:17:32,848
+¿Cuáles son tus planes para hoy?
+
+219
+00:17:33,685 --> 00:17:36,711
+Observar tu trabajo, claro está.
+
+220
+00:17:50,869 --> 00:17:53,372
+No veo ni rastro de City Hunter.
+
+221
+00:17:53,372 --> 00:17:55,135
+Muy bien, hagámoslo.
+
+222
+00:17:56,341 --> 00:17:59,645
+¡Kaori, ya fue suficiente, desátame!
+
+223
+00:17:59,645 --> 00:18:02,705
+No, te quedarás ahí para arrepentirte
+durante todo el día.
+
+224
+00:18:09,588 --> 00:18:10,823
+¿Qué diablos está pasando?
+
+225
+00:18:10,823 --> 00:18:11,949
+¡Desátame, Kaori!
+
+226
+00:18:22,101 --> 00:18:23,728
+¿De qué se trata esto?
+
+227
+00:18:37,783 --> 00:18:38,647
+¡Diablos!
+
+228
+00:18:41,253 --> 00:18:42,220
+¡Muere!
+
+229
+00:19:07,379 --> 00:19:09,438
+#No pase
+
+230
+00:19:14,353 --> 00:19:16,255
+¿Te hiciste daño, Sofía?
+
+231
+00:19:16,255 --> 00:19:17,688
+Estoy bien.
+
+232
+00:19:18,056 --> 00:19:20,081
+Parece que los perdimos, pero...
+
+233
+00:19:20,492 --> 00:19:23,518
+¿Sofía, tienes alguna idea
+de por qué te perseguían?
+
+234
+00:19:23,762 --> 00:19:24,729
+Ahí vienen.
+
+235
+00:19:25,531 --> 00:19:27,089
+Son muy persistentes.
+
+236
+00:19:27,799 --> 00:19:31,170
+Quédate aquí. Me encargaré.
+
+237
+00:19:31,170 --> 00:19:32,538
+Pero ellos son dos.
+
+238
+00:19:32,538 --> 00:19:34,373
+Estaré bien.
+
+239
+00:19:34,373 --> 00:19:35,965
+Eso creo...
+
+240
+00:20:31,863 --> 00:20:36,068
+No puedes utilizar un arma
+con un agujero en tu mano derecha.
+
+241
+00:20:36,068 --> 00:20:37,135
+¡Ryo!
+
+242
+00:20:37,135 --> 00:20:40,105
+Déjamelo a mí. Tú protégela.
+
+243
+00:20:40,105 --> 00:20:41,265
+De acuerdo.
+
+244
+00:20:44,142 --> 00:20:45,200
+Diablos.
+
+245
+00:21:04,496 --> 00:21:06,020
+¡Te tengo!
+
+246
+00:21:17,609 --> 00:21:20,840
+¿Creíste que caería en un truco tan burdo?
+
+
+247
+00:21:22,247 --> 00:21:25,045
+Ves demasiadas películas, y encima de clase B.
+
+
+248
+00:21:25,884 --> 00:21:29,149
+¡Demonios, no te lo perdonaré!
+
+249
+00:21:37,963 --> 00:21:39,430
+¿Sofía?
+
+250
+00:21:41,533 --> 00:21:43,000
+¿Sofía?
+
+251
+00:22:04,823 --> 00:22:06,290
+Está cargada.
+
+252
+00:22:07,092 --> 00:22:08,559
+¿De qué se trata esto?
+
+253
+00:22:08,960 --> 00:22:12,088
+Esta pistola me ha esperado para que la use.
+
+254
+00:22:14,399 --> 00:22:18,028
+Para vengar a su antiguo dueño.
+
+
+255
+00:22:33,785 --> 00:22:36,083
+
+256
+00:22:37,789 --> 00:22:40,087
+
+257
+00:22:47,833 --> 00:22:57,299
+
+258
+00:22:57,442 --> 00:23:02,744
+
+259
+00:23:03,215 --> 00:23:11,020
+
+260
+00:23:11,356 --> 00:23:16,461
+
+261
+00:23:16,461 --> 00:23:25,768
+
+262
+00:23:26,571 --> 00:23:34,012
+
+263
+00:23:34,012 --> 00:23:42,351
+
+264
+00:23:42,821 --> 00:23:50,318
+
+265
+00:23:50,695 --> 00:23:56,835
+
+266
+00:23:56,835 --> 00:24:01,966
+
+
+
+
+
+
+
+
+
+
+
+
+267
+00:24:06,144 --> 00:24:08,313
+Sofía era la novia de Roberto.
+
+268
+00:24:08,313 --> 00:24:10,849
+Pero Roberto no quería que venguen su muerte.
+
+269
+00:24:10,849 --> 00:24:12,717
+Aceptaré este reto,
+
+270
+00:24:12,717 --> 00:24:14,986
+ahora que tomaron a Kaori como rehén.
+
+271
+00:24:14,986 --> 00:24:16,388
+Ryo, no irás a...
+
+272
+00:24:16,388 --> 00:24:19,024
+Sofía, me enfrentaré a ti como lo prometí.
+
+273
+00:24:19,024 --> 00:24:22,160
+¡No! ¡No vale la pena vivir si Ryo muere!
+
+274
+00:24:22,160 --> 00:24:24,062
+Si vas a disparar, mátanos a ambos.
+
+275
+00:24:24,062 --> 00:24:25,363
+City Hunter 3:
+
+
+276
+00:24:25,363 --> 00:24:28,633
+"Adiós Ciudad, Un Regalo de Despedida (Parte 2)"
+
+277
+00:24:28,633 --> 00:24:30,692
+¡Si no lo miras será el último episodio!
+

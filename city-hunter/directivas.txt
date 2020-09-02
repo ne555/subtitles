@@ -1,0 +1,110 @@
+Directivas de correción y traducción de Ashita no Walter
+
+Tamaño de línea máximo 50 caracteres
+Tratar de no superar las 2 líneas
+Separación de líneas no necesariamente por la mitad, sino que sea de cómoda lectura
+	consider pausas como comas, puntos
+Controlar que el tiempo sea suficiente en líneas largas
+
+Títulos
+	Entre comillas, sin punto al final
+
+Símbolos para marcar cosas
+	@ -> necesita revisión del contexto
+	# -> carteles (no terminan con punto)
+	$ -> notas, explicaciones de extranjerismos
+	% -> canciones
+	& -> simultaneidad de hablantes.
+		el último hablante va arriba
+		empezar con guión - y sin espacio después
+	* -> esto no se toca
+
+Español neutro, latinoamericano
+	lo más general posible
+
+Italización (énfasis)
+	palabras traducidas que no sean del japonés
+	palabras dejadas en el idioma original (extranjerismos)
+	pensamientos
+
+Honoríficos
+	se descartan, o se traducen al español
+	-sama, -dono -> siempre señor, señora, o apropiado
+	-san -> señor, u omitir (ver contexto)
+	-chan, -kun -> nunca
+
+Oniichan
+	se omiten o se cambian por el nombre de quién se dirige
+		ej: Haruka oneechan -> Haruka
+	oneechan también puede ser señorita, (eh, tío)
+	ojiisan -> viejo, anciano,
+		si se lo dicen a un joven pueden estar vacilándolo,
+			si no es el caso, señor
+
+	Aniki -> jefe, nombre, o adaptar
+		
+
+Lo y le -> 
+	si queda bien con "la" es complemento directo (lo)
+	sino, "le"
+
+
+Palabras
+	no se ponen en mayúsculas los títulos:
+		general, sargento, princesa,
+		señor, señorita (abreviatura Sr. Srta. Sra.)
+	departamento de policía
+	apartamento (casa)
+	dormitorio >> habitación > cuarto
+	a. m.
+	p. m.
+	Números, separador de miles es el espacio ' '
+		del 1000 al 9999 no se separa
+		ej: 100 000
+
+	cueste lo que cueste, a como dé lugar, a toda costa
+
+	facturas -> bollos
+	llavear -> cerrar con llave
+	kawaii (mono) -> tierno
+	no te la cargues -> eliminar, matar, derrotar
+	qué pasada -> genial
+	¡Wow! -> ¡Wow!, asombroso, genial
+	qué lata -> tedioso, molesto, pesado
+	cómo mola -> qué bueno, me gusta mucho
+	escarmienta, a ver si te enteras de una vez -> date cuenta
+	parvulario ->  preescolar, jardín de niños, guardería
+	corpiño, sujetador -> sostén
+	bombacha -> bragas
+	-> pescaste un resfriado, te resfriaste
+	cabaret -> cabaré
+	me sienta bien -> prefiero, me agrada
+
+
+
+Insultos
+	idiota
+	estúpido
+	imbécil
+	desgraciado
+	tonto
+	tarado
+	pelmaso
+
+
+Maldiciones
+	maldita sea
+	maldición
+	diablos
+	demonios
+	qué desgracia
+
+Asombro
+	Vaya
+		Joder
+		Caray
+		Cáspita
+		Recórcholis
+		Caracoles
+		Chispas
+		Santas llaves dentro del Jet, Batman

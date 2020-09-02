@@ -1,0 +1,1790 @@
+1
+00:00:02,535 --> 00:00:04,526
+
+2
+00:00:06,406 --> 00:00:07,896
+
+3
+00:00:08,174 --> 00:00:08,608
+
+4
+00:00:08,608 --> 00:00:09,609
+
+5
+00:00:09,609 --> 00:00:11,711
+
+6
+00:00:11,711 --> 00:00:15,482
+
+7
+00:00:15,482 --> 00:00:19,319
+
+8
+00:00:19,319 --> 00:00:23,156
+
+9
+00:00:23,156 --> 00:00:26,455
+
+10
+00:00:26,893 --> 00:00:30,563
+
+11
+00:00:30,563 --> 00:00:34,401
+
+12
+00:00:34,401 --> 00:00:38,667
+
+13
+00:00:39,906 --> 00:00:43,877
+
+14
+00:00:43,877 --> 00:00:47,680
+
+15
+00:00:47,680 --> 00:00:51,446
+
+16
+00:00:51,684 --> 00:00:55,388
+
+17
+00:00:55,388 --> 00:00:57,490
+
+18
+00:00:57,490 --> 00:00:59,225
+
+19
+00:00:59,225 --> 00:01:01,261
+
+20
+00:01:01,261 --> 00:01:02,996
+
+21
+00:01:02,996 --> 00:01:04,898
+
+22
+00:01:04,898 --> 00:01:06,733
+
+23
+00:01:06,733 --> 00:01:10,703
+
+24
+00:01:10,703 --> 00:01:14,507
+
+25
+00:01:14,507 --> 00:01:18,244
+
+26
+00:01:18,244 --> 00:01:22,048
+
+27
+00:01:22,048 --> 00:01:26,075
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28
+00:01:58,852 --> 00:02:01,787
+#¡Ya no sigas buscando!
+
+29
+00:02:14,968 --> 00:02:19,928
+"¡Un Peligroso Juego de Detectives!
+Una <i>Python</i> para la Señorita (Parte 1)"
+
+30
+00:02:20,773 --> 00:02:23,810
+¡¿Quieres que enseñe a disparar?!
+
+
+31
+00:02:23,810 --> 00:02:25,869
+No tomaré un trabajo tan turbio.
+
+32
+00:02:31,551 --> 00:02:33,753
+¡Qué linda!
+
+
+33
+00:02:33,753 --> 00:02:37,190
+Ella es nuestra cliente.
+¿Y bien? ¿Estás satisfecho?
+
+34
+00:02:37,190 --> 00:02:38,825
+No, no lo hagamos.
+
+35
+00:02:38,825 --> 00:02:42,283
+Enseñar a una chica como esa a usar un arma es...
+
+
+36
+00:02:43,897 --> 00:02:46,957
+Así que... ¿Adónde es la reunión?
+
+37
+00:02:48,401 --> 00:02:50,837
+¡Acabas de decir que no aceptarías!
+
+
+38
+00:02:50,837 --> 00:02:53,406
+Bueno, primero debo conocerla.
+
+39
+00:02:53,406 --> 00:02:55,601
+Soy meticuloso, ¿sabes?
+
+40
+00:02:56,976 --> 00:02:59,206
+Ten, lleva esto contigo.
+
+41
+00:02:59,679 --> 00:03:00,947
+¿Qué es eso?
+
+42
+00:03:00,947 --> 00:03:03,006
+Es un amuleto para eliminar tus deseos carnales.
+
+
+43
+00:03:04,551 --> 00:03:06,644
+¡No!
+
+44
+00:03:07,921 --> 00:03:11,324
+¡Detente o te denunciaré!
+
+45
+00:03:11,324 --> 00:03:12,425
+No seas tan fría.
+
+46
+00:03:12,425 --> 00:03:16,095
+¡Tengo mucha suerte de haberme encontrado contigo!
+
+47
+00:03:16,095 --> 00:03:17,130
+¡No!
+
+48
+00:03:17,130 --> 00:03:18,331
+¡Espérame!
+
+49
+00:03:18,331 --> 00:03:19,632
+¡No!
+
+50
+00:03:19,632 --> 00:03:22,001
+&¡Vamos, tomemos un poco de té!
+&Ya es tarde. Parece que no se puede
+confiar en los rumores.
+
+51
+00:03:22,001 --> 00:03:23,002
+&¡Déjame en paz!
+&Ya es tarde. Parece que no se puede
+confiar en los rumores.
+
+52
+00:03:23,002 --> 00:03:24,003
+&¡Tan sólo una taza!
+&Ya es tarde. Parece que no se puede
+confiar en los rumores.
+
+53
+00:03:24,003 --> 00:03:24,837
+&¡Tan sólo una taza!
+&No apareció nadie que parezca ser un mercenario.
+
+54
+00:03:24,837 --> 00:03:26,206
+&¡Ya basta!
+&No apareció nadie que parezca ser un mercenario.
+
+
+
+55
+00:03:26,206 --> 00:03:26,940
+&¡Me harías muy feliz!
+&No apareció nadie que parezca ser un mercenario.
+
+56
+00:03:26,940 --> 00:03:28,441
+&¡Me harías muy feliz!
+&¿Pero qué le pasa a ese sujeto?
+
+57
+00:03:28,441 --> 00:03:29,842
+&¡Eres una molestia!
+&¿Pero qué le pasa a ese sujeto?
+
+58
+00:03:29,842 --> 00:03:31,311
+&¡Vamos, tomemos un poco de té!
+&Ya hace una hora que está persiguiendo mujeres.
+
+
+59
+00:03:31,311 --> 00:03:32,979
+&¡Te dije que me dejaras en paz!
+&Ya hace una hora que está persiguiendo mujeres.
+
+
+
+60
+00:03:32,979 --> 00:03:34,037
+¡Vete!
+
+61
+00:03:40,086 --> 00:03:42,020
+¡Pervertido!
+
+62
+00:03:46,092 --> 00:03:49,823
+¿Cuántas mujeres habrán de golpearlo
+para que aprenda?
+
+63
+00:03:50,363 --> 00:03:52,831
+Si sigue así, todas las luces del parque van a...
+
+
+64
+00:03:55,635 --> 00:03:57,500
+Bueno, ya no puedo seguir esperando.
+
+65
+00:03:59,172 --> 00:04:02,903
+¿Qué sucede? ¿Acaso tu novio te dejó plantada?
+
+
+66
+00:04:05,578 --> 00:04:08,206
+¡Espera, señorita!
+
+67
+00:04:11,484 --> 00:04:12,652
+¡Ay!
+
+68
+00:04:12,652 --> 00:04:17,523
+¿Estás bien? Eres muy linda.
+¿Quieres tener una cita conmigo?
+
+69
+00:04:17,523 --> 00:04:20,492
+¡No!
+
+70
+00:04:21,361 --> 00:04:22,760
+@¡Perdóneme!
+
+71
+00:04:23,696 --> 00:04:26,833
+Qué exagerada. No hace falta
+que grites tan fuerte.
+
+72
+00:04:26,833 --> 00:04:28,300
+Yo sólo...
+
+73
+00:04:30,703 --> 00:04:33,399
+Qué molesto, y encima en un momento como este.
+
+74
+00:04:38,444 --> 00:04:40,313
+<i>¿Quién será?</i>
+
+75
+00:04:40,313 --> 00:04:41,780
+<i>Tiene un arma.</i>
+
+76
+00:04:42,348 --> 00:04:45,078
+<i>Debe ser un yakuza o algo parecido.</i>
+
+
+77
+00:04:45,818 --> 00:04:47,285
+<i>Un arma...</i>
+
+78
+00:04:47,887 --> 00:04:51,524
+Ya lo sé. Ni siquiera la toqué.
+
+79
+00:04:51,524 --> 00:04:53,926
+¿Pero en verdad es ella?
+
+
+80
+00:04:53,926 --> 00:04:56,329
+Tiene un aura despreocupada,
+de señorita bien educada.
+
+81
+00:04:56,329 --> 00:04:59,132
+Tiene mala coordinación y le falta carácter.
+
+
+82
+00:04:59,132 --> 00:05:00,667
+¿Segura que es la correcta?
+
+83
+00:05:00,667 --> 00:05:03,836
+¡Qué sí! Acepta el trabajo, ¿de acuerdo?
+
+84
+00:05:03,836 --> 00:05:05,633
+Nuestro sustento está en peligro.
+
+85
+00:05:08,875 --> 00:05:10,740
+¡Qué molesta!
+
+86
+00:05:14,213 --> 00:05:18,017
+Perdóneme por haberle gritado tan fuerte.
+
+87
+00:05:18,017 --> 00:05:21,384
+¿Le gustaría ir a tomar algo
+como compensación?
+
+88
+00:05:22,689 --> 00:05:25,024
+<i>¿Por qué de repente quiere ir a tomar algo?</i>
+
+89
+00:05:25,024 --> 00:05:27,993
+<i>Su actitud cambió por completo.</i>
+
+90
+00:05:35,501 --> 00:05:36,900
+<i>El plan está funcionando.</i>
+
+91
+00:05:37,570 --> 00:05:40,640
+<i>No parece ser muy fuerte,</i>
+<i>así que si lo emborracho</i>
+
+92
+00:05:40,640 --> 00:05:42,335
+<i>podría robarle la pistola.</i>
+
+93
+00:05:42,875 --> 00:05:47,812
+<i>Un yakuza pervertido como él</i>
+<i>no podría hacer nada bueno con un arma.</i>
+
+94
+00:05:51,517 --> 00:05:53,086
+¡¿Qué?!
+
+95
+00:05:53,086 --> 00:05:56,322
+¿Qué sucede? El mundo da vueltas.
+
+96
+00:05:56,322 --> 00:05:57,857
+Oye, ¿qué pasa?
+
+97
+00:05:57,857 --> 00:05:59,324
+¿Algún problema?
+
+98
+00:06:01,294 --> 00:06:02,628
+Qué extraño.
+
+99
+00:06:02,628 --> 00:06:06,699
+Comí tres platos de
+arroz dulce fermentado cuando niña
+
+100
+00:06:06,699 --> 00:06:08,634
+y papá dijo que tenía mucha tolerancia.
+
+101
+00:06:08,634 --> 00:06:12,305
+¿Estás ebria?
+¡Tan sólo tomaste dos sorbos!
+
+102
+00:06:12,305 --> 00:06:17,176
+<i>Esto es un problema. Todo se vuelve borroso.</i>
+<i>Voy a emborracharme antes que él.</i>
+
+103
+00:06:17,176 --> 00:06:18,973
+<i>Tengo que hacer algo.</i>
+
+104
+00:06:23,983 --> 00:06:27,942
+¿Más yakuzas? Sí que hay muchos hoy.
+
+
+105
+00:06:28,388 --> 00:06:33,451
+<i>¡Ya sé! Si logro noqueen a este infeliz... </i>
+
+
+106
+00:06:34,260 --> 00:06:36,028
+¡Malditos yakuzas!
+
+107
+00:06:36,028 --> 00:06:41,100
+¡Ustedes no son bienvenidos en este lugar!
+
+
+108
+00:06:41,100 --> 00:06:45,104
+Usando anteojos oscuros para parecer genial...
+
+109
+00:06:45,104 --> 00:06:46,628
+¡Eso es tan estúpido!
+
+110
+00:06:49,242 --> 00:06:53,542
+Señorita, será mejor que se detenga
+o lo lamentará...
+
+111
+00:06:54,981 --> 00:06:56,849
+No te hagas el rudo.
+
+112
+00:06:56,849 --> 00:06:59,085
+¡Maldita perra!
+
+113
+00:06:59,085 --> 00:07:00,887
+¡No!
+
+114
+00:07:00,887 --> 00:07:02,822
+¡Ayúdame!
+
+115
+00:07:02,822 --> 00:07:04,255
+Oye...
+
+116
+00:07:05,391 --> 00:07:07,627
+¿Vas a luchar por ella?
+
+117
+00:07:07,627 --> 00:07:10,396
+¡Así es, él es fuerte!
+
+118
+00:07:10,396 --> 00:07:11,864
+Interesante...
+
+
+119
+00:07:11,864 --> 00:07:14,033
+Oye, espera...
+
+120
+00:07:14,033 --> 00:07:15,435
+¡Cierra la boca!
+
+121
+00:07:15,435 --> 00:07:18,063
+Jefe, ese hombre es...
+
+122
+00:07:21,541 --> 00:07:23,702
+City...
+
+123
+00:07:27,547 --> 00:07:29,115
+¡Perdónanos!
+
+124
+00:07:29,115 --> 00:07:33,313
+¡Deténganse! ¡Debiluchos!
+
+125
+00:07:34,420 --> 00:07:37,446
+¿Otra vez? Qué fastidio.
+
+126
+00:07:43,262 --> 00:07:48,962
+Maldición, ¿y mi pistola?
+De acuerdo, tendré que usar esto...
+
+127
+00:07:51,170 --> 00:07:52,705
+Buen chico, buen chico.
+
+128
+00:07:52,705 --> 00:07:53,906
+Hola, soy yo.
+
+129
+00:07:53,906 --> 00:07:55,373
+Hola, Kaori.
+
+130
+00:07:56,976 --> 00:07:58,102
+¡Ay!
+
+131
+00:07:59,011 --> 00:08:01,912
+¿Qué pasa, Ryo? ¿Qué sucedió? ¡Dime!
+
+132
+00:08:15,928 --> 00:08:17,657
+Al fin lo logré, pero...
+
+133
+00:08:18,898 --> 00:08:23,164
+Estaba ebria, pero aún así, hice algo horrible.
+
+
+134
+00:08:25,171 --> 00:08:28,941
+Señor yakuza pervertido,
+le daré una disculpa formal luego.
+
+135
+00:08:28,941 --> 00:08:31,603
+Y pagaré sus facturas médicas,
+así que perdóneme por favor.
+
+136
+00:08:39,218 --> 00:08:42,051
+Así que así es un arma de verdad.
+
+137
+00:08:43,356 --> 00:08:46,792
+Es muy pesada, me pregunto si podré usarla.
+
+
+138
+00:08:46,792 --> 00:08:50,125
+Creo que se debe hacer esto y las balas...
+
+
+139
+00:08:52,698 --> 00:08:55,234
+Qué torpe. Debo tener más cuidado.
+
+
+140
+00:08:55,234 --> 00:08:58,567
+¿Eh? No tenía balas.
+
+141
+00:09:03,042 --> 00:09:04,043
+¿Qué es esto?
+
+142
+00:09:04,043 --> 00:09:09,948
+#Los que quieren aprender a usar un arma
+#giren a la derecha y ladren.
+#Atentamente, City Hunter.
+
+143
+00:09:10,516 --> 00:09:12,285
+¿City Hunter?
+
+144
+00:09:12,285 --> 00:09:14,720
+Girar a mi derecha...
+
+145
+00:09:14,720 --> 00:09:16,187
+¡Guau!
+
+146
+00:09:16,889 --> 00:09:18,190
+¡Hola!
+
+147
+00:09:18,190 --> 00:09:19,425
+¡Usted!
+
+
+148
+00:09:19,425 --> 00:09:23,296
+Eso es peligroso. Se usa para matar personas.
+
+
+149
+00:09:23,296 --> 00:09:27,033
+No, yo... Es para mi protección.
+
+150
+00:09:27,033 --> 00:09:30,770
+La necesito para el caso en el que estoy.
+
+151
+00:09:30,770 --> 00:09:31,971
+Ya veo.
+
+
+152
+00:09:31,971 --> 00:09:36,533
+Por eso es que querías que City Hunter,
+o sea yo, te diera lecciones.
+
+153
+00:09:37,176 --> 00:09:38,643
+Usted es...
+
+154
+00:09:39,078 --> 00:09:41,547
+¡¿En verdad es City Hunter?!
+
+155
+00:09:41,547 --> 00:09:43,616
+Por supuesto, mi verdadero nombre es Ryo Saeba.
+
+156
+00:09:43,616 --> 00:09:46,519
+¡Qué cruel! Si lo hubiera dicho
+desde el principio
+
+157
+00:09:46,519 --> 00:09:48,487
+nada de esto hubiera pasado.
+
+158
+00:09:48,955 --> 00:09:52,258
+Se estaba burlando de mí, al ver lo que hacía.
+
+
+159
+00:09:52,258 --> 00:09:53,826
+Eso no es cierto.
+
+160
+00:09:53,826 --> 00:09:57,029
+Decido aceptar el trabajo después de ver
+las verdaderas intenciones de los clientes.
+
+161
+00:09:57,029 --> 00:09:59,799
+Una persona como tú queriendo usar un arma...
+
+162
+00:09:59,799 --> 00:10:02,702
+No puedo simplemente enseñarte
+sin conocer la razón.
+
+163
+00:10:02,702 --> 00:10:04,670
+Eso fue terrible de tu parte.
+
+164
+00:10:05,805 --> 00:10:10,504
+Pero parece que calificas como cliente. Lo siento.
+
+165
+00:10:11,243 --> 00:10:13,006
+¿Entonces me enseñará?
+
+
+166
+00:10:14,347 --> 00:10:19,216
+Claro, y tus encantadores labios
+también califican...
+
+167
+00:10:20,786 --> 00:10:22,421
+¡Con razón no hiciste la llamada programada!
+
+
+168
+00:10:22,421 --> 00:10:24,946
+#Desaparezcan, deseos carnales
+¡Con razón no hiciste la llamada programada!
+
+169
+00:10:28,694 --> 00:10:30,463
+¡¿Detective?!
+
+170
+00:10:30,463 --> 00:10:33,232
+¿Cómo alguien como tú es detective?
+
+
+171
+00:10:33,232 --> 00:10:35,668
+Mi padre era detective
+
+172
+00:10:35,668 --> 00:10:37,937
+y falleció el año pasado por una enfermedad.
+
+
+173
+00:10:37,937 --> 00:10:40,006
+Así que me hice cargo de la agencia.
+
+174
+00:10:40,006 --> 00:10:42,201
+El trabajo de tu padre...
+
+175
+00:10:43,376 --> 00:10:47,680
+Y terminaste aceptando un trabajo peligroso.
+
+
+176
+00:10:47,680 --> 00:10:49,409
+¿De qué se trata?
+
+177
+00:10:51,817 --> 00:10:56,555
+Sé que como detective no puedes
+hablar de tus casos,
+
+178
+00:10:56,555 --> 00:10:58,290
+pero las circunstancias lo ameritan.
+
+179
+00:10:58,290 --> 00:10:59,917
+Por favor, cuéntame.
+
+180
+00:11:00,493 --> 00:11:02,358
+De acuerdo, en realidad...
+
+181
+00:11:02,828 --> 00:11:04,295
+mi trabajo...
+
+182
+00:11:06,699 --> 00:11:08,826
+es encontrar a este perro.
+
+183
+00:11:15,441 --> 00:11:16,642
+¡Es el colmo!
+
+184
+00:11:16,642 --> 00:11:18,678
+¡Un cliente quiere aprender a usar un arma
+
+185
+00:11:18,678 --> 00:11:20,446
+para encontrar a un perro!
+
+186
+00:11:20,446 --> 00:11:21,936
+¡Es demasiado!
+
+187
+00:11:22,381 --> 00:11:24,283
+¡Por favor no se rían!
+
+
+188
+00:11:24,283 --> 00:11:29,355
+¿Pero es que tu vida corre peligro
+por estar buscando a un perro?
+
+189
+00:11:29,355 --> 00:11:33,392
+¡Es cierto! ¡Un auto me siguió anoche
+e intentó atropellarme!
+
+190
+00:11:33,392 --> 00:11:36,295
+Me hacen llamadas de amenaza.
+
+
+191
+00:11:36,295 --> 00:11:38,497
+¡Son muy crueles al burlarse de mí!
+
+192
+00:11:38,497 --> 00:11:40,066
+¡Qué crueles!
+
+193
+00:11:40,066 --> 00:11:42,368
+¡Idiota, la hiciste llorar!
+
+194
+00:11:42,368 --> 00:11:43,502
+¡Tu también te estabas riendo!
+
+195
+00:11:43,502 --> 00:11:44,594
+Sí, pero...
+
+196
+00:11:51,010 --> 00:11:53,846
+Lo siento, lo siento. Estuve mal.
+
+197
+00:11:53,846 --> 00:11:57,116
+¡Ya sé! Ese perro debe tener algo especial.
+
+198
+00:11:57,116 --> 00:11:59,084
+Como ser el único de su clase en el mundo.
+
+
+199
+00:12:02,855 --> 00:12:07,193
+No, es una cruza.
+Le pertenece a una niña de seis años,
+
+200
+00:12:07,193 --> 00:12:09,559
+y ella quiere que lo encuentre como sea.
+
+201
+00:12:10,096 --> 00:12:12,929
+Bueno, ¿qué hacemos, Kaori?
+
+202
+00:12:13,499 --> 00:12:16,127
+Ya aceptamos el trabajo.
+No tenemos alternativa.
+
+203
+00:12:30,249 --> 00:12:33,385
+¡Genial! Creía que usted
+era solamente un pervertido,
+
+204
+00:12:33,385 --> 00:12:35,988
+pero parece que tiene
+unas habilidades asombrosas.
+
+205
+00:12:35,988 --> 00:12:40,084
+Kaori, empieza por enseñarle cómo disparar.
+
+206
+00:12:41,327 --> 00:12:43,295
+Pero yo no puedo.
+
+207
+00:12:43,295 --> 00:12:47,166
+Aiko, Kaori es la mano derecha
+del mejor mercenario del mundo.
+
+
+208
+00:12:47,166 --> 00:12:50,636
+Tienes mucha suerte de que sea tu maestra.
+
+209
+00:12:50,636 --> 00:12:52,471
+¡Sí, muchas gracias!
+
+210
+00:12:52,471 --> 00:12:54,373
+No es realmente así...
+
+211
+00:12:54,373 --> 00:12:56,342
+¿Para qué te haces la modesta?
+
+212
+00:12:56,342 --> 00:12:59,011
+Los disparos salvajes de Kaori
+son los mejores del mundo.
+
+213
+00:12:59,011 --> 00:13:02,081
+Es aún más fuerte que yo.
+
+214
+00:13:02,081 --> 00:13:06,585
+De acuerdo, te enseñaré todo.
+Yo me encargo.
+
+215
+00:13:06,585 --> 00:13:07,720
+Cuento contigo.
+
+216
+00:13:07,720 --> 00:13:09,187
+Está bien.
+
+217
+00:13:09,688 --> 00:13:10,890
+Así debería ser.
+
+218
+00:13:10,890 --> 00:13:13,358
+No necesitas un arma para buscar a un perro.
+
+219
+00:13:13,959 --> 00:13:17,530
+<i>Pero por cómo se comportó ayer</i>
+
+220
+00:13:17,530 --> 00:13:20,260
+<i>debe ser cierto que alguien la está persiguiendo.</i>
+
+221
+00:13:20,766 --> 00:13:23,929
+<i>Sólo está buscando a un perro perdido.</i>
+<i>¿Entonces por qué?</i>
+
+222
+00:13:25,538 --> 00:13:28,874
+No te tenses tanto.
+Relájate.
+
+223
+00:13:28,874 --> 00:13:31,240
+¡Sí, aquí voy!
+
+224
+00:13:33,979 --> 00:13:35,648
+¿Estás bien?
+
+225
+00:13:35,648 --> 00:13:37,817
+Esta pistola me lastima la mano.
+
+226
+00:13:37,817 --> 00:13:41,053
+Quizás empezar disparando fue demasiado.
+
+227
+00:13:41,053 --> 00:13:43,146
+A este paso nunca le dará al objetivo.
+
+
+228
+00:13:45,024 --> 00:13:47,326
+¡Kaori, le dí!
+
+229
+00:13:47,326 --> 00:13:49,862
+Bien, es un principio.
+
+230
+00:13:49,862 --> 00:13:52,832
+Si practicas más podrás darle justo en el centro.
+
+
+231
+00:13:52,832 --> 00:13:54,767
+¡Sí, daré mi mejor esfuerzo!
+
+232
+00:13:54,767 --> 00:13:57,736
+Entonces te daré un ejemplo.
+
+233
+00:13:57,736 --> 00:13:59,605
+Sí, por favor.!
+
+234
+00:13:59,605 --> 00:14:03,541
+<i>No puedo perder. Debo darle justo en el centro.</i>
+
+235
+00:14:04,944 --> 00:14:06,946
+<i>Parece que estuviera muy tensa,</i>
+
+236
+00:14:06,946 --> 00:14:09,415
+<i>pero supongo que es su forma natural.</i>
+
+237
+00:14:09,415 --> 00:14:10,905
+<i>¡Eres increíble, Kaori!</i>
+
+238
+00:14:15,688 --> 00:14:17,189
+¿Falló?
+
+239
+00:14:17,189 --> 00:14:21,387
+Tan sólo estaba calentando. Ahora va en serio.
+
+240
+00:14:21,694 --> 00:14:23,161
+¡Toma esto!
+
+241
+00:14:24,096 --> 00:14:25,631
+¡Y esto!
+
+242
+00:14:25,631 --> 00:14:27,098
+¡Y esto!
+
+
+243
+00:14:30,169 --> 00:14:34,139
+<i>Esto es malo. Mientras más nerviosa me pongo,</i>
+<i>más desviado sale el disparo.</i>
+
+244
+00:14:34,139 --> 00:14:37,734
+<i>La última bala, debo lograrlo como sea.</i>
+
+245
+00:14:40,746 --> 00:14:42,314
+<i>¡Me resbalé!</i>
+
+246
+00:14:42,314 --> 00:14:43,781
+<i>¡Oh, no!</i>
+
+247
+00:14:49,555 --> 00:14:52,458
+¡Increíble! ¡Justo en el centro!
+
+
+248
+00:14:52,458 --> 00:14:56,729
+¿Pero qué fue eso?
+Le dio de una forma muy extraña...
+
+249
+00:14:56,729 --> 00:15:00,766
+No, no, no. Verás, eso requiere mucha técnica.
+
+250
+00:15:00,766 --> 00:15:02,434
+Se llama "disparo de doble rebote".
+
+251
+00:15:02,434 --> 00:15:03,669
+A pesar de ser muy buena con las armas
+
+252
+00:15:03,669 --> 00:15:06,739
+sólo puedo realizar ese disparo una vez cada seis.
+
+
+253
+00:15:06,739 --> 00:15:10,409
+Es asombroso. Me esforzaré
+para poder ser como tú.
+
+
+254
+00:15:10,409 --> 00:15:11,341
+Ah, sí...
+
+255
+00:15:14,013 --> 00:15:15,480
+Oye, Kaori.
+
+256
+00:15:15,948 --> 00:15:16,812
+¡Toma esto!
+
+257
+00:15:17,850 --> 00:15:19,885
+¡Y esto! ¡Y esto! ¡Toma, toma, toma!
+
+258
+00:15:19,885 --> 00:15:21,453
+&¡Y esto! ¡Y esto! ¡Toma, toma, toma!
+
+259
+00:15:21,453 --> 00:15:22,021
+&¡Y esto! ¡Y esto! ¡Toma, toma, toma!
+&¿Kaori, de qué se trata todo esto?
+
+260
+00:15:22,021 --> 00:15:23,622
+&¡Y esto! ¡Y esto! ¡Toma, toma, toma!
+&¿Kaori, de qué se trata todo esto?
+
+261
+00:15:23,622 --> 00:15:24,657
+&¡Y esto! ¡Y esto! ¡Toma, toma, toma!
+
+262
+00:15:24,657 --> 00:15:28,616
+Mientras más le enseño,
+más salvajes son sus disparos.
+
+263
+00:15:30,696 --> 00:15:33,096
+Es como si ahora hubiera dos Kaori.
+
+264
+00:15:33,565 --> 00:15:37,036
+Kaori, le estoy agarrando la mano
+al disparo de doble rebote.
+
+265
+00:15:37,036 --> 00:15:39,171
+¿Qué es eso de "disparo de doble rebote"?
+
+
+266
+00:15:39,171 --> 00:15:42,574
+Bueno, tú también lo haces d vez en cuando.
+
+267
+00:15:42,574 --> 00:15:46,032
+Observen. Le apunto a la viga del techo y...
+
+268
+00:15:52,217 --> 00:15:53,206
+¡No puede ser!
+
+
+269
+00:15:53,385 --> 00:15:56,354
+¡Miren! ¡Logro darle cada dos disparos!
+
+270
+00:15:57,790 --> 00:15:59,291
+Debe ser una genio.
+
+271
+00:15:59,291 --> 00:16:00,758
+Quizás.
+
+272
+00:16:03,696 --> 00:16:06,298
+¡Oye, Kaori, dame otra cerveza!
+
+273
+00:16:06,298 --> 00:16:07,599
+Está bien.
+
+274
+00:16:07,599 --> 00:16:09,101
+¿Y ahora qué pasa?
+
+275
+00:16:09,101 --> 00:16:10,402
+Oh, Ryo.
+
+276
+00:16:10,402 --> 00:16:14,239
+Aiko dijo que no podía dormir por la emoción,
+
+
+277
+00:16:14,239 --> 00:16:15,474
+así que le di una cerveza...
+
+278
+00:16:15,474 --> 00:16:17,609
+¡¿Le diste una cerveza?!
+
+
+279
+00:16:17,609 --> 00:16:19,778
+Diablos, no seas tan tacaño.
+
+280
+00:16:19,778 --> 00:16:22,481
+¡No puedo tomar sólo un trago!
+
+281
+00:16:22,481 --> 00:16:26,785
+Saeba, tú también ven a beber. ¡Vamos!
+
+282
+00:16:26,785 --> 00:16:30,846
+¡Muy bien! ¡Bebamos todos juntos!
+
+283
+00:16:40,099 --> 00:16:42,034
+No me siento bien.
+
+284
+00:16:42,034 --> 00:16:45,526
+Es cierto, después de eso 
+Aiko nos hizo beber con ella y...
+
+285
+00:16:47,339 --> 00:16:49,330
+¡Aiko no está en su cama!
+
+286
+00:16:53,779 --> 00:16:55,280
+¡Ryo tampoco está!
+
+287
+00:16:55,280 --> 00:16:57,805
+¡Y se dejó el localizador
+para apartar los deseos carnales!
+
+288
+00:16:58,751 --> 00:17:00,582
+Me engañaron.
+
+289
+00:17:01,987 --> 00:17:04,323
+Eres muy amable, Saeba,
+
+290
+00:17:04,323 --> 00:17:07,292
+al acompañarme a buscar el perro.
+
+291
+00:17:07,292 --> 00:17:10,629
+Bueno, hasta que puedas manejar un arma
+
+292
+00:17:10,629 --> 00:17:13,365
+tendré que protegerte.
+
+293
+00:17:13,365 --> 00:17:17,961
+<i>Muy bien. Kaori no podrá interrumpirme ahora.</i>
+
+294
+00:17:19,471 --> 00:17:21,837
+#Deja de buscar
+
+295
+00:17:22,141 --> 00:17:23,642
+Qué horrible.
+
+296
+00:17:23,642 --> 00:17:25,811
+Es demasiado para ser una broma.
+
+
+297
+00:17:25,811 --> 00:17:27,446
+Siempre es así.
+
+298
+00:17:27,446 --> 00:17:29,248
+Cada vez que coloco los carteles...
+
+299
+00:17:29,248 --> 00:17:32,843
+<i>Definitivamente quieren interferir con la búsqueda.</i>
+
+300
+00:17:34,486 --> 00:17:35,953
+<i>Y además...</i>
+
+301
+00:17:38,190 --> 00:17:41,493
+<i>Sin duda nos han estado siguiendo por un rato.</i>
+
+302
+00:17:41,493 --> 00:17:43,256
+<i>Pero es un aficionado.</i>
+
+303
+00:17:43,729 --> 00:17:45,297
+¿Sucede algo?
+
+304
+00:17:45,297 --> 00:17:46,632
+Oh, no, nada.
+
+
+
+305
+00:17:46,632 --> 00:17:50,202
+Estaba pensando que no conseguirás nada
+buscando sin dirección.
+
+306
+00:17:50,202 --> 00:17:50,803
+#Perro extraviado
+
+307
+00:17:50,803 --> 00:17:54,136
+#Perro extraviado
+¿Sabes algo sobre él,
+como a qué lugares podría ir?
+
+308
+00:17:54,573 --> 00:17:58,310
+Ahora que lo mencionas, 
+le encantan las perras hermosas
+
+309
+00:17:58,310 --> 00:17:59,945
+y las persigue todo el tiempo.
+
+310
+00:17:59,945 --> 00:18:01,537
+Como alguien que conocemos.
+
+311
+00:18:03,015 --> 00:18:06,718
+¿Perras hermosas?
+Bien, se me ocurren algunas ideas.
+
+312
+00:18:06,718 --> 00:18:07,886
+¡¿En verdad?!
+
+313
+00:18:07,886 --> 00:18:09,376
+Puedes confiar en mí.
+
+314
+00:18:12,024 --> 00:18:14,460
+¿Qué sucede? ¡Date prisa!
+
+315
+00:18:14,460 --> 00:18:15,017
+Sí...
+
+316
+00:18:16,428 --> 00:18:18,497
+¿Hay perros en este lugar?
+
+317
+00:18:18,497 --> 00:18:22,734
+Sí. Las @acompañantes suelen tener una mascota.
+
+
+318
+00:18:22,734 --> 00:18:26,329
+No, no vi a ningún perro así.
+
+319
+00:18:26,872 --> 00:18:28,134
+¿Tú que dices, Chiro?
+
+320
+00:18:29,241 --> 00:18:31,910
+Lamento no serte de ayuda, Ryo.
+
+321
+00:18:31,910 --> 00:18:33,400
+No te preocupes por eso.
+
+322
+00:18:34,079 --> 00:18:36,782
+Pero es seguro que no tiene ojos.
+
+323
+00:18:36,782 --> 00:18:40,652
+Si yo fuera un perro, movería la cola
+y vendría directo a este lugar.
+
+324
+00:18:40,652 --> 00:18:44,782
+¿Te refieres a Chiro? O acaso...
+
+325
+00:18:45,824 --> 00:18:47,759
+Por supuesto, ¿a quién más?
+
+326
+00:18:47,759 --> 00:18:49,828
+¡Oh, Ryo!
+
+327
+00:18:49,828 --> 00:18:52,364
+¡Disculpa, Saeba!
+
+328
+00:18:52,364 --> 00:18:54,133
+Parece que me malentendiste.
+
+329
+00:18:54,133 --> 00:18:56,568
+Dije perras hermosas.
+
+330
+00:18:56,568 --> 00:18:59,538
+Esta es una hermosura que tiene una perra.
+
+331
+00:18:59,538 --> 00:19:00,906
+Bueno...
+
+332
+00:19:00,906 --> 00:19:02,806
+#Tienda de mascotas "Niños"
+
+333
+00:19:03,108 --> 00:19:07,738
+¿Vino este perro a molestar a sus hembras?
+
+
+334
+00:19:08,480 --> 00:19:11,083
+No, no lo he visto, pero...
+
+335
+00:19:11,083 --> 00:19:12,217
+¿Pero?
+
+336
+00:19:12,217 --> 00:19:15,152
+Tu macho está molestando a mi empleada.
+
+337
+00:19:15,587 --> 00:19:17,289
+Tengamos una cita.
+
+338
+00:19:17,289 --> 00:19:18,722
+@@¡Por favor!
+
+339
+00:19:19,057 --> 00:19:22,528
+¡¿Tienes alguna intención de hacer esto en serio?!
+
+
+340
+00:19:22,528 --> 00:19:25,030
+¡Pero era muy linda!
+
+341
+00:19:25,030 --> 00:19:27,299
+Además, estoy cansado de caminar.
+
+342
+00:19:27,299 --> 00:19:28,967
+Cielos...
+
+343
+00:19:28,967 --> 00:19:32,334
+De acuerdo, Saeba, descansemos allí.
+
+344
+00:19:33,505 --> 00:19:35,007
+#La tierra de los amantes
+
+345
+00:19:35,007 --> 00:19:36,235
+#Jardín Imperial
+
+
+346
+00:19:39,978 --> 00:19:42,674
+¡¿Descansar?! Este lugar es...
+
+347
+00:19:47,152 --> 00:19:48,921
+¿Aiko, vienes por aquí a menudo?
+
+348
+00:19:48,921 --> 00:19:50,980
+Sí, desde que era pequeña.
+
+349
+00:19:51,723 --> 00:19:53,926
+¡Y parecía tan inocente!
+
+350
+00:19:53,926 --> 00:19:57,054
+Creo que las chicas maduran
+más rápido en estos días.
+
+351
+00:19:57,596 --> 00:19:58,664
+Ya llegamos.
+
+352
+00:19:58,664 --> 00:20:00,332
+¡Sí, vamos a hacerlo!
+
+353
+00:20:00,332 --> 00:20:01,133
+#Agencia de Detectives Kamimura 
+¡Sí, vamos a hacerlo!
+
+354
+00:20:01,133 --> 00:20:05,729
+#Agencia de Detectives Kamimura 
+Esta es la agencia de mi padre,
+digo, es mi agencia ahora.
+
+355
+00:20:05,938 --> 00:20:07,973
+¿Agencia?
+
+356
+00:20:07,973 --> 00:20:09,804
+¿Acaso volviste a malinterpretarme?
+
+357
+00:20:15,914 --> 00:20:17,950
+Qué oficina más anticuada.
+
+358
+00:20:17,950 --> 00:20:22,521
+Sí, pero siempre le he tenido cariño
+a este lugar, desde que era pequeña.
+
+359
+00:20:22,521 --> 00:20:26,058
+Aquí los ojos de mi padre resplandecían.
+
+360
+00:20:26,058 --> 00:20:30,154
+A diferencia de otros adultos,
+sus ojos eran como los de un niño.
+
+361
+00:20:31,230 --> 00:20:32,788
+Era maravilloso,
+
+362
+00:20:33,432 --> 00:20:37,232
+a pesar de que un trabajo con tan malas ganancias
+sólo traía problemas.
+
+363
+00:20:38,570 --> 00:20:40,739
+Creí que si intentaba ser una detective
+
+364
+00:20:40,739 --> 00:20:42,707
+descubriría la razón.
+
+365
+00:20:44,343 --> 00:20:45,810
+¿Crees que es raro?
+
+366
+00:20:46,345 --> 00:20:47,471
+Para nada.
+
+367
+00:20:53,185 --> 00:20:55,153
+¿Quién diablos eres?
+
+368
+00:20:55,153 --> 00:20:56,415
+¡Tío!
+
+369
+00:21:01,727 --> 00:21:04,429
+Tío, este hombre es Saeba--
+
+370
+00:21:04,429 --> 00:21:07,398
+¡¿Tu asistente?! ¡Parece un yakuza!
+
+
+371
+00:21:08,300 --> 00:21:10,836
+Me opongo rotundamente.
+
+372
+00:21:10,836 --> 00:21:12,904
+No eres capaz de ser detective.
+
+373
+00:21:12,904 --> 00:21:16,475
+Además, ni siquiera te has graduado
+de la universidad.
+
+374
+00:21:16,475 --> 00:21:20,969
+Si se trata de eso, ya te lo prometí el otro día.
+
+
+375
+00:21:21,880 --> 00:21:24,116
+Buscar a un perro es algo trivial.
+
+376
+00:21:24,116 --> 00:21:25,743
+No, es un trabajo importante.
+
+377
+00:21:30,922 --> 00:21:34,358
+¡Eres igual de terca que mi hermano!
+
+
+378
+00:21:35,594 --> 00:21:37,796
+Disculpa por eso.
+
+379
+00:21:37,796 --> 00:21:40,198
+¿Qué era esa promesa?
+
+380
+00:21:40,198 --> 00:21:44,936
+Mi tío era el que más se oponía
+a que tomara el trabajo de mi padre.
+
+381
+00:21:44,936 --> 00:21:46,605
+Pero lo persuadí de que me dejara intentarlo,
+
+382
+00:21:46,605 --> 00:21:50,575
+y le prometí que abandonaría
+si no pudiera resolver mi primer caso.
+
+383
+00:21:50,575 --> 00:21:52,577
+Así que de eso se trata.
+
+384
+00:21:52,577 --> 00:21:54,044
+Tu tío tiene sus propios problemas.
+
+385
+00:21:56,682 --> 00:21:57,549
+¡¿Qué fue eso?!
+
+386
+00:21:57,549 --> 00:21:58,914
+¡Fue mi tío!
+
+387
+00:22:04,423 --> 00:22:05,924
+¡¿Qué sucedió, tío?!
+
+388
+00:22:05,924 --> 00:22:08,093
+@Me dieron en la pierna.
+
+389
+00:22:08,093 --> 00:22:11,187
+Un auto se me abalanzó de repente, y--
+
+390
+00:22:12,364 --> 00:22:16,698
+Los hombres me dijeron que te hiciera
+desistir de la búsqueda por el perro
+
+391
+00:22:17,469 --> 00:22:20,632
+o también estaría en peligro.
+
+392
+00:22:31,583 --> 00:22:33,744
+
+393
+00:22:35,587 --> 00:22:37,714
+
+394
+00:22:45,697 --> 00:22:55,163
+
+395
+00:22:55,307 --> 00:23:00,609
+
+396
+00:23:01,079 --> 00:23:08,884
+
+397
+00:23:09,221 --> 00:23:14,326
+
+398
+00:23:14,326 --> 00:23:23,633
+
+399
+00:23:24,436 --> 00:23:31,877
+
+400
+00:23:31,877 --> 00:23:40,216
+
+401
+00:23:40,685 --> 00:23:48,182
+
+402
+00:23:48,560 --> 00:23:54,699
+
+403
+00:23:54,699 --> 00:23:59,830
+
+
+
+
+
+
+
+
+
+
+
+
+
+404
+00:24:04,209 --> 00:24:08,013
+La oficina de Aiko se encuentra
+en la zona de los hoteles. ¡Me encanta!
+
+405
+00:24:08,013 --> 00:24:10,015
+Escucha, maldito fisgón.
+
+406
+00:24:10,015 --> 00:24:13,652
+El dueño de los edificios lindantes
+quiere librarse de la oficina.
+
+407
+00:24:13,652 --> 00:24:14,786
+¿Qué puedes deducir de eso?
+
+408
+00:24:14,786 --> 00:24:18,390
+Pero quien está detrás de Aiko es otra persona.
+
+
+409
+00:24:18,390 --> 00:24:20,425
+¿Qué? ¿Si no es él entonces quién?
+
+410
+00:24:20,425 --> 00:24:22,561
+¿Acaso ese perro es importante?
+
+411
+00:24:22,561 --> 00:24:23,762
+City Hunter 3:
+
+412
+00:24:23,762 --> 00:24:26,598
+"¡Un Peligroso Juego de Detectives!
+Una <i>Python</i> para la Señorita (Parte 2)"
+
+413
+00:24:26,598 --> 00:24:28,623
+Será mucho más peligroso si no lo miras.
+

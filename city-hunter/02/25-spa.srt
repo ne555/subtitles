@@ -1,0 +1,1610 @@
+1
+00:00:18,551 --> 00:00:22,351
+
+2
+00:00:23,289 --> 00:00:27,919
+
+3
+00:00:29,329 --> 00:00:40,407
+
+4
+00:00:40,407 --> 00:00:44,673
+
+5
+00:00:45,879 --> 00:00:50,475
+
+6
+00:00:51,317 --> 00:00:55,378
+
+7
+00:00:56,723 --> 00:01:01,728
+
+8
+00:01:01,728 --> 00:01:06,461
+
+9
+00:01:07,000 --> 00:01:11,664
+
+10
+00:01:12,472 --> 00:01:17,136
+
+11
+00:01:17,777 --> 00:01:28,847
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+00:01:40,366 --> 00:01:42,836
+Francamente, tengo que rechazarte.
+
+13
+00:01:42,836 --> 00:01:46,602
+Generalmente tenemos muchos problemas
+cuando aceptamos tus peticiones.
+
+14
+00:01:47,941 --> 00:01:49,742
+Esta vez sólo soy un intermediario.
+
+15
+00:01:49,742 --> 00:01:51,073
+El cliente está allí.
+
+16
+00:01:51,511 --> 00:01:53,379
+Su nombre es Keiichi Kashiwagi.
+
+17
+00:01:53,379 --> 00:01:54,614
+Es un actor.
+
+18
+00:01:54,614 --> 00:01:55,911
+¿Un actor?
+
+19
+00:01:56,483 --> 00:02:01,588
+Es testigo de un incidente que se está
+llevando a cabo en los tribunales.
+
+20
+00:02:01,588 --> 00:02:04,887
+Él es muy importante y podría
+afectar el veredicto.
+
+21
+00:02:05,592 --> 00:02:09,129
+La próxima sesión será en seis días y
+él subirá al banquillo.
+
+22
+00:02:09,129 --> 00:02:12,189
+Quiero que lo protejan hasta entonces.
+
+23
+00:02:12,565 --> 00:02:15,261
+¿Protegerlo? ¿Alguien está tratando de matarlo?
+
+24
+00:02:16,569 --> 00:02:22,599
+De todos modos, me pregunto si Ryo
+aceptará ser el guardaespaldas de un hombre.
+
+25
+00:02:27,714 --> 00:02:29,649
+Por favor, ayúdenme.
+
+26
+00:02:29,649 --> 00:02:32,447
+No tengo a nadie más a quien recurrir.
+
+27
+00:02:33,219 --> 00:02:36,518
+¡Oh, qué guapo!
+
+28
+00:02:38,458 --> 00:02:43,418
+"¡Testigo en la mira! Una Peligrosa Belleza
+Vestida Como Hombre (Parte 1)"
+
+
+29
+00:02:44,697 --> 00:02:46,432
+No te oigo.
+
+30
+00:02:46,432 --> 00:02:49,068
+Por favor, sólo por esta vez.
+
+31
+00:02:49,068 --> 00:02:50,403
+No te oigo.
+
+32
+00:02:50,403 --> 00:02:52,539
+¡Diablos, sí que eres imbécil!
+
+33
+00:02:52,539 --> 00:02:54,073
+No importa lo que digamos, no nos hará caso.
+
+34
+00:02:54,073 --> 00:02:55,575
+Sólo queda una cosa.
+
+35
+00:02:55,575 --> 00:02:57,167
+¡No te oigo!
+
+36
+00:02:59,045 --> 00:03:00,446
+Esta chica es...
+
+37
+00:03:00,446 --> 00:03:02,315
+Sí, sí, ¿quién es?
+
+38
+00:03:02,315 --> 00:03:05,618
+Es la hermana de Keiichi Kashiwagi,
+se llama Keiko.
+
+39
+00:03:05,618 --> 00:03:07,987
+Si aceptas ser el guardaespaldas de su hermano,
+
+
+40
+00:03:07,987 --> 00:03:11,388
+dice que saldrá contigo.
+
+41
+00:03:11,958 --> 00:03:13,391
+¡Qué ridiculez!
+
+42
+00:03:14,827 --> 00:03:19,025
+Hermano, no te preocupes.
+Haré feliz a Keiko, lo prometo.
+
+43
+00:03:19,666 --> 00:03:21,701
+¡Qué linda hermana!
+
+44
+00:03:21,701 --> 00:03:24,761
+Realmente se parecen.
+
+
+45
+00:03:25,939 --> 00:03:27,106
+Son mellizos.
+
+46
+00:03:27,106 --> 00:03:29,008
+No es raro que se parezcan.
+
+
+47
+00:03:29,008 --> 00:03:30,343
+¿Verdad, Keiichi?
+
+48
+00:03:30,343 --> 00:03:31,970
+## Análisis de Información
+
+49
+00:03:33,846 --> 00:03:35,643
+Él es exactamente como me dijo Saeko.
+
+50
+00:03:37,450 --> 00:03:39,918
+Seis días es mucho tiempo.
+
+51
+00:03:40,653 --> 00:03:42,883
+¿Podré evitar que me descubran?
+
+52
+00:03:43,623 --> 00:03:46,593
+Oye, Kashiwagi es realmente hermoso,
+¿no te parece?
+
+53
+00:03:46,593 --> 00:03:49,862
+Oh, ¿te gustan de esa clase?
+¿Acaso te enamoraste de él?
+
+
+54
+00:03:49,862 --> 00:03:51,331
+¡No seas tonto!
+
+55
+00:03:51,331 --> 00:03:53,166
+¡Mira! Te pusiste colorada.
+
+56
+00:03:53,166 --> 00:03:55,100
+¡Cállate, idiota!
+
+57
+00:04:06,179 --> 00:04:09,307
+Es doloroso, pero tengo que soportarlo.
+
+58
+00:04:09,916 --> 00:04:11,718
+Debo ser paciente hasta que vaya a dormir.
+
+59
+00:04:11,718 --> 00:04:16,018
+Entonces podré quitarme este vendaje y relajarme.
+
+
+60
+00:04:19,325 --> 00:04:24,230
+Por cierto, quien está detrás de ti
+debe ser muy importante, ¿verdad?
+
+61
+00:04:24,230 --> 00:04:26,960
+Ya que contrató a un famoso asesino del bajomundo.
+
+
+62
+00:04:28,034 --> 00:04:30,603
+¿Escuchó acerca del hombre
+que arrestaron el mes pasado
+
+63
+00:04:30,603 --> 00:04:32,764
+por contrabando y venta drogas, verdad?
+
+
+64
+00:04:35,308 --> 00:04:37,810
+También es el presidente 
+del club de fans de una famosa actriz,
+
+65
+00:04:37,810 --> 00:04:40,472
+que se encuentra en la misma producción que yo.
+
+66
+00:04:40,847 --> 00:04:46,080
+Un día me los encontré enfiestándose con drogas.
+
+
+67
+00:04:49,589 --> 00:04:52,717
+Desde entonces alguien ha estado
+tratando de matarte.
+
+68
+00:04:53,259 --> 00:04:57,297
+Tenía miedo de verme involucrado,
+así que no le dije a nadie.
+
+69
+00:04:57,297 --> 00:05:00,892
+Sin embargo, él sabe que lo vi.
+
+70
+00:05:01,167 --> 00:05:03,936
+Aunque te diga que debes protegerte tú mismo,
+
+71
+00:05:03,936 --> 00:05:06,239
+no serías capaz con estos brazos tan flacos.
+
+
+72
+00:05:06,239 --> 00:05:07,900
+Probablemente sólo podrías sostener los @palillos.
+
+73
+00:05:08,408 --> 00:05:11,711
+Pero tu pecho es bastante grueso.
+
+74
+00:05:11,711 --> 00:05:12,845
+Tienes una figura extraña, ¿no crees?
+
+75
+00:05:12,845 --> 00:05:14,312
+¡No!
+
+76
+00:05:14,681 --> 00:05:16,774
+¡¿No?!
+
+77
+00:05:23,890 --> 00:05:28,261
+Perdón, pero el @futón para invitados
+está en la tintorería.
+
+78
+00:05:28,261 --> 00:05:34,434
+Oh, no, no quiero compartir la cama con un tipo.
+
+
+79
+00:05:34,434 --> 00:05:36,169
+No puede evitarse.
+
+80
+00:05:36,169 --> 00:05:38,604
+Si no te gusta la idea, 
+¿preferirías dormir con Kaori?
+
+81
+00:05:38,604 --> 00:05:40,265
+Claro, eso sería mejor.
+
+82
+00:05:45,611 --> 00:05:48,781
+Sólo bromeaba.
+
+83
+00:05:48,781 --> 00:05:51,050
+Por supuesto. Entonces dormirás aquí, ¿no?
+
+
+84
+00:05:51,050 --> 00:05:52,517
+Claro...
+
+85
+00:05:53,586 --> 00:05:56,522
+Bueno entonces, buenas noches.
+
+86
+00:05:56,522 --> 00:05:59,320
+Quizás perdí una buena oportunidad.
+
+
+87
+00:05:59,926 --> 00:06:01,928
+¿Por qué estás tan emocionada?
+
+88
+00:06:01,928 --> 00:06:04,726
+¡Por nada!
+
+89
+00:06:10,470 --> 00:06:11,771
+¿Qué pasa?
+
+90
+00:06:11,771 --> 00:06:13,806
+Date prisa y cámbiate.
+
+91
+00:06:13,806 --> 00:06:14,974
+Estos son tus pijamas.
+
+92
+00:06:14,974 --> 00:06:18,378
+Yo... Tengo que ir al baño antes.
+
+93
+00:06:18,378 --> 00:06:20,179
+¿Qué? ¿Al baño?
+
+
+94
+00:06:20,179 --> 00:06:22,010
+Parece un niño.
+
+95
+00:06:22,081 --> 00:06:23,981
+## Análisis de Información
+
+96
+00:06:24,317 --> 00:06:25,685
+Estoy en problemas.
+
+97
+00:06:25,685 --> 00:06:27,920
+No hay más remedio que dormir
+con el vendaje puesto.
+
+98
+00:06:27,920 --> 00:06:29,615
+¡Qué molestia!
+
+99
+00:06:31,624 --> 00:06:32,925
+Perdón por la demora.
+
+100
+00:06:32,925 --> 00:06:35,519
+¿Eh? ¿Te cambiaste en el baño?
+
+
+101
+00:06:37,563 --> 00:06:39,087
+Sí.
+
+102
+00:06:39,665 --> 00:06:42,532
+Como pensaba, mis pijamas te quedan grandes.
+
+103
+00:06:43,069 --> 00:06:45,560
+¿Por qué mejor no duermes en calzoncillos?
+
+104
+00:06:45,671 --> 00:06:47,036
+¡¿Calzoncillos?!
+
+105
+00:06:47,607 --> 00:06:48,975
+Bueno, voy a apagar la luz.
+
+106
+00:06:48,975 --> 00:06:50,143
+Date prisa y métete en la cama.
+
+107
+00:06:50,143 --> 00:06:51,210
+¡Sí!
+
+108
+00:06:51,210 --> 00:06:54,441
+Dios, por favor, protégeme.
+
+109
+00:07:06,192 --> 00:07:07,660
+Me asustó.
+
+110
+00:07:07,660 --> 00:07:09,127
+Sólo está roncando.
+
+111
+00:07:14,400 --> 00:07:16,425
+El muslo de Keiko...
+
+112
+00:07:17,303 --> 00:07:19,572
+¡¿Qué clase de sueño es ese?!
+
+113
+00:07:19,572 --> 00:07:21,096
+¡Pervertido!
+
+114
+00:07:23,376 --> 00:07:26,311
+Como dicen, despierto o dormido, es un libidinoso.
+
+
+115
+00:07:28,181 --> 00:07:29,182
+¡¿Qué pasa?!
+
+116
+00:07:29,182 --> 00:07:31,241
+Diablos, ¿por qué no puede quedarse quieto?
+
+
+117
+00:07:32,318 --> 00:07:34,411
+Keiko...
+
+118
+00:07:36,088 --> 00:07:37,578
+¡¿Qué?!
+
+119
+00:07:42,261 --> 00:07:45,164
+¿Por qué sigo soñando que alguien me molesta
+
+
+120
+00:07:45,164 --> 00:07:48,565
+mientras tengo un buen momento con Keiko?
+
+121
+00:07:49,235 --> 00:07:52,638
+Maldición, no puedo predecir a este tipo
+aunque esté dormido.
+
+122
+00:07:52,638 --> 00:07:54,503
+Así no podré dormir.
+
+123
+00:07:59,779 --> 00:08:01,212
+¿Ya es de mañana?
+
+124
+00:08:01,781 --> 00:08:04,181
+Supongo que dormí un poco.
+
+125
+00:08:09,021 --> 00:08:11,489
+Las tetas de Keiko...
+
+126
+00:08:18,464 --> 00:08:20,233
+¿Qué demonios?
+
+127
+00:08:20,233 --> 00:08:21,200
+¡pervertido!
+
+128
+00:08:21,200 --> 00:08:23,102
+¡¿Qué estabas tocando?!
+
+129
+00:08:23,102 --> 00:08:24,569
+¿Tocando?
+
+130
+00:08:25,137 --> 00:08:27,765
+Oh, perdón, tenía un sueño muy bonito.
+
+
+131
+00:08:29,642 --> 00:08:34,113
+Pero me pregunto si un hombre tiene algo blando
+como los senos de una mujer.
+
+132
+00:08:34,113 --> 00:08:35,011
+Glup.
+
+133
+00:08:36,115 --> 00:08:37,582
+No puede ser...
+
+134
+00:08:38,351 --> 00:08:39,952
+Ah, entiendo.
+
+135
+00:08:39,952 --> 00:08:43,388
+Te estaba tocando las bolas.
+
+136
+00:08:46,459 --> 00:08:49,326
+Basándome en el tacto,
+los tuyos son extra grandes.
+
+137
+00:08:54,066 --> 00:08:55,501
+¿Le pasa algo?
+
+138
+00:08:55,501 --> 00:08:58,170
+No parece estar bien y no tiene apetito.
+
+
+139
+00:08:58,170 --> 00:09:02,231
+Bueno, tiene derecho a estar triste
+al haber estado encerrado por tres días ya.
+
+140
+00:09:03,976 --> 00:09:06,069
+Temo volverme neurótica mientras esté aquí.
+
+
+141
+00:09:07,346 --> 00:09:09,015
+Bueno, supongo.
+
+142
+00:09:09,015 --> 00:09:11,617
+Oye, Ryo, ¿por qué no lo llevas a algún lado?
+
+
+143
+00:09:11,617 --> 00:09:13,119
+No seas tonta.
+
+144
+00:09:13,119 --> 00:09:16,322
+¿Por qué tendría una cita con un hombre?
+
+
+145
+00:09:16,322 --> 00:09:17,290
+¿Qué?
+
+146
+00:09:17,290 --> 00:09:20,192
+Cuando el cliente es una mujer,
+tratas de salir con ella todo el tiempo.
+
+147
+00:09:20,192 --> 00:09:21,853
+¡Ya no te pediré nada!
+
+148
+00:09:22,695 --> 00:09:26,165
+Keiichi, me gustaría salir a comprar ropa,
+
+149
+00:09:26,165 --> 00:09:28,395
+¿por qué no vienes conmigo?
+
+150
+00:09:30,603 --> 00:09:32,070
+Srta. Kaori...
+
+151
+00:09:33,506 --> 00:09:34,607
+No, no puedes.
+
+152
+00:09:34,607 --> 00:09:36,175
+¿Por qué no?
+
+
+153
+00:09:36,175 --> 00:09:38,444
+Tú no quieres salir con él,
+por eso que estoy tratando de...
+
+154
+00:09:38,444 --> 00:09:42,005
+Si pasa algo, ¿podrías protegerlo por tu cuenta?
+
+
+155
+00:09:42,848 --> 00:09:44,475
+Bueno...
+
+156
+00:09:45,418 --> 00:09:46,319
+Sé paciente.
+
+157
+00:09:46,319 --> 00:09:49,914
+Pero si realmente quieres salir,
+podrías disfrazarte de mujer.
+
+158
+00:09:52,291 --> 00:09:54,026
+¡Si, eso es!
+
+159
+00:09:54,026 --> 00:09:56,529
+Si te disfrazas de mujer,
+podremos engañar al enemigo.
+
+160
+00:09:56,529 --> 00:09:57,461
+¿Verdad, Keiichi?
+
+161
+00:09:59,599 --> 00:10:01,100
+Oh, no.
+
+162
+00:10:01,100 --> 00:10:05,400
+Me disfracé como hombre 
+justamente para eso, pero...
+
+163
+00:10:05,938 --> 00:10:08,975
+De todos modos eres una tonta, Kaori.
+
+164
+00:10:08,975 --> 00:10:12,376
+Es imposible que un hombre finja
+ser una mujer correctamente.
+
+165
+00:10:23,255 --> 00:10:24,957
+¿Qué te parece, Ryo?
+
+166
+00:10:24,957 --> 00:10:27,660
+Cuando se viste como una mujer,
+se parece mucho a su hermana, Keiko.
+
+167
+00:10:27,660 --> 00:10:29,795
+Estoy muy sorprendida.
+
+168
+00:10:29,795 --> 00:10:32,431
+Se maquilló por su cuenta.
+
+169
+00:10:32,431 --> 00:10:34,433
+En verdad es un actor.
+
+170
+00:10:34,433 --> 00:10:39,271
+Vaya, viéndolos uno al lado del otro
+parecen novios.
+
+171
+00:10:39,271 --> 00:10:41,364
+Oh, no.
+
+172
+00:10:45,811 --> 00:10:47,244
+Vamos, Keiichi.
+
+173
+00:10:48,214 --> 00:10:49,977
+Quédate así por un rato.
+
+174
+00:10:52,284 --> 00:10:55,554
+Kaori, tengo miedo a salir así a la calle.
+
+175
+00:10:55,554 --> 00:10:56,722
+Estarás bien.
+
+176
+00:10:56,722 --> 00:10:59,316
+Soy más fuerte que Ryo cuando lo necesito.
+
+177
+00:10:59,892 --> 00:11:03,229
+No esperaba que fuera tan hermosa vestida así.
+
+
+178
+00:11:03,229 --> 00:11:05,789
+Debería haber tenido una con ella.
+
+179
+00:11:07,967 --> 00:11:10,970
+No seas estúpido.
+¡Se ve como mujer, pero es un hombre!
+
+180
+00:11:10,970 --> 00:11:12,631
+Sin embargo, no puedo desentenderme.
+
+181
+00:11:13,105 --> 00:11:14,663
+Los seguiré.
+
+182
+00:11:21,313 --> 00:11:23,349
+Esta es una cita, ¿no es así?
+
+183
+00:11:23,349 --> 00:11:26,250
+Aunque otras personas piensen
+que somos dos mujeres...
+
+184
+00:11:27,186 --> 00:11:29,155
+Hey, mira, mira a ellos.
+
+185
+00:11:29,155 --> 00:11:31,089
+Parecen los novios perfectos.
+
+
+186
+00:11:32,191 --> 00:11:34,427
+Kaori, ¿estás bien?
+
+187
+00:11:34,427 --> 00:11:35,494
+¡Diablos! Odio esto.
+
+188
+00:11:35,494 --> 00:11:38,864
+Pierdo como mujer contra ti, y tú eres un hombre.
+
+
+189
+00:11:38,864 --> 00:11:40,433
+¿De qué hablas?
+
+190
+00:11:40,433 --> 00:11:42,034
+Eres muy linda, Kaori.
+
+191
+00:11:42,034 --> 00:11:43,269
+¡Ya sé!
+
+192
+00:11:43,269 --> 00:11:45,471
+Voy a buscarte algo de ropa, Kaori,
+
+193
+00:11:45,471 --> 00:11:49,464
+y las combinaré tan perfectamente que los hombres
+no podrán resistirte cuando te vean.
+
+194
+00:11:50,710 --> 00:11:53,579
+Realmente te ves como si fueras una mujer, Keiichi.
+
+
+195
+00:11:53,579 --> 00:11:54,847
+De ninguna manera.
+
+196
+00:11:54,847 --> 00:11:58,180
+Como soy un actor es muy fácil para mí.
+
+
+197
+00:11:59,351 --> 00:12:00,875
+¡Bueno, date prisa, vamos!
+
+198
+00:12:16,869 --> 00:12:18,637
+Mira, este es el adecuado.
+
+199
+00:12:18,637 --> 00:12:19,739
+Te sienta perfectamente, Kaori.
+
+200
+00:12:19,739 --> 00:12:21,841
+Se ve muy bien en ti. Muy bonito.
+
+201
+00:12:21,841 --> 00:12:23,275
+¿En serio?
+
+202
+00:12:23,275 --> 00:12:24,477
+Compremos una falda también.
+
+203
+00:12:24,477 --> 00:12:26,178
+Te ves bien con pantalones
+
+204
+00:12:26,178 --> 00:12:28,146
+pero una falda te irá bien también.
+
+
+205
+00:12:30,649 --> 00:12:35,313
+Bueno, te ves bien con eso. ¡Genial!
+
+206
+00:12:39,258 --> 00:12:43,217
+Keiichi, eres un hombre,
+pero eres bueno con las compras.
+
+207
+00:12:43,796 --> 00:12:48,634
+Eso es porque los hombres buscan 
+artículos de marca hoy en día.
+
+208
+00:12:48,634 --> 00:12:52,195
+Me acostumbré a ir de compras.
+
+209
+00:12:57,243 --> 00:12:58,710
+Los encontré.
+
+210
+00:12:59,245 --> 00:13:04,706
+De todos modos, es tan hermosa
+a pesar de que sé que es un hombre...
+
+211
+00:13:05,551 --> 00:13:08,520
+¿Me estaré metiendo en una relación peligrosa?
+
+
+212
+00:13:08,821 --> 00:13:09,989
+Atención por favor.
+
+213
+00:13:09,989 --> 00:13:12,514
+Iniciaremos una oferta limitada.
+
+214
+00:13:13,025 --> 00:13:16,829
+Por treinta minutos, los artículos de este mostrador
+estarán a mitad de precio.
+
+215
+00:13:16,829 --> 00:13:18,023
+¡Dense prisa!
+
+216
+00:13:18,497 --> 00:13:21,100
+¡Mira! Esos están a mitad de precio.
+
+217
+00:13:21,100 --> 00:13:22,034
+¿Qué?
+
+218
+00:13:22,034 --> 00:13:23,602
+Olvídalo. Quédate aquí.
+
+219
+00:13:23,602 --> 00:13:27,239
+Caray, aún considerando que es un actor,
+
+220
+00:13:27,239 --> 00:13:29,375
+es increíble que no parece otra cosa
+mas que una mujer.
+
+221
+00:13:29,375 --> 00:13:32,208
+Pensaría que somos dos mujeres comprando.
+
+222
+00:13:32,478 --> 00:13:35,447
+¡Vaya, increíble!
+¿Realmente está a mitad de precio?
+
+223
+00:13:35,447 --> 00:13:38,177
+Sí, por favor, sienta la calidad.
+
+224
+00:13:45,591 --> 00:13:47,193
+Bueno, supongo que está bien.
+
+225
+00:13:47,193 --> 00:13:49,559
+Parece estar disfrutándolo.
+
+226
+00:13:50,863 --> 00:13:53,127
+¡Un acosador! Alguien me tocó la cola.
+
+227
+00:14:03,809 --> 00:14:06,778
+Déjenme tocar. Déjenme acariciar.
+
+228
+00:14:07,379 --> 00:14:10,115
+¡Oye! ¡¿Qué demonios estás pensando?!
+
+229
+00:14:10,115 --> 00:14:12,276
+¡Lo mismo digo!
+Estás descalificada como guardaespaldas.
+
+230
+00:14:13,719 --> 00:14:14,777
+Mira.
+
+231
+00:14:15,354 --> 00:14:17,923
+La granada está colocada
+en el fondo del mostrador.
+
+232
+00:14:17,923 --> 00:14:20,593
+y el pasador está unido a la ropa.
+
+233
+00:14:20,593 --> 00:14:22,828
+Si no me hacía pasar por un pervertido,
+
+234
+00:14:22,828 --> 00:14:25,456
+uno de los clientes 
+podría haber retirado la ropa y...
+
+235
+00:14:39,945 --> 00:14:42,248
+¡Oye! ¡Contrólate!
+
+236
+00:14:42,248 --> 00:14:43,549
+Ya no hay de qué preocuparse.
+
+237
+00:14:43,549 --> 00:14:45,813
+¡Ese hombre! ¡Él es un acosador!
+
+238
+00:14:45,951 --> 00:14:47,942
+¡Espera, pervertido!
+
+239
+00:14:48,187 --> 00:14:49,288
+¡¿Pervertido?!
+
+240
+00:14:49,288 --> 00:14:50,522
+¡Hey, espera!
+
+241
+00:14:50,522 --> 00:14:51,921
+¡Abre la puerta!
+
+242
+00:14:55,861 --> 00:14:58,728
+Supongo que Keiichi está conmocionado.
+
+243
+00:14:59,698 --> 00:15:02,034
+Es su culpa haberse enfermado
+por algo tan insignificante.
+
+244
+00:15:02,034 --> 00:15:05,993
+También es tu culpa por haberlo sacado
+sin prestarme atención.
+
+245
+00:15:10,409 --> 00:15:11,876
+¡Keiichi!
+
+246
+00:15:16,348 --> 00:15:18,284
+¿Como me veo?
+
+247
+00:15:18,284 --> 00:15:20,252
+Estas prendas son las que elegiste para mí.
+
+
+248
+00:15:20,753 --> 00:15:24,450
+Quería que fueras el primero en vérmelas puestas.
+
+
+249
+00:15:25,324 --> 00:15:28,691
+Sí, te ves muy bien, Kaori.
+
+250
+00:15:29,595 --> 00:15:30,863
+Sonrió.
+
+251
+00:15:30,863 --> 00:15:33,161
+Espero que se alegre.
+
+252
+00:15:33,565 --> 00:15:36,966
+Me gustaría poder salir a la calle
+vistiendo ropa bonita esa.
+
+253
+00:15:38,437 --> 00:15:40,735
+Vaya, se ve triste otra vez...
+
+254
+00:15:41,540 --> 00:15:42,608
+¡Keiichi!
+
+255
+00:15:42,608 --> 00:15:43,575
+¡Sí!
+
+256
+00:15:43,876 --> 00:15:45,110
+No debes ser así.
+
+257
+00:15:45,110 --> 00:15:47,980
+Kaori intentó animarte usando una minifalda
+a pesar de que no le sienta bien.
+
+258
+00:15:47,980 --> 00:15:50,549
+y mediante su atractivo, aunque no tenga nada.
+
+
+259
+00:15:50,549 --> 00:15:52,952
+Como eres un hombre,
+debes responder a su sinceridad,
+
+260
+00:15:52,952 --> 00:15:54,920
+y tratar de emocionarte por sus esfuerzos.
+
+261
+00:15:57,256 --> 00:15:58,824
+Kaori, no deberías actuar así tampoco.
+
+262
+00:15:58,824 --> 00:16:03,454
+Tienes que vestir más sensualmente,
+o nadie se emocionará.
+
+263
+00:16:05,097 --> 00:16:06,655
+¡Es suficiente!
+
+264
+00:16:11,737 --> 00:16:14,239
+Keiichi, ya que eres un hombre,
+
+265
+00:16:14,239 --> 00:16:18,073
+tienes que protegerte por tu cuenta
+cuando algo te suceda.
+
+266
+00:16:26,118 --> 00:16:27,853
+¿Ves?, es fácil.
+
+267
+00:16:27,853 --> 00:16:29,989
+Eres un hombre así que hazlo como te dije.
+
+268
+00:16:29,989 --> 00:16:35,757
+Pero Saeba, ¿por qué tengo
+que vestirme como mujer, entonces?
+
+269
+00:16:36,962 --> 00:16:40,132
+Porque puedo concentrarme mejor al enseñarte.
+
+
+270
+00:16:40,132 --> 00:16:41,600
+En forma personalizada, cordialmente.
+
+271
+00:16:41,600 --> 00:16:43,769
+Debería ser más ameno para el estudiante,
+¿no te parece?
+
+272
+00:16:43,769 --> 00:16:45,771
+No. Déjame cambiar.
+
+273
+00:16:45,771 --> 00:16:47,898
+No digas cosas como esas.
+
+274
+00:16:48,774 --> 00:16:50,075
+¡Déjame cambiar!
+
+275
+00:16:50,075 --> 00:16:51,736
+Como gustes...
+
+276
+00:16:55,080 --> 00:16:56,547
+Perdón por la demora.
+
+277
+00:16:57,549 --> 00:17:00,848
+Un hombre debe ser así.
+
+278
+00:17:05,190 --> 00:17:08,591
+Pero esa camisa es demasiado grande para ti.
+
+279
+00:17:10,362 --> 00:17:14,321
+No me puedo ejercitar con ese vendaje apretado.
+
+280
+00:17:14,500 --> 00:17:16,161
+¡Bueno, empecemos!
+
+281
+00:17:25,210 --> 00:17:26,478
+Ay, me duele la mano.
+
+282
+00:17:26,478 --> 00:17:28,414
+Un hombre no actúa como bebé.
+
+283
+00:17:28,414 --> 00:17:29,938
+Vamos, continúa disparando.
+
+284
+00:17:31,183 --> 00:17:34,016
+Oye, endereza la espalda, y extiende los brazos.
+
+
+285
+00:17:37,222 --> 00:17:39,656
+¿Qué diablos haces?
+No tienes ni pizca de condición.
+
+286
+00:17:43,962 --> 00:17:45,998
+Oye, no me golpees.
+
+287
+00:17:45,998 --> 00:17:48,834
+¡Entonces apunta correctamente, idiota!
+
+288
+00:17:48,834 --> 00:17:51,003
+Diablos, cuando enseña a un hombre,
+
+289
+00:17:51,003 --> 00:17:52,766
+su actitud es completamente diferente.
+
+
+290
+00:18:01,713 --> 00:18:02,881
+Fin de la discusión.
+
+291
+00:18:02,881 --> 00:18:04,348
+Vamos, uno más.
+
+292
+00:18:06,485 --> 00:18:09,318
+No me gusta este entrenamiento espartano.
+
+293
+00:18:17,362 --> 00:18:19,031
+Sí que eres torpe.
+
+294
+00:18:19,031 --> 00:18:20,732
+No quiero sostener a un hombre.
+
+295
+00:18:20,732 --> 00:18:22,968
+No pierdas la forma cada vez que dispares.
+¡Maldición!
+
+296
+00:18:22,968 --> 00:18:24,636
+Oh, ya no puedo hacerlo más.
+
+297
+00:18:24,636 --> 00:18:26,205
+Mi mano está adormecida.
+
+298
+00:18:26,205 --> 00:18:28,340
+Por favor, déjame descansar un momento, Saeba.
+
+
+299
+00:18:28,340 --> 00:18:29,641
+¡No!
+
+300
+00:18:29,641 --> 00:18:31,877
+No has acertado ningún blanco todavía.
+
+301
+00:18:31,877 --> 00:18:34,613
+Hasta que no le des a un blanco,
+no puedes descansar o comer.
+
+302
+00:18:34,613 --> 00:18:35,347
+¡Oh, no!
+
+303
+00:18:35,347 --> 00:18:37,178
+¡Silencio y continúa!
+
+304
+00:18:39,852 --> 00:18:41,513
+¿Qué diablos es esa mirada?
+
+305
+00:18:42,454 --> 00:18:46,391
+Saeba, ¿es este realmente
+un entrenamiento especial para mí?
+
+306
+00:18:46,391 --> 00:18:48,359
+O podría ser que sólo quieres ser malo conmigo.
+
+307
+00:18:49,128 --> 00:18:53,499
+Sé que Kaori gusta de mí,
+
+308
+00:18:53,499 --> 00:18:57,102
+por lo que estás celoso y me tratas mal, ¿verdad?
+
+
+309
+00:18:57,102 --> 00:19:00,162
+Estoy en lo cierto, ¿no?
+Te gusta Kaori, así que...
+
+310
+00:19:05,544 --> 00:19:06,979
+Date prisa y dispara.
+
+311
+00:19:06,979 --> 00:19:08,844
+¡Sí, señor!
+
+312
+00:19:09,615 --> 00:19:12,384
+Diablos, sé que tengo razón.
+
+313
+00:19:12,384 --> 00:19:15,621
+Dice que no soy varonil, pero está celoso de mí.
+
+
+314
+00:19:15,621 --> 00:19:18,920
+Él es quien no es varonil.
+
+315
+00:19:29,268 --> 00:19:30,735
+Saeba...
+
+316
+00:19:32,604 --> 00:19:38,406
+Cada vez que perdía la postura al disparar,
+Saeba estaba allí.
+
+317
+00:19:39,311 --> 00:19:42,747
+Entonces se preocupa por mí, ¿no es así?
+
+318
+00:19:43,182 --> 00:19:46,174
+Me atrapó para que no me lastimara.
+
+319
+00:20:11,109 --> 00:20:12,576
+Lo logré.
+
+320
+00:20:15,013 --> 00:20:16,381
+Gracias, Saeba.
+
+321
+00:20:16,381 --> 00:20:19,009
+Yo... Gracias por tu amabilidad en ayudarme.
+
+
+322
+00:20:20,085 --> 00:20:23,612
+Si algo te sucediera, Kaori sería infeliz.
+
+
+323
+00:20:24,823 --> 00:20:29,123
+Es que, soy como un padre para Kaori, así que...
+
+324
+00:20:30,295 --> 00:20:32,864
+Saeba, eres un casanova, pero, inesperadamente,
+
+
+325
+00:20:32,864 --> 00:20:34,933
+eres torpe a veces, ¿no es así?
+
+326
+00:20:34,933 --> 00:20:36,969
+No, bueno...
+
+327
+00:20:36,969 --> 00:20:39,802
+Pero me gusta un hombre así.
+
+328
+00:20:41,540 --> 00:20:44,876
+Oye, no me sueltes tan de repente.
+
+329
+00:20:44,876 --> 00:20:47,179
+Es que dijiste algo repugnante.
+
+330
+00:20:47,179 --> 00:20:49,704
+No estoy interesado en ese tipo de cosas.
+Qué desagradable...
+
+331
+00:20:52,985 --> 00:20:55,613
+Pero lo que acabo de decir era cierto.
+
+332
+00:20:55,754 --> 00:20:58,052
+Estoy seguro de que me protegerás.
+
+333
+00:20:58,991 --> 00:21:01,983
+De la misma forma en que me atrapaste
+y protegiste tantas veces hoy.
+
+334
+00:21:05,364 --> 00:21:07,298
+No me mires así.
+
+335
+00:21:07,733 --> 00:21:10,035
+Bueno, eso es todo por hoy.
+
+336
+00:21:10,035 --> 00:21:12,738
+Has mejorado y eres capaz de dar en el blanco.
+
+337
+00:21:12,738 --> 00:21:16,174
+Como te dije, quita las balas que quedan
+y limpia el arma.
+
+338
+00:21:16,174 --> 00:21:20,372
+Sí, pero creo que usé todas las balas.
+
+339
+00:21:28,453 --> 00:21:30,785
+Le diste a la tubería de agua.
+
+340
+00:21:32,057 --> 00:21:33,684
+¡Lo siento mucho!
+
+341
+00:21:36,795 --> 00:21:39,698
+Fue una suerte que no le diste a la de gas.
+
+342
+00:21:39,698 --> 00:21:42,768
+Por eso que te advertí que tuvieras mucho cuidado
+con las armas de fuego.
+
+343
+00:21:42,768 --> 00:21:44,235
+Lo siento.
+
+344
+00:21:46,204 --> 00:21:47,673
+Ten, date prisa y sécate.
+
+345
+00:21:47,673 --> 00:21:49,140
+¡Gracias!
+
+346
+00:21:50,676 --> 00:21:52,405
+Tú...
+
+347
+00:22:04,856 --> 00:22:06,585
+¡Una mujer!
+
+348
+00:22:26,745 --> 00:22:33,116
+
+349
+00:22:33,652 --> 00:22:37,589
+
+350
+00:22:37,589 --> 00:22:41,320
+
+351
+00:22:41,860 --> 00:22:48,459
+
+352
+00:22:48,834 --> 00:22:52,871
+
+353
+00:22:52,871 --> 00:22:56,204
+
+354
+00:22:57,109 --> 00:23:03,309
+
+355
+00:23:04,616 --> 00:23:12,387
+
+356
+00:23:13,058 --> 00:23:14,292
+
+357
+00:23:14,292 --> 00:23:20,665
+
+358
+00:23:20,665 --> 00:23:28,504
+
+359
+00:23:28,807 --> 00:23:34,404
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+360
+00:23:39,184 --> 00:23:41,420
+¿Desde cuándo son tan cercanos?
+
+
+361
+00:23:41,420 --> 00:23:44,055
+Esta es la amistad entre hombres,
+que las mujeres no entienden.
+
+362
+00:23:44,055 --> 00:23:45,557
+Ni siquiera pienses en encubrirlo.
+
+363
+00:23:45,557 --> 00:23:47,359
+¡Perdiste, pervertido!
+
+364
+00:23:47,359 --> 00:23:49,995
+Mi cena no vale tanto como un hombre.
+
+365
+00:23:49,995 --> 00:23:51,596
+No te emociones tanto, Kaori.
+
+366
+00:23:51,596 --> 00:23:54,466
+Te vuelves loca y rompes platos.
+
+367
+00:23:54,466 --> 00:23:57,335
+Todos estos son culpa tuya, Ryo.
+Todos ellos, esos son tu culpa, Ryo!
+
+368
+00:23:57,335 --> 00:23:58,537
+City Hunter 2:
+
+369
+00:23:58,537 --> 00:23:59,538
+"¡Testigo en la mira! Una Peligrosa Belleza
+Vestida Como Hombre (Parte 2)"
+
+370
+00:23:59,538 --> 00:24:01,807
+"¡Testigo en la mira! Una Peligrosa Belleza
+Vestida Como Hombre (Parte 2)"
+
+371
+00:24:01,807 --> 00:24:04,105
+Si no lo miras, te volverás un pervertido.
+
+372
+00:24:04,309 --> 00:24:08,268
+Por favor, espera con ansias el próximo episodio.
+

@@ -1,0 +1,1400 @@
+1
+0:0:9,0 --> 0:0:14,0
+
+2
+0:0:11,0 --> 0:0:16,0
+
+3
+0:1:3,97 --> 0:1:6,22
+¡Azusa!
+
+4
+0:1:47,51 --> 0:1:49,76
+¡Azusa!
+
+5
+0:4:2,98 --> 0:4:5,44
+¡Justo en el blanco! ¡Increíble!
+
+6
+0:4:5,44 --> 0:4:7,90
+¡Es genial!
+
+7
+0:4:7,90 --> 0:4:9,48
+¡Todas las veces!
+
+8
+0:4:9,53 --> 0:4:13,40
+Oigan, novatas, dejen de actuar como @fanáticas.
+
+9
+0:4:13,45 --> 0:4:16,53
+Eso no es nada, sólo requiere práctica.
+
+10
+0:4:16,57 --> 0:4:19,45
+Lo haré otra vez. Observen.
+
+11
+0:4:28,29 --> 0:4:30,55
+¡Increíble!
+
+12
+0:4:36,68 --> 0:4:40,68
+¿Qué fue todo eso? Las estabas animando.
+
+13
+0:4:41,77 --> 0:4:44,77
+Perdón, me dejé llevar.
+
+14
+0:4:44,77 --> 0:4:48,77
+El capitán debería ser más responsable.
+
+15
+0:4:51,90 --> 0:4:54,15
+¿Qué pasa?
+
+16
+0:4:55,7 --> 0:4:56,20
+Satomi...
+
+17
+0:4:56,24 --> 0:4:57,61
+¿Qué?
+
+18
+0:4:57,66 --> 0:5:0,83
+¿Acaso estás celosa?
+
+19
+0:5:0,87 --> 0:5:3,8
+¿Pero qué dices?
+
+20
+0:5:6,79 --> 0:5:8,79
+¿Quieres ir a tomar un café?
+
+21
+0:5:8,83 --> 0:5:11,4
+No puedo.
+
+22
+0:5:11,9 --> 0:5:14,80
+Mi prometida vendrá a la ciudad.
+
+23
+0:5:16,9 --> 0:5:20,22
+¡Nunca me dijiste nada de una prometida!
+
+24
+0:5:20,26 --> 0:5:23,39
+¿Por qué diablos estamos saliendo entonces?
+
+25
+0:5:23,43 --> 0:5:25,98
+No, sucedió cuando era un niño.
+
+26
+0:5:26,2 --> 0:5:27,89
+Es mi prima.
+
+27
+0:5:27,94 --> 0:5:29,60
+¿Prima?
+
+28
+0:5:29,65 --> 0:5:31,90
+¿Tu prima es tu prometida?
+
+29
+0:5:36,78 --> 0:5:38,32
+Qué extraño.
+
+30
+0:5:38,36 --> 0:5:42,41
+Mi tía nos forzó. Es bastante autoritaria.
+
+31
+0:5:43,62 --> 0:5:48,37
+Hermana, es muy pronto para decidirlo.
+Él sólo tiene seis.
+
+32
+0:5:48,41 --> 0:5:50,92
+Mientras más pronto, mejor.
+
+33
+0:5:50,96 --> 0:5:53,42
+Azusa es la única hija de la familia Shiga.
+
+34
+0:5:53,46 --> 0:5:55,67
+No puede casarse fuera del clan.
+
+35
+0:5:55,71 --> 0:5:57,76
+¿Pero por qué tiene que ser Yuzuru?
+
+36
+0:5:57,80 --> 0:6:3,80
+Confío en él, porque es tu hijo.
+Yuzuru se casará con Azusa.
+
+37
+0:6:4,30 --> 0:6:7,77
+Soy el jefe de esta familia. Me obedecerás.
+
+38
+0:6:7,81 --> 0:6:8,89
+Hermana...
+
+39
+0:6:25,91 --> 0:6:32,0
+Está decidido, Azusa. Cuando crezcas
+serás la esposa de Yuzuru.
+
+40
+0:6:32,46 --> 0:6:34,88
+Sí... {\alpha&HFF&}madre.
+
+41
+0:6:34,88 --> 0:6:37,9
+Sí... madre.
+
+42
+0:6:54,6 --> 0:6:56,40
+De todas formas, me forzaron a hacerlo.
+
+43
+0:6:56,44 --> 0:7:1,28
+Mi tía falleció el invierno pasado,
+dejando a Azusa sola.
+
+44
+0:7:1,32 --> 0:7:4,32
+Así que mi papá decidió cuidarla.
+
+45
+0:7:5,3 --> 0:7:8,49
+La muerte de mi tía fue bastante rara.
+
+46
+0:7:9,74 --> 0:7:12,66
+¿Así que serás cabeza del clan?
+
+47
+0:7:12,70 --> 0:7:14,41
+Ya veo.
+
+48
+0:7:14,41 --> 0:7:16,12
+Rompamos, entonces.
+
+49
+0:7:16,17 --> 0:7:20,34
+¡No entendiste nada! ¡Eso fue hace años!
+
+50
+0:7:20,38 --> 0:7:24,51
+Probablemente tiene muchos pretendientes ahora.
+
+51
+0:7:24,55 --> 0:7:29,43
+Lo dudo. Apuesto que piensa en ti todo el tiempo.
+
+52
+0:7:30,43 --> 0:7:31,89
+No puede ser.
+
+53
+0:7:31,89 --> 0:7:34,6
+Eso no lo sabes.
+
+54
+0:7:34,10 --> 0:7:36,35
+Bueno... quizás.
+
+55
+0:7:40,44 --> 0:7:41,94
+Vámonos.
+
+56
+0:7:47,36 --> 0:7:49,3
+Te veo mañana.
+
+57
+0:7:49,7 --> 0:7:51,33
+Adiós.
+
+58
+0:7:53,12 --> 0:7:56,50
+Intentaré ser un mejor capitán mañana.
+
+59
+0:7:56,54 --> 0:7:59,38
+Salúdame a Azusa.
+
+60
+0:7:59,42 --> 0:8:1,63
+Claro.
+
+61
+0:8:5,59 --> 0:8:7,26
+Ya llegué.
+
+62
+0:8:7,80 --> 0:8:10,43
+Ya vine. ¿Ya ha llegado Azusa?
+
+63
+0:8:10,47 --> 0:8:13,18
+Te estaba esperando.
+
+64
+0:8:13,22 --> 0:8:16,10
+Ya estará crecida.
+
+65
+0:8:28,49 --> 0:8:31,20
+¡Azusa!
+
+66
+0:8:31,24 --> 0:8:33,45
+Yuzuru.
+
+67
+0:8:39,46 --> 0:8:42,83
+Me impresionaste. Eres realmente bonita.
+
+68
+0:8:42,88 --> 0:8:45,96
+Has crecido mucho estos cinco años.
+
+69
+0:8:46,0 --> 0:8:47,96
+Tú también.
+
+70
+0:8:48,1 --> 0:8:51,55
+Cuéntame sobre tus novios.
+
+71
+0:8:52,22 --> 0:8:55,97
+Nunca he hablado con un chico de mi edad.
+
+72
+0:8:56,1 --> 0:8:58,89
+¿Qué? ¿Estás bromeando, verdad?
+
+73
+0:9:0,52 --> 0:9:2,73
+Pero... es que te tengo a ti.
+
+74
+0:9:11,86 --> 0:9:17,49
+Dime, Yuzuru. ¿No quieres que sea tu esposa?
+
+75
+0:9:17,54 --> 0:9:19,16
+Claro que sí.
+
+76
+0:9:19,16 --> 0:9:21,83
+Me gustas.
+
+77
+0:9:21,87 --> 0:9:24,75
+¿En verdad te gusto?
+
+78
+0:9:25,46 --> 0:9:28,0
+¿@Juras que es verdad?
+
+79
+0:9:28,5 --> 0:9:30,30
+Es una promesa.
+
+80
+0:9:47,40 --> 0:9:49,44
+Qué tragedia.
+
+81
+0:9:49,48 --> 0:9:53,45
+Y su hija se queda sola, sin amigos o familia.
+
+82
+0:9:53,49 --> 0:9:56,20
+¡Pero qué muerte más extraña!
+
+83
+0:10:3,0 --> 0:10:6,46
+Gracias, me ha ayudado mucho.
+
+84
+0:10:7,17 --> 0:10:11,50
+¿Tienes algún plan, ahora que el asunto se terminó?
+
+85
+0:10:12,9 --> 0:10:14,47
+La llevaré conmigo a Tokio.
+
+86
+0:10:14,51 --> 0:10:17,55
+¿Pero y la casa principal?
+
+87
+0:10:18,18 --> 0:10:21,26
+Haré los arreglos para su venta.
+
+88
+0:10:22,6 --> 0:10:27,27
+No. Me casaré con Yuzuru 
+y nos @encargaremos de la familia Shiga.
+(take over)
+
+89
+0:10:28,52 --> 0:10:31,27
+El lo que mi madre hubiera querido.
+
+90
+0:10:31,32 --> 0:10:33,7
+¿Azusa?
+
+91
+0:10:33,11 --> 0:10:35,32
+Yuzuru me lo prometió.
+
+92
+0:11:13,27 --> 0:11:15,48
+%%Sé silencioso.
+
+93
+0:11:16,74 --> 0:11:18,99
+%%Sé silencioso.
+
+94
+0:11:20,28 --> 0:11:22,41
+%%¿Puede ser luz? Brilla hasta encandilar
+
+95
+0:11:22,41 --> 0:11:25,8
+Me inquieta ir a una escuela de ciudad.
+
+96
+0:11:27,29 --> 0:11:29,54
+%%¿Puede el amor
+
+97
+0:11:30,62 --> 0:11:32,88
+%%ser peligroso?
+
+98
+0:11:34,13 --> 0:11:37,80
+%%Los encuentros fortuitos siempre lo serán.
+
+99
+0:11:40,80 --> 0:11:47,39
+%%Los corazones laten ferozmente
+
+100
+0:11:48,2 --> 0:11:50,27
+%%y los cuerpos se estremecen
+
+101
+0:11:53,60 --> 0:11:56,2
+¡Hey Shiga!
+
+102
+0:11:56,7 --> 0:11:57,69
+¡Tienes agallas!
+
+103
+0:11:57,73 --> 0:12:0,24
+¿Qué es lo que sucede?
+
+104
+0:12:0,28 --> 0:12:3,36
+Es mi prima. Acaba de transferirse aquí.
+
+105
+0:12:3,41 --> 0:12:5,78
+%%¡Ten cuidado!
+
+106
+0:12:3,41 --> 0:12:6,99
+¡Qué linda!
+
+107
+0:12:4,74 --> 0:12:6,99
+Está temblando.
+
+108
+0:12:7,3 --> 0:12:10,8
+%%¡Ten cuidado!
+
+109
+0:12:7,3 --> 0:12:10,8
+Oh, la incomodamos.
+
+110
+0:12:8,74 --> 0:12:10,8
+¿Qué sucede?
+
+111
+0:12:10,12 --> 0:12:14,46
+%%Estás temblando y ardiendo 
+
+112
+0:12:10,91 --> 0:12:12,62
+¡Hey, Azusa!
+
+113
+0:12:17,34 --> 0:12:19,59
+%%Ah, el amor
+
+114
+0:12:20,76 --> 0:12:22,97
+%%es peligroso.
+
+115
+0:12:24,22 --> 0:12:27,10
+%%Ya no puedo volver atrás y mirar...
+
+116
+0:12:31,73 --> 0:12:35,56
+La tormenta de otoño sopla frío
+en la aflicción del Emperador.
+
+117
+0:12:35,60 --> 0:12:38,40
+No puede olvidar a su bella amante.
+
+118
+0:12:38,44 --> 0:12:41,23
+Así que envió a Myobu
+con la abuela de la señorita.
+
+119
+0:12:41,28 --> 0:12:46,45
+La noche brillaba fantásticamente
+la noche en que se fue.
+
+120
+0:12:47,32 --> 0:12:49,58
+Ohta, continúa.
+
+121
+0:12:50,62 --> 0:12:52,16
+Sigue con el pasaje.
+
+122
+0:12:52,20 --> 0:12:54,54
+Página 25, sexta línea.
+
+123
+0:12:57,25 --> 0:13:0,71
+En noches como esa tocarían el koto.
+
+124
+0:13:0,75 --> 0:13:5,97
+Su koto siempre había producido
+melodías especialmente bellas.
+
+125
+0:13:7,47 --> 0:13:11,18
+Su voz también le producía 
+un extraño encantamiento.
+
+126
+0:13:16,10 --> 0:13:18,77
+Le hice recordar el poema.
+
+127
+0:13:18,81 --> 0:13:23,36
+"La oscuridad roba la realidad 
+y la convierte en sueño"
+
+128
+0:13:34,75 --> 0:13:37,79
+Debe sentirse bien tener una prometida tan bonita.
+
+129
+0:13:37,83 --> 0:13:41,29
+Te dije que no te preocupes por eso.
+
+130
+0:13:41,34 --> 0:13:43,46
+¡No estoy preocupada!
+
+131
+0:13:43,50 --> 0:13:46,80
+¿Pero qué es lo que le pasa? ¡Vaya prima!
+
+132
+0:13:46,84 --> 0:13:48,51
+¡Te abraza todo el tiempo!
+
+133
+0:13:48,55 --> 0:13:50,30
+Estás preocupada.
+
+134
+0:13:50,34 --> 0:13:52,35
+¡No me sigas!
+
+135
+0:13:52,39 --> 0:13:55,77
+Pero ambos vamos al mismo club.
+
+136
+0:14:3,69 --> 0:14:7,32
+Azusa tuvo una crianza estricta.
+Nunca conoció a ningún chico.
+
+137
+0:14:7,36 --> 0:14:11,32
+Pero estoy seguro de que mirará
+a otros hombres ahora.
+
+138
+0:14:11,36 --> 0:14:13,32
+No lo creo.
+
+139
+0:14:13,37 --> 0:14:17,33
+El problema eres tú. Ella es realmente hermosa.
+
+140
+0:14:17,37 --> 0:14:21,50
+¡Seguro que sí! Me sorprendió ayer.
+
+141
+0:14:21,54 --> 0:14:23,29
+¿Ella es?
+
+142
+0:14:23,33 --> 0:14:27,34
+Digo, ella es bonita, pero tú eres hermosa.
+
+143
+0:14:27,38 --> 0:14:29,26
+No me dejaste terminar.
+
+144
+0:14:29,30 --> 0:14:33,5
+¿Qué tiene que ver que yo sea linda?
+
+145
+0:14:37,77 --> 0:14:42,81
+De todas maneras, ella no significa nada.
+Es mi prima, nada más.
+
+146
+0:15:16,43 --> 0:15:19,18
+Te espero en la entrada.
+
+147
+0:15:52,51 --> 0:15:54,72
+¿Quién anda ahí?
+
+148
+0:16:2,60 --> 0:16:4,85
+¿Quién es?
+
+149
+0:16:25,45 --> 0:16:27,66
+Azusa.
+
+150
+0:16:27,71 --> 0:16:30,21
+Mantente lejos de Yuzuru.
+
+151
+0:16:32,92 --> 0:16:36,9
+Él es mi prometido. No interfieras.
+
+152
+0:16:37,47 --> 0:16:42,93
+Eso fue cuando eran niños. Él y yo somos...
+
+153
+0:16:45,93 --> 0:16:49,44
+¡Yuzuru es mío!
+
+154
+0:17:0,3 --> 0:17:2,24
+¡No! ¡No @salgas! 
+
+155
+0:17:13,50 --> 0:17:17,76
+Será mejor que no le cuentes nada a Yuzuru.
+
+156
+0:17:38,15 --> 0:17:40,36
+Está tardando.
+
+157
+0:17:45,78 --> 0:17:47,53
+¡Shiga!
+
+158
+0:17:47,58 --> 0:17:49,83
+Satomi.
+
+159
+0:17:50,70 --> 0:17:52,96
+¿Qué sucede?
+
+160
+0:17:56,79 --> 0:17:59,0
+Azusa es...
+
+161
+0:18:13,64 --> 0:18:15,90
+¡Ahí!
+
+162
+0:18:22,65 --> 0:18:24,90
+¿Qué pasa?
+
+163
+0:18:28,24 --> 0:18:30,45
+Nada.
+
+164
+0:19:58,16 --> 0:20:0,37
+Ayúdame, Yuzuru.
+
+165
+0:21:8,27 --> 0:21:11,73
+Es peligroso que estés sola.
+
+166
+0:21:12,86 --> 0:21:15,32
+No está nada mal.
+
+167
+0:21:15,36 --> 0:21:18,53
+No hay nada de que temer.
+
+168
+0:22:35,94 --> 0:22:40,3
+<i>Le pertenezco a Yuzuru. Nadie más puede tocarme.</i>
+
+169
+0:22:49,20 --> 0:22:50,75
+¿Yuzuru, quieres algo más?
+
+170
+0:22:50,79 --> 0:22:53,4
+No, gracias.
+
+171
+0:22:53,8 --> 0:22:57,96
+<i>¿Qué le sucedería a Satomi?
+No quiso decirme nada</i>
+
+172
+0:22:59,13 --> 0:23:0,42
+¿No quieres postre?
+
+173
+0:23:0,42 --> 0:23:2,68
+Más tarde.
+
+174
+0:23:12,81 --> 0:23:15,90
+Habla Shiga. ¿Está Satomi?
+
+175
+0:23:24,16 --> 0:23:26,66
+Azusa.
+
+176
+0:23:26,70 --> 0:23:28,12
+¿Por qué hiciste eso?
+
+177
+0:23:28,16 --> 0:23:30,41
+Yuzuru.
+
+178
+0:23:30,45 --> 0:23:32,58
+¿Me odias?
+
+179
+0:23:35,0 --> 0:23:40,5
+¿Por qué no soy buena para ti? Te he sido fiel.
+
+180
+0:23:41,34 --> 0:23:43,22
+No llores.
+
+181
+0:23:43,26 --> 0:23:45,47
+Pero...
+
+182
+0:23:50,1 --> 0:23:53,39
+Maldición, ¿por qué estás tan aferrada a mí?
+
+183
+0:23:54,6 --> 0:23:57,48
+Me dijiste que me amabas.
+
+184
+0:23:58,61 --> 0:24:0,82
+¡Eso fue hace años!
+
+185
+0:24:2,3 --> 0:24:5,70
+¿Acaso una promesa entre niños no es válida?
+
+186
+0:24:11,74 --> 0:24:14,0
+¿Lo es?
+
+187
+0:24:28,59 --> 0:24:30,85
+<i>Es su culpa.</i>
+
+188
+0:24:32,6 --> 0:24:34,93
+<i>Está intentando robarme a Yuzuru.</i>
+
+189
+0:24:41,6 --> 0:24:43,7
+¿Qué te sucede, Satomi?
+
+190
+0:24:43,11 --> 0:24:44,28
+¿Te sientes mal?
+
+191
+0:24:44,32 --> 0:24:47,78
+Bueno, nos adelantaremos. Te esperamos.
+
+192
+0:25:15,14 --> 0:25:16,60
+¡Se quebró por sí solo!
+
+193
+0:25:16,64 --> 0:25:19,35
+¿Satomi, estás bien?
+
+194
+0:25:21,10 --> 0:25:23,36
+¡Satomi!
+
+195
+0:25:25,57 --> 0:25:27,82
+Estás sangrando.
+
+196
+0:25:50,17 --> 0:25:51,59
+¿Te vas a casa?
+
+197
+0:25:51,63 --> 0:25:54,64
+No. No quiero estar sola.
+
+198
+0:25:54,68 --> 0:25:56,47
+Me quedaré para arquería.
+
+199
+0:25:56,51 --> 0:25:59,68
+De acuerdo. Te acompaño.
+
+200
+0:26:13,66 --> 0:26:16,37
+<i>Azusa.</i>
+
+201
+0:26:16,41 --> 0:26:18,58
+<i>No podría haber sido Azusa.</i>
+
+202
+0:26:18,62 --> 0:26:20,87
+<i>Eso es ridículo.</i>
+
+203
+0:26:21,83 --> 0:26:26,25
+<i>¿Cómo podría haber roto el vidrio? Es imposible.</i>
+
+204
+0:26:28,71 --> 0:26:32,47
+<i>"Será mejor que no le cuentes nada a Yuzuru."</i>
+
+205
+0:26:36,64 --> 0:26:41,2
+<i>No puedo decirle. Además, no me creería.</i>
+
+206
+0:27:1,62 --> 0:27:3,87
+Hasta luego.
+
+207
+0:27:5,75 --> 0:27:7,96
+¡Adiós!
+
+208
+0:27:40,49 --> 0:27:42,91
+Perdón por la demora.
+
+209
+0:27:42,95 --> 0:27:45,20
+Satomi.
+
+210
+0:27:48,16 --> 0:27:49,79
+¡Satomi!
+
+211
+0:28:43,39 --> 0:28:45,47
+¡Satomi!
+
+212
+0:28:47,72 --> 0:28:49,6
+¡Satomi!
+
+213
+0:28:56,86 --> 0:28:57,69
+¡Detente!
+
+214
+0:29:0,32 --> 0:29:1,53
+¡Satomi!
+
+215
+0:29:28,85 --> 0:29:32,52
+Satomi. ¿Fue Azusa, no es así?
+
+216
+0:29:33,93 --> 0:29:37,23
+No lo sé. En verdad no lo sé.
+
+217
+0:29:40,52 --> 0:29:41,82
+Quiero irme a casa.
+
+218
+0:29:41,86 --> 0:29:44,11
+Está bien, vamos.
+
+219
+0:29:51,41 --> 0:29:56,79
+Según mi papá, mi tía evitaba
+a sus otros parientes.
+
+220
+0:29:57,58 --> 0:29:59,42
+¿Habrá sido debido a Azusa?
+
+221
+0:29:59,46 --> 0:30:2,38
+Por favor no hables de ella.
+
+222
+0:30:4,92 --> 0:30:7,34
+Gracias por acompañarla a casa.
+
+223
+0:30:7,38 --> 0:30:10,5
+No fue nada. Hasta luego.
+
+224
+0:30:11,5 --> 0:30:14,2
+Shiga...
+
+225
+0:30:14,2 --> 0:30:16,23
+Ten cuidado.
+
+226
+0:30:21,94 --> 0:30:24,19
+Adiós, Jun.
+
+227
+0:30:39,96 --> 0:30:41,63
+Silencio.
+
+228
+0:30:48,51 --> 0:30:50,72
+¿Jun, qué sucede?
+
+229
+0:30:59,98 --> 0:31:2,23
+¡Jun! ¿Quién hizo esto?
+
+230
+0:31:4,52 --> 0:31:8,44
+<i>Fue ella. ¿Cómo fue capaz de hacerlo?</i>
+
+231
+0:31:10,20 --> 0:31:12,41
+<i>¡Sigo yo!</i>
+
+232
+0:31:22,29 --> 0:31:24,71
+¿Adónde fuiste?
+
+233
+0:31:43,69 --> 0:31:45,40
+<i>Huele a sangre.</i>
+
+234
+0:31:47,61 --> 0:31:48,77
+¡Azusa!
+
+235
+0:31:55,70 --> 0:31:58,41
+¿Qué le hiciste a Satomi?
+
+236
+0:31:59,16 --> 0:32:1,70
+¡Responde! ¿Qué hiciste?
+
+237
+0:32:1,75 --> 0:32:4,50
+¡Detente, Yuzuru! ¿De qué hablas?
+
+238
+0:32:4,54 --> 0:32:9,25
+¿Qué hiciste? ¿Por qué hay sangre en tu abrigo?
+
+239
+0:32:9,29 --> 0:32:12,97
+¡No lo sé! ¡Yo no hice nada!
+
+240
+0:32:19,55 --> 0:32:22,2
+¿Cómo pudiste, Yuzuru?
+
+241
+0:32:42,70 --> 0:32:44,91
+¿Hola? ¿Satomi?
+
+242
+0:32:47,58 --> 0:32:49,79
+¿Hola?
+
+243
+0:32:50,50 --> 0:32:52,13
+Satomi.
+
+244
+0:32:52,13 --> 0:32:56,80
+Shiga, mataron a Jun.
+No puedo volver a la escuela.
+
+245
+0:32:57,55 --> 0:33:1,10
+Satomi, dime, ¿te hizo algo Azusa?
+
+246
+0:33:1,14 --> 0:33:3,35
+¿Está ahí?
+
+247
+0:33:5,39 --> 0:33:8,19
+Ven a mi casa mañana después de clases.
+
+248
+0:33:8,23 --> 0:33:9,73
+De acuerdo.
+
+249
+0:33:9,77 --> 0:33:12,73
+No dejes que ella se entere.
+
+250
+0:33:12,90 --> 0:33:15,11
+Está bien.
+
+251
+0:33:28,66 --> 0:33:30,92
+Azusa,
+
+252
+0:33:34,13 --> 0:33:38,22
+Finalmente comprendí qué eran esas criaturas.
+
+253
+0:33:38,26 --> 0:33:43,55
+Eran fantasmas hambrientos. Consumen carne muerta.
+
+254
+0:33:43,68 --> 0:33:49,52
+Me contuve por el bien de la familia.
+Pero ya no puedo más.
+
+255
+0:34:3,95 --> 0:34:6,16
+¡Madre!
+
+256
+0:34:6,16 --> 0:34:7,66
+Azusa.
+
+257
+0:34:12,75 --> 0:34:15,71
+¡No dejaré que continúes la familia Shiga!
+
+258
+0:34:15,75 --> 0:34:17,88
+¡Detente, madre!
+
+259
+0:34:17,88 --> 0:34:21,22
+¡Es el fin del clan Shiga!
+
+260
+0:34:23,22 --> 0:34:26,76
+No. Yo seré la esposa de Yuzuru.
+
+261
+0:34:26,80 --> 0:34:29,2
+¡Tú eres un demonio!
+
+262
+0:34:40,65 --> 0:34:42,90
+¡Madre!
+
+263
+0:34:51,20 --> 0:34:56,21
+#Familia Principal: muerte de mi tía.
+#Hace diez años: @Niño desaparecido
+#Satomi: ¿?
+
+264
+0:35:1,30 --> 0:35:4,63
+Todo es culpa de mi madre.
+
+265
+0:35:9,81 --> 0:35:12,6
+Así es.
+
+266
+0:35:14,6 --> 0:35:17,19
+Nadie se interpondrá entre Yuzuru y yo.
+
+267
+0:35:17,23 --> 0:35:20,11
+Ni mi madre... ni nadie.
+
+268
+0:36:18,87 --> 0:36:21,12
+<i>Esa chica.</i>
+
+269
+0:37:48,13 --> 0:37:50,17
+Mis fotos de la primaria.
+
+270
+0:37:50,21 --> 0:37:51,92
+El maestro Assami.
+
+271
+0:37:51,96 --> 0:37:54,93
+Satomi siempre se sentaba a mi lado.
+
+272
+0:37:56,97 --> 0:37:59,43
+¡No está!
+
+273
+0:37:59,47 --> 0:38:2,89
+¡Estoy seguro de que estaba junto a mí!
+
+274
+0:38:8,2 --> 0:38:10,77
+Satomi está... desapareciendo.
+
+275
+0:38:14,3 --> 0:38:16,49
+Eso vino de la habitación de Azusa.
+
+276
+0:38:44,60 --> 0:38:45,60
+¿Hola?
+
+277
+0:38:45,60 --> 0:38:46,43
+¿Yuzuru?
+
+278
+0:38:46,48 --> 0:38:49,52
+No tengo tiempo para explicarte.
+Iré inmediatamente.
+
+279
+0:38:49,56 --> 0:38:52,52
+Enciérrate en tu habitación y no salgas.
+
+280
+0:38:52,56 --> 0:38:53,52
+¿Por qué?
+
+281
+0:38:53,57 --> 0:38:56,11
+Sólo hazlo, Satomi.
+
+282
+0:38:56,15 --> 0:38:58,32
+Está bien.
+
+283
+0:39:10,12 --> 0:39:12,42
+Yuzuru es mío.
+Yuzuru-san Es mina!
+
+284
+0:39:13,88 --> 0:39:16,13
+¡Mío!
+
+285
+0:39:18,5 --> 0:39:20,47
+¿Satomi? ¿Qué pasa?
+
+286
+0:40:33,16 --> 0:40:35,67
+Mátala.
+
+287
+0:40:49,89 --> 0:40:51,14
+¡Satomi!
+
+288
+0:40:53,89 --> 0:40:55,69
+¡Satomi!
+
+289
+0:41:16,91 --> 0:41:18,42
+Satomi.
+
+290
+0:41:21,17 --> 0:41:23,38
+Satomi, quédate atrás.
+
+291
+0:41:26,59 --> 0:41:29,34
+Yuzuru...
+
+292
+0:41:29,38 --> 0:41:31,47
+¡No te acerques!
+
+293
+0:41:31,51 --> 0:41:33,72
+Por qué?
+
+294
+0:41:34,77 --> 0:41:37,2
+¡Tú no eres Azusa!
+
+295
+0:41:51,45 --> 0:41:54,12
+¿Tanto me odias?
+
+296
+0:43:0,89 --> 0:43:3,14
+Yuzuru...
+
+297
+0:43:9,86 --> 0:43:12,7
+Por favor, ven conmigo.
+
+298
+0:43:17,78 --> 0:43:18,87
+Azusa.
+
+299
+0:43:18,87 --> 0:43:21,74
+Yo te pertenezco.
+
+300
+0:43:23,20 --> 0:43:24,83
+¿Qué fue todo eso?
+
+301
+0:43:24,87 --> 0:43:28,4
+Dime que no me odias.
+
+302
+0:43:28,8 --> 0:43:30,34
+No era yo.
+
+303
+0:43:31,55 --> 0:43:33,80
+Fueron ellos.
+
+304
+0:43:34,38 --> 0:43:36,59
+Ellos.
+
+305
+0:44:4,58 --> 0:44:8,4
+Yo te pertenezco.
+
+306
+0:46:16,46 --> 0:46:19,13
+%%Dormida dentro de tu corazón,
+
+307
+0:46:19,71 --> 0:46:21,96
+la telepatía produce
+
+308
+0:46:23,26 --> 0:46:25,72
+una voz que sólo tú puedes oír.
+
+309
+0:46:26,55 --> 0:46:29,14
+Te llama con amor.
+
+310
+0:46:29,18 --> 0:46:32,47
+Lo sientes crecer. 
+
+311
+0:46:32,60 --> 0:46:35,89
+El lugar donde despiertas
+
+312
+0:46:35,94 --> 0:46:38,44
+está sobre las olas.
+
+313
+0:46:39,10 --> 0:46:42,57
+Un lugar donde se eleva extrañamente
+
+314
+0:46:42,61 --> 0:46:45,7
+un amanecer azul.
+
+315
+0:46:45,86 --> 0:46:49,24
+Fría, surge la ciudad.
+
+316
+0:46:49,32 --> 0:46:51,91
+Un mar flotante de acero.
+
+317
+0:46:52,58 --> 0:46:56,0
+¿Por qué me hace sentir
+
+318
+0:46:56,4 --> 0:46:58,79
+tan solitaria?
+
+319
+0:46:58,83 --> 0:47:1,29
+Aunque quiero ir
+
+320
+0:47:2,25 --> 0:47:4,92
+adonde estás,
+
+321
+0:47:5,63 --> 0:47:8,88
+voy en círculos
+
+322
+0:47:9,1 --> 0:47:13,5
+remando con un sólo remo.
+
+323
+0:47:13,51 --> 0:47:16,60
+Ese día también fue especial.
+
+324
+0:47:16,64 --> 0:47:19,94
+me dejaste una marca
+
+325
+0:47:20,10 --> 0:47:23,19
+impresa en el corazón.
+
+326
+0:47:23,27 --> 0:47:26,28
+Dibujas un anillo
+
+327
+0:47:26,32 --> 0:47:30,57
+alrededor de mi corazón, otra vez.%%
+
+328
+0:47:30,57 --> 0:47:56,22
+
+329
+0:47:56,22 --> 0:47:59,64
+%%¿Qué clase de dones o habilidades
+
+330
+0:47:59,68 --> 0:48:2,48
+son necesarios para enamorarse?
+
+
+331
+0:48:3,10 --> 0:48:6,27
+Quiero que estés cerca mío.
+
+332
+0:48:6,32 --> 0:48:8,86
+Quiero tenerte por completo.
+
+333
+0:48:9,82 --> 0:48:13,16
+Como brilla tu sonrisa.
+
+334
+0:48:13,20 --> 0:48:16,33
+El color de tus ojos.
+
+335
+0:48:16,37 --> 0:48:19,75
+Quiero oír el sonido
+
+336
+0:48:19,79 --> 0:48:22,71
+de los latidos de tu corazón.
+
+337
+0:48:22,75 --> 0:48:25,46
+Mientras seamos nosotros,
+
+338
+0:48:26,13 --> 0:48:28,67
+el futuro siempre
+
+339
+0:48:29,46 --> 0:48:32,47
+continuará
+
+340
+0:48:32,72 --> 0:48:36,89
+por toda la eternidad.
+
+341
+0:48:37,18 --> 0:48:39,89
+Siempre dentro de tu corazón
+
+342
+0:48:40,56 --> 0:48:43,60
+la telepatía produce
+
+343
+0:48:43,81 --> 0:48:46,31
+una voz que sólo tú puedes oír.
+
+344
+0:48:47,19 --> 0:48:49,27
+Te llama con amor.
+
+345
+0:48:47,27 --> 0:48:49,27
+
