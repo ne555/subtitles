@@ -1388,7 +1388,7 @@ Claro que no.
 
 337
 00:18:49,430 --> 00:18:52,560
-Me alegra que hayas dejado Ginna.
+Me alegra que hayas dejado Ginnan.
 
 338
 00:19:01,570 --> 00:19:04,580
@@ -1802,10 +1802,10 @@ Hey, Itsuro, ¿y las tutorías?
 436
 00:25:11,610 --> 00:25:14,740
 #Grado 6 - Prueba de matemáticas
+#Itsuro Umemoto
 
 437
 00:25:11,610 --> 00:25:12,150
-#Itsuro Umemoto
 
 440
 00:25:16,490 --> 00:25:19,040
@@ -2124,79 +2124,76 @@ Nuestro fideos...
 
 513
 00:30:01,360 --> 00:30:05,070
-Dammit! I'm going to pulverize those punks!
+¡Maldición! ¡Voy a hacerlos papilla!
 
 514
 00:30:05,450 --> 00:30:09,700
-I'll make them say "sorry"
- for saying we look like losers!
+¡Los obligaré a pedirnos perdón
+por decir que parecemos perdedores!
 
 515
 00:30:09,700 --> 00:30:12,950
-I'll make them take back the word "geeky"!
+¡Qué se arrepientan de habernos llamado ñoños!
 
 516
 00:30:16,740 --> 00:30:19,460
-I'll make them say our ramen is delicious!
+¡Haré que admitan que nuestros fideos son deliciosos!
 
 517
 00:30:20,280 --> 00:30:21,720
-That's right!
+¡Así es!
 
 518
 00:30:21,720 --> 00:30:25,260
-That's the spirit! We'll be strong if we all work hard!
+¡Así se habla! ¡Si trabajamos duro seremos fuertes!
 
 519
 00:30:25,260 --> 00:30:26,870
-Don't you agree, Yawara-san?
+¿No piensas lo mismo, Yawara?
 
 520
 00:30:28,690 --> 00:30:30,010
-All right. Let's do it!
+Muy bien. ¡Vamos!
 
 521
 00:30:30,010 --> 00:30:33,760
-Let's get strong enough
- to kick Laiza's butt!
+¡Tenemos que ser lo suficientemente fuertes
+como para humillar a Laiza!
 
 522
 00:30:33,760 --> 00:30:35,610
-Yeah!
+¡Sí!
 
 523
 00:30:59,110 --> 00:31:01,570
-Come on. Pick up the pace!
+¡Vamos, no se retrasen!
 
 524
 00:31:03,010 --> 00:31:04,760
-I'm hungry!
+¡Tengo hambre!
 
 525
 00:31:04,760 --> 00:31:06,570
-Wait!
+¡Esperen!
 
 526
 00:31:07,180 --> 00:31:08,050
-I'm done!
+¡No puedo más!
 
 527
 00:31:11,930 --> 00:31:14,930
-Ramen...
- Rai Rai Ken
+#Fideos Rai Rai Ken
 
 528
 00:31:11,930 --> 00:31:14,930
-Ra men
 
 529
 00:31:12,580 --> 00:31:14,930
-I'm home.
+Ya volví.
 
 530
 00:31:15,480 --> 00:31:18,940
-Idiot! Where did you wander
- off to at this hour?
+¡Idiota! ¿Qué estabas haciendo hasta estas horas?
 
 531
 00:31:18,940 --> 00:31:20,060
@@ -2204,1175 +2201,1178 @@ Judo...
 
 532
 00:31:20,060 --> 00:31:21,280
-Blockhead!
+¡Cabeza hueca!
 
 533
 00:31:21,280 --> 00:31:24,940
-How long are you gonna
- abuse yourself like that?!
+¿Hasta cuándo piensas maltratar tu cuerpo así?
 
 534
 00:31:24,940 --> 00:31:28,690
-A shrimp like you ain't gonna win anyway!
+¡Un debilucho como tú nunca ganará!
+
+
+
+
+
 
 535
 00:31:34,970 --> 00:31:36,370
-Oh my!
+¡Oh, no!
 
 536
 00:31:36,700 --> 00:31:38,160
-Toshihiko-chan!
+¡Toshihiko!
 
 537
 00:31:38,160 --> 00:31:41,310
-Y-You're seriously injured!
+¡Estás gravemente lastimado!
 
 538
 00:31:42,540 --> 00:31:44,670
-Honey, honey, this is bad!
+¡Cariño, es terrible!
 
 539
 00:31:45,140 --> 00:31:47,140
-Toshihiko-chan is seriously...
+Toshihiko está...
 
 540
 00:31:54,080 --> 00:31:58,700
-Toshihiko-chan, please quit judo.
- It's so barbaric!
+Por favor, Toshihiko, deja el judo.
+¡Es demasiado violento!
 
 541
 00:31:58,700 --> 00:32:00,940
-I was against it from the start.
+Yo siempre estuve en contra.
 
 542
 00:32:00,940 --> 00:32:02,770
-Let him be.
+Déjalo.
 
 543
 00:32:02,770 --> 00:32:04,940
-Toshihiko wants to become a man.
+Toshihiko quiere volverse un hombre.
 
 544
 00:32:04,940 --> 00:32:07,630
-Wh-What are you saying, honey?
+¿Qué estás diciendo, cariño?
 
 545
 00:32:07,630 --> 00:32:09,940
-How could you be so irresponsible?
+¡Cómo puedes ser tan irresponsable!
 
 546
 00:32:09,940 --> 00:32:13,770
-What if the unthinkable happens to him?
+¿Y si le sucede lo peor?
 
 547
 00:32:19,290 --> 00:32:21,760
-Yes, this is the Izawa residence.
+Hola, residencia Izawa.
 
 548
 00:32:22,580 --> 00:32:25,080
-Oh my, Itsuro-kun's mother!
+¡Oh, la mamá de Itsuro!
 
 549
-00:32:25,080 --> 00:32:28,880
-Grade 6 Math Aptitude Test
+00:32:25,080 --> 00:32:29,090
+#Grado 6 - Prueba de matemáticas
+#Itsuro Umemoto
 
 550
 00:32:25,080 --> 00:32:28,880
-Umemoto Itsuro
 
 551
 00:32:25,790 --> 00:32:29,090
-Yes. Lately I've been 
-concerned about Itsuro.
+Hola. Me preocupa Itsuro últimamente.
 
 552
 00:32:28,880 --> 00:32:29,090
-Grade 6 Math Aptitude Test
 
 553
 00:32:28,880 --> 00:32:29,090
-Umemoto Itsuro
 
 554
 00:32:30,240 --> 00:32:32,590
-Do you have any idea what's going on?
+¿Tienes alguna idea de lo que sucede?
 
 555
 00:32:32,590 --> 00:32:34,060
-I knew it.
+Lo sabía.
 
 556
 00:32:34,960 --> 00:32:36,620
-I'm worried about my son too.
+Es lo mismo con mi hijo.
 
 557
 00:32:36,620 --> 00:32:39,350
-This has gotten out of hand. 
-What should we do?
+Esto ya se fue de las manos. ¿Qué hacemos?
 
 558
 00:32:40,200 --> 00:32:42,740
-Yes. Yes, indeed.
+Sí. Sí, entiendo.
 
 559
 00:32:55,380 --> 00:32:58,640
-No! Lower your hips and use the recoil!
+No, baja las caderas y usa el impulso.
 
 560
 00:32:58,640 --> 00:32:59,080
-Okay!
+¡Sí!
 
 561
 00:33:02,770 --> 00:33:04,500
-Yawara-san is coaching them?
+¿Yawara los está entrenando?
 
 562
 00:33:04,930 --> 00:33:06,110
-Yeah.
+Sí.
 
 563
 00:33:06,110 --> 00:33:08,460
-She's taking a bunch of weak little chicks
+Tomó a una banda de pollitos bajo sus alas
+para hacer que se enfrenten a un tal Laiza.
 
 564
 00:33:08,460 --> 00:33:13,510
-under her wings so they can take on some big shots called Laiza.
 
 565
 00:33:13,510 --> 00:33:15,490
-L-Laiza?
+¿Laiza?
 
 566
 00:33:15,490 --> 00:33:21,390
-Do you mean the Laiza, the place that's funded and managed by the Honami Group?
+¿Te refieres al Laiza que es patrocinado
+y administrado por el Grupo Honami?
 
 567
 00:33:24,220 --> 00:33:28,670
-I can hear that heiress grinding her teeth right now. Your move.
+Puedo escuchar a la señorita rechinando
+los dientes ahora mismo. Te toca.
 
 568
 00:33:32,780 --> 00:33:33,780
-Check!
+¡Jaque!
 
 569
 00:33:34,670 --> 00:33:36,630
-I get it!
+¡Ya veo!
 
 570
 00:33:36,630 --> 00:33:41,200
-So this is a proxy battle between
- Inokuma Yawara and Honami Sayaka?
+Entonces es un enfrentamiento indirecto
+entre Yawara Inokuma y Sayaka Honami.
 
 571
 00:33:41,200 --> 00:33:42,850
-That's juicy!
+¡Es una gran exclusiva!
 
 572
 00:33:42,850 --> 00:33:44,820
-I'm going to go cover it!
+¡Tengo que trabajar!
 
 573
 00:33:46,180 --> 00:33:48,240
-Hey! You running away, Matsuda?
+Hey, ¿acaso piensas huir, Matsuda?
 
 574
 00:33:48,240 --> 00:33:48,790
-Hey!
+¡Hey!
 
 575
 00:33:49,480 --> 00:33:52,800
-Get it together, guys! Keep at it!
+¡Tienen que resistir, chicos! ¡Ustedes pueden!
 
 576
 00:33:55,420 --> 00:33:57,370
-I'm tired!
+¡No puedo más!
 
 577
 00:33:57,370 --> 00:33:59,780
-I'm dying. I'm dying.
+Me muero...
 
 578
 00:34:01,800 --> 00:34:02,520
-Water...
+Agua...
 
 579
 00:34:02,520 --> 00:34:05,770
-What are you saying? The match is coming up in two weeks!
+¿Qué están diciendo? ¡Faltan sólo
+dos semanas para el encuentro!
 
 580
 00:34:05,770 --> 00:34:06,750
-She's right.
+Así es.
 
 581
 00:34:06,750 --> 00:34:09,310
-You can't lose heart now!
+¡No pueden rendirse ahora!
 
 582
 00:34:09,790 --> 00:34:12,390
-Aren't you pissed that they always make fun of you?
+¡No les molesta que siempre se burlen de ustedes!
 
 583
 00:34:12,390 --> 00:34:15,190
-You want to beat the crap 
-out of them, don't you?
+Quieren darles su merecido, ¿no es así?
 
 584
 00:34:15,630 --> 00:34:18,200
-Th-That's what we wanted to do.
+Así era.
 
 585
 00:34:18,520 --> 00:34:20,200
-But this is too hard.
+Pero esto es demasiado difícil.
 
 586
 00:34:20,200 --> 00:34:22,160
-I'm dying. I'm dying.
+Me muero...
 
 587
 00:34:22,160 --> 00:34:23,400
-Man, oh man.
+Vaya, vaya.
 
 588
 00:34:23,400 --> 00:34:25,960
-These chicks haven't even
- come out of their shells.
+Estos pollitos ni siquiera rompieron el cascarón.
 
 589
 00:34:25,960 --> 00:34:27,210
-Matsuda-san!
+¡Matsuda! 
 
 590
 00:34:27,730 --> 00:34:30,380
-They can say our ramen
- tastes like garbage.
+Pueden  decir que nuestros fideos saben a basura.
 
 591
 00:34:30,800 --> 00:34:33,670
-I'm putting my studies first.
+Lo primero son mis estudios.
 
 592
 00:34:34,800 --> 00:34:37,300
-Mama's worried anyway.
+Mi mamá está muy preocupada.
 
 593
 00:34:37,300 --> 00:34:39,300
-Guess we should just skip town.
+Parece que deberíamos abandonar la ciudad.
 
 594
 00:34:39,300 --> 00:34:40,600
-God!
+¡Cielos!
 
 595
 00:34:41,200 --> 00:34:41,680
-Hey!
+¡Hey!
 
 596
 00:34:42,750 --> 00:34:45,770
-Enough of that nonsense!
- You're all men, aren't you?
+¡Basta de tonterías! ¿Acaso no son hombres?
+
+
+
+
+
 
 597
 00:34:46,650 --> 00:34:49,770
-Hey, why don't we train at my place?
+¿Qué dicen si entrenamos en mi casa?
 
 598
 00:34:50,230 --> 00:34:51,720
-Really?
+¿En verdad?
 
 599
 00:34:51,720 --> 00:34:52,770
-Can we?
+¿Podemos?
 
 600
 00:34:53,420 --> 00:34:54,430
-Sure.
+Claro.
 
 601
 00:34:54,430 --> 00:34:57,070
-That way, you can concentrate on practice.
+De esa forma, podrán concentrarse
+en el entrenamiento.
 
 602
 00:35:00,510 --> 00:35:03,080
-I'm dying! I'm dying!
+¡Me muero! ¡Me muero!
 
 603
 00:35:09,090 --> 00:35:10,620
-They aren't coming.
+No vendrán.
 
 604
 00:35:11,500 --> 00:35:14,130
-Maybe I pushed them too hard.
+Tal vez les exigí demasiado.
 
 605
 00:35:14,130 --> 00:35:17,110
-They... all gave up.
+Ellos se dieron por vencidos.
 
 606
 00:35:27,990 --> 00:35:31,290
-Hey, why don't the two of us practice?
+Entonces practiquemos nosotras dos.
 
 607
 00:35:32,240 --> 00:35:33,160
-Okay.
+Sí.
 
 608
 00:35:34,030 --> 00:35:35,300
-Hi there!
+¡Hola!
 
 609
 00:35:35,300 --> 00:35:36,440
-It's Rai Rai Ken!
+¡Soy de Rai Rai Ken!
 
 610
 00:35:37,570 --> 00:35:39,950
-I'm here with your order!
+Les traigo su pedido.
 
 611
 00:35:40,390 --> 00:35:41,530
-Choro!
+¡Choro!
 
 612
 00:35:42,560 --> 00:35:45,020
-Good evening.
+Buenas noches.
 
 613
 00:35:45,020 --> 00:35:49,480
-I've already done two weeks'
- worth of homework.
+Ya hice dos semanas de tarea.
 
 614
 00:35:50,380 --> 00:35:53,770
-I can't stand to see a girl cry.
+No puedo ver llorar a una chica.
 
 615
 00:35:55,210 --> 00:35:56,510
-Guys!
+¡Chicos!
 
 616
 00:36:01,840 --> 00:36:04,410
-Okay! Five more laps!
+¡Muy bien! ¡Cinco vueltas más!
 
 617
 00:36:13,700 --> 00:36:16,520
-I thought they'd turned tail and run.
+Pensé que habían abandonado.
 
 618
 00:36:16,520 --> 00:36:18,450
-These kids might actually have a chance.
+Puede que estos chicos tengan una oportunidad.
 
 619
 00:36:18,450 --> 00:36:20,690
-Toshihiko-chan!
+¡Toshihiko!
 
 620
 00:36:20,690 --> 00:36:22,240
-Itsuro!
+¡Itsuro!
 
 621
 00:36:22,980 --> 00:36:24,380
-Mother!
+¡Madre!
 
 622
 00:36:24,380 --> 00:36:25,240
-Mama!
+¡Mamá!
 
 623
 00:36:25,240 --> 00:36:27,320
-Who are you people?
+¿Quiénes son ustedes?
 
 624
 00:36:27,320 --> 00:36:29,830
-That's none of your business!
+¡Eso no te incumbe!
 
 625
 00:36:29,830 --> 00:36:31,250
-Hey! Chorosuke!
+¡Hey! ¡Chorosuke!
 
 626
 00:36:31,790 --> 00:36:33,200
-Dad!
+¡Papá!
 
 627
 00:36:37,260 --> 00:36:40,260
-Yujiro, don't fight fate.
+Yujiro, no te enfrentes al destino.
 
 628
 00:36:40,890 --> 00:36:45,400
-Toshihiko-chan, you shouldn't be doing judo!
+&Toshihiko, no deberías estar practicando judo.
 
 629
 00:36:41,200 --> 00:36:45,400
-You can't afford to play practice here!
+&No puedes permitirte estar jugando aquí.
 
 630
 00:36:45,400 --> 00:36:46,390
-Idiot!
+¡Idiota!
 
 631
 00:36:46,390 --> 00:36:47,940
-You don't even help around the shop!
+&Ya ni siquiera ayudas en la tienda.
 
 632
 00:36:46,790 --> 00:36:48,890
-I thought something was going on.
+&Sabía que algo sucedía.
 
 633
 00:36:47,940 --> 00:36:49,300
-Is this how you treat your old man?!
+&¿Así le muestras respeto a tu padre?
 
 634
 00:36:48,890 --> 00:36:50,300
-So this is what you were doing?
+&Así que esto era lo que hacías.
 
 635
 00:36:49,300 --> 00:36:50,300
-We're leaving!
+&¡Nos vamos!
 
 636
 00:36:50,300 --> 00:36:52,700
-They're making fun of our ramen!
+¡Ellos se burlaron de nuestros fideos!
 
 637
 00:36:52,700 --> 00:36:54,520
-Aren't you angry, Dad?!
+¡Acaso no te molesta, papá!
 
 638
 00:36:53,970 --> 00:36:56,270
-Don't let their words get to you!
+No hagas caso a lo que digan.
 
 639
 00:36:56,270 --> 00:36:58,520
-If you don't graduate, what will you do?
+¿Qué harás si no te gradúas?
 
 640
 00:36:58,990 --> 00:37:01,970
-Come on, you need to go to cram school.
+Vamos, tienes que ir a las tutorías.
 
 641
 00:37:01,970 --> 00:37:04,140
-Let's go home, Toshihiko-chan!
+Vamos a casa, Toshihiko.
 
 642
 00:37:05,660 --> 00:37:06,800
-Come on!
+Vamos.
 
 643
 00:37:09,150 --> 00:37:10,620
-Itsuro!
+¡Itsuro!
 
 644
 00:37:10,620 --> 00:37:12,160
-Toshihiko-chan!
+¡Toshihiko!
 
 645
 00:37:11,610 --> 00:37:12,160
-Come on!
+¡Vamos!
 
 646
 00:37:12,710 --> 00:37:15,320
-I'm not going!
+No iré.
 
 647
 00:37:12,710 --> 00:37:13,830
-Help out our shop!
+&Tienes que ayudar en la tienda.
 
 648
 00:37:13,830 --> 00:37:14,750
-I'm going to practice!
+&¡Tengo que entrenar!
 
 649
 00:37:14,750 --> 00:37:16,620
-Enough of your nonsense!
+&¡Ya basta de tonterías!
 
 650
 00:37:15,320 --> 00:37:16,620
-Yujiro...
+&Yujiro...
 
 651
 00:37:16,620 --> 00:37:17,170
-No way!
+¡No!
 
 652
 00:37:17,870 --> 00:37:18,750
-I'm staying!
+¡Me quedaré!
 
 653
 00:37:19,270 --> 00:37:20,600
-Me too!
+Yo también.
 
 654
 00:37:20,600 --> 00:37:21,510
-Me too!
+Y yo.
 
 655
 00:37:21,510 --> 00:37:25,180
-Hey, this is your old man talking here!
+&¡Oye, soy tu padre!
 
 656
 00:37:21,820 --> 00:37:22,630
-Oh, my!
+&¡Oh, cielos!
 
 657
 00:37:22,630 --> 00:37:24,250
-Yujiro...
+&Yujiro...
 
 658
 00:37:24,250 --> 00:37:26,010
-I can't believe you'd say that!
+&No puedo creer que dijeras eso.
 
 659
 00:37:25,180 --> 00:37:26,920
-C'mon, we're going home!
+&¡Ven, nos vamos a casa!
 
 660
 00:37:26,920 --> 00:37:28,450
-Please.
+Por favor.
 
 661
 00:37:28,450 --> 00:37:31,990
-They'll be playing a match soon, and they're working very hard!
+Pronto tendrán un encuentro
+y se están esforzando al máximo.
 
 662
 00:37:31,990 --> 00:37:33,520
-Please let them stay!
+Por favor, dejen que se queden.
 
 663
 00:37:34,020 --> 00:37:35,620
-So it's you?
+¿Así que eras tú?
 
 664
 00:37:35,620 --> 00:37:38,480
-You're the one who lured
- these children here?
+Tú fuiste quien los trajo a este lugar.
 
 665
 00:37:38,480 --> 00:37:42,180
-Toshihiko-chan was never this rebellious!
+¡Toshihiko no era un rebelde!
 
 666
 00:37:43,090 --> 00:37:46,700
-What's the harm?
- Toshihiko is trying to be a man.
+¿Cuál es el problema?
+Toshihiko quiere volverse un hombre.
 
 667
 00:37:46,700 --> 00:37:48,530
-You keep quiet!
+¡Tú guarda silencio!
 
 668
 00:37:48,530 --> 00:37:50,030
-Good!
+¡Bien!
 
 669
 00:37:50,030 --> 00:37:51,660
-Grandpa!
+¡Abuelo!
 
 670
 00:37:51,660 --> 00:37:54,010
-These parents have truly
- expressed their feelings.
+Los padres manifestaron sus verdaderos sentimientos.
 
 671
 00:37:54,010 --> 00:37:56,790
-I am deeply moved!
+¡Estoy conmovido!
 
 672
 00:37:58,400 --> 00:38:03,670
-In the spring of my nineteenth year, I left my home in Yamagata with high ambitions.
+En la primavera en que cumplí diecinueve años,
+abandoné mi casa en Yamagata con grandes ambiciones.
 
 673
 00:38:04,330 --> 00:38:09,960
-My parents were so heartbroken over letting go of their son that they wept pearly tears.
+Mis padres estaban tan destrozados por la partida
+de su hijo que rompieron en lágrimas.
 
 674
 00:38:09,960 --> 00:38:10,680
-And you kids!
+¡Y ustedes niños!
 
 675
 00:38:11,400 --> 00:38:16,690
-You're barely out of diapers, and you still have that blue spot on your butts!
+Apenas abandonaron los pañales y todavía
+conservan la nevus gris pizarra.
 
 676
 00:38:17,310 --> 00:38:20,030
-Of course your parents are worried!
+¡Por supuesto que sus padres están preocupados!
 
 677
 00:38:20,030 --> 00:38:23,380
-They'd certainly fuss 
-over their little nestlings.
+Ciertamente armarían un escándalo por sus polluelos.
 
 678
 00:38:23,380 --> 00:38:25,260
-Y-Yes, you're completely right.
+Sí, tiene toda la razón.
 
 679
 00:38:25,260 --> 00:38:26,320
-All righty.
+Muy bien.
 
 680
 00:38:27,210 --> 00:38:31,550
-I'll let you fine people stay here
- and train as well.
+Les permitiré a ustedes quedarse y entrenar juntos.
 
 681
-00:38:31,550 --> 00:38:34,760
-If you devote yourselves to judo along with your children,
+00:38:31,550 --> 00:38:36,580
+Si se dedican al judo junto a sus hijos,
+perderán la grasa de la barriga.
 
 682
 00:38:34,760 --> 00:38:36,580
-you'll get rid of that flab on your bellies.
 
 683
 00:38:36,580 --> 00:38:37,870
-Are you nuts?
+¿Estás loco?
 
 684
 00:38:37,870 --> 00:38:40,580
-That's not the issue here!
+¡Ese no es el problema!
 
 685
 00:38:40,580 --> 00:38:43,260
-If you don't like it, then beat it!
+¡Si no les gusta, lárguense!
 
 686
 00:38:43,260 --> 00:38:45,380
-This is a sacred dojo!
+¡Este es un dojo!
 
 687
 00:38:45,380 --> 00:38:47,590
-If you ain't here for judo,
- you ain't welcome!
+¡Si no vienen por el judo, no son bienvenidos!
 
 688
 00:38:50,880 --> 00:38:52,300
-Grandpa...
+Abuelo...
 
 689
 00:39:10,180 --> 00:39:12,990
-kyoushitsu no naka itobatakaigi ga
 
 690
-00:39:10,180 --> 00:39:12,990
-You chat idly among yourselves
+00:39:10,180 --> 00:39:16,090
+%Dentro del aula, hablan entre ustedes
 
 691
 00:39:12,990 --> 00:39:16,090
-kantakai koe de tsuzuiteru
 
 692
 00:39:12,990 --> 00:39:16,090
-inside of a school classroom
 
 693
 00:39:16,090 --> 00:39:21,000
-hanashi wa terebi no TRENDY DRAMA
 
 694
 00:39:16,090 --> 00:39:21,000
-about a trendy TV drama
+%acerca de un programa popular.
 
 695
 00:39:22,090 --> 00:39:25,070
-gakkou gaeri koukokutachi ga
 
 696
 00:39:22,090 --> 00:39:25,070
-On the way home from school
+%En el camino a casa,
 
 697
 00:39:25,070 --> 00:39:28,020
-hageshiku kau ki wo yusaburu
 
 698
 00:39:25,070 --> 00:39:28,020
-the ads in a photo mag tickle your wallet
+%las publicidades de una revista
+%les tocan la billetera
 
 699
 00:39:28,020 --> 00:39:32,900
-shasshin zasshi wa hoeru PRIVATE SCANDAL
 
 700
 00:39:28,020 --> 00:39:32,900
-in-between articles about private scandals
+%entre artículos de escándalos de celebridades.
 
 701
 00:39:31,590 --> 00:39:33,850
-Just three more laps!
- Pick up the pace!
+¡Tres vueltas más! ¡Más rápido!
 
 702
 00:39:33,850 --> 00:39:35,540
-Just three more laps!
+¡Tres vueltas más!
 
 703
 00:39:34,880 --> 00:39:39,970
-hontou mo usoppachi mo kiri ga nai kara
 
 704
 00:39:34,880 --> 00:39:39,970
-There's no end to the truths and the lies
+%Las mentiras y las verdades no tienen fin.
 
 705
 00:39:39,830 --> 00:39:41,810
-Remember to lift your legs!
+¡Levanten las piernas!
 
 706
 00:39:40,860 --> 00:39:44,890
-tomadoi de shirakechimatte
 
 707
 00:39:40,860 --> 00:39:44,890
-So you end up bored and confused
+%Por eso terminas aburrido y confundido.
 
 708
 00:39:45,880 --> 00:39:48,820
-manin densha ga mata kyou mo
 
 709
 00:39:45,880 --> 00:39:48,820
-The train is packed once again
+%El tren está repleto otra vez,
 
 710
 00:39:48,820 --> 00:39:51,840
-panku shisou ni hasshiteyuku
 
 711
 00:39:48,820 --> 00:39:51,840
-to the point that it's about to burst
+%a punto de explotar.
 
 712
 00:39:51,840 --> 00:39:56,240
-mokuteki no eki de subayaku hajikete
 
 713
 00:39:51,840 --> 00:39:56,240
-And that's what it did when it reached your station
+%Y eso hizo al llegar a tu estación.
 
 714
 00:39:54,060 --> 00:39:56,240
-The Gentle Way Wasn't
- Built in a Day
+#El judo no se construye en tan sólo un día
 
 715
 00:39:57,750 --> 00:40:00,750
-kaisha de wa SUPERMAN no za wo
 
 716
 00:39:57,750 --> 00:40:00,750
-You aim to be the Superman at work
+%Intentas ser un supermán en el trabajo
 
 717
 00:40:00,750 --> 00:40:03,750
-tatemae no moto de neratteru
 
 718
 00:40:00,750 --> 00:40:03,750
-but that's not what you really want
+%pero eso no es lo que en verdad quieres.
 
 719
 00:40:03,750 --> 00:40:05,750
-Seconds!
+¡Más, por favor!
 
 720
 00:40:03,750 --> 00:40:08,640
-ikura tamashi utte mo kane nya kanawanai
 
 721
 00:40:03,750 --> 00:40:08,640
-Selling your soul is never worth the money
+%El dinero nunca vale perder el alma.
 
 722
 00:40:10,590 --> 00:40:15,550
-nichiyou no hirusagari motteamasu kara
 
 723
 00:40:10,590 --> 00:40:15,550
-You don't know what to do on early Sunday afternoons
+%No sabes qué hacer una tarde de domingo,
 
 724
 00:40:13,220 --> 00:40:14,270
-Faster!
+¡Más rápido!
 
 725
 00:40:14,270 --> 00:40:15,120
-Okay!
+¡Sí!
 
 726
 00:40:16,510 --> 00:40:20,630
-tomadoi de shirakechimatte
 
 727
 00:40:16,510 --> 00:40:20,630
-So you end up bored and confused
+%por eso terminas aburrido y confundido.
 
 728
 00:40:21,560 --> 00:40:25,120
-dakara WELCOME! WELCOME! BOYS AND GIRLS
 
 729
 00:40:21,560 --> 00:40:25,120
-So WELCOME! WELCOME! BOYS AND GIRLS
+%Por eso, ¡sean bienvenidos, chicos y chicas!
 
 730
 00:40:25,120 --> 00:40:28,110
-WELCOME! WELCOME! WHAT'S THE PARADISE?
 
 731
 00:40:25,120 --> 00:40:28,110
-WELCOME! WELCOME! WHAT'S THE PARADISE?
+%¡Bienvenidos! ¿Qué es el paraíso?
 
 732
 00:40:28,110 --> 00:40:34,040
-WELCOME! WELCOME! kurutta tokei wo nagesute
 
 733
 00:40:28,110 --> 00:40:34,040
-WELCOME! WELCOME! Throw out that stopped clock
+%¡Bienvenidos! Arroja ese reloj descompuesto.
 
 734
 00:40:34,040 --> 00:40:37,010
-WELCOME! WELCOME! LADIES AND GENTLEMEN
 
 735
 00:40:34,040 --> 00:40:37,010
-WELCOME! WELCOME! LADIES AND GENTLEMEN
+%¡Bienvenidos, damas y caballeros!
 
 736
 00:40:37,010 --> 00:40:39,930
-WELCOME! WELCOME! WHAT'S THE PARADISE?
 
 737
 00:40:37,010 --> 00:40:39,930
-WELCOME! WELCOME! WHAT'S THE PARADISE?
+%¡Bienvenidos! ¿Qué es el paraíso?
 
 738
 00:40:39,930 --> 00:40:48,160
-WELCOME! WELCOME! hontou no kairaku sagashite miyou ze
 
 739
 00:40:39,930 --> 00:40:48,160
-WELCOME! WELCOME! Find your real paradise
+%¡Bienvenidos! Encuentren su verdadero paraíso.
 
 740
 00:40:48,160 --> 00:40:49,550
-DO IT NOW!
 
 741
 00:40:48,160 --> 00:40:49,550
-DO IT NOW!
+¡Háganlo ahora!
 
 742
 00:41:07,070 --> 00:41:10,070
-ALL SPORTS NEWS
+#Todos los Deportes
 
 743
-00:41:18,950 --> 00:41:21,540
-Inokuma vs Honami - PROXY BATTLE
+00:41:18,950 --> 00:41:27,580
+#Inokuma contra Honami - Enfrentamiento indirecto
 
-744
-00:41:18,950 --> 00:41:21,540
-Inokuma vs Honami - PROXY BATTLE
-
-745
-00:41:21,540 --> 00:41:27,100
-Inokuma vs Honami - PROXY BATTLE
-
-746
-00:41:21,540 --> 00:41:27,100
-Inokuma vs Honami - PROXY BATTLE
 
 747
 00:41:22,170 --> 00:41:27,580
-"The Laiza Judo Club, trained in an expensive facility owned by the Honami Group,
+El Club de Judo Laiza, entrenado en
+la costosa instalación del Grupo Honami,
 
-748
-00:41:27,040 --> 00:41:27,580
-Inokuma vs Honami - PROXY BATTLE
-
-749
-00:41:27,040 --> 00:41:27,580
-Inokuma vs Honami - PROXY BATTLE
 
 750
 00:41:27,580 --> 00:41:33,490
-will be battling the Ginnan Judo Association that trains minds and bodies using age-old practices"?
+se enfrentará a la Asociación de Judo Ginnan, que
+entrenan su cuerpo y mente con técnicas tradicionales.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 751
 00:41:35,320 --> 00:41:38,020
-Such a tedious article!
+Un artículo en verdad tedioso.
 
 752
 00:41:38,020 --> 00:41:40,920
-They will always be a third-rate newspaper.
+Siempre serán un periódico de cuarta.
 
 753
 00:41:40,920 --> 00:41:47,350
-Laiza would never lose to an indigent club led by that girl.
+Laiza no perderá contra un club de
+indigentes liderado por esa chica.
 
 754
 00:41:48,440 --> 00:41:50,770
-Isn't that correct, Coach?
+¿No es así, entrenador?
 
 755
 00:41:51,870 --> 00:41:53,300
-There's no need to worry.
+No hay por qué preocuparse.
 
 756
 00:41:53,300 --> 00:41:57,530
-There's no possible way
- we could lose to them.
+De ninguna manera podríamos perder contra ellos.
 
 757
 00:41:57,900 --> 00:41:59,700
-Of course not.
+Por supuesto que no.
 
 758
 00:42:01,520 --> 00:42:04,290
-We do have an understanding, correct?
+Entonces nos entendemos.
 
 759
 00:42:06,560 --> 00:42:09,380
-If the unthinkable happens...
+Si lo impensable llegara a suceder...
 
 760
 00:42:09,790 --> 00:42:13,130
-I-If the unthinkable happens?
+¿Si lo impensable llegara a suceder?
 
 761
 00:42:15,270 --> 00:42:16,880
-This will be your fate.
+Este será tu destino.
 
 762
 00:42:18,860 --> 00:42:21,090
-I'll be getting the ax?
+¿Mi destino?
 
 763
 00:42:36,070 --> 00:42:37,490
-Woo-hoo!
 
 764
 00:43:00,570 --> 00:43:02,250
-Just one day left.
+Sólo falta un día.
 
 765
 00:43:04,000 --> 00:43:07,600
-Yeah, our destined match.
+Sí, el encuentro del destino.
 
 766
 00:43:08,320 --> 00:43:11,130
-Have we really gotten better?
+¿En verdad mejoramos?
 
 767
 00:43:12,750 --> 00:43:14,320
-Can we win?
+¿Podemos ganar?
 
 768
 00:43:14,320 --> 00:43:17,150
-Don't worry. Believe in yourselves.
+No se preocupen. Crean en ustedes mismos.
 
 769
 00:43:17,150 --> 00:43:20,850
-You guys have improved, 
-way more than you think.
+Ustedes mejoraron más de lo que se imaginan.
 
 770
 00:43:41,340 --> 00:43:47,850
-We will now begin the match between the Laiza Judo Club and the Ginnan Judo Association!
+Ahora comenzará el encuentro entre el Club
+de Judo Laiza y la Asociación de Judo Ginnan.
 
 771
 00:43:48,180 --> 00:43:50,410
-You're still gonna lose.
+Ustedes perderán.
 
 772
 00:43:50,410 --> 00:43:52,850
-Don't blame us if you
- run home crying again.
+No nos culpen si vuelven a casa llorando.
+
+
 
 773
 00:43:54,010 --> 00:43:56,700
-You guys will eat those words.
+Se comerán esas palabras.
 
 774
 00:43:56,700 --> 00:43:58,690
-We better not see you guys cry.
+Será mejor que no lloren.
 
 775
 00:43:58,690 --> 00:44:00,860
-You're not going to beat me, Junji.
+No me ganarás, Junji.
 
 776
 00:44:01,490 --> 00:44:02,480
-Bow!
+¡Saluden!
 
 777
 00:44:04,740 --> 00:44:06,410
-Fight out there, Ginnan!
+¡Pelea, Ginnan!
 
 778
 00:44:06,410 --> 00:44:08,160
-Show 'em your guts!
+¡Muéstrenles sus agallas!
 
 779
 00:44:08,820 --> 00:44:11,540
-Laiza Judo Club, Tanaka-kun!
+Del Club de Judo Laiza, Tanaka.
 
 780
 00:44:09,540 --> 00:44:14,170
-The Gentle Way
-Wasn't Built in a Day
+#El judo no se construye en tan sólo un día
 
 781
 00:44:11,540 --> 00:44:14,170
-Ginnan Judo Association, Umemoto-kun!
+De la Asociación de Judo Ginnan, Umemoto.
 
 782
 00:44:14,580 --> 00:44:17,940
-Itsuro-kun, do it when the right foot
- touches the mat.
+Itsuro, hazlo en el momento en que
+el pie derecho toque el suelo.
 
 783
 00:44:17,940 --> 00:44:20,250
-Don't worry. You'll do well.
+No te preocupes. Estarás bien.
 
 784
 00:44:25,910 --> 00:44:26,770
-Bow!
+¡Saluden!
 
 785
 00:44:28,430 --> 00:44:30,700
-When the right foot touches the mat...
+&Cuando el pie derecho toque el suelo...
 
 786
 00:44:29,200 --> 00:44:30,700
-Let's go, Itsuro!
+&¡Tú puedes, Itsuro!
 
 787
 00:44:30,700 --> 00:44:32,880
-Leave him for dead!
+¡Acábalo!
 
 788
 00:44:32,880 --> 00:44:34,100
-This will be a piece of cake.
+Será pan comido.
 
 789
 00:44:34,100 --> 00:44:36,690
-Throw him down with just your pinkie!
+&¡Derrótalo sólo usando tu meñique!
 
 790
 00:44:36,130 --> 00:44:36,690
-Hajime!
+¡Comiencen!
 
 791
 00:44:44,050 --> 00:44:46,600
-"When your opponent's
- right foot touches the mat,
+Cuando el pie derecho del oponente toque el suelo,
 
 792
 00:44:46,600 --> 00:44:48,450
-push with your right hand
- toward the back,
+empuja hacia atrás con el brazo derecho...
 
 793
 00:44:48,450 --> 00:44:50,040
-and pull with your left hand
- directly downwards!"
+... y tira con el brazo izquierdo hacia abajo.
 
 794
 00:44:51,590 --> 00:44:55,000
-"When your opponent's
- right foot touches the mat..."
+Cuando el pie derecho del oponente toque el suelo...
 
 795
 00:45:00,030 --> 00:45:00,840
-Waza Ari!
+¡Waza-ari!
 
 796
 00:45:00,840 --> 00:45:02,280
-All right!
+¡Muy bien!
 
 797
 00:45:02,280 --> 00:45:04,560
-That was awesome, Itsuro!
+¡Fue increíble, Itsuro!
 
 798
 00:45:04,560 --> 00:45:06,010
-Go get him!
+¡Tú puedes!
 
 799
 00:45:06,380 --> 00:45:08,360
-Keep it up!
+¡Sigue así!
 
 800
 00:45:06,920 --> 00:45:09,160
-Wh-What are you doing with him?!
+¡Qué estás haciendo!
 
 801
 00:45:09,160 --> 00:45:10,140
-Hajime!
+¡Comiencen!
 
 802
 00:45:15,100 --> 00:45:15,940
-Waza Ari!
+¡Waza-ari!
 
 803
 00:45:16,550 --> 00:45:17,440
-Get out of there!
+¡No, escapa!
 
 804
 00:45:18,670 --> 00:45:19,910
-Osaekomi!
+¡Inmovilización!
 
 805
 00:45:38,130 --> 00:45:39,560
-Good going, Itsuro!
+¡Vas bien, Itsuro!
 
 806
 00:45:39,560 --> 00:45:40,840
-You can do it!
+¡Puedes hacerlo!
 
 807
 00:45:40,840 --> 00:45:42,010
-How awful!
+¡Es terrible!
 
 808
 00:45:42,010 --> 00:45:42,630
-This is bad.
 
 809
 00:45:42,630 --> 00:45:44,610
-Keep going, Itsuro!
+¡Ánimo, Itsuro!
 
 810
 00:45:44,610 --> 00:45:47,110
-You're almost out of bounds!
+¡Ya casi sales del ring!
 
 811
 00:45:55,350 --> 00:45:56,850
-Ippon!
+¡Ippon!
 
 812
 00:45:56,850 --> 00:45:58,050
-Sore made!
+¡Fin del encuentro!
 
 813
 00:46:03,340 --> 00:46:04,860
-He had me scared.
+Por un momento me preocupó.
 
 814
 00:46:05,370 --> 00:46:07,560
-Itsuro-kun, are you okay?
+¿Estás bien, Itsuro?
+
+
+
+
+
+
 
 815
 00:46:07,560 --> 00:46:09,320
-You did well, Itsuro.
+Lo hiciste muy bien, Itsuro.
 
 816
 00:46:10,290 --> 00:46:12,620
-I-I'm pissed!
+¡Qué rabia!
 
 817
 00:46:12,620 --> 00:46:15,330
-This is worse than getting
- a zero on a test!
+¡Es peor que sacarse un cero!
 
 818
 00:46:16,740 --> 00:46:17,830
@@ -3380,106 +3380,103 @@ Itsuro.
 
 819
 00:46:21,630 --> 00:46:24,130
-Laiza Judo Club, Suzuki-kun!
+Del Club de Judo Laiza, Suzuki.
 
 820
 00:46:24,510 --> 00:46:27,130
-Ginnan Judo Association, Izawa-kun!
+De la Asociación de Judo Ginnan, Izawa.
 
 821
 00:46:27,570 --> 00:46:29,130
-All right!
+¡Muy bien!
 
 822
 00:46:29,130 --> 00:46:32,140
-Show 'em you got guts, Toshihiko!
+¡Muéstrales tus agallas, Toshihiko!
 
 823
 00:46:32,140 --> 00:46:34,800
-Listen, aim for a Newaza.
+Escucha, busca el newaza.
 
 824
 00:46:34,800 --> 00:46:38,780
-Don't worry! We've been practicing a lot, so be confident!
+No te preocupes. Ten confianza en el entrenamiento.
 
 825
 00:46:50,510 --> 00:46:51,410
-Hajime!
+¡Comiencen!
 
 826
 00:46:56,290 --> 00:46:57,270
-Get him!
+¡Ataca!
 
 827
 00:46:57,270 --> 00:46:58,370
-Toshihiko!
+¡Toshihiko!
 
 828
 00:47:08,050 --> 00:47:10,260
-Now's your chance! Pin him!
+¡Ahora, Toshihiko! ¡Inmovilízalo!
 
 829
 00:47:11,720 --> 00:47:12,830
-Osaekomi!
+¡Inmovilización!
 
 830
 00:47:14,260 --> 00:47:15,370
-He's got it!
+¡Lo logró!
 
 831
 00:47:15,370 --> 00:47:16,770
-Way to go, Toshihiko!
+¡Muy bien hecho, Toshihiko!
 
 832
 00:47:17,140 --> 00:47:19,770
-Y-You dummy! Get away! Shake him!
+¡Tonto! ¡Escapa! ¡Libérate!
 
 833
 00:47:26,880 --> 00:47:30,490
-Stop this, Toshihiko-chan!
- Come home with Mama!
+¡Ya basta, Toshihiko! ¡Vuelve a casa tu mamá!
 
 834
 00:47:30,490 --> 00:47:34,120
-Why not let him be?
- He's trying to become a man.
+Déjalo. Está tratando de volverse un hombre.
 
 835
 00:47:34,120 --> 00:47:35,500
-What was that?!
+¡Qué dijiste!
 
 836
 00:47:35,500 --> 00:47:38,340
-Because of you, Toshihiko-chan is suffering right now!
+¡Por tu culpa, Toshihiko está sufriendo!
 
 837
 00:47:38,340 --> 00:47:39,500
-Break it up!
+¡Suficiente!
 
 838
 00:47:39,900 --> 00:47:41,290
-Jigoro-san!
+¡Jigoro!
 
 839
 00:47:41,290 --> 00:47:42,500
-Master!
+¡Maestro!
 
 840
 00:47:42,930 --> 00:47:47,820
-That chicken down there is looking to fly high in the sky.
+Ese polluelo intenta volar alto en el cielo.
 
 841
 00:47:47,820 --> 00:47:50,510
-Why don't you both try these,
- shut up, and watch?!
+Prueben estos, cállense y miren.
 
 842
 00:47:51,430 --> 00:47:53,100
-A chicken?
+¿Polluelo?
 
 843
 00:47:53,100 --> 00:47:54,510
-Fly in the sky?
+¿Volar alto en el cielo?
 
 844
 00:47:57,610 --> 00:47:59,080
@@ -3487,623 +3484,622 @@ Toshihiko...
 
 845
 00:48:00,210 --> 00:48:03,560
-Please, stop this, Toshihiko!
+¡Por favor, detente, Toshihiko!
 
 846
 00:48:01,780 --> 00:48:03,560
-Don't let go, Toshihiko!
+¡No lo sueltes, Toshihiko!
 
 847
 00:48:06,070 --> 00:48:08,570
-You can do it, Toshihiko!
+-¡Tú puedes, Toshihiko!
+-¡Basta, Toshihiko!
 
 848
 00:48:06,960 --> 00:48:08,570
-Stop, Toshihiko-chan!
 
 849
 00:48:10,570 --> 00:48:12,570
-Stop!
+-¡Basta!
+-¡No lo sueltes!
 
 850
 00:48:11,420 --> 00:48:12,570
-Don't let go!
 
 851
 00:48:14,560 --> 00:48:17,080
-Ippon! Sore made!
+¡Ippon! ¡Fin del encuentro!
 
 852
 00:48:17,390 --> 00:48:18,620
-All right!
+¡Muy bien!
 
 853
 00:48:18,620 --> 00:48:20,580
-1-1!
+¡1 a 1!
 
 854
 00:48:21,580 --> 00:48:22,890
-He flew!
+¡Voló!
 
 855
 00:48:23,780 --> 00:48:24,900
-We're tied!
+¡Empatamos!
 
 856
 00:48:24,900 --> 00:48:26,590
-Toshihiko-chan!
+¡Toshihiko!
 
 857
 00:48:26,590 --> 00:48:29,610
-Laiza Judo Club, Wakamatsu-kun!
+Del Club de Judo Laiza, Wakamatsu.
 
 858
 00:48:29,610 --> 00:48:32,130
-Ginnan Judo Association, Hiraoka-kun!
+De la Asociación de Judo Ginnan, Hiraoka.
 
 859
 00:48:33,160 --> 00:48:34,950
-We're counting on you, Choro!
+¡Contamos contigo, Choro!
 
 860
 00:48:34,950 --> 00:48:37,100
-I got this!
+Yo me encargo.
 
 861
 00:48:43,130 --> 00:48:43,980
-Hajime!
+¡Comiencen!
 
 862
 00:48:44,390 --> 00:48:46,980
-I'm getting you back for my ramen!
+¡Me vengaré de que insultaras mis fideos!
 
 863
 00:48:50,700 --> 00:48:51,610
-Get him!
+¡Ataca!
 
 864
 00:48:51,610 --> 00:48:52,360
-You can do it!
+¡Tú puedes!
 
 865
 00:48:52,360 --> 00:48:53,110
-Choro!
+¡Choro!
 
 866
 00:48:53,110 --> 00:48:55,140
-Make it happen!
+¡Puedes lograrlo!
 
 867
 00:48:55,950 --> 00:48:56,780
-Now!
+¡Ahora!
 
 868
 00:49:00,720 --> 00:49:01,790
-Yuko!
+¡Yuko!
 
 869
 00:49:01,790 --> 00:49:03,000
-All right!
+¡Así!
 
 870
 00:49:03,000 --> 00:49:04,290
-Way to go, Choro!
+¡Bien hecho, Choro!
 
 871
 00:49:05,340 --> 00:49:07,790
-My boy ain't doing half bad!
+¡Mi chico no lo hace nada mal!
 
 872
 00:49:08,370 --> 00:49:10,170
-What're you doing, you idiot?!
+¿Qué estás haciendo, tonto?
 
 873
 00:49:10,170 --> 00:49:11,790
-Do what I just told you!
+¡Haz lo que te dije!
 
 874
 00:49:20,630 --> 00:49:21,810
-Waza Ari!
+¡Waza-ari!
 
 875
 00:49:22,600 --> 00:49:23,600
-That dirty rat!
+¡Ese maldito!
 
 876
 00:49:23,600 --> 00:49:24,810
-Isn't that a foul?
+¡Eso fue falta!
+
+
+
+
 
 877
 00:49:25,150 --> 00:49:27,440
-That might've been foul play.
+Eso pudo haber sido falta.
 
 878
 00:49:27,440 --> 00:49:29,540
-And it might've been a fluke.
+O pudo haber sido @mala suerte.
 
 879
 00:49:29,540 --> 00:49:30,320
-What?
+¿Qué?
 
 880
 00:49:33,990 --> 00:49:37,230
-Get him, Choro! You can do it!
+¡Ataca, Choro! ¡Tú puedes!
 
 881
 00:49:38,640 --> 00:49:39,990
-You can do it!
+¡Ánimo!
 
 882
 00:49:39,990 --> 00:49:41,320
-Get him, Choro!
+¡Ataca, Choro!
 
 883
 00:49:39,990 --> 00:49:41,320
-Go, Choro!
+¡Ánimo, Choro!
 
 884
 00:49:41,320 --> 00:49:42,950
-Throw that punk on his ass!
+¡Hazlo caer de cola!
 
 885
 00:49:42,950 --> 00:49:43,620
-Go!
+¡Vamos!
 
 886
 00:49:51,120 --> 00:49:52,450
-Hold on, Choro!
+¡Resiste, Choro!
 
 887
 00:49:52,450 --> 00:49:53,510
-Resist!
+¡Resiste!
 
 888
 00:50:01,220 --> 00:50:03,930
-That shrimp is really hanging in there.
+Ese enano está resistiendo con todo lo que tiene.
 
 889
 00:50:03,930 --> 00:50:05,260
-You can say that again!
+¡Por supuesto!
 
 890
 00:50:05,260 --> 00:50:07,240
-That's my son down there.
+Ese es mi hijo.
 
 891
 00:50:07,240 --> 00:50:10,500
-That boy's gonna show us
- how good he really is!
+¡Ahora mostrará qué tan bueno es!
 
 892
 00:50:10,500 --> 00:50:12,550
-Oh, that's a shame.
+Es una lástima.
 
 893
 00:50:12,550 --> 00:50:13,810
-I really wanted to see that.
+En verdad quería verlo.
 
 894
 00:50:13,810 --> 00:50:14,690
-What?
+¿Qué?
 
 895
 00:50:16,090 --> 00:50:16,990
-Sore made!
+¡Fin del encuentro!
 
 896
 00:50:20,990 --> 00:50:23,730
-Laiza Judo Club, Wakamatsu-kun!
+Del Club de Judo Laiza, Wakamatsu.
 
 897
 00:50:24,490 --> 00:50:26,650
-Wh-What the hell's with him?!
+¿Qué demonios fue eso?
 
 898
 00:50:26,650 --> 00:50:28,970
-My boy was about to counterattack!
+!Estaba a punto de contraatacar!
 
 899
 00:50:28,970 --> 00:50:30,880
-Overtime! I want overtime!
+¡Exijo tiempo extra!
 
 900
 00:50:30,880 --> 00:50:34,510
-Now, now, Shiraoka-san. 
-The wall was too thick.
+Cálmate, Shiraoka. La pared era demasiado gruesa.
 
 901
 00:50:34,510 --> 00:50:35,440
-Bow!
+¡Saluden!
 
 902
 00:50:38,260 --> 00:50:41,650
-I have to say, your son
- really hung in there!
+Debo decir que tu hijo resistió con todo.
 
 903
 00:50:41,650 --> 00:50:43,510
-Of course he did!
+¡Por supuesto!
 
 904
 00:50:43,510 --> 00:50:46,020
-My son and my ramen 
-are the best there is!
+¡Mi hijo y mis fideos son los mejores del mundo!
 
 905
 00:50:47,020 --> 00:50:48,200
-Dammit!
+¡Maldición!
 
 906
 00:50:48,200 --> 00:50:50,020
-You did well, Choro-kun.
+Lo hiciste muy bien, Choro.
 
 907
 00:50:50,020 --> 00:50:53,650
-Yeah! Yujiro and I will avenge you!
+Así es, Yujiro y yo te vengaremos.
 
 908
 00:50:54,960 --> 00:50:55,820
-Yujiro?
+¿Yujiro?
 
 909
 00:50:55,820 --> 00:50:56,730
-Yujiro-kun!
+¡Yujiro!
 
 910
 00:50:56,730 --> 00:50:58,530
-Is Ishida Yujiro-kun here?
+¿No se encuentra presente Yujiro Ishida?
 
 911
 00:50:59,040 --> 00:51:00,530
-Yujiro-kun!
+¡Yujiro!
 
 912
 00:51:01,730 --> 00:51:03,030
-That moron.
+Ese tonto.
 
 913
 00:51:04,180 --> 00:51:06,040
-Laiza Judo Club wins by—
+El Club de Judo Laiza gana por--
 
 914
 00:51:06,040 --> 00:51:08,040
-Hold up!
+¡Un momento!
 
 915
 00:51:10,540 --> 00:51:12,290
-Ippon!
+¡Ippon!
 
 916
 00:51:13,110 --> 00:51:15,550
-I'm winning this match with an Ippon!
+Ganaré este encuentro con un ippon.
 
 917
 00:51:30,630 --> 00:51:32,520
-That fool only learned one move.
+Ese tonto sólo aprendió un movimiento.
 
 918
 00:51:32,520 --> 00:51:35,020
-Calm down! Watch your opponent closely!
+¡Cálmate! Observa a tu oponente.
 
 919
 00:51:38,730 --> 00:51:39,490
-Waza Ari!
+¡Waza-ari!
 
 920
 00:51:40,790 --> 00:51:42,490
-Turtle up! Turtle up!
+¡Pose de tortuga! ¡Tortuga!
 
 921
 00:51:42,490 --> 00:51:44,120
-Turtle?
+¿Tortuga?
 
 922
 00:51:44,930 --> 00:51:45,490
-Osaekomi!
+¡Inmovilización!
 
 923
 00:51:49,510 --> 00:51:51,460
-That's what he gets for acting cocky.
+Se lo merece por arrogante.
 
 924
 00:51:53,960 --> 00:51:55,200
-It's in the bag!
+Ya ganamos.
 
 925
 00:51:55,200 --> 00:51:57,960
-There's no way he's getting out of Takai's Osaekomi!
+No forma de que escape de la inmovilización de Takai.
 
 926
 00:51:57,960 --> 00:52:00,970
-There's the wall. Give it up, Yujiro.
+Esa es la pared. Ríndete, Yujiro.
 
 927
 00:52:00,970 --> 00:52:02,630
-Shut up!
+¡Cállate!
 
 928
 00:52:02,630 --> 00:52:04,470
-I'm not giving up!
+¡No me rendiré!
 
 929
 00:52:04,790 --> 00:52:06,470
-You're up against the wall.
+Te enfrentas a una pared.
 
 930
 00:52:06,470 --> 00:52:09,730
-Screw your wall!
+¡Al diablo la pared!
 
 931
 00:52:10,100 --> 00:52:11,230
-It's still the wall.
+Sigue siendo una pared.
 
 932
 00:52:11,230 --> 00:52:14,230
-Screw your wall!
+¡Al diablo la pared!
 
 933
 00:52:14,610 --> 00:52:15,730
-That's the wall.
+Es la pared.
 
 934
 00:52:15,730 --> 00:52:21,240
-Screw... your... wall!
+¡Al... diablo... tu... pared!
 
 935
 00:52:27,120 --> 00:52:27,740
-Mate!
+¡Alto!
 
 936
 00:52:28,130 --> 00:52:29,250
-All right!
+¡Sí!
 
 937
 00:52:29,750 --> 00:52:31,370
-Honey...
+Cariño.
 
 938
 00:52:31,370 --> 00:52:33,600
-He... broke down the wall.
+El rompió la pared...
 
 939
 00:52:34,880 --> 00:52:36,750
-I-Impossible.
+Imposible.
 
 940
 00:52:37,090 --> 00:52:38,170
-Hajime!
+¡Comiencen!
 
 941
 00:52:41,220 --> 00:52:44,220
-End it already, you moron!
+¡Ya acábalo, tonto!
 
 942
 00:52:48,820 --> 00:52:49,770
-Ippon!
+¡Ippon!
 
 943
 00:52:52,380 --> 00:52:54,690
-All right!
+¡Sí!
 
 944
 00:52:54,690 --> 00:52:56,730
-2-2!
+¡2 a 2!
 
 945
 00:53:02,410 --> 00:53:05,010
-He did pretty good!
+Lo hizo muy bien.
 
 946
 00:53:05,010 --> 00:53:06,070
-Good job!
+¡Buen trabajo!
 
 947
 00:53:11,090 --> 00:53:14,080
-The worm has truly turned indeed.
+El gusano se transformó.
 
 948
 00:53:14,080 --> 00:53:16,970
-Laiza Judo Club, Sagara-kun!
+Del Club de Judo Laiza, Sagara.
 
 949
 00:53:16,970 --> 00:53:20,130
-Ginnan Judo Association, Sotomura-san!
+De la Asociación de Judo Ginnan, Sotomura.
 
 950
 00:53:20,130 --> 00:53:22,090
-You can do it, Mayumi!
+¡Tú puedes, Mayumi!
 
 951
 00:53:22,090 --> 00:53:23,990
-Do you understand, Junji?
+¿Entendiste, Junji?
 
 952
 00:53:23,990 --> 00:53:26,970
-I believe in you the most!
+Eres en el que más confío.
 
 953
 00:53:26,970 --> 00:53:29,510
-Don't forget what Laiza has done for you!
+No olvides lo que hizo Laiza por ti.
 
 954
 00:53:30,100 --> 00:53:32,440
-Don't worry. I know you'll win!
+No te preocupes. Ganarás.
 
 955
 00:53:32,440 --> 00:53:35,340
-Don't forget the timing from practice!
+Recuerda el ritmo de la práctica.
 
 956
 00:53:40,280 --> 00:53:41,180
-Bow!
+¡Saluden!
 
 957
 00:53:44,240 --> 00:53:45,990
-Hajime!
+¡Comiencen!
 
 958
 00:53:57,290 --> 00:53:58,620
-Fight him!
+¡Pelea!
 
 959
 00:53:58,620 --> 00:53:59,290
-You can do it!
+¡Tú puedes!
 
 960
 00:54:03,160 --> 00:54:04,300
-Jougai!
+¡Fuera del ring!
 
 961
 00:54:05,980 --> 00:54:08,300
-I'd say they're evenly matched.
+Creo que están igualados.
 
 962
 00:54:11,890 --> 00:54:12,790
-You can do it!
+¡Tú puedes!
 
 963
 00:54:14,210 --> 00:54:16,230
-Go, go, Mayumi!
+¡Vamos, vamos, Mayumi!
 
 964
 00:54:16,230 --> 00:54:19,690
-Junji! Junji! Junji!
+¡Junji! ¡Junji! ¡Junji!
 
 965
 00:54:23,690 --> 00:54:24,690
-Waza Ari!
+¡Waza-ari!
 
 966
 00:54:24,690 --> 00:54:25,820
-Good!
+¡Muy bien!
 
 967
 00:54:31,580 --> 00:54:33,290
-Only thirty seconds left.
+Sólo quedan treinta segundos.
 
 968
 00:54:33,290 --> 00:54:36,490
-That's enough, Junji!
- Don't engage her!
+¡Suficiente, Junji! ¡Evita enfrentarla!
 
 969
 00:54:40,100 --> 00:54:41,920
-Junji, you rat prick!
+¡Eres una rata, Junji!
+
 
 970
 00:54:41,920 --> 00:54:43,300
-Fight her, dammit!
+¡Pelea, demonios!
 
 971
 00:54:43,300 --> 00:54:45,120
-That's all she wrote.
+@Eso es todo.
 
 972
 00:54:45,120 --> 00:54:47,300
-He ain't gonna let her grab him.
+Él no se dejará agarrar.
 
 973
 00:54:49,650 --> 00:54:52,850
-That's good! Just think about winning!
+¡Así está bien! ¡Sólo piensa en ganar!
 
 974
 00:54:56,850 --> 00:54:58,650
-That's low!
+¡Cobarde!
 
 975
 00:54:58,650 --> 00:55:00,860
-Dammit! A man's supposed to fight!
+¡Un hombre no debe huir!
 
 976
 00:55:00,860 --> 00:55:02,360
-Fifteen seconds left!
+¡Quedan quince segundos!
 
 977
 00:55:04,070 --> 00:55:06,070
-Ten seconds!
+¡Diez segundos!
 
 978
 00:55:07,880 --> 00:55:09,570
-Mayumi...</i>
+<i>Mayumi...</i>
 
 979
 00:55:21,830 --> 00:55:24,430
-Junji! Let's fight!
+¡Enfrentémonos, Junji!
 
 980
 00:55:24,430 --> 00:55:25,850
-Let's fight, Junji!
+¡Enfrentémonos, Junji!
 
 981
 00:55:25,850 --> 00:55:27,840
-Come on! Fight me, fight me!
+¡Vamos, enfréntame!
 
 982
 00:55:30,760 --> 00:55:32,260
-I-Impossible!
+¡No puede ser!
 
 983
 00:55:46,860 --> 00:55:48,070
-Now!
+¡Ahora!
 
 984
 00:56:00,510 --> 00:56:02,390
-Ippon! Sore made!
+¡Ippon! ¡Fin del encuentro!
 
 985
 00:56:02,390 --> 00:56:04,420
-All right!
+¡Sí!
 
 986
 00:56:05,380 --> 00:56:08,380
-I'm so moved!
+¡Estoy conmovido!
 
 987
 00:56:10,380 --> 00:56:11,470
-This will be your fate.
+Este será tu destino.
 
 988
 00:56:12,240 --> 00:56:15,470
-I'm fired?!
+¡¿Estoy despedido?!
 
 989
 00:56:45,760 --> 00:56:46,920
-Itsuro!
+¡Itsuro!
 
 990
 00:56:49,860 --> 00:56:51,540
-Come on, let's go.
+Vámonos.
 
 991
 00:56:51,540 --> 00:56:53,100
-It's time for cram school.
+Es hora de las tutorías.
 
 992
 00:56:53,100 --> 00:56:54,360
-You too, Toshihiko-chan.
+Tú también, Toshihiko.
 
 993
 00:56:54,360 --> 00:56:56,430
-I don't want to see you
- in any more danger.
+Ya no quiero verte en peligro.
 
 994
 00:56:57,260 --> 00:56:59,830
-Come on, let's go!
+Ven, vámonos.
 
 995
 00:57:03,870 --> 00:57:06,400
-We're awesome!
+¡Somos grandiosos!
 
 996
 00:57:06,400 --> 00:57:07,480
-Yay!
+¡Sí!
 
 997
 00:57:07,480 --> 00:57:08,980
-All right!
+¡Bien!
 
 998
 00:57:08,980 --> 00:57:10,490
-Yeah!
+¡Así es!
 
