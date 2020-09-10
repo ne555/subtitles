@@ -182,7 +182,7 @@ Dialogue: 0,0:09:30.00,0:09:30.92,Yawara (Bot),,0,0,0,,{\i1}Muchas gracias.{\i}
 Dialogue: 0,0:09:36.43,0:09:37.97,Yawara (Bot),,0,0,0,,{\i1}¡Así se hace!{\i}
 Dialogue: 0,0:09:40.51,0:09:41.93,Yawara (Bot),,0,0,0,,Fujiko.
 Dialogue: 0,0:09:42.77,0:09:47.17,Yawara (Bot),,0,0,0,,Después de haber dado una gran pelea,\NFujiko Hanazono pierde por decisión.
-Dialogue: 0,0:09:47.17,0:09:51.43,Yawara (Bot),,0,0,0,,$Uchi mata: barrida al interior del muslo.
+Dialogue: 0,0:09:47.17,0:09:51.43,Yawara (Top),,0,0,0,,$Uchi mata: barrida al interior del muslo.
 Dialogue: 0,0:09:47.17,0:09:51.43,Yawara (Bot),,0,0,0,,Lastimosamente, el uchi mata que realizó\Nen el último minuto terminó fuera del ring.
 Dialogue: 0,0:09:58.35,0:10:00.49,Yawara (Bot),,0,0,0,,¿Ya perdió?
 Dialogue: 0,0:10:04.60,0:10:07.31,Yawara (Bot),,0,0,0,,Muy bien hecho. Lo diste todo ahí afuera.
@@ -202,7 +202,7 @@ Dialogue: 0,0:10:58.63,0:10:59.63,Yawara (Bot),,0,0,0,,Así es.
 Dialogue: 0,0:11:01.47,0:11:05.14,Yawara (Bot),,0,0,0,,¡Pero aún así, duele perder!
 Dialogue: 0,0:11:05.14,0:11:08.23,Yawara (Bot),,0,0,0,,Entonces, la próxima vez\Ndebes intentarlo con más fuerza.
 Dialogue: 0,0:11:08.64,0:11:09.94,Yawara (Bot),,0,0,0,,¿La próxima vez?
-Dialogue: 0,0:11:10.37,0:11:13.15,Yawara (Bot),,0,0,0,,$Uchikomi: práctica del movimiento del lanzamiento.
+Dialogue: 0,0:11:10.37,0:11:13.15,Yawara (Top),,0,0,0,,$Uchikomi: práctica del movimiento del lanzamiento.
 Dialogue: 0,0:11:10.37,0:11:13.15,Yawara (Bot),,0,0,0,,Levántate. Practiquemos unos uchikomis.
 Dialogue: 0,0:11:13.15,0:11:14.44,Yawara (Bot),,0,0,0,,¿Uchikomis?
 Dialogue: 0,0:11:15.32,0:11:17.44,Yawara (Bot),,0,0,0,,¡Vayamos por unas cervezas!
@@ -657,9 +657,9 @@ Dialogue: 0,0:40:22.10,0:40:25.94,Yawara (Bot),,0,0,0,,Ambas judocas se ubican e
 Dialogue: 0,0:40:28.53,0:40:29.44,Yawara (Bot),,0,0,0,,¡Comiencen!
 Dialogue: 0,0:40:29.44,0:40:35.16,Yawara (Bot),,0,0,0,,¡Comienza la final de los 48 Kg de judo femenino!
 Dialogue: 0,0:40:35.16,0:40:39.58,Yawara (Bot),,0,0,0,,Las dos intentan desesperadamente conseguir\Nuna ventaja y ninguna piensa ceder.
-Dialogue: 0,0:40:40.45,0:40:42.96,Yawara (Bot),,0,0,0,,$Ouchi gari: barrida del talón desde el interior.
+Dialogue: 0,0:40:40.45,0:40:42.96,Yawara (Top),,0,0,0,,$Ouchi gari: barrida del talón desde el interior.
 Dialogue: 0,0:40:40.45,0:40:42.96,Yawara (Bot),,0,0,0,,Inokuma realiza un ouchi gari,\Npero Marceau permanece de pie.
-Dialogue: 0,0:40:42.96,0:40:43.96,Yawara (Bot),,0,0,0,,$Kouchi gari: barrida del talón opuesto desde el interior.
+Dialogue: 0,0:40:42.96,0:40:43.96,Yawara (Top),,0,0,0,,$Kouchi gari: barrida del talón opuesto desde el interior.
 Dialogue: 0,0:40:42.96,0:40:43.96,Yawara (Bot),,0,0,0,,Intenta un kouchi...
 Dialogue: 0,0:40:43.96,0:40:44.71,Yawara (Bot),,0,0,0,,¡Puedo hacerlo!
 Dialogue: 0,0:40:48.38,0:40:49.21,Yawara (Bot),,0,0,0,,¡Oh, no!
@@ -682,7 +682,7 @@ Dialogue: 0,0:41:46.19,0:41:47.65,Yawara (Bot),,0,0,0,,Oigan...
 Dialogue: 0,0:41:49.94,0:41:51.57,Yawara (Bot),,0,0,0,,¡Marceau está al ataque!
 Dialogue: 0,0:41:51.57,0:41:54.36,Yawara (Bot),,0,0,0,,¡Inokuma se encuentra completamente a la defensiva!
 Dialogue: 0,0:41:57.53,0:41:58.74,Yawara (Bot),,0,0,0,,¡Ahí está!
-Dialogue: 0,0:41:58.74,0:42:01.37,Yawara (Bot),,0,0,0,,$Morote gari: barrida con las dos manos.
+Dialogue: 0,0:41:58.74,0:42:01.37,Yawara (Top),,0,0,0,,$Morote gari: barrida con las dos manos.
 Dialogue: 0,0:41:58.74,0:42:01.37,Yawara (Bot),,0,0,0,,Algo nunca visto, Inokuma realiza un morote gari.
 Dialogue: 0,0:42:01.37,0:42:02.70,Yawara (Bot),,0,0,0,,¡Yuko!
 Dialogue: 0,0:42:02.70,0:42:06.21,Yawara (Bot),,0,0,0,,¡Pero sólo consigue un yuko!
@@ -692,7 +692,7 @@ Dialogue: 0,0:42:09.71,0:42:11.75,Yawara (Bot),,0,0,0,,Ya pasamos los dos minuto
 Dialogue: 0,0:42:11.75,0:42:13.76,Yawara (Bot),,0,0,0,,¿Podrá Inokuma recuperarse?
 Dialogue: 0,0:42:17.26,0:42:20.26,Yawara (Bot),,0,0,0,,¡Marceau intenta otro lanzamiento!
 Dialogue: 0,0:42:20.26,0:42:21.39,Yawara (Bot),,0,0,0,,¿Es el fin?
-Dialogue: 0,0:42:24.81,0:42:26.73,Yawara (Bot),,0,0,0,,$Uranage: sacrificio, lanzamiento hacia atrás.
+Dialogue: 0,0:42:24.81,0:42:26.73,Yawara (Top),,0,0,0,,$Uranage: sacrificio, lanzamiento hacia atrás.
 Dialogue: 0,0:42:24.81,0:42:26.73,Yawara (Bot),,0,0,0,,¡Inokuma con un uranage!
 Dialogue: 0,0:42:28.85,0:42:30.44,Yawara (Bot),,0,0,0,,¡Yuko!
 Dialogue: 0,0:42:30.44,0:42:32.90,Yawara (Bot),,0,0,0,,¡Es otro yuko!
@@ -990,7 +990,7 @@ Dialogue: 0,1:03:48.09,1:03:49.88,Yawara (Bot),,0,0,0,,¡Llegas tarde, Kohno!
 Dialogue: 0,1:03:49.88,1:03:52.05,Yawara (Bot),,0,0,0,,Ya pasó la tercera ronda.
 Dialogue: 0,1:03:53.18,1:03:54.35,Yawara (Bot),,0,0,0,,¿En serio?
 Dialogue: 0,1:03:53.72,1:03:55.56,Yawara (Bot),,0,0,0,,Aquí tenemos la repetición.
-Dialogue: 0,1:03:56.52,1:03:58.98,Yawara (Bot),,0,0,0,,$Kosoto gari: zancadilla por detrás del tobillo.
+Dialogue: 0,1:03:56.52,1:03:58.98,Yawara (Top),,0,0,0,,$Kosoto gari: zancadilla por detrás del tobillo.
 Dialogue: 0,1:03:56.52,1:03:58.98,Yawara (Bot),,0,0,0,,Inokuma primero intenta un kosoto gari.
 Dialogue: 0,1:04:00.10,1:04:01.69,Yawara (Bot),,0,0,0,,Y una fracción de segundo después...
 Dialogue: 0,1:04:02.77,1:04:04.69,Yawara (Bot),,0,0,0,,... un maravilloso ippon seoi.
@@ -1089,7 +1089,7 @@ Dialogue: 0,1:09:39.36,1:09:40.48,Yawara (Bot),,0,0,0,,¡Comiencen!
 Dialogue: 0,1:09:40.48,1:09:45.13,Yawara (Bot),,0,0,0,,¡Y finalmente comenzó el enfrentamiento del siglo!
 Dialogue: 0,1:09:45.78,1:09:48.53,Yawara (Bot),,0,0,0,,Ambas judocas luchan vigorosamente\Npor conseguir una ventaja.
 Dialogue: 0,1:09:48.53,1:09:52.29,Yawara (Bot),,0,0,0,,¿Quién podrá obtener una posición favorable?
-Dialogue: 0,1:09:57.58,1:10:00.21,Yawara (Bot),,0,0,0,,$Tai-otoshi: vuelco por el hombro.
+Dialogue: 0,1:09:57.58,1:10:00.21,Yawara (Top),,0,0,0,,$Tai-otoshi: vuelco por el hombro.
 Dialogue: 0,1:09:57.58,1:10:00.21,Yawara (Bot),,0,0,0,,Rockwell intenta un rápido tai-otoshi.
 Dialogue: 0,1:10:05.47,1:10:06.55,Yawara (Bot),,0,0,0,,¡Yuko!
 Dialogue: 0,1:10:08.30,1:10:10.06,Yawara (Bot),,0,0,0,,¡Increíble!
@@ -1105,7 +1105,7 @@ Dialogue: 0,1:10:37.87,1:10:40.17,Yawara (Bot),,0,0,0,,Pero Inokuma intenta un k
 Dialogue: 0,1:10:43.84,1:10:44.92,Yawara (Bot),,0,0,0,,¡Yuko!
 Dialogue: 0,1:10:44.92,1:10:48.39,Yawara (Bot),,0,0,0,,¡Yuko! ¡Inokuma enseguida empata el marcado!
 Dialogue: 0,1:10:48.80,1:10:51.10,Yawara (Bot),,0,0,0,,Y Rockwell enseguida la levanta.
-Dialogue: 0,1:10:51.10,1:10:52.56,Yawara (Bot),,0,0,0,,$Sukui nage: lanzamiento en forma de cuchara.
+Dialogue: 0,1:10:51.10,1:10:52.56,Yawara (Top),,0,0,0,,$Sukui nage: lanzamiento en forma de cuchara.
 Dialogue: 0,1:10:51.10,1:10:52.56,Yawara (Bot),,0,0,0,,¡Un sukui nage!
 Dialogue: 0,1:10:53.56,1:10:54.81,Yawara (Bot),,0,0,0,,¡Yuko!
 Dialogue: 0,1:10:54.81,1:10:58.85,Yawara (Bot),,0,0,0,,Acababa de recuperarse del yuko\Ny Yawara vuelve a estar abajo.
@@ -1129,7 +1129,7 @@ Dialogue: 0,1:11:49.03,1:11:50.70,Yawara (Bot),,0,0,0,,Rockwell está adelante p
 Dialogue: 0,1:11:51.70,1:11:53.70,Yawara (Bot),,0,0,0,,Inokuma realiza un kouchi--
 Dialogue: 0,1:11:54.03,1:11:54.62,Yawara (Bot),,0,0,0,,¡Ahora!
 Dialogue: 0,1:11:54.62,1:11:55.95,Yawara (Bot),,0,0,0,,¡Arrójala!
-Dialogue: 0,1:11:58.04,1:11:59.46,Yawara (Bot),,0,0,0,,$Utsuri-goshi: cambio de cadera.
+Dialogue: 0,1:11:58.04,1:11:59.46,Yawara (Top),,0,0,0,,$Utsuri-goshi: cambio de cadera.
 Dialogue: 0,1:11:58.04,1:11:59.46,Yawara (Bot),,0,0,0,,¡Rockwell realiza un utsuri-goshi!
 Dialogue: 0,1:11:59.46,1:12:01.96,Yawara (Bot),,0,0,0,,¡Inokuma está de cabeza!
 Dialogue: 0,1:12:02.96,1:12:03.96,Yawara (Bot),,0,0,0,,¡Resiste!
@@ -1171,7 +1171,7 @@ Dialogue: 0,1:13:31.05,1:13:33.55,Yawara (Bot),,0,0,0,,¡Aún queda mucho! ¡Est
 Dialogue: 0,1:13:33.55,1:13:34.72,Yawara (Bot),,0,0,0,,¡Un seoi de Inokuma!
 Dialogue: 0,1:13:34.72,1:13:36.68,Yawara (Bot),,0,0,0,,No, es un ouchi gari.
 Dialogue: 0,1:13:37.68,1:13:38.64,Yawara (Bot),,0,0,0,,¡Yuko!
-Dialogue: 0,1:13:38.64,1:13:40.68,Yawara (Bot),,0,0,0,,$Harai goshi: barrida con la cadera.
+Dialogue: 0,1:13:38.64,1:13:40.68,Yawara (Top),,0,0,0,,$Harai goshi: barrida con la cadera.
 Dialogue: 0,1:13:38.64,1:13:40.68,Yawara (Bot),,0,0,0,,Ahora Rockwell realiza un harai goshi.
 Dialogue: 0,1:13:42.18,1:13:43.14,Yawara (Bot),,0,0,0,,¡Yuko!
 Dialogue: 0,1:13:43.14,1:13:45.15,Yawara (Bot),,0,0,0,,El harai goshi le consigue un yuko.
@@ -1196,7 +1196,7 @@ Dialogue: 0,1:14:33.07,1:14:35.65,Yawara (Bot),,0,0,0,,Mira, Fuku.
 Dialogue: 0,1:14:36.03,1:14:39.07,Yawara (Bot),,0,0,0,,Mira a tu @tía Yawara.
 Dialogue: 0,1:14:39.07,1:14:44.66,Yawara (Bot),,0,0,0,,Cuando crezcas, tienes que ser tan fuerte como ella.
 Dialogue: 0,1:14:44.66,1:14:45.62,Yawara (Bot),,0,0,0,,#Okara
-Dialogue: 0,1:14:44.66,1:14:46.08,Yawara (Bot),,0,0,0,,$Koshi guruma: rueda por las caderas.
+Dialogue: 0,1:14:44.66,1:14:46.08,Yawara (Top),,0,0,0,,$Koshi guruma: rueda por las caderas.
 Dialogue: 0,1:14:44.66,1:14:46.08,Yawara (Bot),,0,0,0,,Rockwell realiza un koshi guruma.
 Dialogue: 0,1:14:46.08,1:14:47.12,Yawara (Bot),,0,0,0,,Inokuma lo esquiva.
 Dialogue: 0,1:14:47.12,1:14:50.63,Yawara (Bot),,0,0,0,,E inmediatamente realiza un kouchi gari.
