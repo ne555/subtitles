@@ -1,5 +1,6 @@
 set nobomb
-% s/,Default,/,H2 (Inferior),/
+"% s/,Default,/,H2 (Inferior),/
+% s/,Default,/,Yawara (Bot),/
 % s/ \+$//
 % s/\(\\N\)\+$//
 /\[Events\]

@@ -1,4 +1,5 @@
 1
+
 00:00:03,310 --> 00:00:07,280
 
 2
@@ -4073,164 +4074,164 @@ Gana la medalla de oro.
 Kosaku siempre soñó con escribir ese artículo.
 
 940
-00:57:34,720 --> 00:57:37,550
-@@@
+00:57:34,720 --> 00:57:39,720
 Si no ganas la medalla mañana,
-If you don't win the gold medal tomorrow,
+esto nunca terminará.
 
 941
 00:57:37,550 --> 00:57:39,720
-you'll never hear the end of it!
 
 942
 00:57:52,860 --> 00:57:54,700
-Kazamatsuri-sama.
+Señor Kazamatsuri.
 
 943
 00:57:58,120 --> 00:58:00,030
-We've been looking for you.
+Los estuvimos buscando.
 
 944
 00:58:00,030 --> 00:58:01,830
-Sayaka-sama is waiting.
+La señorita Sayaka lo está esperando.
 
 945
 00:58:05,540 --> 00:58:09,130
-Let me go! Let me go!
+¡Suéltenme! ¡Qué me suelten!
 
 946
 00:58:17,140 --> 00:58:18,760
-I'll go...
+Yo...
 
 947
 00:58:19,260 --> 00:58:20,760
-I'll go by myself!
+Iré por mi cuenta.
 
 948
 00:58:25,390 --> 00:58:27,270
-Aren'cha gonna drink, Kamo-chan!
+¿No bebes, Kamo?
 
 949
 00:58:27,270 --> 00:58:29,480
-I can't drink no more.
+Ya no puedo más.
 
 950
 00:58:29,480 --> 00:58:31,900
-I'm done.
+Estoy acabado.
 
 951
 00:58:34,400 --> 00:58:35,950
-God!
+¡Diablos!
 
 952
 00:58:35,950 --> 00:58:37,950
-Hey, play me a song!
+¡Oye, pon una canción!
 
 953
 00:58:38,570 --> 00:58:41,830
-Make it "I Still Love My Ex"! 
+¡Qué sea "Todavía amo a mi ex"!
 
 954
 00:58:50,880 --> 00:58:52,840
-He's dripping wet!
+¡Está todo empapado!
 
 955
 00:58:52,840 --> 00:58:54,710
-It is raining pretty heavily.
+Bueno, es que está lloviendo muy fuerte.
 
 956
 00:58:54,710 --> 00:58:56,130
-Oh, look at the groom!
+¡Miren al novio!
 
 957
 00:58:56,130 --> 00:58:59,220
-He looks very happy indeed!
+¡No puede contener la emoción!
 
 958
 00:59:01,470 --> 00:59:02,890
-Kazamatsuri-san?
+¿Kazamatsuri?
 
 959
 00:59:35,710 --> 00:59:38,420
-Yawara!
+¡Yawara!
 
 960
 00:59:44,970 --> 00:59:46,850
-The noise...
+Mucho ruido...
 
 961
 00:59:53,520 --> 00:59:55,860
-So you came back, Kaga-kun?
+Así que volviste, Kaga.
 
 962
 00:59:59,450 --> 01:00:03,450
-T-Twelve thirty-six?!
+¡Doce y treinta y seis!
 
 963
 01:00:03,450 --> 01:00:05,990
-This is bad!
+¡Es terrible!
 
 964
 01:00:05,990 --> 01:00:08,330
-Hey! Wake up, Kamoda! Wake up!
+¡Hey! ¡Despierta, Kamoda! ¡Despierta!
 
 965
 01:00:08,330 --> 01:00:09,460
-I can't drink any more...
+Ya no puedo tomar más...
 
 966
 01:00:10,040 --> 01:00:13,130
-The open-weights are about to start!
+¡La categoría abierta está por comenzar!
 
 967
 01:00:16,460 --> 01:00:19,760
-Here we are, the final judo events of the Atlanta Olympics,
+Este es el último evento de judo
+en los Juegos Olímpicos de Atlanta.
 
 968
 01:00:19,760 --> 01:00:21,430
-the men's and women's open-weights!
+¡Es la categoría abierta de hombres y mujeres!
 
 969
 01:00:21,430 --> 01:00:26,850
-Color commentator Saito-san, the focus will indeed be on the women and Inokuma Yawara.
+Comentarista Saito, todos estamos atentos
+a las mujeres y a Yawara Inokuma.
 
 970
 01:00:26,850 --> 01:00:31,020
-Right. She'll have her fatigue from yesterday and the extreme weight differences against her,
+Así es. Tendrá como desventaja la fatiga de ayer
+y la gran diferencia en el peso,
 
 971
 01:00:31,020 --> 01:00:32,940
-but we're expecting her to go all out.
+pero esperamos que dé su mejor esfuerzo.
 
 972
 01:00:33,230 --> 01:00:37,900
-Will Inokuma Yawara sweep this competition along with yesterday's?
+¿Podrá Yawara Inokuma arrasar
+esta competencia al igual que ayer?
 
 973
 01:00:43,450 --> 01:00:44,950
-That goes for you and Kosaku!</i>
+¡Y eso va para ti y para Kosaku!
 
 974
 01:00:44,950 --> 01:00:48,450
-If you two like each other,
- then act on it!</i>
+¡Si ambos se quieren, no pierdan el tiempo!
 
 975
-01:00:53,830 --> 01:00:56,540
-I don't know what happened last night,</i>
+01:00:53,830 --> 01:00:58,960
+<i>No sé qué sucedió anoche, pero debes</i>
+<i>concentrarte en los encuentros.</i>
 
 976
 01:00:56,540 --> 01:00:58,960
-but concentrate on the match!</i>
 
 977
 01:00:58,960 --> 01:01:01,970
-Inokuma, they're about to call you.
+Inokuma, pronto será tu turno.
 
 978
 01:01:01,970 --> 01:01:05,010
-Get your butt out there
- and win that gold medal!
+¡Mueve el trasero y gana la medalla de oro!
 
 979
 01:01:04,010 --> 01:01:20,190
@@ -4238,67 +4239,66 @@ kaeri no densha wa itsumo setsunaku naru no yo
 
 980
 01:01:04,010 --> 01:01:20,190
-I'm always heartbroken on the train ride home.
+%Siempre me deprimo en el viaje de regreso.
 
 981
 01:01:06,470 --> 01:01:07,350
-Okay.
+Sí.
 
 982
 01:01:07,970 --> 01:01:10,220
-Hurry it up!
+¡Deprisa!
 
 983
 01:01:10,220 --> 01:01:10,980
-Coming!
+¡Voy!
 
 984
 01:01:11,310 --> 01:01:14,310
-It's about to start! Let's run!
+¡Está por comenzar, hay que correr!
 
 985
 01:01:14,310 --> 01:01:15,020
-Right!
+¡Sí!
 
 986
 01:01:17,190 --> 01:01:17,900
-No!
+<i>¡No!</i>
 
 987
 01:01:17,900 --> 01:01:19,280
-What're you doing?
+¿Pero qué haces?
 
 988
 01:01:19,280 --> 01:01:20,320
-You can't come in!
+<i>No pueden pasar.</i>
 
 989
 01:01:20,860 --> 01:01:24,780
-What are you saying? We're reporters!
+¿Qué dices? ¡Somos reporteros!
 
 990
 01:01:24,780 --> 01:01:26,820
-I am press! Okay?!
+<i>Soy de la prensa, ¿entiendes?</i>
 
 991
 01:01:25,570 --> 01:01:34,960
-ima doko ni iru no kinou dare to ita no
 
 992
 01:01:25,570 --> 01:01:34,960
-"Where is he now? Who was he with yesterday?"
+%¿Dónde está el ahora? ¿Con quién estuvo ayer?
 
 993
 01:01:27,160 --> 01:01:28,830
-Here you do as I say!
+<i>¡Aquí se hace lo que yo digo!</i>
 
 994
 01:01:29,290 --> 01:01:31,660
-I'm in a hurry here. Let go!
+Tengo prisa. ¡Suéltame!
 
 995
 01:01:32,460 --> 01:01:35,080
-Matsuda-san! Your press pass!
+Matsuda, tu pase de prensa.
 
 996
 01:01:35,670 --> 01:01:44,180
@@ -4306,319 +4306,317 @@ sonna kotoba de shibatteita
 
 997
 01:01:35,670 --> 01:01:44,180
-Those are the only questions on my mind.
+%Esas preguntas invaden mi mente.
 
 998
 01:01:36,750 --> 01:01:38,090
-It's gone!
+¡No está!
 
 999
 01:01:38,090 --> 01:01:40,090
-Listen to those roaring cheers.
+¡Escuchen a la multitud!
 
 1000
 01:01:40,090 --> 01:01:43,970
-The competitor who rocked yesterday's
- 48 kg-and-unders, Inokuma Yawara,
+Yawara Inokuma, la judoca que dominó
+la categoría de hasta 48 Kg, 
 
 1001
 01:01:43,970 --> 01:01:48,100
-has finally stepped onto the green mat 
-for the open-weights!
+finalmente sube al ring para la categoría abierta.
 
 1002
 01:01:45,470 --> 01:01:54,890
-kyou no taido ga yurusenakute
 
 1003
 01:01:45,470 --> 01:01:54,890
-I couldn't stand the way he treated me.
+%No podía soportar la forma en que me trataba.
 
 1004
 01:01:48,100 --> 01:01:53,100
-The whole world is now focusing its attention on the Georgia World Congress Center!
+Todo el mundo está pendiente de lo que ocurre
+en el Centro de Convenciones de Georgia.
 
 1005
 01:01:53,520 --> 01:01:57,610
-Facing her is a contender for the championship, South Korea's Ohk!
+Se enfrenta a otra favorita a la medalla,
+Ohk de Corea del Sur.
 
 1006
 01:01:55,980 --> 01:02:11,740
-mukuchi ni natta kedo koukai shiteru
 
 1007
 01:01:55,980 --> 01:02:11,740
-I bit my tongue, but now I regret it.
+%Contuve mis palabras y ahora me arrepiento.
 
 1008
 01:01:57,610 --> 01:02:00,270
-Kamoda, go and take pictures!
+Kamoda, entra para tomar fotografías.
 
 1009
 01:02:00,270 --> 01:02:01,400
-Got it!
+De acuerdo.
 
 1010
 01:02:01,400 --> 01:02:04,860
-Listen, I am Japanese reporter!
+Escucha, <i>soy un</i> reportero <i>japonés</i>.
 
 1011
 01:02:04,860 --> 01:02:06,360
-No.
+<i>No.</i>
 
 1012
 01:02:07,110 --> 01:02:09,410
-Can't I get through to you?
+¿No hay forma de que me entiendas?
 
 1013
 01:02:09,830 --> 01:02:10,700
-Bow!
+¡Saluden!
 
 1014
 01:02:12,580 --> 01:02:25,840
-itsumade ga kodomo de itsukara ga otona na no
 
 1015
 01:02:12,580 --> 01:02:25,840
-When will we stop being children and learn to be adults?
+%¿Cuándo dejaremos de ser niños y
+%aprenderemos a comportarnos como adultos?
 
 1016
 01:02:13,500 --> 01:02:16,370
-I hope you're watching, Matsuda-san.</i>
+<i>Espero que me estés mirando, Matsuda.</i>
 
 1017
 01:02:17,080 --> 01:02:17,880
-Hajime!
+¡Comiencen!
 
 1018
 01:02:22,590 --> 01:02:25,970
-Korea's Ohk lunges at her!
+¡Ohk de Corea se lanza hacia ella!
 
 1019
 01:02:25,970 --> 01:02:27,970
-Inokuma-san, hang in there!
+¡Resiste, Inokuma!
 
 1020
 01:02:27,550 --> 01:02:37,140
-mitsumeteitai ne deatta koro wo
 
 1021
 01:02:27,550 --> 01:02:37,140
-I want to look back on the time we first met.
+%Quiero volver al momento cuando nos conocimos.
 
 1022
 01:02:29,470 --> 01:02:31,970
-Inokuma throws!
+¡Inokuma la arroja!
 
 1023
 01:02:36,350 --> 01:02:37,650
-Ippon!
+¡Ippon!
 
 1024
 01:02:38,520 --> 01:02:47,200
-sono manazashi ni doki doki shiteta
 
 1025
 01:02:38,520 --> 01:02:47,200
-His gaze made my heart skip a beat.
+%Su mirada hizo que se me parara el corazón.
 
 1026
 01:02:42,900 --> 01:02:46,070
-What? Was that Yawara-san?
+¿Qué? ¿Esa fue Yawara?
 
 1027
 01:02:46,860 --> 01:02:48,990
-Hey! Let me through!
+¡Hey! ¡Déjame pasar!
 
 1028
 01:02:48,450 --> 01:02:58,460
-mitsumeteitai ne ano yasahisa wo
 
 1029
 01:02:48,450 --> 01:02:58,460
-I want to look back on how sweet it all was.
+%Quiero recordar lo hermoso que fue todo.
 
 1030
 01:02:48,990 --> 01:02:50,070
-No!
+<i>¡No!</i>
 
 1031
 01:02:50,620 --> 01:02:54,160
-Gosh, Inokuma-san! You had me so worried!
+¡Cielos, Inokuma! ¡Me tenías muy preocupada!
 
 1032
 01:02:54,160 --> 01:02:55,580
-Sorry about that.
+Lo siento.
 
 1033
 01:02:56,120 --> 01:02:58,580
-I wonder if Matsuda-san has arrived.
+Me pregunto si Matsuda ya llegó.
 
 1034
 01:02:59,540 --> 01:03:13,470
-ima shika dekinai koto wo ima kanjiru mama ni
 
 1035
 01:02:59,540 --> 01:03:13,470
-All I can do now is take in those feelings.
+%Lo único que puedo hacer
+%es &aceptar esos sentimientos.
 
 1036
 01:02:59,960 --> 01:03:02,840
-He's here! He's here! He's definitely here!
+¡Por supuesto que sí! ¡Sin ninguna duda!
 
 1037
 01:03:10,640 --> 01:03:12,720
-Ippon! Sore made!
+¡Ippon! ¡Fin del encuentro!
 
 1038
 01:03:12,720 --> 01:03:17,600
-That's Canada's Jody Rockwell with an explosive Uchi Mata!
+¡Jody Rockwell con un explosivo uchi mata!
 
 1039
 01:03:22,610 --> 01:03:25,110
-INOKUMA
+#Inokuma
 
 1040
 01:03:25,110 --> 01:03:28,530
-Can Yawara-chan win against that towering behemoth?
+¿Podrá Yawara ganarle a ese mastodonte?
 
 1041
 01:03:28,530 --> 01:03:30,240
-Yawara-chan will win!
+¡Yawara ganará!
 
 1042
 01:03:30,240 --> 01:03:34,120
-Remember, I was the one who taught her
- how to play table tennis.
+Recuerda que yo le enseñé a jugar al ping-pong.
 
 1043
 01:03:34,120 --> 01:03:35,580
-That helps her how?
+¿Y eso qué tiene que ver?
 
 1044
 01:03:35,950 --> 01:03:38,080
-How does Inokuma-san's mother feel about all this?
+¿Qué piensa la madre de Inokuma en estos momentos?
 
 1045
 01:03:38,830 --> 01:03:42,540
-Y-Yes... Would you all like some tea before the match?
+Yo... ¿Les gustaría un poco de té
+antes de que comience el encuentro?
 
 1046
 01:03:42,540 --> 01:03:45,550
-Just sit down and watch, Tamao-san!
+Tú quédate aquí y mira, Tamao.
 
 1047
 01:03:46,340 --> 01:03:48,090
-How's Inokuma-senpai doing?
+¿Cómo le va a Inokuma?
 
 1048
 01:03:48,090 --> 01:03:49,880
-You're late, Kohno!
+¡Llegas tarde, Kohno!
 
 1049
 01:03:49,880 --> 01:03:52,050
-She's already done with the third round!
+Ya pasó la tercera ronda.
 
 1050
 01:03:53,180 --> 01:03:54,350
-Are you kidding me?
+¿En serio?
 
 1051
 01:03:53,720 --> 01:03:55,560
-Here's a replay of her match.
+Aquí tenemos la repetición.
 
 1052
 01:03:56,520 --> 01:03:58,980
-Inokuma first attempts a Kosoto Gari.
+$Kosoto gari: zancadilla por detrás del tobillo.
+Inokuma primero intenta un kosoto gari.
 
 1053
 01:04:00,100 --> 01:04:01,690
-Then a split-second later...
+Y una fracción de segundo después...
 
 1054
 01:04:02,770 --> 01:04:04,690
-...a marvelous Ippon Zeoi!
+... un maravilloso ippon seoi.
 
 1055
 01:04:07,940 --> 01:04:09,360
-All right!
+¡Muy bien!
 
 1056
 01:04:10,150 --> 01:04:11,660
-Way to go, Yawara-san!
+&¡Así se hace, Yawara!
 
 1057
 01:04:10,860 --> 01:04:12,820
-She's won every match with an Ippon.
+&Ganó cada encuentro con un ippon.
 
 1058
 01:04:11,660 --> 01:04:12,820
-You're the best!
+&Eres la mejor.
 
 1059
 01:04:12,820 --> 01:04:14,870
-And here she is in the semifinals!
+Y ahora se encuentra en las semifinales.
 
 1060
 01:04:15,410 --> 01:04:17,580
-I still can't believe it.
+Todavía no puedo creerlo.
 
 1061
 01:04:17,580 --> 01:04:20,830
-We actually played judo with her.
+Nosotros en verdad practicamos judo con ella.
 
 1062
 01:04:20,830 --> 01:04:24,540
-She taught us all kinds of things!
+Nos enseñó muchísimo.
 
 1063
 01:04:24,540 --> 01:04:28,460
-Oh yeah, whatever happened to that wiseass, Sudoh?
+Es cierto, ¿qué le pasó a Sudoh?
 
 1064
 01:04:28,460 --> 01:04:30,340
-He wasn't there when I called him!
+No estaba cuando intenté llamarlo.
 
 1065
 01:04:30,340 --> 01:04:32,840
-He's been working at a sushi shop right after high school.
+Después de la preparatoria empezó a trabajar
+en una tienda de sushi.
 
 1066
 01:04:32,840 --> 01:04:34,390
-But I don't see him lasting long.
+Pero no creo que eso haya durado.
 
 1067
 01:04:34,390 --> 01:04:36,890
-HAMA SUSHI
+#Sushi Hama
 
 1068
 01:04:36,890 --> 01:04:38,180
-Here you go!
+Aquí tienes.
 
 1069
 01:04:43,270 --> 01:04:44,900
-What do you say, Bro?
+¿Qué te parece?
 
 1070
 01:04:44,900 --> 01:04:49,650
-I've been practicing for two hours after
- closing up shop for the past six months!
+Estuve practicando dos horas después de cerrar
+por los últimos seis meses.
 
 1071
 01:04:51,820 --> 01:04:52,610
-Toss it.
+Tíralo.
 
 1072
 01:04:54,280 --> 01:04:56,450
-It belongs in the trash heap.
+Merece estar en la basura.
 
 1073
 01:04:56,450 --> 01:04:57,620
-B-But...
+Pero...
 
 1074
 01:04:58,370 --> 01:05:01,500
-Even alley cats won't eat these scraps.
+Ni siquiera a los gatos le gustaría.
 
 1075
 01:05:00,450 --> 01:05:00,830
@@ -4626,455 +4624,468 @@ Even alley cats won't eat these scraps.
 
 1076
 01:05:01,500 --> 01:05:03,080
-You're a talentless hack.
+No tienes talento.
 
 1077
 01:05:05,040 --> 01:05:06,460
-OKARA
+#Okara
 
 1078
 01:05:06,460 --> 01:05:08,550
-Screw this! I'm quitting this shop!
+¡Al diablo! ¡Voy a renunciar!
 
 1079
 01:05:08,550 --> 01:05:10,380
-I'm done!
+&¡Estoy harto!
 
 1080
 01:05:08,750 --> 01:05:12,880
-Inokuma Yawara gets an Ippon Zeoi!
+&Yawara Inokuma con un ippon seoi.
 
 1081
 01:05:13,470 --> 01:05:17,970
-She crushes Teleshikova and is headed for the championships!
+¡Destrozó a Teleshikova y se dirige a la final!
 
 1082
 01:05:20,640 --> 01:05:21,980
-Yawara-chan?
+¿Yawara?
 
 1083
 01:05:26,810 --> 01:05:29,900
-It's like there's no place
- we can go to calm down.
+Parece que no tenemos ningún lugar para relajarnos.
 
 1084
 01:05:29,900 --> 01:05:30,820
-Yeah.
+Sí.
 
 1085
 01:05:31,280 --> 01:05:33,900
-There's no way you can focus your mind.
+Así no hay forma en que puedas concentrarte.
 
 1086
 01:05:34,780 --> 01:05:39,290
-Inokuma-san, wait right here!
- I have a great cassette for you!
+Espérame aquí, Inokuma.
+Te tengo una muy buena cinta.
 
 1087
 01:05:39,290 --> 01:05:42,290
-Swan Lake and The Nutcracker!
+El lago de los cisnes y El cascanueces.
 
 1088
 01:05:42,290 --> 01:05:43,660
-I'll be back in a minute!
+¡Vuelvo enseguida!
 
 1089
 01:05:44,160 --> 01:05:46,330
-I'll be all right, really!
+¡No hace falta, en verdad!
 
 1090
 01:05:56,090 --> 01:05:57,850
-Let me go now!
+¡Te digo que me sueltes!
 
 1091
 01:05:58,470 --> 01:06:00,350
-Get out!
+<i>¡Vete!</i>
 
 1092
 01:06:02,600 --> 01:06:04,600
-You'll be sorry, dammit!
+¡Te arrepentirás, maldición!
 
 1093
 01:06:09,110 --> 01:06:10,320
-Crap!
+¡Diablos!
 
 1094
 01:06:10,320 --> 01:06:14,860
-Why did I chase after her for six years
- just to have this happen?!
+¡La seguí por seis años y pasa esto!
 
 1095
 01:06:15,240 --> 01:06:17,360
-Why am I, her reporter...
+Por qué yo, su reportero...
 
 1096
 01:06:18,120 --> 01:06:19,620
-Her reporter?
+¿Su reportero?
 
 1097
 01:06:32,420 --> 01:06:33,670
-Matsuda-san?
+¿Matsuda?
 
 1098
 01:06:33,670 --> 01:06:35,170
-Yawara-san!
+¡Yawara!
 
 1099
 01:06:35,170 --> 01:06:36,680
-Matsuda-san?
+¿Matsuda?
 
 1100
 01:06:38,300 --> 01:06:40,300
-You're winning, aren't you?!
+Estás ganando, ¿no es así?
 
 1101
 01:06:42,810 --> 01:06:44,810
-Are you facing Jody in the final?!
+¿Te enfrentarás a Jody en la final?
 
 1102
 01:06:46,100 --> 01:06:47,310
-What are you saying?
+¿Qué dijiste?
 
 1103
 01:07:23,220 --> 01:07:27,600
-Good
+#Buena suerte
 
 1104
 01:07:23,220 --> 01:07:27,600
-Luck
 
 1105
 01:07:23,760 --> 01:07:26,730
-The ladies' open-weight division final
+<i>La final de la categoría abierta de mujeres</i>
 
 1106
 01:07:26,730 --> 01:07:29,850
-between Yawara Inokuma of Japan
+<i>entre Inokuma Yawara de Japón</i>
 
 1107
 01:07:28,890 --> 01:07:32,560
-Matsuda-san... I'll do my very best.
+&Daré mi mejor esfuerzo, Matsuda.
 
 1108
 01:07:29,850 --> 01:07:33,650
-and Jody Rockwell of Canada
- will take place soon.
+<i>y Jody Rockwell de Canadá comenzará en unos momentos.</i>
 
 1109
 01:07:32,560 --> 01:07:33,650
-Inokuma-san!
+¡Inokuma!
 
 1110
 01:07:34,070 --> 01:07:36,150
-I brought the tape!
+¡Te traje la cinta!
 
 1111
 01:07:35,900 --> 01:07:36,840
-Inokuma!
+¡Inokuma!
 
 1112
 01:07:38,650 --> 01:07:40,160
-You're up!
+Es tu turno.
 
 1113
 01:07:40,160 --> 01:07:41,530
-Right!
+¡Sí!
 
 1114
 01:07:47,330 --> 01:07:48,410
-Matsuda-san!
+¡Matsuda!
 
 1115
 01:07:54,210 --> 01:07:56,090
-My press pass!
+¡Mi pase de prensa!
 
 1116
 01:07:56,090 --> 01:07:59,590
-Stop this, Master! You're going to Rockwell's waiting room!
+Deténgase, maestro, esa es
+la sala de espera de Rockwell.
 
 1117
 01:07:59,590 --> 01:08:03,600
-Joe-day's also my pupil! Why can't I put a little fire in her belly?
+Jody también es mi alumna.
+¿Por qué no puedo darle ánimos?
 
 1118
 01:08:03,600 --> 01:08:05,100
-But...
+Pero...
 
 1119
 01:08:06,220 --> 01:08:07,310
-Hey, Joe-day!
+¡Hola, Jody!
 
 1120
 01:08:12,810 --> 01:08:14,730
-I guess she doesn't need me.
+Creo que no me necesita.
 
 1121
 01:08:15,730 --> 01:08:16,820
-Master!
+¡Maestro!
 
 1122
 01:08:17,990 --> 01:08:19,860
-Excuse us!
+¡Discúlpenos!
 
 1123
 01:08:20,360 --> 01:08:22,660
-It's on, Yawara.
+Es hora, Yawara.
 
 1124
 01:08:23,370 --> 01:08:25,280
-Excuse us, coming through!
+Con permiso.
 
 1125
 01:08:25,280 --> 01:08:26,370
-Out of the way!
+¡Apártense!
 
 1126
 01:08:33,500 --> 01:08:35,670
-The screams are earsplitting!
+¡La multitud es ensordecedora!
 
 1127
 01:08:35,670 --> 01:08:38,880
-The two players are finally on the mat!
+Las dos participantes están sobre el ring.
 
 1128
-01:08:38,880 --> 01:08:40,470
-Japan's Inokuma Yawara
+01:08:38,880 --> 01:08:42,890
+Yawara Inokuma de Japón y Jody Rockwell de Canadá.
 
 1129
 01:08:40,470 --> 01:08:42,890
-and Canada's Jody Rockwell!
 
 1130
 01:08:45,760 --> 01:08:47,600
-Let's go, Fujiko-san!
+¡Vamos, Fujiko!
 
 1131
 01:08:47,970 --> 01:08:49,310
-Good luck, Yawara-san!</i>
+<i>¡Ánimo, Yawara!</i>
 
 1132
 01:08:49,310 --> 01:08:50,890
-This is your biggest match yet!</i>
+<i>Este es tu mayor desafío.</i>
+
+
+
+
+
+
+
+
+
 
 1133
-01:08:51,640 --> 01:08:53,940
-We finally have our dream matchup
+01:08:51,640 --> 01:08:55,640
+Al fin tenemos el tan ansiado enfrentamiento
+en la categoría abierta de mujeres,
 
 1134
-01:08:53,940 --> 01:08:58,230
-in the women's open-weight championships, here at the Atlanta Olympics!
+01:08:55,640 --> 01:08:58,230
+aquí en los Juegos Olímpicos de Atlanta.
 
 1135
 01:08:59,030 --> 01:09:00,530
-What do you think, Saito-san?
+¿Qué piensas, Saito?
 
 1136
 01:09:00,530 --> 01:09:02,990
-Inokuma's been facing big matches for the past two days.
+Inokuma ha tenido grandes rivales estos dos días.
 
 1137
 01:09:02,990 --> 01:09:04,160
-Indeed.
+Así es.
 
 1138
 01:09:04,780 --> 01:09:05,410
-Master!
+¡Maestro!
 
 1139
 01:09:05,410 --> 01:09:07,410
-We don't need you two doubting her!
+¡No necesitamos sus dudas!
 
 1140
 01:09:07,410 --> 01:09:12,160
-Master, I thought you weren't going to be a guest today.
+Pensé que no sería nuestro invitado hoy, maestro.
 
 1141
 01:09:12,160 --> 01:09:17,420
-I ain't trained her so that you can comment on
- how hard she's gonna have it in these matches.
+No la entrené para que comenten las dificultados
+que creen que tendrá en los encuentros.
 
 1142
 01:09:17,420 --> 01:09:18,420
-Right.
+Ya veo.
 
 1143
 01:09:18,420 --> 01:09:22,510
-Okay, we're goin' full throttle!
- Now blow her away!
+¡Máxima energía desde el inicio!
+¡Arrójala por los aires!
 
 1144
 01:09:22,510 --> 01:09:24,130
-Both players forward! 
+¡Acérquense!
 
 1145
 01:09:25,510 --> 01:09:27,510
-Inokuma-san, fight her!
+¡Inokuma, pelea!
 
 1146
 01:09:27,510 --> 01:09:29,520
-Let's go, Jody!
+<i>¡Vamos, Jody!</i>
 
 1147
 01:09:35,190 --> 01:09:36,480
-Matsuda-san!
+¡Matsuda!
 
 1148
 01:09:36,480 --> 01:09:39,020
-Go get her, Yawara-san!
+¡Ataca, Yawara!
 
 1149
 01:09:39,360 --> 01:09:40,480
-Hajime!
+¡Comiencen!
 
 1150
 01:09:40,480 --> 01:09:45,130
-And we finally kick off 
-the match of the century!
+¡Y finalmente comenzó el enfrentamiento del siglo!
 
 1151
 01:09:45,780 --> 01:09:48,530
-Both contenders grapple furiously for the upper hand!
+Ambas judocas luchan vigorosamente
+por conseguir una ventaja.
 
 1152
 01:09:48,530 --> 01:09:52,290
-Which one will end up in a better position?!
+¿Quién podrá obtener una posición favorable? 
 
 1153
 01:09:57,580 --> 01:10:00,210
-Rockwell comes with a quick Tai Otoshi!
+$Tai-otoshi: vuelco por el hombro.
+Rockwell intenta un rápido tai-otoshi.
 
 1154
 01:10:05,470 --> 01:10:06,550
-Yuko!
+¡Yuko!
 
 1155
 01:10:08,300 --> 01:10:10,060
-Wow!
+¡Increíble!
 
 1156
 01:10:10,060 --> 01:10:13,390
-Jody gets a Tai Otoshi Yuko
- just five seconds in!
+¡Jody obtiene un yuko con un tai-otoshi
+en tan sólo cinco segundos!
 
 1157
-01:10:13,390 --> 01:10:14,060
-She's that good!
+01:10:13,390 --> 01:10:18,060
+¡Esa es su habilidad! ¿Cómo podrá
+enfrentarla Inokuma de Japón?
 
 1158
 01:10:14,730 --> 01:10:18,060
-How is Japan's Inokuma going to face such a fearsome rival?
 
 1159
 01:10:18,400 --> 01:10:20,230
-She's gotten stronger.
+Se ha vuelto más fuerte.
 
 1160
 01:10:20,230 --> 01:10:23,070
-Jody's gotten way more powerful!
+¡Jody es mucho más fuerte!
 
 1161
 01:10:23,070 --> 01:10:27,570
-This isn't the Jody who fought Yawara-san five years ago.
+No es la misma Jody que se enfrentó
+a Yawara hace cinco años.
 
 1162
 01:10:27,570 --> 01:10:28,070
-Hajime!
+¡Comiencen!
 
 1163
 01:10:32,910 --> 01:10:35,620
-Inokuma throws!
+¡Inokuma la arroja!
 
 1164
 01:10:36,160 --> 01:10:37,870
-Rockwell rips back her arm!
+Pero Rockwell logra zafar su brazo.
 
 1165
 01:10:37,870 --> 01:10:40,170
-But Inokuma goes in for a Kouchi Gake!
+Pero Inokuma intenta un kouchi gari.
 
 1166
 01:10:43,840 --> 01:10:44,920
-Yuko!
+¡Yuko!
 
 1167
 01:10:44,920 --> 01:10:48,390
-Yuko! Inokuma quickly evens the score!
+¡Yuko! ¡Inokuma enseguida empata el marcado!
 
 1168
 01:10:48,800 --> 01:10:51,100
-Oh! Rockwell just as quickly lifts her up!
+Y Rockwell enseguida la levanta.
 
 1169
 01:10:51,100 --> 01:10:52,560
-A Sukui Nage!
+$Sukui nage: lanzamiento en forma de cuchara.
+¡Un sukui nage!
 
 1170
 01:10:53,560 --> 01:10:54,810
-Yuko!
+¡Yuko!
 
 1171
 01:10:54,810 --> 01:10:58,850
-Just as she got back the Yuko, Yawara's down by one again!
+Acababa de recuperarse del yuko
+y Yawara vuelve a estar abajo.
 
 1172
 01:10:58,850 --> 01:11:01,860
-They are literally battling at breakneck speeds, folks!
+¡Son tan rápidas que apenas podemos seguirlas!
 
 1173
 01:11:02,270 --> 01:11:03,440
-She's strong!
+¡Increíble!
 
 1174
 01:11:03,440 --> 01:11:05,740
-That woman's simply strong!
+¡Esa mujer es demasiado fuerte!
 
 1175
 01:11:05,740 --> 01:11:07,860
-How can someone that large be so fast?
+¿Cómo alguien tan grande puede ser tan rápido?
 
 1176
 01:11:08,570 --> 01:11:10,370
-Yawara-chan.
+Yawara.
 
 1177
 01:11:11,870 --> 01:11:13,370
-Now it's an Uchi Mata for Rockwell!
+Y ahora Rockwell realiza un uchi mata.
 
 1178
-01:11:13,370 --> 01:11:14,370
-Inokuma fends her off,
+01:11:13,370 --> 01:11:16,580
+Inokuma lo rechaza y realiza su lanzamiento.
 
 1179
 01:11:14,370 --> 01:11:16,580
-then makes a throw!
 
 1180
 01:11:16,580 --> 01:11:18,580
-But Rockwell resists it!
+¡Pero Rockwell resiste!
 
 1181
 01:11:18,580 --> 01:11:21,130
-Once again, her throw's a dud!
+Una vez más, su lanzamiento fue anulado.
 
 1182
 01:11:21,130 --> 01:11:25,710
-Rockwell's been on total alert for Inokuma's repeated Ippon Zeois!
+Rockwell está pendiente de los
+repetidos seoi nage de Inokuma. 
 
 1183
 01:11:27,170 --> 01:11:33,010
-Still, couldn't Inokuma just revert to a Kouchi Gake or something whenever Rockwell resists?
+Sin embargo, ¿no podría Inokuma cambiar
+a un kouchi gari cuando Rockwell se defienda?
 
 1184
 01:11:33,640 --> 01:11:37,640
-There's only one surefire way to get an Ippon from the likes of Joe-day!
+Hay sólo una forma de sacarle
+un ippon a alguien como Jody.
 
 1185
 01:11:37,640 --> 01:11:41,770
-There ain't no winning without doing an Ippon Zeoi, Yawara!
+No podrás ganar sin un ippon seoi, Yawara.
 
 1186
 01:11:41,770 --> 01:11:44,020
-That doesn't make us feel any better, Gramps.
+Eso no nos tranquiliza, Jigoro.
 
 1187
 01:11:44,730 --> 01:11:46,490
@@ -5082,479 +5093,480 @@ Yawara...
 
 1188
 01:11:46,490 --> 01:11:48,490
-There's only 2:30 left on the clock!
+Quedan solamente dos minutos en medio.
 
 1189
 01:11:49,030 --> 01:11:50,700
-Rockwell leads by a Yuko! 
+Rockwell está adelante por un yuko.
 
 1190
 01:11:51,700 --> 01:11:53,700
-Inokuma's Kouchi...
+Inokuma realiza un kouchi--
 
 1191
 01:11:54,030 --> 01:11:54,620
-There's your chance!
+¡Ahora!
 
 1192
 01:11:54,620 --> 01:11:55,950
-Now throw her!
+¡Arrójala!
 
 1193
 01:11:58,040 --> 01:11:59,460
-Rockwell with an Utsuri Goshi!
+$Utsuri-goshi: cambio de cadera.
+¡Rockwell realiza un utsuri-goshi!
 
 1194
 01:11:59,460 --> 01:12:01,960
-Inokuma's head over heels!
+¡Inokuma está de cabeza!
 
 1195
 01:12:02,960 --> 01:12:03,960
-Beat it!
+¡Resiste!
 
 1196
 01:12:06,840 --> 01:12:08,470
-What's the call?
+¿Cuál es la decisión?
 
 1197
 01:12:08,470 --> 01:12:09,470
-Waza Ari!
+¡Waza-ari!
 
 1198
 01:12:09,470 --> 01:12:11,390
-It's a Waza Ari!
+¡Es un waza-ari!
 
 1199
 01:12:11,390 --> 01:12:13,970
-Rockwell finally gets a Waza Ari!
+Rockwell consigue un waza-ari.
 
 1200
 01:12:13,970 --> 01:12:15,260
-Dammit!
+¡¡Maldición!
 
 1201
 01:12:15,260 --> 01:12:17,720
-Can't you do something, Yawara-chan?
+¿No puedes hacer nada, Yawara?
 
 1202
 01:12:18,100 --> 01:12:20,230
-Is this impossible even for you?!
+¿Incluso para ti es imposible?
 
 1203
 01:12:20,730 --> 01:12:22,980
-It's Rockwell on the attack!
+¡Rockwell ataca!
 
 1204
 01:12:23,690 --> 01:12:24,480
-Ouchi Gari!
+¡Ouchi gari!
 
 1205
-01:12:26,150 --> 01:12:26,980
-Inokuma fends it off,
+01:12:26,150 --> 01:12:29,070
+Inokuma se defiende e intenta un lanzamiento.
 
 1206
 01:12:26,980 --> 01:12:29,070
-then goes for a throw!
 
 1207
 01:12:28,360 --> 01:12:29,070
-Yes!
+¡Bien!
 
 1208
 01:12:29,070 --> 01:12:29,990
-There it is!
+¡Ahí está!
 
 1209
 01:12:29,990 --> 01:12:31,990
-But it's no good!
+¡Pero no es suficiente!
 
 1210
 01:12:31,990 --> 01:12:33,160
-Mate!
+¡Alto!
 
 1211
 01:12:35,330 --> 01:12:38,500
-M-Matsuda-san, she's not gonna make it!
+¡Matsuda, no lo logrará!
 
 1212
 01:12:38,500 --> 01:12:40,460
-It's not over yet!
+¡Todavía falta mucho!
 
 1213
 01:12:40,460 --> 01:12:42,210
-Take a good look through
- your telephoto lens!
+Mira muy bien a través de tu cámara.
 
 1214
 01:12:42,210 --> 01:12:45,420
-It ain't over as long as she's got that glint in her eyes!
+¡No se terminará mientras tenga ese brillo en los ojos!
 
 1215
 01:12:46,880 --> 01:12:47,630
-Hajime!
+¡Comiencen!
 
 1216
 01:12:50,590 --> 01:12:53,550
-This can't be how it ends for Inokuma-san!
+¡Este no puede ser el final de Inokuma!
 
 1217
 01:12:55,010 --> 01:12:56,180
-Inokuma tries an Osoto!
+Inokuma intenta un osoto.
 
 1218
 01:12:56,180 --> 01:12:57,640
-Rockwell escapes!
+Rockwell escapa.
 
 1219
 01:13:02,350 --> 01:13:03,060
-Go!
+¡Ahora!
 
 1220
 01:13:03,060 --> 01:13:06,480
-Inokuma goes for a left Ippon Zeoi!
+¡Inokuma realiza un seoi nage por la izquierda!
 
 1221
 01:13:09,820 --> 01:13:11,030
-What's the call?
+¿Qué fue?
 
 1222
 01:13:11,030 --> 01:13:12,280
-Waza Ari!
+¡Waza-ari!
 
 1223
 01:13:12,280 --> 01:13:14,280
-A Waza Ari!
+¡Es waza-ari!
 
 1224
 01:13:14,280 --> 01:13:16,780
-Inokuma finally fires off a good Ippon Zeoi!
+¡Inokuma finalmente realiza un buen seoi nage!
 
 1225
 01:13:16,780 --> 01:13:18,290
-All right!
+&¡Muy bien!
 
 1226
 01:13:17,280 --> 01:13:21,250
-This is the first time Rockwell has been flipped in this tournament!
+&Esta es la primera vez que arrojan
+a Rockwell en el torneo.
 
 1227
 01:13:18,620 --> 01:13:19,750
-Wow!
+¡Genial!
 
 1228
 01:13:22,210 --> 01:13:26,040
-That "surprise Ippon Zeoi" won't work a second time, Yawara!
+Ese sorpresivo seoi nage
+no funcionará otra vez, Yawara.
 
 1229
 01:13:26,040 --> 01:13:28,550
-There's now less than a minute left.
+Ahora queda menos de un minuto.
 
 1230
 01:13:28,550 --> 01:13:30,550
-Who will win this match?
+¿Quién ganará el encuentro?
 
 1231
 01:13:31,050 --> 01:13:33,550
-It's not over! The game begins here!
+¡Aún queda mucho! ¡Esto recién empieza!
 
 1232
 01:13:33,550 --> 01:13:34,720
-Inokuma throws!
+¡Un seoi de Inokuma!
 
 1233
 01:13:34,720 --> 01:13:36,680
-Nope! It's an Ouchi Gari!
+No, es un ouchi gari.
 
 1234
 01:13:37,680 --> 01:13:38,640
-Yuko!
+¡Yuko!
 
 1235
 01:13:38,640 --> 01:13:40,680
-Now it's Rockwell with a Harai Goshi!
+$Harai goshi: barrida con la cadera.
+Ahora Rockwell realiza un harai goshi.
 
 1236
 01:13:42,180 --> 01:13:43,140
-Yuko!
+¡Yuko!
 
 1237
 01:13:43,140 --> 01:13:45,150
-That Harai Goshi earned her a Yuko!
+El harai goshi le consigue un yuko.
 
 1238
 01:13:45,150 --> 01:13:49,690
-It's a back and forth battle, and both players refuse to give an inch!
+Es un ida y vuelta, ¡ninguna judoca
+cede siquiera un centímetro! 
 
 1239
 01:13:50,400 --> 01:13:54,200
-Wow. There's no describing this match.
+Increíble. No tengo palabras.
 
 1240
 01:13:54,200 --> 01:13:56,280
-Inokuma's Tai Otoshi!
+Inokuma realiza un tai-otoshi.
 
 1241
 01:13:56,280 --> 01:13:59,200
-But Rockwell counters with a Sukui Nage!
+¡Pero Rockwell contraataca con un sukui nage!
 
 1242
 01:13:58,830 --> 01:13:59,200
-CONYAC
+#Okara
+#Conyac
 
 1243
 01:13:58,830 --> 01:13:59,200
-OKARA
 
 1244
 01:13:59,200 --> 01:14:01,200
-Both players attack each other!
+¡Se atacan la una a la otra!
 
 1245
 01:14:01,200 --> 01:14:02,660
-And they keep attacking!
+¡Y no paran de atacar!
 
 1246
 01:14:02,200 --> 01:14:03,410
-What a match!
+¡Es un gran encuentro! 
 
 1247
 01:14:02,660 --> 01:14:03,410
-What's going on?
 
 1248
 01:14:02,660 --> 01:14:05,460
-All the spectators are on their feet, 
-marveling at the moves being thrown about!
+Los espectadores se ponen de pie,
+maravillados por las técnicas realizadas.
 
 1249
 01:14:06,040 --> 01:14:09,880
-This is turning out to be
- a historic Olympic battle!
+Este enfrentamiento quedará
+en la historia de los Juegos Olímpicos.
 
 1250
 01:14:11,760 --> 01:14:13,300
-Wow.
+Increíble.
 
 1251
 01:14:13,300 --> 01:14:14,630
-Oh, my God!
+¡Increíble!
 
 1252
 01:14:15,510 --> 01:14:18,140
-This is it! Those are the cheers!</i>
+<i>¡Esto es! ¡Esos son los gritos de aliento!</i>
 
 1253
 01:14:18,550 --> 01:14:22,810
-The cheers that rang in my ears the first moment I met Yawara-san.</i>
+<i>Esto fue lo que escuché en el momento</i>
+<i>en que conocí a Yawara.</i>
 
 1254
 01:14:24,390 --> 01:14:28,690
-The cheers I hear in my dreams have finally come true!</i>
+<i>Los gritos que escuché en mis sueños</i>
+<i>se han vuelto realidad.</i>
 
 1255
 01:14:29,480 --> 01:14:29,980
-No!
+No.
 
 1256
 01:14:29,980 --> 01:14:32,650
-Yawara-san! The fight begins now!
+¡Yawara, esto recién empieza!
 
 1257
 01:14:33,070 --> 01:14:35,650
-Here, look, Fuku-chan!
+Mira, Fuku.
 
 1258
 01:14:36,030 --> 01:14:39,070
-Look at your big sister, Yawara!
+Mira a tu @tía Yawara.
 
 1259
 01:14:39,070 --> 01:14:44,660
-When you grow up,
- become as strong as she is!
+Cuando crezcas, tienes que ser tan fuerte como ella.
 
 1260
 01:14:44,660 --> 01:14:45,620
-OKARA
+#Okara
 
 1261
 01:14:44,660 --> 01:14:46,080
-It's Rockwell with a Koshi Guruma!
+$Koshi guruma: rueda por las caderas.
+Rockwell realiza un koshi guruma.
 
 1262
 01:14:46,080 --> 01:14:47,120
-Inokuma gets past it!
+Inokuma lo esquiva.
 
 1263
 01:14:47,120 --> 01:14:50,630
-Then she quickly takes a leg for a Kouchi Gari!
+E inmediatamente realiza un kouchi gari.
 
 1264
 01:14:51,550 --> 01:14:52,670
-Yawara!
+¡Yawara!
 
 1265
 01:14:54,670 --> 01:14:58,680
-Inokuma throws again!
- But Rockwell resists!
+Inokuma otra vez intenta el seoi,
+pero Rockwell resiste.
 
 1266
 01:14:58,680 --> 01:15:00,180
-Inokuma-senpai!
+¡Inokuma!
 
 1267
 01:15:00,180 --> 01:15:01,930
-Rockwell's Tai Otoshi!
+Rockwell realiza un tai-otoshi.
 
 1268
 01:15:02,720 --> 01:15:04,020
-Inokuma's still alive!
+¡Inokuma sigue viva!
 
 1269
 01:15:04,430 --> 01:15:07,060
-Inokuma goes after her!
+¡Inokuma ataca!
 
 1270
 01:15:07,060 --> 01:15:09,190
-Honey, wake up!
+¡Despierta, cariño!
 
 1271
 01:15:08,850 --> 01:15:12,020
-Oh! Rockwell forces a Harai Goshi!
+&Rockwell fuerza un harai goshi.
 
 1272
 01:15:09,190 --> 01:15:11,150
-Leave me alone, I'm sleepy!
+¡Déjame en paz, tengo sueño!
 
 1273
 01:15:11,150 --> 01:15:13,530
-You're missing an incredible match on TV!
+Te estás perdiendo un maravilloso encuentro de judo.
 
 1274
 01:15:12,020 --> 01:15:14,480
-Inokuma loses her balance! Watch out!
+&Inokuma pierde el equilibrio. ¡Cuidado!
 
 1275
 01:15:13,530 --> 01:15:15,240
-There's no way you can miss this!
+¡No puedes perderte esto!
 
 1276
 01:15:15,240 --> 01:15:16,950
-What are you crying for?
+¿Por qué estás llorando?
 
 1277
 01:15:16,950 --> 01:15:18,360
-Now! Get her!
+¡Ahora! ¡Ataca!
 
 1278
 01:15:18,360 --> 01:15:19,360
-Keep it up!
+¡Ánimo!
 
 1279
 01:15:19,360 --> 01:15:21,200
-This is the greatest match ever!
+¡Es el mejor encuentro de la historia!
 
 1280
 01:15:21,200 --> 01:15:23,620
-Boss! We'd better run
- before the fuzz shows up!
+¡Jefe, debemos irnos antes de que aparezca la policía!
 
 1281
 01:15:23,620 --> 01:15:24,330
-Shaddap!
+¡Silencio!
 
 1282
 01:15:24,330 --> 01:15:26,540
-Go! Get her there!
+¡Vamos, ataca!
 
 1283
 01:15:26,540 --> 01:15:28,670
-Our sick grandma just woke up!
+¡La abuela se recuperó!
 
 1284
 01:15:29,080 --> 01:15:30,080
-Mate!
+¡Alto!
 
 1285
 01:15:30,420 --> 01:15:32,250
-It's a Jougai! A Jougai!
+¡Fue fuera del ring!
 
 1286
 01:15:32,250 --> 01:15:35,090
-They stopped the match with only eight seconds left!
+El encuentro se detiene cuando
+quedan sólo ocho segundos.
 
 1287
 01:15:37,590 --> 01:15:40,090
-Jody's... really, really good!</i>
+<i>¡Jody es muy fuerte!</i>
 
 1288
 01:15:40,090 --> 01:15:43,100
-Yawara is very, very good.</i>
+<i>¡Yawara es muy fuerte!</i>
 
 1289
 01:15:45,810 --> 01:15:47,350
-Hajime!
+¡Comiencen!
 
 1290
 01:15:47,350 --> 01:15:49,350
-So which player will pull what?
+¿Quién se alzará victoriosa?
 
 1291
-01:15:49,350 --> 01:15:50,940
-There are only...
+01:15:49,350 --> 01:15:51,730
+¡Quedan solamente cinco segundos!
 
 1292
 01:15:50,940 --> 01:15:51,730
-five seconds left!
 
 1293
 01:15:52,150 --> 01:15:53,820
-Four!
+¡Cuatro!
 
 1294
 01:15:53,820 --> 01:15:54,610
-Three!
+¡Tres!
 
 1295
 01:15:55,280 --> 01:15:56,070
-Rockwell's Uchi Mata!
+¡Rockwell con un uchi mata!
 
 1296
 01:15:56,480 --> 01:15:58,320
-Inokuma, watch out!
+¡Cuidado, Inokuma!
 
 1297
 01:16:00,320 --> 01:16:01,320
-Go!
+¡Ahora!
 
 1298
 01:16:13,290 --> 01:16:14,790
-I... I...
 
 1299
 01:16:15,130 --> 01:16:17,050
-Ippon! Sore made!
+¡Ippon! ¡Fin del encuentro!
 
 1300
 01:16:17,800 --> 01:16:21,220
-Sh-She did it! She's really done it!
+¡Sí, lo logró!
 
 1301
 01:16:21,220 --> 01:16:23,050
-She finally wins with an Ippon Zeoi!
+¡Al final vence con un ippon seoi!
 
 1302
 01:16:23,390 --> 01:16:26,890
-Japan's Inokuma wins the gold!
- The gold medal!
+¡Inokuma de Japón consigue el oro!
+¡Gana la medalla de oro!
 
 1303
 01:16:26,890 --> 01:16:30,890
-With only a single second left,
- she makes a booming Ippon Zeoi!
+&¡Quedando sólo un segundo, explota con un ippon seoi! 
 
 1304
 01:16:29,060 --> 01:16:30,890
-You've done it.
+&Lo lograste.
 
 1305
 01:16:36,650 --> 01:16:38,400
@@ -5566,751 +5578,748 @@ Jody...
 
 1307
 01:16:47,160 --> 01:16:50,120
-That was the most fun I've ever had!
+¡Nunca me había divertido tanto!
 
 1308
 01:16:51,330 --> 01:16:54,580
-It was... really fun!
+¡Lo mismo digo!
 
 1309
 01:17:01,470 --> 01:17:05,510
-It's going to take a whole lot more effort to scale that mountain.
+Tomará mucho más esfuerzo superar esa montaña.
 
 1310
 01:17:05,510 --> 01:17:06,680
-Right.
+Sí.
 
 1311
 01:17:07,390 --> 01:17:11,690
-But having that mountain tower
- before you makes it all the more fun.
+Pero tener esa montaña adelante
+es lo que lo vuelve interesante.
 
 1312
 01:17:12,850 --> 01:17:14,190
-I know!
+¡Así es!
 
 1313
 01:17:17,070 --> 01:17:20,440
-Matsuda-san! I got some prize-winning shots!
+¡Matsuda, conseguí unas fotografías excelentes!
 
 1314
 01:17:21,610 --> 01:17:22,990
-Matsuda-san?
+¿Matsuda?
 
 1315
 01:17:29,950 --> 01:17:31,250
-Matsuda-san!
+¡Matsuda!
 
 1316
 01:17:32,500 --> 01:17:33,870
-Yawara-sa—
+Yawara--
 
 1317
 01:17:33,870 --> 01:17:36,210
-Congratulations, Inokuma!
+¡Felicitaciones, Inokuma!
 
 1318
 01:17:36,210 --> 01:17:37,000
-How do you feel?
+¿Cómo te sientes?
 
 1319
 01:17:37,000 --> 01:17:38,250
-That was an amazing match!
+Fue un encuentro increíble.
 
 1320
 01:17:38,250 --> 01:17:39,750
-Yawara-san!
+¡Yawara!
 
 1321
 01:17:43,090 --> 01:17:44,380
-Hey! Let me through!
+¡Déjenme pasar!
 
 1322
 01:17:44,380 --> 01:17:45,260
-Yawara-san!
+¡Yawara!
 
 1323
 01:17:46,430 --> 01:17:48,100
-Matsuda-san?</i>
+<i>¿Matsuda?</i>
 
 1324
 01:17:48,100 --> 01:17:51,770
-That was brilliant! Simply brilliant!
+Fue brillante, simplemente brillante.
 
 1325
 01:17:51,770 --> 01:17:54,560
-That was the greatest match
- and the greatest Ippon Zeoi ever!
+Fue el mejor encuentro
+y el mejor ippon seoi jamás visto.
 
 1326
 01:17:54,560 --> 01:17:56,310
-There's nothing more to say!
+No se puede decir nada más.
 
 1327
 01:17:56,310 --> 01:17:58,730
-Drag yer feet, will ya? Retraining!
+Todavía le falta mucho.
+Hay que entrenar desde el inicio.
 
 1328
 01:17:59,440 --> 01:18:02,570
-Well, she did sweep both tournaments.
+Bueno, es verdad que ganó en ambas categorías.
 
 1329
 01:18:02,570 --> 01:18:06,660
-We'll just take that second gold medal and be on our way.
+Así que tomaremos esa segunda
+medalla de oro y nos iremos.
 
 1330
 01:18:08,490 --> 01:18:12,580
-Japan... Yawara Inokuma!
+&<i>¡De Japón, Yawara Inokuma!</i>
 
 1331
 01:18:11,330 --> 01:18:16,790
-They're now placing the prestigious gold medal around Inokuma Yawara's neck!
+&Ahora le hacen entrega de la prestigiosa
+medalla de oro a Yawara Inokuma.
 
 1332
 01:18:16,790 --> 01:18:19,500
+Es realmente inspirador como alguien tan pequeña
 It's simply awe-inspiring
 
 1333
 01:18:19,500 --> 01:18:23,420
-how that small frame of hers conquered the titans of the open-weights!
+logró conquistar a las gigantes
+de la categoría abierta.
 
 1334
 01:18:27,300 --> 01:18:28,890
-J-Jody?
+¿Jody?
 
 1335
 01:18:31,180 --> 01:18:32,770
-Teleshikova-san?
+¿Teleshikova?
 
 1336
 01:18:39,480 --> 01:18:41,190
-A week later...</i>
+<i>Una semana después...</i>
 
 1337
 01:18:42,150 --> 01:18:45,860
-they announced that Yawara-san
- had won the People's Honor Award.</i>
+<i>... anunciaron que otorgarían a Yawara</i>
+<i>el Premio Nacional al Mérito.</i>
 
 1338
-01:18:45,110 --> 01:18:53,870
-Mr. Jigoro Proclaims
-"Dang Straight!"
+01:18:45,110 --> 01:18:56,750
+#Jigoro exclama "¡Por supuesto!"
+#Yawara recibirá el Premio Nacional al Mérito
+#El mundo quedó anonadado
+#Inokuma con la medalla de oro
+#mientras la multitud la aclama
+#El primer gran logro en el deporte femenino
 
 1339
 01:18:45,110 --> 01:18:53,870
-YAWARA
 
 1340
 01:18:45,110 --> 01:18:53,870
-YAWARA
 
 1341
 01:18:45,110 --> 01:18:53,870
-TO GET
-
-
-PEOPLE'S
-
-
-HONOR
-
-
-AWARD
 
 1342
 01:18:45,110 --> 01:18:53,870
-Inokuma Yawara wears the gold while the crowds shower her with glory
 
 1343
 01:18:45,110 --> 01:18:53,870
-ENTIRE WORLD ASTOUNDED
 
 1344
 01:18:45,110 --> 01:18:53,870
-FIRST BRILLIANT ACHIEVEMENT
-FOR WOMEN'S SPORTS
 
 1345
 01:18:51,620 --> 01:18:54,160
-And I...</i>
+<i>Y yo...</i>
 
 1346
 01:18:53,870 --> 01:18:56,750
-Mr. Jigoro Proclaims
-"Dang Straight!"
 
 1347
 01:18:53,870 --> 01:18:56,750
-YAWARA
 
 1348
 01:18:53,870 --> 01:18:56,750
-YAWARA
 
 1349
 01:18:53,870 --> 01:18:56,750
-TO GET
-
-
-PEOPLE'S
-
-
-HONOR
-
-
-AWARD
 
 1350
 01:18:53,870 --> 01:18:56,750
-Inokuma Yawara wears the gold while the crowds shower her with glory
 
 1351
 01:18:53,870 --> 01:18:56,750
-ENTIRE WORLD ASTOUNDED
 
 1352
 01:18:53,870 --> 01:18:56,750
-FIRST BRILLIANT ACHIEVEMENT
-FOR WOMEN'S SPORTS
 
 1353
 01:18:57,750 --> 01:19:00,710
-Matsuda-san, aren't you ready?
+¿Todavía no estás listo, Matsuda?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1354
 01:19:00,710 --> 01:19:02,840
-Oh, I'm coming!
+¡Ya voy!
 
 1355
 01:19:03,250 --> 01:19:04,720
-MATSUDA
+#Matsuda
 
 1356
 01:19:04,260 --> 01:19:04,510
-MATSUDA
 
 1357
 01:19:15,060 --> 01:19:17,770
-I swear this car always runs slow!
+¡Te lo juro, este auto es una tortuga!
 
 1358
 01:19:17,770 --> 01:19:19,560
-I'm leaving Narita at two!
+@¡Debo llegar al aeropuerto a las dos!
 
 1359
 01:19:19,560 --> 01:19:22,110
-I can put it on turbo if I need to.
+Puedo activar el turbo si hace falta.
 
 1360
 01:19:22,110 --> 01:19:23,440
-Next in the news,
+A continuación en las noticias,
 
 1361
 01:19:23,440 --> 01:19:28,610
-at 11 AM today, Inokuma Yawara, who moved and astounded the world at the Atlanta Olympics,
+hoy a las 11, Yawara Inokuma, que conmovió y asombró
+al mundo en los Juegos Olímpicos de Atlanta,
 
 1362
 01:19:28,610 --> 01:19:33,620
-will receive the People's Honor Award at the Prime Minister's residence.
+recibirá el Premio Nacional al Mérito
+en la residencia del Primer Ministro.
 
 1363
 01:19:37,080 --> 01:19:38,580
-Stupid Kosaku!
+¡Kosaku es un idiota!
 
 1364
 01:19:38,580 --> 01:19:43,630
-Why did he take a job in America?
- What is Yawara-chan supposed to do?
+¿Por qué tomó ese trabajo en Estados Unidos?
+¿Qué se supone que haga Yawara?
 
 1365
 01:19:44,130 --> 01:19:48,840
-Does that blockhead have any idea how much it hurts to give him up?!
+¿Acaso no entiende lo mucho que duele
+intentar olvidarlo?
 
 1366
 01:19:48,840 --> 01:19:50,680
-Hey, Kuni-chan!
+¡Hola, Kuni!
 
 1367
 01:19:52,100 --> 01:19:57,560
-Don't look so sour! It doesn't go with that dress of yours.
+No estés tan triste. No combina con tu vestido.
 
 1368
 01:19:58,480 --> 01:20:01,940
-What? Are you still miffed over that Matsuda thing?
+¿Qué pasa? ¿Sigues dándole vueltas
+al asunto con Matsuda?
 
 1369
 01:20:01,940 --> 01:20:03,230
-What can you do?
+¿Qué se puede hacer?
 
 1370
 01:20:03,230 --> 01:20:07,150
-Our previous reporter suffered
- an injury and is now in the hospital.
+Nuestro anterior reportero se lesionó
+y ahora está en el hospital.
 
 1371
 01:20:07,780 --> 01:20:10,610
-Matsuda practically leaped at
- the opportunity to replace him.
+Matsuda simplemente aprovechó
+la oportunidad de reemplazarlo.
 
 1372
 01:20:12,160 --> 01:20:15,910
-You're stupid! Stupid! Stupid! Stupid! Stupid!
+&¡Eres un estúpido! ¡Estúpido, estúpido, estúpido!
 
 1373
 01:20:13,160 --> 01:20:15,910
-Hey, cut that out!
+&¡Basta, detente!
 
 1374
 01:20:17,580 --> 01:20:20,620
-Matsuda? You mean that
- annoying little shaver?
+¿Matsuda? ¿Ese jovencillo tan molesto?
 
 1375
 01:20:20,620 --> 01:20:21,790
-Yeah, Mr. Bureau Chief.
+Sí, señor.
 
 1376
 01:20:21,790 --> 01:20:25,210
-I could name a few ulcers after him.
+Es responsable de unas cuantas úlceras.
 
 1377
 01:20:25,210 --> 01:20:28,590
-Hopefully things will quiet down for a change, don't you agree?
+Con suerte las cosas se calmarán un poco, ¿no cree?
 
 1378
 01:20:29,590 --> 01:20:33,340
-Actually, his departure is a huge loss for us.
+En realidad, su partida es
+una gran pérdida para nosotros.
 
 1379
 01:20:34,510 --> 01:20:37,600
-If you polish that guy,
- he'll shine even more.
+Si lo pulen apropiadamente, brillará aún más.
 
 1380
 01:20:37,600 --> 01:20:41,350
-Once he remakes himself in America, the capital of sports,
+Una vez que se reinvente en Estados Unidos,
+la capital del deporte,
 
 1381
 01:20:41,350 --> 01:20:43,900
-he'll come back sparkling like a fine gem.
+regresará tan brillante como una gema.
 
 1382
 01:20:43,900 --> 01:20:44,860
-Oh, there she is!
+¡Oh, ahí está!
 
 1383
 01:20:44,860 --> 01:20:46,020
-Inokuma Yawara!
+¡Yawara Inokuma!
 
 1384
 01:20:45,230 --> 01:20:47,190
-She's finally arrived!
 
 1385
 01:20:47,190 --> 01:20:50,650
-Inokuma Yawara-san, aka "Yawara-chan," joins us on this happy occasion
+Estamos junto a Yawara Inokuma en esta feliz ocasión,
 
 1386
 01:20:50,650 --> 01:20:53,030
-as she awaits her People's Honor Award.
+mientras espera por el Premio Nacional al Mérito.
 
 1387
 01:20:54,660 --> 01:20:56,620
-Matsuda-san isn't here yet.</i>
+<i>Matsuda todavía no llegó.</i>
 
 1388
 01:20:56,620 --> 01:20:57,540
-Yawara-chan!
+¡Yawara!
 
 1389
 01:20:57,540 --> 01:21:00,040
-Over here! Over here! Hey!
+¡Por aquí! ¡Aquí!
 
 1390
 01:21:00,040 --> 01:21:01,460
-Kuniko-san?
+¿Kuniko?
 
 1391
 01:21:02,170 --> 01:21:05,080
-Kosaku's going to America
- on a job transfer!
+¡Kosaku se irá a trabajar a Estados Unidos!
 
 1392
 01:21:05,080 --> 01:21:07,460
-And he isn't coming back for a long time!
+!Y no regresará por largo tiempo!
 
 1393
 01:21:07,460 --> 01:21:10,260
-He's heading toward Narita right now!
+¡Ahora mismo va camino al aeropuerto!
 
 1394
 01:21:11,420 --> 01:21:13,380
-If you'll follow us inside.
+Por favor, acompáñanos.
 
 1395
 01:21:15,720 --> 01:21:18,430
-Matsuda-san... is going to America?
+¿Matsuda se va a los Estados Unidos?
 
 1396
 01:21:19,060 --> 01:21:21,480
-Matsuda-san... is leaving?
+¿Matsuda se va?
 
 1397
 01:21:21,480 --> 01:21:23,560
-I'll be covering the Major Leagues!
+¡Me encargaré de las Ligas Mayores de Béisbol!
 
 1398
 01:21:23,560 --> 01:21:25,690
-The players over there are nothing like ours.
+Sus jugadores están a otro nivel.
 
 1399
 01:21:25,690 --> 01:21:30,400
-I think I might follow a player who's moved up from Single-A to the majors!
+Creo que seguiré a algún beisbolista que haya
+ascendido de la clase A a las mayores.
 
 1400
 01:21:30,690 --> 01:21:34,530
-Oh yeah, I'll be sure to get
- you Nomo's autograph.
+Es cierto, debo conseguir el autógrafo de Nomo.
 
 1401
 01:21:34,530 --> 01:21:36,320
-Are you sure about this, Matsuda-san?
+¿Estás seguro de esto, Matsuda?
 
 1402
 01:21:36,320 --> 01:21:36,910
-About what?
+¿Qué quieres decir?
 
 1403
 01:21:37,450 --> 01:21:39,410
-Kuni-chan's pretty pissed.
+Kuni está muy molesta.
 
 1404
 01:21:39,410 --> 01:21:42,410
-She said you're leaving
- Yawara-chan high and dry.
+Dijo que estás abandonando a Yawara.
 
 1405
 01:21:45,630 --> 01:21:46,960
-What are you guys saying?
+¿Pero qué están diciendo?
 
 1406
 01:21:46,960 --> 01:21:49,420
-High and dry? I'm not even on her radar!
+¿Abandonarla? ¡Si ni siquiera me registra!
 
 1407
 01:21:50,170 --> 01:21:51,710
-Listen to me, Kamoda-kun!
+Escúchame, Kamoda.
 
 1408
 01:21:51,710 --> 01:21:54,840
-We're talking about a People's
- Honor Award winner here!
+¡Se trata de alguien que recibió
+el Premio Nacional al Mérito!
 
 1409
 01:21:54,840 --> 01:21:57,890
-We can't be bringing her
- down to our level.
+No podemos bajarla a nuestro nivel.
 
 1410
 01:21:57,890 --> 01:22:00,680
-I think you're completely
- missing the point.
+Me parece que no estás viendo lo importante.
 
 1411
 01:22:00,930 --> 01:22:03,690
-Try listening to your heart for once!
+¡Escucha a tu corazón de una vez!
 
 1412
 01:22:03,690 --> 01:22:05,020
-Don't be stupid.
+No seas tonto.
 
 1413
 01:22:05,020 --> 01:22:07,150
-Just keep your eyes
- on the road and drive.
+Tú sólo mira el camino y conduce.
 
 1414
 01:22:07,150 --> 01:22:10,650
-Even this beater of yours should outstrip that light truck in front of us.
+Incluso esta batata debería poder pasar
+a esa @camioneta que tenemos enfrente.
 
 1415
 01:22:11,030 --> 01:22:12,990
-Here's Michael Schukamoda!
+¡Vamos, Michael Schukamoda!
 
 1416
 01:22:12,990 --> 01:22:15,200
-He's bearing down on the truck as he moves to the outside lane!
+¡Se acerca a la camioneta
+mientras cambia al carril externo!
 
 1417
 01:22:15,200 --> 01:22:18,240
-Who will get the championship flag?!
+¿Podrá ganar el campeonato?
 
 1418
 01:22:18,240 --> 01:22:20,580
-For pity's sake, Matsuda-san.
+Por favor, Matsuda.
 
 1419
 01:22:20,580 --> 01:22:22,750
-I congratulate you both on this day.
+@Los felicito a ambos en este día.
 
 1420
 01:22:22,750 --> 01:22:24,210
-What're you servin' for food today?
+¿Qué hay para comer?
 
 1421
 01:22:25,580 --> 01:22:28,920
-Yawara-san seems so lonely.</i>
+<i>Yawara parece tan solitaria.</i>
 
 1422
 01:22:28,920 --> 01:22:30,920
-I want to support her.</i>
+<i>Quisiera poder acompañarla.</i>
 
 1423
 01:22:30,920 --> 01:22:34,010
-But now I'm Honami Shinnosuke,</i>
+<i>Pero ahora soy Shinnosuke Honami,</i>
 
 1424
 01:22:34,010 --> 01:22:38,640
-and Sayaka-san insists that we call each other "Shin-chan" and "Saya."</i>
+<i>y Sayaka insiste en que nos llamemos</i>
+<i>con apodos cariñosos.</i>
 
 1425
 01:22:38,640 --> 01:22:39,470
-Shin-chan?
+¿Shin?
 
 1426
 01:22:39,470 --> 01:22:42,020
-We'll be making our salutations to Inokuma Yawara-san.
+Tenemos que felicitar a Yawara Inokuma.
 
 1427
 01:22:42,020 --> 01:22:45,230
-C... Coming, S-Saya.
+Ya voy, Saya.
 
 1428
 01:22:57,240 --> 01:23:01,030
-Inokuma-san! Thanks for inviting us!
+¡Gracias por invitarnos, Inokuma!
 
 1429
 01:23:01,030 --> 01:23:04,250
-C-Congratulations! Don't get nervous!
+¡Felicitaciones! No te pongas nerviosa.
 
 1430
 01:23:04,250 --> 01:23:06,620
-Fujiko-san. Hanazono-kun.
+Fujiko. Hanazono.
 
 1431
 01:23:06,620 --> 01:23:10,750
-L-Look at all the dignitaries!
- It's like I'm watching the news!
+¡Mira a todos los dignatarios!
+Es como ver las noticias.
 
 1432
 01:23:10,750 --> 01:23:13,630
-I'm glad Mom is watching Fuku-chan!
+Es un alivio que mamá esté cuidando a Fuku.
 
 1433
 01:23:13,630 --> 01:23:16,800
-It would be a disaster
- if she started to cry here!
+Sería un desastre si se pusiera a llorar aquí.
 
 1434
 01:23:16,800 --> 01:23:18,050
-Fujiko-san...
+Fujiko...
 
 1435
 01:23:19,140 --> 01:23:21,760
-I... I...
+Yo... Yo...
 
 1436
 01:23:21,760 --> 01:23:23,560
-Wh-What's wrong?
+¿Qué sucede?
 
 1437
 01:23:23,560 --> 01:23:25,480
-Matsuda-san's...
+Matsuda...
 
 1438
 01:23:25,480 --> 01:23:27,730
-What happened to Matsuda-san?
+¿Qué pasa con Matsuda?
 
 1439
 01:23:51,250 --> 01:23:53,290
-Say, Kamoda.
+Dime, Kamoda.
 
 1440
 01:23:53,290 --> 01:23:54,210
-Yeah?
+¿Sí?
 
 1441
 01:23:55,000 --> 01:23:58,090
-You said you can put 
-this thing in turbo, right?
+Dijiste que podías activar el turbo, ¿no es así?
 
 1442
 01:23:58,670 --> 01:24:00,390
-I was only kidding.
+Estaba bromeando.
 
 1443
 01:24:03,050 --> 01:24:04,720
-Can we go back?
+¿Podemos volver?
 
 1444
 01:24:06,100 --> 01:24:08,310
-I can still make my flight,
+Todavía puedo alcanzar mi vuelo,
 
 1445
 01:24:08,310 --> 01:24:11,230
-if we go to the Prime Minister's mansion right now.
+si vamos a la residencia del
+Primer Ministro ahora mismo.
 
 1446
 01:24:14,400 --> 01:24:16,150
-Now you're talking!
+¡Eso quería escuchar!
 
 1447
 01:24:16,150 --> 01:24:18,280
-I'll make a U-turn at the next exit!
+¡Pegaré la vuelta en la próxima salida!
 
 1448
 01:24:18,280 --> 01:24:22,320
-We will now begin our People's Honor Award ceremony!
+Ahora comenzaremos con la ceremonia
+de entrega del Premio Nacional al Mérito.
 
 1449
 01:24:23,280 --> 01:24:26,290
-This is indeed a fine day for...
+Este es un maravilloso día para...
 
 1450
 01:24:26,290 --> 01:24:29,080
-Move! What happened to the turbo?!
+¡Vamos! ¿Qué pasó con el turbo?
 
 1451
 01:24:29,080 --> 01:24:31,290
-I-I'm going as fast as I can!
+¡Voy tan rápido como puedo!
 
 1452
 01:24:34,250 --> 01:24:36,840
-The lesson we should all learn from Inokuma Yawara-san's judo...
+&La lección que todos debemos aprender
+del judo de Yawara Inokuma...
 
 1453
 01:24:35,840 --> 01:24:38,800
-He can go to America or
- wherever for all I care!
+&¡Puede irse a Estados Unidos por lo que me importa!
 
 1454
 01:24:36,840 --> 01:24:39,920
-is that the flexible command the strong.
+&... es que la flexibilidad vence a la fuerza.
 
 1455
 01:24:39,920 --> 01:24:41,150
-Inokuma-san.
+Inokuma.
 
 1456
 01:24:41,150 --> 01:24:44,300
-That lesson also deeply affected...
+&Eso es algo que afecta profundamente...
 
 1457
 01:24:44,300 --> 01:24:47,640
-Dammit! Isn't there anything we can do?
+¡Maldición! ¿No podemos hacer nada?
 
 1458
 01:24:47,640 --> 01:24:50,180
-You see how congested it is!
+¡Puedes ver el estado del tráfico!
 
 1459
 01:24:50,180 --> 01:24:52,650
-Screw it. I'm running!
+¡Al diablo! ¡Seguiré corriendo!
 
 1460
 01:24:52,650 --> 01:24:55,110
-But the Prime Minister's residence is still a long way off!
+¡Pero todavía falta mucho para la casa del ministro!
 
 1461
 01:24:55,690 --> 01:24:58,070
-Park in front of the mansion
- when you get there!
+¡Estaciona justo en frente cuando llegues allá!
 
 1462
 01:24:58,070 --> 01:24:59,820
-Matsuda-san!
+¡Matsuda!
 
 1463
 01:25:00,740 --> 01:25:06,120
-kawaiku narenai hontou no wake wa
 
 1464
 01:25:00,740 --> 01:25:06,120
-The real reason why I'm so contrary
+%La razón por la cual me opongo tanto...
 
 1465
 01:25:07,520 --> 01:25:10,200
-Why am I even running?</i>
+<i>¿Por qué estoy corriendo?</i>
 
 1466
 01:25:08,950 --> 01:25:14,880
-anata ga watashi wo erabanai tte
 
 1467
 01:25:08,950 --> 01:25:14,880
-is because I found out you won't choose me.
+%... es porque descubrí que no me elegirás.
 
 1468
 01:25:10,200 --> 01:25:14,880
-I don't even know what I'll do there!</i>
+<i>¡No tengo idea qué haré una vez que llegue!</i>
 
 1469
 01:25:15,420 --> 01:25:19,880
-We will now present her 
-with the certificate and trophy.
+Ahora haremos entrega del trofeo y certificado.
 
 1470
 01:25:17,300 --> 01:25:25,760
-shitteru kara kikioboe no aru ashioto ga
 
 1471
 01:25:17,300 --> 01:25:25,760
-I heard some familiar footsteps,
+%Escuché unos pasos familiares,
 
 1472
 01:25:19,880 --> 01:25:23,590
-I'm with All Sports News!
- Let me in before I miss the ceremony!
+¡Estoy con el <i>Todos los Deportes</i>!
+¡Déjenme entrar antes de que me pierda la ceremonia!
 
 1473
 01:25:23,590 --> 01:25:24,930
-We need to search you!
+Tenemos que registrarte.
 
 1474
 01:25:26,220 --> 01:25:27,760
-Are you satisfied?!
+¿Satisfechos?
 
 1475
 01:25:26,300 --> 01:25:34,690
-shite atto furikaettara hitochigae datta
 
 1476
 01:25:26,300 --> 01:25:34,690
-but when I turned around, it was someone else.
+%pero cuando me di vuelta, era otra persona.
 
 1477
 01:25:28,560 --> 01:25:33,560
-...for executing an unprecedented feat and for furthering the expansion of judo
+... por sus logros sin precedentes
+y promover la expansión del judo...
 
 1478
 01:25:34,190 --> 01:25:37,060
-Oh, you had me worried!
+¡Me tenías preocupada!
 
 1479
 01:25:35,190 --> 01:25:43,110
-kitto kokoro ga sabishiinda
 
 1480
 01:25:35,190 --> 01:25:43,110
-I guess I'm just lonely.
+%Creo que me siento sola.
 
 1481
 01:25:35,440 --> 01:25:37,650
-and for giving your countrymen...
+... y por dar a tus conciudadanos...
 
 1482
 01:25:37,060 --> 01:25:37,650
-You jerk!
+¡Estúpido!
 
 1483
 01:25:43,820 --> 01:25:50,540
@@ -6318,19 +6327,18 @@ hito ni kitai shitai ate ni shitai shinjiteitai
 
 1484
 01:25:43,820 --> 01:25:50,540
-I want to count on, depend on, and believe in someone.
+%Quiero confiar, depender y creer en ti.
 
 1485
 01:25:47,580 --> 01:25:48,530
-Matsuda-san!
+¡Matsuda!
 
 1486
 01:25:48,530 --> 01:25:50,540
-What are you pulling now, Mr. All Sports?
+¿Qué piensas hacer ahora, <i>Todos los Deportes</i>?
 
 1487
 01:25:51,070 --> 01:25:52,660
-Uh, hey.
 
 1488
 01:25:52,580 --> 01:26:01,050
@@ -6338,80 +6346,90 @@ moshi anata wo wasureraretara
 
 1489
 01:25:52,580 --> 01:26:01,050
-What if I end up forgetting you?
+%¿Qué sucederá si me olvido de ti?
 
 1490
 01:25:52,660 --> 01:25:53,540
-Matsuda-san?
+¿Matsuda?
 
 1491
 01:25:54,170 --> 01:25:56,420
-C-Congrats.
+Felicitaciones.
 
 1492
 01:25:57,080 --> 01:25:58,540
-Uh, um...
+Yo...
 
 1493
 01:25:59,340 --> 01:26:00,050
-Yes?
+¿Dime?
 
 1494
 01:26:00,050 --> 01:26:01,840
-Say it, Kosaku!
+¡Vamos, Kosaku!
 
 1495
 01:26:01,340 --> 01:26:08,850
-soredemo atashi ikiteikeru no kana
 
 1496
 01:26:01,340 --> 01:26:08,850
-Will I be able to go on?
+%¿Podré seguir adelante?
 
 1497
 01:26:01,840 --> 01:26:05,050
-Tell her how you feel in front of the newspaper journalists and TV cameras!
+¡Dile lo que sientes frente a las cámaras!
 
 1498
 01:26:05,970 --> 01:26:08,100
-So, um...
+Yo...
 
 1499
 01:26:09,220 --> 01:26:10,180
-Yes?
+¿Sí?
 
 1500
 01:26:09,600 --> 01:26:12,980
-ashita ga aru
 
 1501
 01:26:09,600 --> 01:26:12,980
-Tomorrow's another day.
+%Mañana será otro día.
 
 1502
 01:26:11,220 --> 01:26:15,060
-I really have to get to Narita Airport right now, so...
+En realidad debo irme al
+aeropuerto de Narita, así que...
 
 1503
 01:26:18,270 --> 01:26:21,940
-Shouldn't some men be restraining him?
+¿No deberían sacarlo a la fuerza?
 
 1504
 01:26:21,940 --> 01:26:23,400
-That's right! He's a rabble-rouser!
+¡Así es! ¡Es un agitador!
 
 1505
 01:26:23,400 --> 01:26:26,070
-Hold him down, cuff him,
- and throw him out!
+¡Atrápenlo, espósenlo y arrójenlo fuera!
+
+
+
+
+
+
+
+
+
+
+
+
 
 1506
 01:26:26,070 --> 01:26:27,370
-We've got a troublemaker!
+¡Tenemos una @situación!
 
 1507
 01:26:27,370 --> 01:26:28,570
-Watch out, Your Excellency!
+¡Tenga cuidado, Su Excelencia!
 
 1508
 01:26:28,030 --> 01:26:33,330
@@ -6419,220 +6437,217 @@ kuchi ga umai hito da to dareka ni kiita
 
 1509
 01:26:28,030 --> 01:26:33,330
-I heard that you actually have a silver tongue,
+%Escuché que en realidad eres bueno con las palabras,
 
 1510
 01:26:28,570 --> 01:26:31,580
-Damn you, All Sports! 
-Trying to grandstand again?!
+¡Maldito <i>Todos los Deportes</i>!
+¿Otra vez intentas lucirte?
 
 1511
 01:26:31,580 --> 01:26:32,620
-I've had it with you!
+¡Ya estoy harto de ti!
 
 1512
 01:26:34,040 --> 01:26:34,830
-Matsuda-san!
+¡Matsuda!
 
 1513
 01:26:36,120 --> 01:26:42,340
-me no mae no tottemo yowai hito wa uso na no
 
 1514
 01:26:36,120 --> 01:26:42,340
-that you aren't the weak person I know.
+%que no eres tan débil como creía.
 
 1515
 01:26:44,010 --> 01:26:46,050
-When's your plane taking off?
+¿Cuándo sale tu vuelo?
 
 1516
 01:26:44,550 --> 01:26:52,680
-utagai dashitara kiri ga nai noni ne
 
 1517
 01:26:44,550 --> 01:26:52,680
-All this will do is open up a flood of doubts.
+%Esto me llena de dudas.
 
 1518
 01:26:46,050 --> 01:26:47,890
-Oh, at two.
+A las dos.
 
 1519
 01:26:47,890 --> 01:26:49,680
-Oh, no! We have to hurry!
+¡Oh, no! ¡Debemos apresurarnos!
 
 1520
 01:26:51,720 --> 01:26:52,680
-Inokuma-san!
+¡Inokuma!
 
 1521
 01:26:53,520 --> 01:27:01,770
-baka mitai soredemo anata no yume wo miru
 
 1522
 01:26:53,520 --> 01:27:01,770
-That's so stupid, but I still dream of you.
+%Es una tontería, sigo soñando contigo.
 
 1523
 01:26:56,600 --> 01:26:58,690
-Go!
+¡Adelante!
 
 1524
 01:27:02,400 --> 01:27:10,240
-kitto kokoro ga sabishiinda
 
 1525
 01:27:02,400 --> 01:27:10,240
-I guess I'm just lonely.
+%Creo que me siento sola.
+
+
+
+
 
 1526
 01:27:02,480 --> 01:27:04,110
-I've really done it now.
+Es lo peor que he hecho.
 
 1527
 01:27:04,110 --> 01:27:07,660
-I just ruined your People's Honor Award ceremony!
+¡Acabo de arruinar la ceremonia
+del Premio Nacional al Mérito!
 
 1528
 01:27:08,200 --> 01:27:10,120
-It's fine.
+No hay problema.
 
 1529
 01:27:10,120 --> 01:27:12,200
-I think it'll be just fine.
+Creo que todo saldrá bien.
 
 1530
 01:27:11,490 --> 01:27:18,120
-hito ni kitai shinai ateni shinai shinjitakunai
 
 1531
 01:27:11,490 --> 01:27:18,120
-I can't count on, depend on, or believe in others.
+%No puedo confiar, depender o creer en otros.
 
 1532
 01:27:12,950 --> 01:27:14,660
-Grandpa can cover for me.
+El abuelo se encargará de todo.
 
 1533
 01:27:17,080 --> 01:27:18,870
-Where's Inokuma?
+¿Dónde está Inokuma?
 
 1534
 01:27:17,750 --> 01:27:18,870
-Where's that All Sports guy?
+¿Dónde está el <i>Todos los Deportes</i>?
 
 1535
 01:27:18,870 --> 01:27:20,080
-Gimme that!
+¡Dame eso!
 
 1536
 01:27:19,880 --> 01:27:28,380
-kanashii genjitsu wo nageku yori ima
 
 1537
 01:27:19,880 --> 01:27:28,380
-But I won't lament this sad reality.
+%Pero no me arrepentiré de esta realidad.
 
 1538
 01:27:21,210 --> 01:27:24,210
-I'll be taking that People's Honor Award!
+Yo recibiré el Premio Nacional al Mérito.
 
 1539
 01:27:24,210 --> 01:27:25,460
-Of course...
+Por supuesto...
 
 1540
 01:27:26,550 --> 01:27:27,220
-Thanks.
+Gracias.
 
 1541
 01:27:27,880 --> 01:27:31,600
-All right, people! We're heading for the press room!
+Muy bien, gente. ¡A la sala de prensa!
 
 1542
 01:27:28,930 --> 01:27:35,640
-nani ga dekiru ka wo kangaeyou
 
 1543
 01:27:28,930 --> 01:27:35,640
-I will think of what to do next.
+%Pensaré en lo que haré después.
 
 1544
 01:27:32,390 --> 01:27:34,470
-But Yawara-san isn't here!
+Pero Yawara no está aquí.
 
 1545
 01:27:34,470 --> 01:27:39,230
-Numbskull! We don't need no Yawara
- to have an interesting press conference!
+¡Cabeza hueca! No necesitamos a Yawara
+para la conferencia de prensa.
 
 1546
 01:27:37,100 --> 01:27:42,020
-kyou ga kawaru
 
 1547
 01:27:37,100 --> 01:27:42,020
-Today there'll be a change.
+%Hoy todo cambiará.
 
 1548
 01:27:39,520 --> 01:27:41,940
-Long as you have me!
+¡Mientras esté yo no habrá problema!
 
 1549
 01:27:44,730 --> 01:27:48,740
-Here's your boarding pass
- and your luggage ticket.
+Tu pasaje y el boleto del equipaje.
 
 1550
 01:27:48,740 --> 01:27:49,860
-Thanks.
+Gracias.
 
 1551
 01:27:49,860 --> 01:27:53,280
-You really are a travel agent.
- You work fast.
+Se nota que eres agente de viajes.
+Fuiste muy rápida.
 
 1552
 01:27:53,280 --> 01:27:56,750
-There's no time for that.
- You need to get to Gate 32.
+No tienes tiempo para esto.
+Debes subir por la puerta 32.
 
 1553
 01:27:56,750 --> 01:27:58,710
-Oh, right!
+¡Sí!
 
 1554
 01:27:58,710 --> 01:27:59,870
-I'll see you!
+¡Nos vemos!
 
 1555
 01:28:13,640 --> 01:28:14,760
-Yawara-san!
+¡Yawara!
 
 1556
 01:28:14,760 --> 01:28:15,770
-Yes?
+¿Sí?
 
 1557
 01:28:15,770 --> 01:28:18,520
-I'll definitely come and cover you!
+¡Volveré para seguir escribiendo sobre ti!
 
 1558
 01:28:18,520 --> 01:28:21,270
-I hope to see you at the next Olympics in four years!
+Espero verte dentro de cuatro años
+en los próximos Juegos Olímpicos.
 
 1559
 01:28:22,190 --> 01:28:23,270
-Of course!
+¡Sí!
 
 1560
 01:28:23,560 --> 01:28:25,020
-I mean it!
+¡Lo digo en serio!
 
 1561
 01:28:26,780 --> 01:28:28,280
-I'm counting on it!
+¡Yo también!
 
 1562
 01:28:39,500 --> 01:28:55,140
@@ -6640,117 +6655,106 @@ I'm counting on it!
 
 1563
 01:28:57,640 --> 01:28:58,970
-Matsuda-san...
+Matsuda...
 
 1564
 01:29:27,800 --> 01:29:28,500
-I...
+Yo...
 
 1565
 01:29:32,340 --> 01:29:33,300
-I...
+Yo...
 
 1566
 01:29:38,350 --> 01:29:39,520
-I love you.
+Te amo.
 
 1567
 01:29:41,600 --> 01:29:42,480
-Me too!
+¡Yo también te amo!
 
 1568
 01:29:41,730 --> 01:29:49,530
-kitto kokoro ga sabishiinda
 
 1569
 01:29:41,730 --> 01:29:49,530
-I guess I'm just lonely.
+%Creo que me siento sola.
 
 1570
 01:29:46,310 --> 01:29:48,020
-I've loved you for a long time!
+¡Desde hace mucho tiempo!
 
 1571
 01:29:50,400 --> 01:29:57,410
-hito ni kitai shinai ateni shinai shinjitakunai
 
 1572
 01:29:50,400 --> 01:29:57,410
-I can't count on, depend on, or believe in others.
+%No puedo confiar, depender o creer en otros.
 
 1573
 01:29:58,580 --> 01:30:03,080
-Today's another day.
+%Hoy es otro día.
 
 1574
 01:30:42,630 --> 01:30:48,410
-kawaiku narenai hontou no wake wa
 
 1575
 01:30:42,630 --> 01:30:48,410
-The real reason why I'm so contrary
+%La razón por la cual me opongo tanto...
 
 1576
 01:30:50,810 --> 01:30:57,090
-anata ga watashi wo erabanai tte
 
 1577
 01:30:50,810 --> 01:30:57,090
-is because I found out you won't choose me.
+%... es porque descubrí que no me elegirás.
 
 1578
 01:30:59,190 --> 01:31:08,010
-shitteru kara kikioboe no aru ashioto ga
 
 1579
 01:30:59,190 --> 01:31:08,010
-I heard some familiar footsteps,
+%Escuché unos pasos familiares,
 
 1580
 01:31:08,150 --> 01:31:16,980
-shite atto furikaettara hitochigae datta
 
 1581
 01:31:08,150 --> 01:31:16,980
-but when I turned around, it was someone else.
+%pero cuando me di vuelta, era otra persona.
 
 1582
 01:31:16,980 --> 01:31:25,390
-kitto kokoro ga sabishiinda
 
 1583
 01:31:16,980 --> 01:31:25,390
-I guess I'm just lonely.
+%Creo que me siento sola.
 
 1584
 01:31:25,640 --> 01:31:32,970
-hito ni kitai shitai ate ni shitai shinjiteitai
 
 1585
 01:31:25,640 --> 01:31:32,970
-I want to count on, depend on, and believe in someone.
+%Quiero confiar, depender y creer en ti.
 
 1586
 01:31:34,300 --> 01:31:43,160
-What if I end up forgetting you?
+%¿Qué sucederá si me olvido de ti?
 
 1587
 01:31:34,400 --> 01:31:43,160
-moshi anata wo wasureraretara
 
 1588
 01:31:43,160 --> 01:31:51,080
-soredemo atashi ikiteikeru no kana
 
 1589
 01:31:43,160 --> 01:31:51,080
-Will I be able to go on?
+%¿Podré seguir adelante?
 
 1590
 01:31:51,300 --> 01:31:55,150
-ashita ga aru
 
 1591
 01:31:51,300 --> 01:31:55,150
-Tomorrow's another day.
+%Mañana será otro día.
 
