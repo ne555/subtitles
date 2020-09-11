@@ -51,7 +51,7 @@ Dialogue: 0,0:01:49.72,0:01:53.55,Yawara (Bot),,0,0,0,,Eran tiempos oscuros, jus
 Dialogue: 0,0:01:53.55,0:01:57.07,Yawara (Bot),,0,0,0,,Yo era un jovencillo que había llegado\Na Tokio repleto de sueños,
 Dialogue: 0,0:01:56.13,0:01:59.93,Yawara (Bot),,0,0,0,,#Jigoro Inokuma (Ichiro Nagai)\N#Abuelo de Yawara Inokuma\N#Está perfeccionando las habilidades de Yawara\N#para que reciba el Premio Nacional al Mérito
 Dialogue: 0,0:01:57.07,0:02:02.84,Yawara (Bot),,0,0,0,,y de todas maneras arrojé a todos\Ny cada uno de mis poderosos oponentes.
-Dialogue: 0,0:02:00.14,0:02:00.55,Yawara (Bot),,0,0,0,,#Séptimo dan
+Dialogue: 0,0:02:00.14,0:02:02.55,Yawara (Bot),,0,0,0,,#Séptimo dan
 Dialogue: 0,0:02:02.84,0:02:04.85,Yawara (Bot),,0,0,0,,¡Soy octavo dan!
 Dialogue: 0,0:02:03.64,0:02:04.85,Yawara (Bot),,0,0,0,,#Octavo dan
 Dialogue: 0,0:02:10.94,0:02:12.40,Yawara (Bot),,0,0,0,,Matsuda.
@@ -926,7 +926,7 @@ Dialogue: 0,1:00:53.83,1:00:58.96,Yawara (Bot),,0,0,0,,{\i1}No sé qué sucedió
 Dialogue: 0,1:00:58.96,1:01:01.97,Yawara (Bot),,0,0,0,,Inokuma, pronto será tu turno.
 Dialogue: 0,1:01:01.97,1:01:05.01,Yawara (Bot),,0,0,0,,¡Mueve el trasero y gana la medalla de oro!
 Dialogue: 0,1:01:04.01,1:01:20.19,Yawara (Bot),,0,0,0,,kaeri no densha wa itsumo setsunaku naru no yo
-Dialogue: 0,1:01:04.01,1:01:20.19,Yawara (Bot),,0,0,0,,%Siempre me deprimo en el viaje de regreso.
+Dialogue: 0,1:01:04.01,1:01:20.19,Yawara (Top),,0,0,0,,%Siempre me deprimo en el viaje de regreso.
 Dialogue: 0,1:01:06.47,1:01:07.35,Yawara (Bot),,0,0,0,,Sí.
 Dialogue: 0,1:01:07.97,1:01:10.22,Yawara (Bot),,0,0,0,,¡Deprisa!
 Dialogue: 0,1:01:10.22,1:01:10.98,Yawara (Bot),,0,0,0,,¡Voy!
@@ -937,43 +937,43 @@ Dialogue: 0,1:01:17.90,1:01:19.28,Yawara (Bot),,0,0,0,,¿Pero qué haces?
 Dialogue: 0,1:01:19.28,1:01:20.32,Yawara (Bot),,0,0,0,,{\i1}No pueden pasar.{\i}
 Dialogue: 0,1:01:20.86,1:01:24.78,Yawara (Bot),,0,0,0,,¿Qué dices? ¡Somos reporteros!
 Dialogue: 0,1:01:24.78,1:01:26.82,Yawara (Bot),,0,0,0,,{\i1}Soy de la prensa, ¿entiendes?{\i}
-Dialogue: 0,1:01:25.57,1:01:34.96,Yawara (Bot),,0,0,0,,%¿Dónde está el ahora? ¿Con quién estuvo ayer?
+Dialogue: 0,1:01:25.57,1:01:34.96,Yawara (Top),,0,0,0,,%¿Dónde está el ahora? ¿Con quién estuvo ayer?
 Dialogue: 0,1:01:27.16,1:01:28.83,Yawara (Bot),,0,0,0,,{\i1}¡Aquí se hace lo que yo digo!{\i}
 Dialogue: 0,1:01:29.29,1:01:31.66,Yawara (Bot),,0,0,0,,Tengo prisa. ¡Suéltame!
 Dialogue: 0,1:01:32.46,1:01:35.08,Yawara (Bot),,0,0,0,,Matsuda, tu pase de prensa.
 Dialogue: 0,1:01:35.67,1:01:44.18,Yawara (Bot),,0,0,0,,sonna kotoba de shibatteita
-Dialogue: 0,1:01:35.67,1:01:44.18,Yawara (Bot),,0,0,0,,%Esas preguntas invaden mi mente.
+Dialogue: 0,1:01:35.67,1:01:44.18,Yawara (Top),,0,0,0,,%Esas preguntas invaden mi mente.
 Dialogue: 0,1:01:36.75,1:01:38.09,Yawara (Bot),,0,0,0,,¡No está!
 Dialogue: 0,1:01:38.09,1:01:40.09,Yawara (Bot),,0,0,0,,¡Escuchen a la multitud!
 Dialogue: 0,1:01:40.09,1:01:43.97,Yawara (Bot),,0,0,0,,Yawara Inokuma, la judoca que dominó\Nla categoría de hasta 48 Kg,
 Dialogue: 0,1:01:43.97,1:01:48.10,Yawara (Bot),,0,0,0,,finalmente sube al ring para la categoría abierta.
-Dialogue: 0,1:01:45.47,1:01:54.89,Yawara (Bot),,0,0,0,,%No podía soportar la forma en que me trataba.
+Dialogue: 0,1:01:45.47,1:01:54.89,Yawara (Top),,0,0,0,,%No podía soportar la forma en que me trataba.
 Dialogue: 0,1:01:48.10,1:01:53.10,Yawara (Bot),,0,0,0,,Todo el mundo está pendiente de lo que ocurre\Nen el Centro de Convenciones de Georgia.
 Dialogue: 0,1:01:53.52,1:01:57.61,Yawara (Bot),,0,0,0,,Se enfrenta a otra favorita a la medalla,\NOhk de Corea del Sur.
-Dialogue: 0,1:01:55.98,1:02:11.74,Yawara (Bot),,0,0,0,,%Contuve mis palabras y ahora me arrepiento.
+Dialogue: 0,1:01:55.98,1:02:11.74,Yawara (Top),,0,0,0,,%Contuve mis palabras y ahora me arrepiento.
 Dialogue: 0,1:01:57.61,1:02:00.27,Yawara (Bot),,0,0,0,,Kamoda, entra para tomar fotografías.
 Dialogue: 0,1:02:00.27,1:02:01.40,Yawara (Bot),,0,0,0,,De acuerdo.
 Dialogue: 0,1:02:01.40,1:02:04.86,Yawara (Bot),,0,0,0,,Escucha, {\i1}soy un{\i} reportero {\i1}japonés{\i}.
 Dialogue: 0,1:02:04.86,1:02:06.36,Yawara (Bot),,0,0,0,,{\i1}No.{\i}
 Dialogue: 0,1:02:07.11,1:02:09.41,Yawara (Bot),,0,0,0,,¿No hay forma de que me entiendas?
 Dialogue: 0,1:02:09.83,1:02:10.70,Yawara (Bot),,0,0,0,,¡Saluden!
-Dialogue: 0,1:02:12.58,1:02:25.84,Yawara (Bot),,0,0,0,,%¿Cuándo dejaremos de ser niños y\N%aprenderemos a comportarnos como adultos?
+Dialogue: 0,1:02:12.58,1:02:25.84,Yawara (Top),,0,0,0,,%¿Cuándo dejaremos de ser niños y\N%aprenderemos a comportarnos como adultos?
 Dialogue: 0,1:02:13.50,1:02:16.37,Yawara (Bot),,0,0,0,,{\i1}Espero que me estés mirando, Matsuda.{\i}
 Dialogue: 0,1:02:17.08,1:02:17.88,Yawara (Bot),,0,0,0,,¡Comiencen!
 Dialogue: 0,1:02:22.59,1:02:25.97,Yawara (Bot),,0,0,0,,¡Ohk de Corea se lanza hacia ella!
 Dialogue: 0,1:02:25.97,1:02:27.97,Yawara (Bot),,0,0,0,,¡Resiste, Inokuma!
-Dialogue: 0,1:02:27.55,1:02:37.14,Yawara (Bot),,0,0,0,,%Quiero volver al momento cuando nos conocimos.
+Dialogue: 0,1:02:27.55,1:02:37.14,Yawara (Top),,0,0,0,,%Quiero volver al momento cuando nos conocimos.
 Dialogue: 0,1:02:29.47,1:02:31.97,Yawara (Bot),,0,0,0,,¡Inokuma la arroja!
 Dialogue: 0,1:02:36.35,1:02:37.65,Yawara (Bot),,0,0,0,,¡Ippon!
-Dialogue: 0,1:02:38.52,1:02:47.20,Yawara (Bot),,0,0,0,,%Su mirada hizo que se me parara el corazón.
+Dialogue: 0,1:02:38.52,1:02:47.20,Yawara (Top),,0,0,0,,%Su mirada hizo que se me parara el corazón.
 Dialogue: 0,1:02:42.90,1:02:46.07,Yawara (Bot),,0,0,0,,¿Qué? ¿Esa fue Yawara?
 Dialogue: 0,1:02:46.86,1:02:48.99,Yawara (Bot),,0,0,0,,¡Hey! ¡Déjame pasar!
-Dialogue: 0,1:02:48.45,1:02:58.46,Yawara (Bot),,0,0,0,,%Quiero recordar lo hermoso que fue todo.
+Dialogue: 0,1:02:48.45,1:02:58.46,Yawara (Top),,0,0,0,,%Quiero recordar lo hermoso que fue todo.
 Dialogue: 0,1:02:48.99,1:02:50.07,Yawara (Bot),,0,0,0,,{\i1}¡No!{\i}
 Dialogue: 0,1:02:50.62,1:02:54.16,Yawara (Bot),,0,0,0,,¡Cielos, Inokuma! ¡Me tenías muy preocupada!
 Dialogue: 0,1:02:54.16,1:02:55.58,Yawara (Bot),,0,0,0,,Lo siento.
 Dialogue: 0,1:02:56.12,1:02:58.58,Yawara (Bot),,0,0,0,,Me pregunto si Matsuda ya llegó.
-Dialogue: 0,1:02:59.54,1:03:13.47,Yawara (Bot),,0,0,0,,%Lo único que puedo hacer\N%es &aceptar esos sentimientos.
+Dialogue: 0,1:02:59.54,1:03:13.47,Yawara (Top),,0,0,0,,%Lo único que puedo hacer\N%es &aceptar esos sentimientos.
 Dialogue: 0,1:02:59.96,1:03:02.84,Yawara (Bot),,0,0,0,,¡Por supuesto que sí! ¡Sin ninguna duda!
 Dialogue: 0,1:03:10.64,1:03:12.72,Yawara (Bot),,0,0,0,,¡Ippon! ¡Fin del encuentro!
 Dialogue: 0,1:03:12.72,1:03:17.60,Yawara (Bot),,0,0,0,,¡Jody Rockwell con un explosivo uchi mata!
@@ -1382,37 +1382,37 @@ Dialogue: 0,1:24:50.18,1:24:52.65,Yawara (Bot),,0,0,0,,¡Al diablo! ¡Seguiré c
 Dialogue: 0,1:24:52.65,1:24:55.11,Yawara (Bot),,0,0,0,,¡Pero todavía falta mucho para la casa del ministro!
 Dialogue: 0,1:24:55.69,1:24:58.07,Yawara (Bot),,0,0,0,,¡Estaciona justo en frente cuando llegues allá!
 Dialogue: 0,1:24:58.07,1:24:59.82,Yawara (Bot),,0,0,0,,¡Matsuda!
-Dialogue: 0,1:25:00.74,1:25:06.12,Yawara (Bot),,0,0,0,,%La razón por la cual me opongo tanto...
+Dialogue: 0,1:25:00.74,1:25:06.12,Yawara (Top),,0,0,0,,%La razón por la cual me opongo tanto...
 Dialogue: 0,1:25:07.52,1:25:10.20,Yawara (Bot),,0,0,0,,{\i1}¿Por qué estoy corriendo?{\i}
-Dialogue: 0,1:25:08.95,1:25:14.88,Yawara (Bot),,0,0,0,,%... es porque descubrí que no me elegirás.
+Dialogue: 0,1:25:08.95,1:25:14.88,Yawara (Top),,0,0,0,,%... es porque descubrí que no me elegirás.
 Dialogue: 0,1:25:10.20,1:25:14.88,Yawara (Bot),,0,0,0,,{\i1}¡No tengo idea qué haré una vez que llegue!{\i}
 Dialogue: 0,1:25:15.42,1:25:19.88,Yawara (Bot),,0,0,0,,Ahora haremos entrega del trofeo y certificado.
-Dialogue: 0,1:25:17.30,1:25:25.76,Yawara (Bot),,0,0,0,,%Escuché unos pasos familiares,
+Dialogue: 0,1:25:17.30,1:25:25.76,Yawara (Top),,0,0,0,,%Escuché unos pasos familiares,
 Dialogue: 0,1:25:19.88,1:25:23.59,Yawara (Bot),,0,0,0,,¡Estoy con el {\i1}Todos los Deportes{\i}!\N¡Déjenme entrar antes de que me pierda la ceremonia!
 Dialogue: 0,1:25:23.59,1:25:24.93,Yawara (Bot),,0,0,0,,Tenemos que registrarte.
 Dialogue: 0,1:25:26.22,1:25:27.76,Yawara (Bot),,0,0,0,,¿Satisfechos?
-Dialogue: 0,1:25:26.30,1:25:34.69,Yawara (Bot),,0,0,0,,%pero cuando me di vuelta, era otra persona.
+Dialogue: 0,1:25:26.30,1:25:34.69,Yawara (Top),,0,0,0,,%pero cuando me di vuelta, era otra persona.
 Dialogue: 0,1:25:28.56,1:25:33.56,Yawara (Bot),,0,0,0,,... por sus logros sin precedentes\Ny promover la expansión del judo...
 Dialogue: 0,1:25:34.19,1:25:37.06,Yawara (Bot),,0,0,0,,¡Me tenías preocupada!
-Dialogue: 0,1:25:35.19,1:25:43.11,Yawara (Bot),,0,0,0,,%Creo que me siento sola.
+Dialogue: 0,1:25:35.19,1:25:43.11,Yawara (Top),,0,0,0,,%Creo que me siento sola.
 Dialogue: 0,1:25:35.44,1:25:37.65,Yawara (Bot),,0,0,0,,... y por dar a tus conciudadanos...
 Dialogue: 0,1:25:37.06,1:25:37.65,Yawara (Bot),,0,0,0,,¡Estúpido!
 Dialogue: 0,1:25:43.82,1:25:50.54,Yawara (Bot),,0,0,0,,hito ni kitai shitai ate ni shitai shinjiteitai
-Dialogue: 0,1:25:43.82,1:25:50.54,Yawara (Bot),,0,0,0,,%Quiero confiar, depender y creer en ti.
+Dialogue: 0,1:25:43.82,1:25:50.54,Yawara (Top),,0,0,0,,%Quiero confiar, depender y creer en ti.
 Dialogue: 0,1:25:47.58,1:25:48.53,Yawara (Bot),,0,0,0,,¡Matsuda!
 Dialogue: 0,1:25:48.53,1:25:50.54,Yawara (Bot),,0,0,0,,¿Qué piensas hacer ahora, {\i1}Todos los Deportes{\i}?
 Dialogue: 0,1:25:52.58,1:26:01.05,Yawara (Bot),,0,0,0,,moshi anata wo wasureraretara
-Dialogue: 0,1:25:52.58,1:26:01.05,Yawara (Bot),,0,0,0,,%¿Qué sucederá si me olvido de ti?
+Dialogue: 0,1:25:52.58,1:26:01.05,Yawara (Top),,0,0,0,,%¿Qué sucederá si me olvido de ti?
 Dialogue: 0,1:25:52.66,1:25:53.54,Yawara (Bot),,0,0,0,,¿Matsuda?
 Dialogue: 0,1:25:54.17,1:25:56.42,Yawara (Bot),,0,0,0,,Felicitaciones.
 Dialogue: 0,1:25:57.08,1:25:58.54,Yawara (Bot),,0,0,0,,Yo...
 Dialogue: 0,1:25:59.34,1:26:00.05,Yawara (Bot),,0,0,0,,¿Dime?
 Dialogue: 0,1:26:00.05,1:26:01.84,Yawara (Bot),,0,0,0,,¡Vamos, Kosaku!
-Dialogue: 0,1:26:01.34,1:26:08.85,Yawara (Bot),,0,0,0,,%¿Podré seguir adelante?
+Dialogue: 0,1:26:01.34,1:26:08.85,Yawara (Top),,0,0,0,,%¿Podré seguir adelante?
 Dialogue: 0,1:26:01.84,1:26:05.05,Yawara (Bot),,0,0,0,,¡Dile lo que sientes frente a las cámaras!
 Dialogue: 0,1:26:05.97,1:26:08.10,Yawara (Bot),,0,0,0,,Yo...
 Dialogue: 0,1:26:09.22,1:26:10.18,Yawara (Bot),,0,0,0,,¿Sí?
-Dialogue: 0,1:26:09.60,1:26:12.98,Yawara (Bot),,0,0,0,,%Mañana será otro día.
+Dialogue: 0,1:26:09.60,1:26:12.98,Yawara (Top),,0,0,0,,%Mañana será otro día.
 Dialogue: 0,1:26:11.22,1:26:15.06,Yawara (Bot),,0,0,0,,En realidad debo irme al\Naeropuerto de Narita, así que...
 Dialogue: 0,1:26:18.27,1:26:21.94,Yawara (Bot),,0,0,0,,¿No deberían sacarlo a la fuerza?
 Dialogue: 0,1:26:21.94,1:26:23.40,Yawara (Bot),,0,0,0,,¡Así es! ¡Es un agitador!
@@ -1420,37 +1420,37 @@ Dialogue: 0,1:26:23.40,1:26:26.07,Yawara (Bot),,0,0,0,,¡Atrápenlo, espósenlo 
 Dialogue: 0,1:26:26.07,1:26:27.37,Yawara (Bot),,0,0,0,,¡Tenemos una @situación!
 Dialogue: 0,1:26:27.37,1:26:28.57,Yawara (Bot),,0,0,0,,¡Tenga cuidado, Su Excelencia!
 Dialogue: 0,1:26:28.03,1:26:33.33,Yawara (Bot),,0,0,0,,kuchi ga umai hito da to dareka ni kiita
-Dialogue: 0,1:26:28.03,1:26:33.33,Yawara (Bot),,0,0,0,,%Escuché que en realidad eres bueno con las palabras,
+Dialogue: 0,1:26:28.03,1:26:33.33,Yawara (Top),,0,0,0,,%Escuché que en realidad eres bueno con las palabras,
 Dialogue: 0,1:26:28.57,1:26:31.58,Yawara (Bot),,0,0,0,,¡Maldito {\i1}Todos los Deportes{\i}!\N¿Otra vez intentas lucirte?
 Dialogue: 0,1:26:31.58,1:26:32.62,Yawara (Bot),,0,0,0,,¡Ya estoy harto de ti!
 Dialogue: 0,1:26:34.04,1:26:34.83,Yawara (Bot),,0,0,0,,¡Matsuda!
-Dialogue: 0,1:26:36.12,1:26:42.34,Yawara (Bot),,0,0,0,,%que no eres tan débil como creía.
+Dialogue: 0,1:26:36.12,1:26:42.34,Yawara (Top),,0,0,0,,%que no eres tan débil como creía.
 Dialogue: 0,1:26:44.01,1:26:46.05,Yawara (Bot),,0,0,0,,¿Cuándo sale tu vuelo?
-Dialogue: 0,1:26:44.55,1:26:52.68,Yawara (Bot),,0,0,0,,%Esto me llena de dudas.
+Dialogue: 0,1:26:44.55,1:26:52.68,Yawara (Top),,0,0,0,,%Esto me llena de dudas.
 Dialogue: 0,1:26:46.05,1:26:47.89,Yawara (Bot),,0,0,0,,A las dos.
 Dialogue: 0,1:26:47.89,1:26:49.68,Yawara (Bot),,0,0,0,,¡Oh, no! ¡Debemos apresurarnos!
 Dialogue: 0,1:26:51.72,1:26:52.68,Yawara (Bot),,0,0,0,,¡Inokuma!
-Dialogue: 0,1:26:53.52,1:27:01.77,Yawara (Bot),,0,0,0,,%Es una tontería, sigo soñando contigo.
+Dialogue: 0,1:26:53.52,1:27:01.77,Yawara (Top),,0,0,0,,%Es una tontería, sigo soñando contigo.
 Dialogue: 0,1:26:56.60,1:26:58.69,Yawara (Bot),,0,0,0,,¡Adelante!
-Dialogue: 0,1:27:02.40,1:27:10.24,Yawara (Bot),,0,0,0,,%Creo que me siento sola.
+Dialogue: 0,1:27:02.40,1:27:10.24,Yawara (Top),,0,0,0,,%Creo que me siento sola.
 Dialogue: 0,1:27:02.48,1:27:04.11,Yawara (Bot),,0,0,0,,Es lo peor que he hecho.
 Dialogue: 0,1:27:04.11,1:27:07.66,Yawara (Bot),,0,0,0,,¡Acabo de arruinar la ceremonia\Ndel Premio Nacional al Mérito!
 Dialogue: 0,1:27:08.20,1:27:10.12,Yawara (Bot),,0,0,0,,No hay problema.
 Dialogue: 0,1:27:10.12,1:27:12.20,Yawara (Bot),,0,0,0,,Creo que todo saldrá bien.
-Dialogue: 0,1:27:11.49,1:27:18.12,Yawara (Bot),,0,0,0,,%No puedo confiar, depender o creer en otros.
+Dialogue: 0,1:27:11.49,1:27:18.12,Yawara (Top),,0,0,0,,%No puedo confiar, depender o creer en otros.
 Dialogue: 0,1:27:12.95,1:27:14.66,Yawara (Bot),,0,0,0,,El abuelo se encargará de todo.
 Dialogue: 0,1:27:17.08,1:27:18.87,Yawara (Bot),,0,0,0,,¿Dónde está Inokuma?
 Dialogue: 0,1:27:17.75,1:27:18.87,Yawara (Bot),,0,0,0,,¿Dónde está el {\i1}Todos los Deportes{\i}?
 Dialogue: 0,1:27:18.87,1:27:20.08,Yawara (Bot),,0,0,0,,¡Dame eso!
-Dialogue: 0,1:27:19.88,1:27:28.38,Yawara (Bot),,0,0,0,,%Pero no me arrepentiré de esta realidad.
+Dialogue: 0,1:27:19.88,1:27:28.38,Yawara (Top),,0,0,0,,%Pero no me arrepentiré de esta realidad.
 Dialogue: 0,1:27:21.21,1:27:24.21,Yawara (Bot),,0,0,0,,Yo recibiré el Premio Nacional al Mérito.
 Dialogue: 0,1:27:24.21,1:27:25.46,Yawara (Bot),,0,0,0,,Por supuesto...
 Dialogue: 0,1:27:26.55,1:27:27.22,Yawara (Bot),,0,0,0,,Gracias.
 Dialogue: 0,1:27:27.88,1:27:31.60,Yawara (Bot),,0,0,0,,Muy bien, gente. ¡A la sala de prensa!
-Dialogue: 0,1:27:28.93,1:27:35.64,Yawara (Bot),,0,0,0,,%Pensaré en lo que haré después.
+Dialogue: 0,1:27:28.93,1:27:35.64,Yawara (Top),,0,0,0,,%Pensaré en lo que haré después.
 Dialogue: 0,1:27:32.39,1:27:34.47,Yawara (Bot),,0,0,0,,Pero Yawara no está aquí.
 Dialogue: 0,1:27:34.47,1:27:39.23,Yawara (Bot),,0,0,0,,¡Cabeza hueca! No necesitamos a Yawara\Npara la conferencia de prensa.
-Dialogue: 0,1:27:37.10,1:27:42.02,Yawara (Bot),,0,0,0,,%Hoy todo cambiará.
+Dialogue: 0,1:27:37.10,1:27:42.02,Yawara (Top),,0,0,0,,%Hoy todo cambiará.
 Dialogue: 0,1:27:39.52,1:27:41.94,Yawara (Bot),,0,0,0,,¡Mientras esté yo no habrá problema!
 Dialogue: 0,1:27:44.73,1:27:48.74,Yawara (Bot),,0,0,0,,Tu pasaje y el boleto del equipaje.
 Dialogue: 0,1:27:48.74,1:27:49.86,Yawara (Bot),,0,0,0,,Gracias.
@@ -1469,17 +1469,6 @@ Dialogue: 0,1:28:57.64,1:28:58.97,Yawara (Bot),,0,0,0,,Matsuda...
 Dialogue: 0,1:29:27.80,1:29:28.50,Yawara (Bot),,0,0,0,,Yo...
 Dialogue: 0,1:29:32.34,1:29:33.30,Yawara (Bot),,0,0,0,,Yo...
 Dialogue: 0,1:29:38.35,1:29:39.52,Yawara (Bot),,0,0,0,,Te amo.
-Dialogue: 0,1:29:41.60,1:29:42.48,Yawara (Bot),,0,0,0,,¡Yo también te amo!
-Dialogue: 0,1:29:41.73,1:29:49.53,Yawara (Bot),,0,0,0,,%Creo que me siento sola.
-Dialogue: 0,1:29:46.31,1:29:48.02,Yawara (Bot),,0,0,0,,¡Desde hace mucho tiempo!
-Dialogue: 0,1:29:50.40,1:29:57.41,Yawara (Bot),,0,0,0,,%No puedo confiar, depender o creer en otros.
-Dialogue: 0,1:29:58.58,1:30:03.08,Yawara (Bot),,0,0,0,,%Hoy es otro día.
-Dialogue: 0,1:30:42.63,1:30:48.41,Yawara (Bot),,0,0,0,,%La razón por la cual me opongo tanto...
-Dialogue: 0,1:30:50.81,1:30:57.09,Yawara (Bot),,0,0,0,,%... es porque descubrí que no me elegirás.
-Dialogue: 0,1:30:59.19,1:31:08.01,Yawara (Bot),,0,0,0,,%Escuché unos pasos familiares,
-Dialogue: 0,1:31:08.15,1:31:16.98,Yawara (Bot),,0,0,0,,%pero cuando me di vuelta, era otra persona.
-Dialogue: 0,1:31:16.98,1:31:25.39,Yawara (Bot),,0,0,0,,%Creo que me siento sola.
-Dialogue: 0,1:31:25.64,1:31:32.97,Yawara (Bot),,0,0,0,,%Quiero confiar, depender y creer en ti.
-Dialogue: 0,1:31:34.30,1:31:43.16,Yawara (Bot),,0,0,0,,%¿Qué sucederá si me olvido de ti?
-Dialogue: 0,1:31:43.16,1:31:51.08,Yawara (Bot),,0,0,0,,%¿Podré seguir adelante?
-Dialogue: 0,1:31:51.30,1:31:55.15,Yawara (Bot),,0,0,0,,%Mañana será otro día.
+Dialogue: 0,1:29:41.60,1:29:42.48,Yawara (Bot),,0,0,0,,¡Yo también!
+Dialogue: 0,1:29:41.73,1:29:49.53,Yawara (Top),,0,0,0,,%Creo que me siento sola.
+Dialogue: 0,1:29:46.31,1:29:48.02,Yawara (Bot),,0,0,0,,¡Te amo desde hace mucho!
