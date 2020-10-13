@@ -1,5 +1,6 @@
 import pynvim
 import os
+import subprocess
 import re
 
 @pynvim.plugin
@@ -79,7 +80,7 @@ class SrtPlayer(SubPlayer):
         end = time[2].replace(',', '.')
         cmd = self.command.format(start=start, end=end, videofile=videofile)
         print(cmd)
-        os.system(cmd)
+        subprocess.Popen(cmd.split())
 
     def is_timestamp(self, line):
         time = line.split()
@@ -99,4 +100,4 @@ class AssPlayer(SubPlayer):
 
         cmd = self.command.format(start=start, end=end, videofile=videofile)
         print(cmd)
-        os.system(cmd)
+        subprocess.Popen(cmd.split())
