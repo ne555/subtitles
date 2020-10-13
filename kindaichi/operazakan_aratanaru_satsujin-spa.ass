@@ -27,14 +27,15 @@ Dialogue: 0,0:01:55.42,0:01:58.51,Kindaichi (Bot),,0,0,0,,¡Qué asco! Hajime as
 Dialogue: 0,0:02:00.47,0:02:02.06,Kindaichi (Bot),,0,0,0,,Acabo de acordarme.
 Dialogue: 0,0:02:05.10,0:02:10.77,Kindaichi (Bot),,0,0,0,,Mira, Miyuki. Dice: "Por favor,\Ntomen el autobús en la estación".
 Dialogue: 0,0:02:10.77,0:02:13.69,Kindaichi (Bot),,0,0,0,,¡Si hay un autobús, no tenemos que caminar!
-Dialogue: 0,0:02:13.69,0:02:16.13,Kindaichi (Bot),,0,0,0,,¿Dice algo más en el folleto?
+Dialogue: 0,0:02:13.69,0:02:16.13,Kindaichi (Bot),,0,0,0,,¿No dice algo más en el folleto?
 Dialogue: 0,0:02:16.13,0:02:20.05,Kindaichi (Bot),,0,0,0,,"Sin embargo, el autobús sólo funcionará\Nen los días de función."
 Dialogue: 0,0:02:20.05,0:02:21.37,Kindaichi (Bot),,0,0,0,,No puede ser.
 Dialogue: 0,0:02:21.37,0:02:25.33,Kindaichi (Bot),,0,0,0,,Nosotros, los amantes del teatro que vinimos\Ndos días antes para ver los ensayos,
 Dialogue: 0,0:02:25.33,0:02:26.56,Kindaichi (Bot),,0,0,0,,tendremos que caminar.
 Dialogue: 0,0:02:26.56,0:02:28.50,Kindaichi (Bot),,0,0,0,,No me gusta el teatro.
 Dialogue: 0,0:02:28.50,0:02:30.93,Kindaichi (Bot),,0,0,0,,Ya no puedo contener la emoción.
-Dialogue: 0,0:02:30.93,0:02:33.64,Kindaichi (Bot),,0,0,0,,Todas las estrellas de la compañía\Nde teatro {\i1}Ilusión{\i} estarán allí.
+Dialogue: 0,0:02:28.50,0:02:37.01,Kindaichi (Top),,0,0,0,,#El Fantasma de la Ópera
+Dialogue: 0,0:02:30.93,0:02:33.64,Kindaichi (Bot),,0,0,0,,Todas las estrellas de la compañía\Nde teatro Ilusión estarán allí.
 Dialogue: 0,0:02:33.64,0:02:37.01,Kindaichi (Bot),,0,0,0,,Kozaburo Nojo, Seiko Shinjoji, Rio Kanai.
 Dialogue: 0,0:02:37.01,0:02:42.40,Kindaichi (Bot),,0,0,0,,Bajo la dirección del genio solitario, Kazuma Kurosawa.
 Dialogue: 0,0:02:42.40,0:02:44.26,Kindaichi (Bot),,0,0,0,,Ya no puedo esperar.
@@ -56,7 +57,7 @@ Dialogue: 0,0:03:45.03,0:03:47.33,Kindaichi (Bot),,0,0,0,,¡El viejo Kenmochi!
 Dialogue: 0,0:03:47.33,0:03:50.12,Kindaichi (Bot),,0,0,0,,¿A quién le dices viejo?
 Dialogue: 0,0:03:50.12,0:03:52.72,Kindaichi (Bot),,0,0,0,,Kenmochi, ¿a ti también te invitó Kurosawa?
 Dialogue: 0,0:03:52.72,0:03:53.64,Kindaichi (Bot),,0,0,0,,Sí.
-Dialogue: 0,0:03:53.64,0:03:59.23,Kindaichi (Bot),,0,0,0,,Pensaba pescar un poco antes de ver la obra,\N@por lo que reservé unas horas libres.
+Dialogue: 0,0:03:53.64,0:03:59.23,Kindaichi (Bot),,0,0,0,,Pensaba pescar un poco antes de ver la obra,\Npor lo que reservé unas horas libres.
 Dialogue: 0,0:03:59.23,0:04:02.80,Kindaichi (Bot),,0,0,0,,Cuando pasé por la jefatura de policía,\Nse ofrecieron a llevarme.
 Dialogue: 0,0:04:03.17,0:04:09.05,Kindaichi (Bot),,0,0,0,,Después de todo, el superintendente condecoró al inspector\Npor su trabajo en el incidente de la Isla Uta.
 Dialogue: 0,0:04:09.05,0:04:11.13,Kindaichi (Bot),,0,0,0,,Él es nuestro héroe.
@@ -81,7 +82,7 @@ Dialogue: 0,0:05:13.54,0:05:14.57,Kindaichi (Bot),,0,0,0,,¿Me hablas a mí?
 Dialogue: 0,0:05:14.57,0:05:15.96,Kindaichi (Bot),,0,0,0,,Sí, a ti.
 Dialogue: 0,0:05:19.79,0:05:21.70,Kindaichi (Bot),,0,0,0,,Tú eres Atsushi Takizawa, ¿no es así?
 Dialogue: 0,0:05:21.70,0:05:24.52,Kindaichi (Bot),,0,0,0,,Oh, y ese es Yukio Midorikawa.
-Dialogue: 0,0:05:26.22,0:05:29.14,Kindaichi (Bot),,0,0,0,,Son actores de {\i1}Ilusión{\i}.
+Dialogue: 0,0:05:26.22,0:05:29.14,Kindaichi (Bot),,0,0,0,,Son actores de Ilusión.
 Dialogue: 0,0:05:29.14,0:05:30.43,Kindaichi (Bot),,0,0,0,,Encantado.
 Dialogue: 0,0:05:30.43,0:05:32.41,Kindaichi (Bot),,0,0,0,,¿Son actores?
 Dialogue: 0,0:05:32.41,0:05:34.23,Kindaichi (Bot),,0,0,0,,¿Podrías ayudarnos?
@@ -89,16 +90,16 @@ Dialogue: 0,0:05:34.23,0:05:36.79,Kindaichi (Bot),,0,0,0,,Tenemos que cargar est
 Dialogue: 0,0:05:36.79,0:05:38.44,Kindaichi (Bot),,0,0,0,,Sí, claro.
 Dialogue: 0,0:05:38.44,0:05:41.07,Kindaichi (Bot),,0,0,0,,¡Con cuidado! Es muy pesado.
 Dialogue: 0,0:05:41.07,0:05:42.73,Kindaichi (Bot),,0,0,0,,¿Qué es esto?
-Dialogue: 0,0:05:42.73,0:05:44.62,Kindaichi (Bot),,0,0,0,,Un marco. Para una pintura.
+Dialogue: 0,0:05:42.73,0:05:44.62,Kindaichi (Bot),,0,0,0,,Un marco, para una pintura.
 Dialogue: 0,0:05:46.69,0:05:48.07,Kindaichi (Bot),,0,0,0,,¡Pesa!
 Dialogue: 0,0:05:53.16,0:05:54.37,Kindaichi (Bot),,0,0,0,,¡Era muy pesado!
 Dialogue: 0,0:05:54.37,0:05:57.28,Kindaichi (Bot),,0,0,0,,¡Doctora! ¡Doctora Saeki!
-Dialogue: 0,0:05:57.28,0:05:59.31,Kindaichi (Bot),,0,0,0,,¡Nos llevamos el bote!
+Dialogue: 0,0:05:57.28,0:05:59.31,Kindaichi (Bot),,0,0,0,,¡Vamos a zarpar!
 Dialogue: 0,0:06:02.13,0:06:03.61,Kindaichi (Bot),,0,0,0,,¿Quién es ella?
-Dialogue: 0,0:06:04.52,0:06:05.63,Kindaichi (Bot),,0,0,0,,La @señorita Saeki.
+Dialogue: 0,0:06:04.52,0:06:05.63,Kindaichi (Bot),,0,0,0,,La señorita Saeki.
 Dialogue: 0,0:06:05.97,0:06:07.31,Kindaichi (Bot),,0,0,0,,Es una doctora.
 Dialogue: 0,0:06:12.31,0:06:13.31,Kindaichi (Bot),,0,0,0,,Gracias.
-Dialogue: 0,0:06:13.31,0:06:15.14,Kindaichi (Bot),,0,0,0,,No es nada.
+Dialogue: 0,0:06:13.31,0:06:15.14,Kindaichi (Bot),,0,0,0,,De nada.
 Dialogue: 0,0:06:21.86,0:06:27.82,Kindaichi (Bot),,0,0,0,,Hasta que un hombre de negocios construyó\Nuna casa de verano en la era Meiji,
 Dialogue: 0,0:06:27.82,0:06:29.90,Kindaichi (Bot),,0,0,0,,la Isla Uta estaba completamente deshabitada.
 Dialogue: 0,0:06:30.59,0:06:33.38,Kindaichi (Bot),,0,0,0,,La isla cambió de dueño varias veces.
@@ -111,14 +112,14 @@ Dialogue: 0,0:06:52.56,0:06:53.97,Kindaichi (Bot),,0,0,0,,La Isla Uta.
 Dialogue: 0,0:07:23.77,0:07:24.54,Kindaichi (Bot),,0,0,0,,¿Qué?
 Dialogue: 0,0:07:30.63,0:07:32.37,Kindaichi (Bot),,0,0,0,,Es propio de él recibirnos de esa manera.
 Dialogue: 0,0:07:32.37,0:07:33.09,Kindaichi (Bot),,0,0,0,,¿Eh?
-Dialogue: 0,0:07:41.14,0:07:44.39,Kindaichi (Bot),,0,0,0,,Ese era Kozaburo Nojo, ¿no es así?
+Dialogue: 0,0:07:41.14,0:07:44.39,Kindaichi (Bot),,0,0,0,,Ese es Kozaburo Nojo, ¿no es así?
 Dialogue: 0,0:07:44.39,0:07:45.03,Kindaichi (Bot),,0,0,0,,Sí.
 Dialogue: 0,0:07:45.03,0:07:45.85,Kindaichi (Bot),,0,0,0,,¿Quién?
-Dialogue: 0,0:07:45.85,0:07:47.96,Kindaichi (Bot),,0,0,0,,La estrella principal de {\i1}Ilusión{\i}.
+Dialogue: 0,0:07:45.85,0:07:47.96,Kindaichi (Bot),,0,0,0,,La estrella principal de Ilusión.
 Dialogue: 0,0:07:47.96,0:07:50.49,Kindaichi (Bot),,0,0,0,,Es mi ídolo. Es el hombre en mi corazón.
 Dialogue: 0,0:07:50.49,0:07:52.33,Kindaichi (Bot),,0,0,0,,¿Lo conoces?
 Dialogue: 0,0:07:52.33,0:07:55.52,Kindaichi (Bot),,0,0,0,,Hace tiempo que soy la médica de cabecera de su familia.
-Dialogue: 0,0:07:59.59,0:08:04.82,Kindaichi (Bot),,0,0,0,,Takizawa, Midorikawa, el @director Kurosawa dijo\Nque pronto comenzaremos con los ensayos.
+Dialogue: 0,0:07:59.59,0:08:04.82,Kindaichi (Bot),,0,0,0,,Takizawa, Midorikawa, el director Kurosawa dijo\Nque pronto comenzaremos con los ensayos.
 Dialogue: 0,0:08:04.82,0:08:07.13,Kindaichi (Bot),,0,0,0,,Sí, lo sabemos, Rokuro.
 Dialogue: 0,0:08:07.13,0:08:10.05,Kindaichi (Bot),,0,0,0,,¿Podrías ayudarnos a llevar esto al teatro?
 Dialogue: 0,0:08:10.38,0:08:13.55,Kindaichi (Bot),,0,0,0,,Regresare inmediatamente después de que\Nnuestros invitados se hayan instalado.
@@ -127,16 +128,16 @@ Dialogue: 0,0:08:17.05,0:08:18.81,Kindaichi (Bot),,0,0,0,,Permítame.
 Dialogue: 0,0:08:31.49,0:08:32.78,Kindaichi (Bot),,0,0,0,,Ese es el teatro.
 Dialogue: 0,0:08:39.16,0:08:45.79,Kindaichi (Bot),,0,0,0,,En general está cerrado, pero ahora que comenzaron\Nlos ensayos dejamos las puertas abiertas.
 Dialogue: 0,0:08:45.79,0:08:48.06,Kindaichi (Bot),,0,0,0,,Pueden pasar a observar cuando gusten.
-Dialogue: 0,0:08:48.06,0:08:50.44,Kindaichi (Bot),,0,0,0,,Tenemos permiso de dueño Kurosawa.
+Dialogue: 0,0:08:48.06,0:08:50.44,Kindaichi (Bot),,0,0,0,,Tienen permiso del dueño Kurosawa.
 Dialogue: 0,0:08:54.18,0:08:58.00,Kindaichi (Bot),,0,0,0,,¿Por qué tengo que dejar de cantar?
 Dialogue: 0,0:08:58.00,0:09:01.52,Kindaichi (Bot),,0,0,0,,¿Quieres decir que hay una mejor cantante?
 Dialogue: 0,0:09:01.52,0:09:03.58,Kindaichi (Bot),,0,0,0,,París, siglo XIX.
 Dialogue: 0,0:09:03.58,0:09:08.39,Kindaichi (Bot),,0,0,0,,Envían una carta de amenaza a la casa de ópera\Ndonde Carlotta es la cantante principal.
-Dialogue: 0,0:09:08.39,0:09:11.22,Kindaichi (Bot),,0,0,0,,Carlotta es intermpretada por Seiko Shinjoji.
+Dialogue: 0,0:09:08.39,0:09:11.22,Kindaichi (Bot),,0,0,0,,Carlotta es interpretada por Seiko Shinjoji.
 Dialogue: 0,0:09:11.72,0:09:17.48,Kindaichi (Bot),,0,0,0,,La carta demanda que Carlotta\Nsea reemplazada por una corista, Christine.
-Dialogue: 0,0:09:17.48,0:09:20.79,Kindaichi (Bot),,0,0,0,,Interpretada por su mejor actriz @juvenil, Rio Kanai.
+Dialogue: 0,0:09:17.48,0:09:20.79,Kindaichi (Bot),,0,0,0,,Interpretada por su mejor actriz juvenil, Rio Kanai.
 Dialogue: 0,0:09:20.79,0:09:26.29,Kindaichi (Bot),,0,0,0,,Cuando subo al escenario,\Nsiento que alguien me observa.
-Dialogue: 0,0:09:26.29,0:09:29.23,Kindaichi (Bot),,0,0,0,,Christine is amada por el vizconde Raoul.
+Dialogue: 0,0:09:26.29,0:09:29.23,Kindaichi (Bot),,0,0,0,,Christine es amada por el vizconde Raoul.
 Dialogue: 0,0:09:29.23,0:09:31.30,Kindaichi (Bot),,0,0,0,,Por supuesto, Kozaburo Nojo interpreta a Raoul.
 Dialogue: 0,0:09:31.30,0:09:34.09,Kindaichi (Bot),,0,0,0,,Ese soy yo, Christine Daaé.
 Dialogue: 0,0:09:34.09,0:09:37.29,Kindaichi (Bot),,0,0,0,,Siempre te observo cuando estás en escena.
@@ -153,7 +154,7 @@ Dialogue: 0,0:10:14.96,0:10:17.33,Kindaichi (Bot),,0,0,0,,Es tiempo de que te ol
 Dialogue: 0,0:10:17.33,0:10:18.58,Kindaichi (Bot),,0,0,0,,Renuncia a ella.
 Dialogue: 0,0:10:19.63,0:10:24.53,Kindaichi (Bot),,0,0,0,,El conde Felipe, preocupado, lo sigue,\Npero sufre una muerte inexplicable.
 Dialogue: 0,0:10:25.63,0:10:29.30,Kindaichi (Bot),,0,0,0,,Raoul se encuentra solo en el sótano de la ópera.
-Dialogue: 0,0:10:29.30,0:10:33.36,Kindaichi (Bot),,0,0,0,,Allí ve al fantasma, convertido en esclavo\Nde a su amor por Christine.
+Dialogue: 0,0:10:29.30,0:10:33.36,Kindaichi (Bot),,0,0,0,,Allí ve al fantasma, convertido en esclavo\Nde su amor por Christine.
 Dialogue: 0,0:10:34.22,0:10:35.86,Kindaichi (Bot),,0,0,0,,En cuanto al fantasma,
 Dialogue: 0,0:10:35.86,0:10:38.36,Kindaichi (Bot),,0,0,0,,es Kozaburo Nojo en un segundo rol.
 Dialogue: 0,0:10:39.05,0:10:41.75,Kindaichi (Bot),,0,0,0,,Si no fuera por esta cara,
@@ -166,13 +167,13 @@ Dialogue: 0,0:11:11.40,0:11:15.36,Kindaichi (Bot),,0,0,0,,El personaje de Christ
 Dialogue: 0,0:11:15.36,0:11:17.88,Kindaichi (Bot),,0,0,0,,¿Por qué yo tengo que hacer a Carlotta?
 Dialogue: 0,0:11:17.88,0:11:20.04,Kindaichi (Bot),,0,0,0,,¡Yo debería ser Christine!
 Dialogue: 0,0:11:20.04,0:11:21.53,Kindaichi (Bot),,0,0,0,,¿Acaso no tengo razón?
-Dialogue: 0,0:11:21.53,0:11:23.41,Kindaichi (Bot),,0,0,0,,@Es como dice.
+Dialogue: 0,0:11:21.53,0:11:23.41,Kindaichi (Bot),,0,0,0,,Es como dices.
 Dialogue: 0,0:11:23.41,0:11:25.01,Kindaichi (Bot),,0,0,0,,Por supuesto, tengo el talento.
 Dialogue: 0,0:11:25.01,0:11:28.62,Kindaichi (Bot),,0,0,0,,Y además soy la hija del presidente\Nde la compañía de teatro Ilusión.
 Dialogue: 0,0:11:28.62,0:11:32.22,Kindaichi (Bot),,0,0,0,,Y la prometida de nuestra estrella,\NKozaburo Nojo, y...
 Dialogue: 0,0:11:32.22,0:11:33.50,Kindaichi (Bot),,0,0,0,,Suficiente.
 Dialogue: 0,0:11:34.08,0:11:35.17,Kindaichi (Bot),,0,0,0,,Midorikawa.
-Dialogue: 0,0:11:35.50,0:11:36.02,Kindaichi (Bot),,0,0,0,,@Trae un poco de agua.
+Dialogue: 0,0:11:35.50,0:11:36.02,Kindaichi (Bot),,0,0,0,,Agua.
 Dialogue: 0,0:11:36.02,0:11:37.05,Kindaichi (Bot),,0,0,0,,Enseguida.
 Dialogue: 0,0:11:37.05,0:11:40.88,Kindaichi (Bot),,0,0,0,,Me gustaría escuchar lo que Seiko tiene para decir.
 Dialogue: 0,0:11:40.88,0:11:43.91,Kindaichi (Bot),,0,0,0,,¿Desde cuándo crees que puedes responderme?
@@ -182,7 +183,7 @@ Dialogue: 0,0:11:56.33,0:12:00.32,Kindaichi (Bot),,0,0,0,,Tu Christine va mejora
 Dialogue: 0,0:12:01.41,0:12:02.15,Kindaichi (Bot),,0,0,0,,Gracias.
 Dialogue: 0,0:12:02.15,0:12:04.59,Kindaichi (Bot),,0,0,0,,Sigue así, Kanai.
 Dialogue: 0,0:12:04.59,0:12:06.16,Kindaichi (Bot),,0,0,0,,¡Pero, director Kurosawa!
-Dialogue: 0,0:12:06.16,0:12:07.87,Kindaichi (Bot),,0,0,0,,Su actuación de recién--
+Dialogue: 0,0:12:06.16,0:12:07.87,Kindaichi (Bot),,0,0,0,,Su actuación de recién...
 Dialogue: 0,0:12:07.87,0:12:11.00,Kindaichi (Bot),,0,0,0,,Shinjoji, no olvides que yo soy el director.
 Dialogue: 0,0:12:11.37,0:12:13.71,Kindaichi (Bot),,0,0,0,,Preocúpate por mejorar tu propio personaje.
 Dialogue: 0,0:12:13.71,0:12:15.50,Kindaichi (Bot),,0,0,0,,Tú eres la única que puede interpretar a Carlotta.
@@ -194,7 +195,7 @@ Dialogue: 0,0:12:25.27,0:12:26.37,Kindaichi (Bot),,0,0,0,,¿Fui claro?
 Dialogue: 0,0:12:28.63,0:12:33.08,Kindaichi (Bot),,0,0,0,,Nunca te lo imaginarías, pero pasan\Nmuchas cosas en un grupo de teatro.
 Dialogue: 0,0:12:33.94,0:12:35.05,Kindaichi (Bot),,0,0,0,,¿Hajime?
 Dialogue: 0,0:12:38.07,0:12:39.36,Kindaichi (Bot),,0,0,0,,¿Hajime?
-Dialogue: 0,0:12:43.69,0:12:46.36,Kindaichi (Bot),,0,0,0,,¡No estés @molestando!
+Dialogue: 0,0:12:43.69,0:12:46.36,Kindaichi (Bot),,0,0,0,,¡No estés paseando!
 Dialogue: 0,0:12:47.45,0:12:49.40,Kindaichi (Bot),,0,0,0,,Esa es la intensidad de una profesional.
 Dialogue: 0,0:12:49.40,0:12:51.79,Kindaichi (Bot),,0,0,0,,Su pasión por el escenario está en otro nivel.
 Dialogue: 0,0:12:52.37,0:12:53.91,Kindaichi (Bot),,0,0,0,,Pero me dolió.
@@ -209,7 +210,7 @@ Dialogue: 0,0:13:41.21,0:13:43.62,Kindaichi (Bot),,0,0,0,,Es mi difunta hija, Mi
 Dialogue: 0,0:13:44.21,0:13:47.67,Kindaichi (Bot),,0,0,0,,Quería que ella subiera a este escenario algún día.
 Dialogue: 0,0:13:47.67,0:13:49.85,Kindaichi (Bot),,0,0,0,,¿Ella era actriz?
 Dialogue: 0,0:13:50.40,0:13:53.91,Kindaichi (Bot),,0,0,0,,Falleció justo cuando su talento comenzaba a florecer.
-Dialogue: 0,0:13:53.91,0:13:56.23,Kindaichi (Bot),,0,0,0,,Me retiro, @director.
+Dialogue: 0,0:13:53.91,0:13:56.23,Kindaichi (Bot),,0,0,0,,Me retiro, director.
 Dialogue: 0,0:13:56.23,0:13:58.27,Kindaichi (Bot),,0,0,0,,Buen trabajo, Makube.
 Dialogue: 0,0:13:58.27,0:14:00.73,Kindaichi (Bot),,0,0,0,,Gracias. Es maravillosa.
 Dialogue: 0,0:14:01.23,0:14:04.96,Kindaichi (Bot),,0,0,0,,No vuelvas a comportarte como un ratero.
@@ -224,7 +225,7 @@ Dialogue: 0,0:14:35.81,0:14:40.15,Kindaichi (Bot),,0,0,0,,Después de todo, el c
 Dialogue: 0,0:14:45.44,0:14:46.69,Kindaichi (Bot),,0,0,0,,#Primera fila
 Dialogue: 0,0:14:47.03,0:14:48.82,Kindaichi (Bot),,0,0,0,,¿Qué es esto?
 Dialogue: 0,0:14:48.82,0:14:50.28,Kindaichi (Bot),,0,0,0,,¿Una red?
-Dialogue: 0,0:14:50.28,0:14:53.47,Kindaichi (Bot),,0,0,0,,Es una red de cerco. La usamos para\Nsimular barrotes de hierro.
+Dialogue: 0,0:14:50.28,0:14:53.47,Kindaichi (Bot),,0,0,0,,Es una red de pesca. La usamos para\Nsimular barrotes de hierro.
 Dialogue: 0,0:14:53.47,0:14:55.17,Kindaichi (Bot),,0,0,0,,¿Barrotes de hierro?
 Dialogue: 0,0:15:06.26,0:15:08.17,Kindaichi (Bot),,0,0,0,,En verdad lo parecen.
 Dialogue: 0,0:15:08.17,0:15:11.48,Kindaichi (Bot),,0,0,0,,Usamos pintura fluorescente\Ny la iluminamos con luz negra.
@@ -244,14 +245,14 @@ Dialogue: 0,0:16:10.98,0:16:14.16,Kindaichi (Bot),,0,0,0,,Rokuro, ¿esta noche t
 Dialogue: 0,0:16:15.08,0:16:16.56,Kindaichi (Bot),,0,0,0,,Ya está todo listo.
 Dialogue: 0,0:16:17.10,0:16:19.91,Kindaichi (Bot),,0,0,0,,El viejo estaba muy emocionado por ir a pescar.
 Dialogue: 0,0:16:20.20,0:16:22.92,Kindaichi (Bot),,0,0,0,,Yo atrapé la más grande.
-Dialogue: 0,0:16:22.92,0:16:26.83,Kindaichi (Bot),,0,0,0,,¡Wow! ¿Atrapaste una langosta, Kenmochi?
+Dialogue: 0,0:16:22.92,0:16:26.83,Kindaichi (Bot),,0,0,0,,¡Oh! ¿Atrapaste una langosta, Kenmochi?
 Dialogue: 0,0:16:27.69,0:16:29.15,Kindaichi (Bot),,0,0,0,,Algo así.
 Dialogue: 0,0:16:29.15,0:16:31.86,Kindaichi (Bot),,0,0,0,,Todo lo que este viejo atrapó fue...
 Dialogue: 0,0:16:31.86,0:16:35.16,Kindaichi (Bot),,0,0,0,,... un pequeño pececito más chico\Nque una bola de arroz.
 Dialogue: 0,0:16:41.10,0:16:43.48,Kindaichi (Bot),,0,0,0,,#Kozaburo Nojo
 Dialogue: 0,0:16:43.48,0:16:44.46,Kindaichi (Bot),,0,0,0,,¡Oye, camarero!
 Dialogue: 0,0:16:45.81,0:16:47.56,Kindaichi (Bot),,0,0,0,,El cuchillo está sucio.
-Dialogue: 0,0:16:51.40,0:16:54.20,Kindaichi (Bot),,0,0,0,,¡Mi nombre @es Rokuro Eguchi!
+Dialogue: 0,0:16:51.40,0:16:54.20,Kindaichi (Bot),,0,0,0,,¡Mi nombre es Rokuro Eguchi!
 Dialogue: 0,0:17:03.44,0:17:06.04,Kindaichi (Bot),,0,0,0,,¿Quieres ser actor, camarero?
 Dialogue: 0,0:17:10.88,0:17:12.18,Kindaichi (Bot),,0,0,0,,Algo huele delicioso.
 Dialogue: 0,0:17:12.18,0:17:13.59,Kindaichi (Bot),,0,0,0,,Oh, ya es hora de comer.
@@ -259,7 +260,7 @@ Dialogue: 0,0:17:13.59,0:17:15.82,Kindaichi (Bot),,0,0,0,,Muestra algo de compos
 Dialogue: 0,0:17:15.82,0:17:16.93,Kindaichi (Bot),,0,0,0,,No eres parte del grupo.
 Dialogue: 0,0:17:17.34,0:17:21.96,Kindaichi (Bot),,0,0,0,,No puedes hacerme oler la comida\Ny luego impedirme comer, director Kurosawa.
 Dialogue: 0,0:17:23.02,0:17:25.40,Kindaichi (Bot),,0,0,0,,No recuerdo haberte permitido tanta confianza.
-Dialogue: 0,0:17:27.90,0:17:30.86,Kindaichi (Bot),,0,0,0,,Buenas @noches. Perdón por\Nno haberme presentado antes.
+Dialogue: 0,0:17:27.90,0:17:30.86,Kindaichi (Bot),,0,0,0,,Buenas noches. Perdón por\Nno haberme presentado antes.
 Dialogue: 0,0:17:31.66,0:17:34.18,Kindaichi (Bot),,0,0,0,,Me llamo Takemura.
 Dialogue: 0,0:17:34.78,0:17:36.53,Kindaichi (Bot),,0,0,0,,¿Trabajas en bienes raíces?
 Dialogue: 0,0:17:34.78,0:17:36.53,Kindaichi (Bot),,0,0,0,,#Bienes Raíces Takemura\N#Presidente\N#Eizo Takemura
@@ -270,7 +271,7 @@ Dialogue: 0,0:17:45.78,0:17:49.79,Kindaichi (Bot),,0,0,0,,Me pidieron que me enc
 Dialogue: 0,0:17:50.29,0:17:51.49,Kindaichi (Bot),,0,0,0,,¿Vas a vender?
 Dialogue: 0,0:17:51.49,0:17:52.70,Kindaichi (Bot),,0,0,0,,Lo dudo mucho.
 Dialogue: 0,0:17:55.80,0:17:58.56,Kindaichi (Bot),,0,0,0,,No le hagan caso.
-Dialogue: 0,0:17:58.56,0:18:00.64,Kindaichi (Bot),,0,0,0,,Bueno, @cenemos.
+Dialogue: 0,0:17:58.56,0:18:00.64,Kindaichi (Bot),,0,0,0,,Bueno, cenemos.
 Dialogue: 0,0:18:00.64,0:18:02.14,Kindaichi (Bot),,0,0,0,,¿Dónde está Shinjoji?
 Dialogue: 0,0:18:02.56,0:18:05.02,Kindaichi (Bot),,0,0,0,,Otra vez tenemos que esperarla.
 Dialogue: 0,0:18:05.02,0:18:08.15,Kindaichi (Bot),,0,0,0,,Tal vez se enfadó por mi culpa.
@@ -300,7 +301,7 @@ Dialogue: 0,0:19:23.27,0:19:26.22,Kindaichi (Bot),,0,0,0,,Me disculpo por la con
 Dialogue: 0,0:19:26.22,0:19:28.56,Kindaichi (Bot),,0,0,0,,¿No deberíamos llamar a Seiko?
 Dialogue: 0,0:19:28.56,0:19:29.72,Kindaichi (Bot),,0,0,0,,¡Para qué molestarse!
 Dialogue: 0,0:19:30.62,0:19:32.44,Kindaichi (Bot),,0,0,0,,Vámonos.
-Dialogue: 0,0:19:50.61,0:19:52.29,Kindaichi (Bot),,0,0,0,,Pero por si acaso.
+Dialogue: 0,0:19:50.61,0:19:52.29,Kindaichi (Bot),,0,0,0,,Por si acaso.
 Dialogue: 0,0:20:02.26,0:20:03.53,Kindaichi (Bot),,0,0,0,,¿Vas al baño?
 Dialogue: 0,0:20:03.53,0:20:05.14,Kindaichi (Bot),,0,0,0,,No tienes modales.
 Dialogue: 0,0:20:05.14,0:20:06.72,Kindaichi (Bot),,0,0,0,,Estamos comiendo.
@@ -324,13 +325,13 @@ Dialogue: 0,0:21:31.93,0:21:33.52,Kindaichi (Bot),,0,0,0,,No lo sabía.
 Dialogue: 0,0:21:34.34,0:21:37.50,Kindaichi (Bot),,0,0,0,,Nunca escuché acerca de un asesinato esta primavera.
 Dialogue: 0,0:21:37.50,0:21:39.23,Kindaichi (Bot),,0,0,0,,Supongo que debería llamar a Tokio.
 Dialogue: 0,0:21:39.23,0:21:41.64,Kindaichi (Bot),,0,0,0,,Tengo que consultarles.
-Dialogue: 0,0:21:41.64,0:21:43.30,Kindaichi (Bot),,0,0,0,,¿Quieren hacer una apuesta?
+Dialogue: 0,0:21:41.64,0:21:43.30,Kindaichi (Bot),,0,0,0,,¿Quieren apostar?
 Dialogue: 0,0:21:43.30,0:21:46.12,Kindaichi (Bot),,0,0,0,,¡El juego es ilegal!
 Dialogue: 0,0:21:46.12,0:21:47.95,Kindaichi (Bot),,0,0,0,,¿Quién es este viejo cara de piedra?
-Dialogue: 0,0:21:48.28,0:21:50.56,Kindaichi (Bot),,0,0,0,,Es un policía.
+Dialogue: 0,0:21:48.28,0:21:50.56,Kindaichi (Bot),,0,0,0,,Es policía.
 Dialogue: 0,0:21:51.91,0:21:53.29,Kindaichi (Bot),,0,0,0,,¡Genial!
 Dialogue: 0,0:21:53.68,0:21:55.80,Kindaichi (Bot),,0,0,0,,No seas un aguafiestas.
-Dialogue: 0,0:21:55.80,0:22:00.23,Kindaichi (Bot),,0,0,0,,¿Qué les parece si hacemos apuestas pequeñas\Ny donamos las ganancias a esta @alcancía?
+Dialogue: 0,0:21:55.80,0:22:00.23,Kindaichi (Bot),,0,0,0,,¿Qué les parece si hacemos apuestas pequeñas,\Nel ganador se lleva esta alcancía?
 Dialogue: 0,0:22:00.69,0:22:02.42,Kindaichi (Bot),,0,0,0,,Entonces no habría problema.
 Dialogue: 0,0:22:03.09,0:22:05.62,Kindaichi (Bot),,0,0,0,,Si incluso usted les sigue el juego, doctora Saeki...
 Dialogue: 0,0:22:05.62,0:22:07.54,Kindaichi (Bot),,0,0,0,,Hagamos una votación.
@@ -397,7 +398,7 @@ Dialogue: 0,0:26:20.85,0:26:24.60,Kindaichi (Bot),,0,0,0,,¿Por qué querría ma
 Dialogue: 0,0:26:24.60,0:26:28.31,Kindaichi (Bot),,0,0,0,,No sé lo que pasaba entre ustedes.
 Dialogue: 0,0:26:28.81,0:26:32.07,Kindaichi (Bot),,0,0,0,,Tal vez eras el amante secreto de Seiko.
 Dialogue: 0,0:26:32.07,0:26:36.61,Kindaichi (Bot),,0,0,0,,También vi a Seiko hablando muy amigablemente\Ncon el señor de bienes raíces.
-Dialogue: 0,0:26:36.90,0:26:42.33,Kindaichi (Bot),,0,0,0,,No, verás, hace tiempo le ayudé\Na su padre a comprar un terreno.
+Dialogue: 0,0:26:36.90,0:26:42.33,Kindaichi (Bot),,0,0,0,,No, verán, hace tiempo le ayudé\Na su padre a comprar un terreno.
 Dialogue: 0,0:26:42.74,0:26:43.86,Kindaichi (Bot),,0,0,0,,No lo creo.
 Dialogue: 0,0:26:43.86,0:26:47.08,Kindaichi (Bot),,0,0,0,,Ustedes dos son los más sospechosos.
 Dialogue: 0,0:26:48.67,0:26:50.65,Kindaichi (Bot),,0,0,0,,Eso no puedo permitírtelo.
@@ -406,7 +407,7 @@ Dialogue: 0,0:26:53.80,0:26:57.20,Kindaichi (Bot),,0,0,0,,Ustedes dos tenían pr
 Dialogue: 0,0:26:57.20,0:26:59.30,Kindaichi (Bot),,0,0,0,,y ella era la clave de su futuro.
 Dialogue: 0,0:27:00.13,0:27:03.03,Kindaichi (Bot),,0,0,0,,Esa no es razón para matarla.
 Dialogue: 0,0:27:03.64,0:27:07.02,Kindaichi (Bot),,0,0,0,,No me parece imposible de ustedes dos.
-Dialogue: 0,0:27:07.70,0:27:11.31,Kindaichi (Bot),,0,0,0,,Oigan, la entrada al teatro estaba\Ncerrada con llave, ¿no es así?
+Dialogue: 0,0:27:07.70,0:27:11.31,Kindaichi (Bot),,0,0,0,,Oigan, la entrada al teatro estaba\Ncerrada con candado, ¿no es así?
 Dialogue: 0,0:27:11.31,0:27:14.41,Kindaichi (Bot),,0,0,0,,El asesino desapareció como si fuera humo,\Ndejando sólo el cuerpo atrás.
 Dialogue: 0,0:27:14.41,0:27:16.73,Kindaichi (Bot),,0,0,0,,¡Es como si fuera un fantasma!
 Dialogue: 0,0:27:17.13,0:27:18.24,Kindaichi (Bot),,0,0,0,,¿Dijiste un fantasma?
@@ -415,7 +416,7 @@ Dialogue: 0,0:27:23.96,0:27:28.20,Kindaichi (Bot),,0,0,0,,Si hay un caso de ases
 Dialogue: 0,0:27:28.20,0:27:33.60,Kindaichi (Bot),,0,0,0,,Asesinar a alguien para obligar\Nal director Kurosawa a abandonar la isla.
 Dialogue: 0,0:27:33.60,0:27:35.71,Kindaichi (Bot),,0,0,0,,Tal y como lo planeaste, Takemura.
 Dialogue: 0,0:27:36.06,0:27:37.46,Kindaichi (Bot),,0,0,0,,¡No seas ridículo!
-Dialogue: 0,0:27:37.98,0:27:39.97,Kindaichi (Bot),,0,0,0,,Me está molestando desde que lo dijo, pero...
+Dialogue: 0,0:27:37.98,0:27:39.97,Kindaichi (Bot),,0,0,0,,Me está molestando desde que lo dijo...
 Dialogue: 0,0:27:40.52,0:27:43.22,Kindaichi (Bot),,0,0,0,,La forma en que habla de extraños y fantasmas,
 Dialogue: 0,0:27:43.22,0:27:46.43,Kindaichi (Bot),,0,0,0,,¿no les parece que Kanai trata de desviar el tema?
 Dialogue: 0,0:27:46.43,0:27:49.14,Kindaichi (Bot),,0,0,0,,Ahora que lo dices, así es.
@@ -431,7 +432,7 @@ Dialogue: 0,0:28:15.48,0:28:16.71,Kindaichi (Bot),,0,0,0,,¡Maldito!
 Dialogue: 0,0:28:16.71,0:28:18.00,Kindaichi (Bot),,0,0,0,,¡Pueden parar de una vez!
 Dialogue: 0,0:28:22.51,0:28:24.70,Kindaichi (Bot),,0,0,0,,No creo que haya un fantasma involucrado.
 Dialogue: 0,0:28:24.70,0:28:28.18,Kindaichi (Bot),,0,0,0,,Pero como Rio lo dijo, tenemos demasiados misterios.
-Dialogue: 0,0:28:28.51,0:28:30.34,Kindaichi (Bot),,0,0,0,,La puerta principal del teatro estaba @cerrada,
+Dialogue: 0,0:28:28.51,0:28:30.34,Kindaichi (Bot),,0,0,0,,La puerta principal del teatro tenía un candado,
 Dialogue: 0,0:28:30.34,0:28:32.96,Kindaichi (Bot),,0,0,0,,al igual que la entrada trasera.
 Dialogue: 0,0:28:32.96,0:28:35.30,Kindaichi (Bot),,0,0,0,,No hay ninguna ventana en el teatro.
 Dialogue: 0,0:28:36.65,0:28:37.98,Kindaichi (Bot),,0,0,0,,Este es un...
@@ -446,7 +447,7 @@ Dialogue: 0,0:29:05.24,0:29:06.26,Kindaichi (Bot),,0,0,0,,Eso es terrible.
 Dialogue: 0,0:29:06.26,0:29:09.07,Kindaichi (Bot),,0,0,0,,Me gustaría escuchar tu razonamiento, Nojo.
 Dialogue: 0,0:29:09.07,0:29:10.35,Kindaichi (Bot),,0,0,0,,Te lo diré.
 Dialogue: 0,0:29:10.35,0:29:11.64,Kindaichi (Bot),,0,0,0,,Él tiene un claro motivo.
-Dialogue: 0,0:29:12.27,0:29:15.41,Kindaichi (Bot),,0,0,0,,Yo solía estar con tu hija Mika.
+Dialogue: 0,0:29:12.27,0:29:15.41,Kindaichi (Bot),,0,0,0,,Yo solía estar con su hija Mika.
 Dialogue: 0,0:29:16.02,0:29:19.02,Kindaichi (Bot),,0,0,0,,Pero la deseché como a un bollo de papel,
 Dialogue: 0,0:29:19.02,0:29:22.02,Kindaichi (Bot),,0,0,0,,y la reemplacé con Seiko, la hija del presidente.
 Dialogue: 0,0:29:23.50,0:29:26.99,Kindaichi (Bot),,0,0,0,,Por eso nos despreciaba desde\Nlo profundo de su corazón.
@@ -472,7 +473,7 @@ Dialogue: 0,0:30:24.65,0:30:27.59,Kindaichi (Bot),,0,0,0,,¿No cree que es tiemp
 Dialogue: 0,0:30:27.59,0:30:32.18,Kindaichi (Bot),,0,0,0,,Nojo, aunque supongamos que ese\Nsea el motivo de Kurosawa,
 Dialogue: 0,0:30:32.18,0:30:35.31,Kindaichi (Bot),,0,0,0,,¿cómo logró matar a Seiko dentro del teatro?
 Dialogue: 0,0:30:35.31,0:30:36.91,Kindaichi (Bot),,0,0,0,,Eso es muy simple.
-Dialogue: 0,0:30:36.91,0:30:39.83,Kindaichi (Bot),,0,0,0,,Él tenía la única llave de la @cerradura.
+Dialogue: 0,0:30:36.91,0:30:39.83,Kindaichi (Bot),,0,0,0,,Él tenía la única llave del candado.
 Dialogue: 0,0:30:39.83,0:30:41.65,Kindaichi (Bot),,0,0,0,,Podía abrirla y cerrarla cuando quisiera.
 Dialogue: 0,0:30:42.61,0:30:44.73,Kindaichi (Bot),,0,0,0,,¿Dónde estaba el director cuando\Nse cayó el candelabro?
 Dialogue: 0,0:30:45.36,0:30:47.26,Kindaichi (Bot),,0,0,0,,¿Acaso podíamos verlo?
@@ -527,7 +528,7 @@ Dialogue: 0,0:33:40.79,0:33:43.54,Kindaichi (Bot),,0,0,0,,¿Entonces estamos atr
 Dialogue: 0,0:33:44.62,0:33:47.50,Kindaichi (Bot),,0,0,0,,La Isla Uta está aislada del resto del mundo.
 Dialogue: 0,0:33:51.17,0:33:52.77,Kindaichi (Bot),,0,0,0,,La carta anunciando el crimen,
 Dialogue: 0,0:33:52.77,0:33:56.59,Kindaichi (Bot),,0,0,0,,la caída del candelabro y el misterio del cuarto\Ncerrado preparado por el fantasma de la ópera,
-Dialogue: 0,0:33:56.59,0:34:01.10,Kindaichi (Bot),,0,0,0,,y, finalmente, la destrucción del bote y los teléfonos\Nson, seguramente, todas obras del culpable.
+Dialogue: 0,0:33:56.59,0:34:01.10,Kindaichi (Bot),,0,0,0,,y, finalmente, la destrucción del bote y los teléfonos\Nson, seguramente, todas obras del asesino.
 Dialogue: 0,0:34:01.68,0:34:04.60,Kindaichi (Bot),,0,0,0,,Si suponemos que nos atraparon\Ndeliberadamente en la isla,
 Dialogue: 0,0:34:04.60,0:34:07.06,Kindaichi (Bot),,0,0,0,,entonces los incidentes no han terminado.
 Dialogue: 0,0:34:07.06,0:34:09.60,Kindaichi (Bot),,0,0,0,,¿Quieres decir que alguien más morirá?
@@ -551,7 +552,7 @@ Dialogue: 0,0:35:13.54,0:35:16.29,Kindaichi (Bot),,0,0,0,,De todas maneras dormi
 Dialogue: 0,0:35:16.29,0:35:18.09,Kindaichi (Bot),,0,0,0,,¡Hey, esa es mi cama!
 Dialogue: 0,0:35:18.09,0:35:20.59,Kindaichi (Bot),,0,0,0,,Tú duerme en el sofá, Hajime.
 Dialogue: 0,0:35:20.59,0:35:21.63,Kindaichi (Bot),,0,0,0,,Buenas noches.
-Dialogue: 0,0:35:22.99,0:35:24.84,Kindaichi (Bot),,0,0,0,,Que no se te ocurre venir aquí.
+Dialogue: 0,0:35:22.99,0:35:24.84,Kindaichi (Bot),,0,0,0,,Que no se te ocurra venir aquí.
 Dialogue: 0,0:35:25.80,0:35:26.60,Kindaichi (Bot),,0,0,0,,Buenas noches.
 Dialogue: 0,0:35:29.87,0:35:32.61,Kindaichi (Bot),,0,0,0,,¿Qué demonios está pensando Miyuki?
 Dialogue: 0,0:35:32.61,0:35:34.18,Kindaichi (Bot),,0,0,0,,Debería aprovecharme de ella.
@@ -565,7 +566,7 @@ Dialogue: 0,0:35:52.55,0:35:55.88,Kindaichi (Bot),,0,0,0,,También soy la doctor
 Dialogue: 0,0:35:55.88,0:35:57.63,Kindaichi (Bot),,0,0,0,,¿Estuvo bebiendo, doctora?
 Dialogue: 0,0:35:58.80,0:35:59.92,Kindaichi (Bot),,0,0,0,,Un poco.
 Dialogue: 0,0:36:02.13,0:36:04.34,Kindaichi (Bot),,0,0,0,,La acompañaré a su habitación.
-Dialogue: 0,0:36:08.35,0:36:10.35,Kindaichi (Bot),,0,0,0,,¡Qué madurez!
+Dialogue: 0,0:36:08.35,0:36:10.35,Kindaichi (Bot),,0,0,0,,¡Es demasiado maduro!
 Dialogue: 0,0:36:15.40,0:36:17.49,Kindaichi (Bot),,0,0,0,,¿Qué haces aquí?
 Dialogue: 0,0:36:18.82,0:36:20.44,Kindaichi (Bot),,0,0,0,,Nada.
 Dialogue: 0,0:36:20.44,0:36:22.36,Kindaichi (Bot),,0,0,0,,Esto todavía no terminó.
@@ -646,7 +647,7 @@ Dialogue: 0,0:39:52.99,0:39:57.38,Kindaichi (Bot),,0,0,0,,Mika y yo fuimos compa
 Dialogue: 0,0:39:58.83,0:40:01.13,Kindaichi (Bot),,0,0,0,,Fue Nojo quien la mató.
 Dialogue: 0,0:40:02.37,0:40:06.79,Kindaichi (Bot),,0,0,0,,Mika abandonó la preparatoria\Nbuscando una carrera como actriz.
 Dialogue: 0,0:40:11.01,0:40:13.76,Kindaichi (Bot),,0,0,0,,Perdón por molestar su descanso.
-Dialogue: 0,0:40:17.66,0:40:21.52,Kindaichi (Bot),,0,0,0,,Les pedí que recogieran un paquete por mí esta tarde.
+Dialogue: 0,0:40:17.66,0:40:21.52,Kindaichi (Bot),,0,0,0,,Les pedí que me trajeran un paquete esta tarde.
 Dialogue: 0,0:40:24.23,0:40:25.90,Kindaichi (Bot),,0,0,0,,La caja está abierta.
 Dialogue: 0,0:40:25.90,0:40:28.63,Kindaichi (Bot),,0,0,0,,Qué extraño. Yo no la abrí.
 Dialogue: 0,0:40:28.63,0:40:30.07,Kindaichi (Bot),,0,0,0,,¿Quién te la trajo?
@@ -693,14 +694,14 @@ Dialogue: 0,0:44:26.31,0:44:28.12,Kindaichi (Bot),,0,0,0,,¡A quién le dices id
 Dialogue: 0,0:44:28.12,0:44:30.98,Kindaichi (Bot),,0,0,0,,¡Tú irrumpiste en mi habitación!
 Dialogue: 0,0:44:30.98,0:44:33.66,Kindaichi (Bot),,0,0,0,,Volveré a mi habitación a ducharme.
 Dialogue: 0,0:44:33.66,0:44:35.37,Kindaichi (Bot),,0,0,0,,¡No se te ocurra espiarme!
-Dialogue: 0,0:44:35.81,0:44:37.14,Kindaichi (Bot),,0,0,0,,¡Por supuesto que no!
+Dialogue: 0,0:44:35.81,0:44:37.14,Kindaichi (Bot),,0,0,0,,¡Ni lo intentes!
 Dialogue: 0,0:44:42.24,0:44:43.99,Kindaichi (Bot),,0,0,0,,¿Quién querría espiarte?
 Dialogue: 0,0:44:58.84,0:45:00.69,Kindaichi (Bot),,0,0,0,,¿Podrías darme un vaso de agua?
 Dialogue: 0,0:45:00.69,0:45:01.65,Kindaichi (Bot),,0,0,0,,Claro.
 Dialogue: 0,0:45:08.85,0:45:13.44,Kindaichi (Bot),,0,0,0,,Tan sólo ir al muelle a revisar\Nel bote me dejó agotado.
 Dialogue: 0,0:45:13.44,0:45:15.35,Kindaichi (Bot),,0,0,0,,No te conviene envejecer.
 Dialogue: 0,0:45:15.35,0:45:16.59,Kindaichi (Bot),,0,0,0,,Gracias.
-Dialogue: 0,0:45:19.03,0:45:21.90,Kindaichi (Bot),,0,0,0,,Nojo me golpeó donde me duele ayer.
+Dialogue: 0,0:45:19.03,0:45:21.90,Kindaichi (Bot),,0,0,0,,Ayer Nojo me golpeó donde más duele.
 Dialogue: 0,0:45:22.28,0:45:24.07,Kindaichi (Bot),,0,0,0,,Estoy seguro de que tú también sientes lo mismo.
 Dialogue: 0,0:45:25.70,0:45:26.49,Kindaichi (Bot),,0,0,0,,No.
 Dialogue: 0,0:45:27.10,0:45:28.28,Kindaichi (Bot),,0,0,0,,Ya veo.
@@ -768,7 +769,7 @@ Dialogue: 0,0:50:34.05,0:50:36.57,Kindaichi (Bot),,0,0,0,,Si modificamos el gui�
 Dialogue: 0,0:50:36.57,0:50:38.77,Kindaichi (Bot),,0,0,0,,¿Cómo puedes hablar de eso ahora?
 Dialogue: 0,0:50:38.77,0:50:45.02,Kindaichi (Bot),,0,0,0,,Con todo lo que sucedió, ya no tengo deseos\Nde seguir con el espectáculo.
 Dialogue: 0,0:50:46.20,0:50:47.02,Kindaichi (Bot),,0,0,0,,Al igual que Mika.
-Dialogue: 0,0:50:47.64,0:50:51.27,Kindaichi (Bot),,0,0,0,,Mika @se derrumbó antes de poder realizar sus sueños.
+Dialogue: 0,0:50:47.64,0:50:51.27,Kindaichi (Bot),,0,0,0,,Mika se derrumbó antes de poder realizar sus sueños.
 Dialogue: 0,0:50:52.69,0:50:56.24,Kindaichi (Bot),,0,0,0,,Director, su "Fantasma de la Ópera"\Nlo es todo para nosotros.
 Dialogue: 0,0:50:57.82,0:50:58.94,Kindaichi (Bot),,0,0,0,,Con permiso.
 Dialogue: 0,0:51:06.16,0:51:07.37,Kindaichi (Bot),,0,0,0,,Es cierto.
@@ -777,9 +778,9 @@ Dialogue: 0,0:51:11.97,0:51:14.68,Kindaichi (Bot),,0,0,0,,Estoy seguro que podem
 Dialogue: 0,0:51:15.96,0:51:18.32,Kindaichi (Bot),,0,0,0,,Hay algo que me molesta.
 Dialogue: 0,0:51:18.32,0:51:19.34,Kindaichi (Bot),,0,0,0,,¿Qué cosa, Kindaichi?
 Dialogue: 0,0:51:19.34,0:51:22.48,Kindaichi (Bot),,0,0,0,,Si el asesino simplemente está imitando\Nla historia del Fantasma de la Ópera,
-Dialogue: 0,0:51:22.48,0:51:25.22,Kindaichi (Bot),,0,0,0,,¿no sería suficiente con la bañera\Nen el cuarto de Midorikawa?
+Dialogue: 0,0:51:22.48,0:51:25.22,Kindaichi (Bot),,0,0,0,,¿no le bastaría con la bañera\Ndel cuarto de Midorikawa?
 Dialogue: 0,0:51:25.22,0:51:28.00,Kindaichi (Bot),,0,0,0,,¿Para qué molestarse en mover el cuerpo tan lejos?
-Dialogue: 0,0:51:43.91,0:51:45.26,Kindaichi (Bot),,0,0,0,,Ya veo.
+Dialogue: 0,0:51:43.91,0:51:45.26,Kindaichi (Bot),,0,0,0,,Ya sé.
 Dialogue: 0,0:51:45.26,0:51:48.88,Kindaichi (Bot),,0,0,0,,Tal vez el asesino necesitaba que\Nel cuerpo se encuentre rápidamente.
 Dialogue: 0,0:51:48.88,0:51:52.94,Kindaichi (Bot),,0,0,0,,Con el cuerpo en el tanque de agua, detectaríamos\Nel agua desde algún lugar del hotel.
 Dialogue: 0,0:51:52.94,0:51:57.78,Kindaichi (Bot),,0,0,0,,Si planea terminar todo antes de que llegue\Nel barco que trae a los espectadores para mañana...
@@ -798,7 +799,7 @@ Dialogue: 0,0:52:52.44,0:52:53.65,Kindaichi (Bot),,0,0,0,,¿Qué sucede, Kindaic
 Dialogue: 0,0:52:53.65,0:52:55.73,Kindaichi (Bot),,0,0,0,,Mira esto, viejo.
 Dialogue: 0,0:52:56.19,0:52:58.50,Kindaichi (Bot),,0,0,0,,¿Qué es? ¿Una billetera?
 Dialogue: 0,0:52:58.50,0:52:59.69,Kindaichi (Bot),,0,0,0,,¿Es del culpable?
-Dialogue: 0,0:52:59.69,0:53:01.59,Kindaichi (Bot),,0,0,0,,La llave de un auto, monedas y... ¿Eh?
+Dialogue: 0,0:52:59.69,0:53:01.59,Kindaichi (Bot),,0,0,0,,Una llave de auto, monedas y... ¿Eh?
 Dialogue: 0,0:53:01.59,0:53:03.05,Kindaichi (Bot),,0,0,0,,¡Ah! ¡Detente, tonto!
 Dialogue: 0,0:53:03.05,0:53:04.78,Kindaichi (Bot),,0,0,0,,No pasa nada.
 Dialogue: 0,0:53:09.79,0:53:10.91,Kindaichi (Bot),,0,0,0,,#Recibo\N#Atsushi Takizawa\N#Gasolina regular
@@ -813,24 +814,23 @@ Dialogue: 0,0:53:33.77,0:53:35.86,Kindaichi (Bot),,0,0,0,,Es una página del gui
 Dialogue: 0,0:53:42.21,0:53:47.26,Kindaichi (Bot),,0,0,0,,Los asesinatos de la casa de la ópera.\NPor Atsushi Takizawa.
 Dialogue: 0,0:53:44.32,0:53:49.95,Kindaichi (Bot),,0,0,0,,#Los asesinatos de la casa de la ópera\N#Por Atsushi Takizawa.
 Dialogue: 0,0:53:47.26,0:53:50.47,Kindaichi (Bot),,0,0,0,,Viejo, parece que lo imprimieron\Ndesde esta máquina.
-Dialogue: 0,0:53:47.87,0:53:49.95,Kindaichi (Bot),,0,0,0,,#Los asesinatos de la casa de la ópera\N#Por Atsushi Takizawa.
 Dialogue: 0,0:53:50.47,0:53:52.03,Kindaichi (Bot),,0,0,0,,Mira la siguiente página.
 Dialogue: 0,0:53:53.96,0:53:56.96,Kindaichi (Bot),,0,0,0,,#Personajes\N#Seiko Shinjoji - La primera víctima.\N#Yukio Midorikawa - La segunda víctima.\N#Kozaburo Nojo - La tercera víctima.
 Dialogue: 0,0:53:55.07,0:53:56.96,Kindaichi (Bot),,0,0,0,,Atsushi Takizawa.
-Dialogue: 0,0:53:56.96,0:54:00.21,Kindaichi (Bot),,0,0,0,,#Kozaburo Nojo - La tercera víctima.\N#Atsushi Takizawa - El fantasma que mató a tres.
+Dialogue: 0,0:53:56.96,0:54:00.21,Kindaichi (Bot),,0,0,0,,#Kozaburo Nojo - La tercera víctima.\N#Atsushi Takizawa - El fantasma que mató a los tres.
 Dialogue: 0,0:53:57.42,0:54:00.21,Kindaichi (Bot),,0,0,0,,El fantasma que mató a los tres, dice.
-Dialogue: 0,0:54:01.71,0:54:04.72,Kindaichi (Bot),,0,0,0,,#Atsushi Takizawa - El fantasma que mató a tres.
+Dialogue: 0,0:54:01.71,0:54:04.72,Kindaichi (Bot),,0,0,0,,#Atsushi Takizawa - El fantasma que mató a los tres.
 Dialogue: 0,0:54:06.26,0:54:13.43,Kindaichi (Bot),,0,0,0,,Atsushi Takizawa temía que Seiko Shinjoji\Nlo expulsara de la compañía de teatro.
 Dialogue: 0,0:54:13.43,0:54:18.86,Kindaichi (Bot),,0,0,0,,Empezó a resentir a Nojo porque\Nse burló de una obra que escribió.
 Dialogue: 0,0:54:18.86,0:54:21.27,Kindaichi (Bot),,0,0,0,,Alimentó profundamente esa animosidad.
-Dialogue: 0,0:54:21.27,0:54:26.58,Kindaichi (Bot),,0,0,0,,Podría decirse que su egolatría y diligencia,\Nes decir, su personalidad monommaniática,
+Dialogue: 0,0:54:21.27,0:54:26.58,Kindaichi (Bot),,0,0,0,,Podría decirse que su egolatría y diligencia,\Nes decir, su personalidad monomaniática,
 Dialogue: 0,0:54:26.58,0:54:28.90,Kindaichi (Bot),,0,0,0,,lo llevaron a cometer estos crímenes.
 Dialogue: 0,0:54:29.49,0:54:33.10,Kindaichi (Bot),,0,0,0,,Al leer esto, esos sentimientos\Nperturbadores salen a la luz.
 Dialogue: 0,0:54:33.10,0:54:34.92,Kindaichi (Bot),,0,0,0,,¿Pero por qué Midorikawa?
 Dialogue: 0,0:54:34.92,0:54:37.06,Kindaichi (Bot),,0,0,0,,Siempre estaban juntos y parecían llevarse bien.
 Dialogue: 0,0:54:37.06,0:54:38.50,Kindaichi (Bot),,0,0,0,,Eso terminó por serle contraproducente.
-Dialogue: 0,0:54:38.96,0:54:42.38,Kindaichi (Bot),,0,0,0,,Cuando dejaron la isla para ir al @mercado.
-Dialogue: 0,0:54:42.38,0:54:47.28,Kindaichi (Bot),,0,0,0,,Midorikawa vio que Takizawa compró el @candado\Nque usaría en este truco.
+Dialogue: 0,0:54:38.96,0:54:42.38,Kindaichi (Bot),,0,0,0,,Cuando dejaron la isla para ir al mercado.
+Dialogue: 0,0:54:42.38,0:54:47.28,Kindaichi (Bot),,0,0,0,,Midorikawa vio que Takizawa compró el candado\Nque usaría en este truco.
 Dialogue: 0,0:54:48.05,0:54:50.12,Kindaichi (Bot),,0,0,0,,¿Para qué quieres eso?
 Dialogue: 0,0:54:50.12,0:54:53.41,Kindaichi (Bot),,0,0,0,,Por los ladrones. Lo colocaré en mi puerta.
 Dialogue: 0,0:54:53.41,0:54:56.89,Kindaichi (Bot),,0,0,0,,De hecho, ese candado se usaría\Npara el asesinato de Seiko.
@@ -901,20 +901,20 @@ Dialogue: 0,0:58:34.28,0:58:36.76,Kindaichi (Bot),,0,0,0,,No habrá tenido tiemp
 Dialogue: 0,0:58:36.76,0:58:38.78,Kindaichi (Bot),,0,0,0,,¿Qué sucede, Hajime?
 Dialogue: 0,0:58:38.78,0:58:39.74,Kindaichi (Bot),,0,0,0,,Es sangre.
 Dialogue: 0,0:58:40.64,0:58:43.32,Kindaichi (Bot),,0,0,0,,A juzgar por la situación, el asesino...
-Dialogue: 0,0:58:46.04,0:58:47.71,Kindaichi (Bot),,0,0,0,,¿Eh? ¡¿Qué sucede?!
+Dialogue: 0,0:58:46.04,0:58:47.71,Kindaichi (Bot),,0,0,0,,¿Eh? ¡¿Qué es esto?!
 Dialogue: 0,0:58:53.55,0:58:55.09,Kindaichi (Bot),,0,0,0,,¡Ah! ¡Escapa, Miyuki!
 Dialogue: 0,0:59:04.64,0:59:06.26,Kindaichi (Bot),,0,0,0,,¿Estás bien, Miyuki?
 Dialogue: 0,0:59:06.26,0:59:07.46,Kindaichi (Bot),,0,0,0,,Sí.
 Dialogue: 0,0:59:12.69,0:59:14.26,Kindaichi (Bot),,0,0,0,,¡Demonios!
 Dialogue: 0,0:59:19.07,0:59:20.14,Kindaichi (Bot),,0,0,0,,¡Hajime!
 Dialogue: 0,0:59:20.14,0:59:21.03,Kindaichi (Bot),,0,0,0,,¡Miyuki!
-Dialogue: 0,0:59:37.17,0:59:38.82,Kindaichi (Bot),,0,0,0,,¿Están bien, Kindaichi?
+Dialogue: 0,0:59:37.17,0:59:38.82,Kindaichi (Bot),,0,0,0,,¿Estás bien, Kindaichi?
 Dialogue: 0,0:59:38.82,0:59:40.43,Kindaichi (Bot),,0,0,0,,Pensé que no la contaba.
 Dialogue: 0,0:59:40.99,0:59:43.18,Kindaichi (Bot),,0,0,0,,Gracias, viejo.
 Dialogue: 0,0:59:56.78,0:59:57.94,Kindaichi (Bot),,0,0,0,,Kindaichi.
 Dialogue: 0,0:59:58.53,1:00:05.07,Kindaichi (Bot),,0,0,0,,Di vuelta la habitación de Takizawa,\Npero no apareció lo que buscabas.
 Dialogue: 0,1:00:39.29,1:00:40.82,Kindaichi (Bot),,0,0,0,,Ya veo.
-Dialogue: 0,1:00:50.89,1:00:52.92,Kindaichi (Bot),,0,0,0,,@@@\N¡Todos los misterios se han resuelto!
+Dialogue: 0,1:00:50.89,1:00:52.92,Kindaichi (Bot),,0,0,0,,¡Todos los misterios se han resuelto!
 Dialogue: 0,1:02:32.56,1:02:34.54,Kindaichi (Bot),,0,0,0,,¿Qué hace aquí, director?
 Dialogue: 0,1:02:34.54,1:02:37.25,Kindaichi (Bot),,0,0,0,,Me gustaría preguntarte lo mismo.
 Dialogue: 0,1:02:38.56,1:02:41.47,Kindaichi (Bot),,0,0,0,,Yo le pedí que viniera.
@@ -936,9 +936,8 @@ Dialogue: 0,1:03:28.18,1:03:32.12,Kindaichi (Bot),,0,0,0,,Inspector, ¿podría r
 Dialogue: 0,1:03:32.12,1:03:35.70,Kindaichi (Bot),,0,0,0,,Dígale que, desafortunadamente, el caso\Ndel asesino serial ya ha sido resuelto.
 Dialogue: 0,1:03:35.70,1:03:43.59,Kindaichi (Bot),,0,0,0,,Me gustaría decir eso, pero hasta ahora estás\Nactuando tal y como lo predijo Kindaichi, Nojo.
 Dialogue: 0,1:03:43.88,1:03:45.67,Kindaichi (Bot),,0,0,0,,¿Por qué estás aquí?
-Dialogue: 0,1:03:46.09,1:03:48.48,Kindaichi (Bot),,0,0,0,,¿Por qué viniste al @apartamento de Takizawa?
+Dialogue: 0,1:03:46.09,1:03:48.48,Kindaichi (Bot),,0,0,0,,¿Por qué viniste al apartamento de Takizawa?
 Dialogue: 0,1:03:48.48,1:03:51.59,Kindaichi (Bot),,0,0,0,,Takizawa me había dado un duplicado.
-Dialogue: 0,1:03:51.59,1:03:55.10,Kindaichi (Bot),,0,0,0,,#Takizawa
 Dialogue: 0,1:03:51.93,1:03:55.10,Kindaichi (Bot),,0,0,0,,Esta cinta es muy importante y se la había prestado.
 Dialogue: 0,1:03:55.10,1:03:57.93,Kindaichi (Bot),,0,0,0,,Simplemente quería recuperarla\Nantes de que hicieran un registro.
 Dialogue: 0,1:03:59.23,1:04:02.69,Kindaichi (Bot),,0,0,0,,¿Te importaría mostrarnos el contenido\Nde esa tan importante cinta?
@@ -954,14 +953,12 @@ Dialogue: 0,1:04:28.09,1:04:30.84,Kindaichi (Bot),,0,0,0,,Oh, yo no estoy sugiri
 Dialogue: 0,1:04:30.84,1:04:31.93,Kindaichi (Bot),,0,0,0,,Permíteme dejarlo en claro.
 Dialogue: 0,1:04:32.68,1:04:33.84,Kindaichi (Bot),,0,0,0,,Kozaburo Nojo,
 Dialogue: 0,1:04:34.18,1:04:36.56,Kindaichi (Bot),,0,0,0,,¡tú eres el verdadero asesino!
-Dialogue: 0,1:04:36.56,1:04:38.68,Kindaichi (Bot),,0,0,0,,#Takizawa
 Dialogue: 0,1:04:43.53,1:04:46.07,Kindaichi (Bot),,0,0,0,,¿Te has vuelto loco, niño detective?
 Dialogue: 0,1:04:46.07,1:04:48.90,Kindaichi (Bot),,0,0,0,,Estaba explicado claramente en el guión de Takizawa.
-Dialogue: 0,1:04:48.90,1:04:56.28,Kindaichi (Bot),,0,0,0,,Si bien es cierto, que cualquiera pudo fabricar\Nel temporizador para que cayese el candelabro.
+Dialogue: 0,1:04:48.90,1:04:56.28,Kindaichi (Bot),,0,0,0,,Si bien es cierto que cualquiera pudo fabricar\Nel temporizador para que cayese el candelabro.
 Dialogue: 0,1:04:56.28,1:04:57.62,Kindaichi (Bot),,0,0,0,,Pero presta atención.
 Dialogue: 0,1:04:57.62,1:05:01.88,Kindaichi (Bot),,0,0,0,,No todos tuvieron la oportunidad de llevar\Nel cuerpo de Seiko al escenario.
 Dialogue: 0,1:05:01.88,1:05:06.04,Kindaichi (Bot),,0,0,0,,¿Acaso no fuimos todos juntos al teatro\Nluego de ver la nota que anunciaba el crimen?
-Dialogue: 0,1:05:03.12,1:05:06.04,Kindaichi (Bot),,0,0,0,,#Takizawa
 Dialogue: 0,1:05:06.04,1:05:08.42,Kindaichi (Bot),,0,0,0,,El culpable es quien no tenga\Nuna coartada después de ese momento.
 Dialogue: 0,1:05:08.42,1:05:11.10,Kindaichi (Bot),,0,0,0,,Lo siento, pero yo tengo una coartada.
 Dialogue: 0,1:05:11.10,1:05:12.34,Kindaichi (Bot),,0,0,0,,Kindaichi,
@@ -970,12 +967,11 @@ Dialogue: 0,1:05:14.80,1:05:18.78,Kindaichi (Bot),,0,0,0,,Así es, volvimos al c
 Dialogue: 0,1:05:20.28,1:05:21.64,Kindaichi (Bot),,0,0,0,,Lo recuerdo.
 Dialogue: 0,1:05:22.23,1:05:24.54,Kindaichi (Bot),,0,0,0,,Estuvimos con Nojo todo el tiempo.
 Dialogue: 0,1:05:24.54,1:05:27.52,Kindaichi (Bot),,0,0,0,,Nunca tuvo una oportunidad de\Nllevar a Seiko al escenario.
-Dialogue: 0,1:05:28.75,1:05:31.92,Kindaichi (Bot),,0,0,0,,En verdad quieres hacerme parecer el culpable,
+Dialogue: 0,1:05:28.75,1:05:31.92,Kindaichi (Bot),,0,0,0,,En verdad quieres hacerme parecer el asesino,
 Dialogue: 0,1:05:31.92,1:05:33.29,Kindaichi (Bot),,0,0,0,,pero si en verdad lo fuera,
 Dialogue: 0,1:05:33.29,1:05:38.01,Kindaichi (Bot),,0,0,0,,a menos que haya usado un control remoto\Npara mover a Seiko de alguna manera...
 Dialogue: 0,1:05:38.01,1:05:40.37,Kindaichi (Bot),,0,0,0,,No es necesario tomarse tantas molestias.
 Dialogue: 0,1:05:40.37,1:05:44.60,Kindaichi (Bot),,0,0,0,,Después de todo, el cuerpo estuvo\Narriba del escenario todo el tiempo.
-Dialogue: 0,1:05:44.62,1:05:45.29,Kindaichi (Bot),,0,0,0,,#Takizawa
 Dialogue: 0,1:05:47.88,1:05:50.46,Kindaichi (Bot),,0,0,0,,Me preguntaba con qué estupidez responderías.
 Dialogue: 0,1:05:50.46,1:05:54.86,Kindaichi (Bot),,0,0,0,,Cuando fuimos hacia allí después de ver la carta,\Nno había nada sobre el escenario.
 Dialogue: 0,1:05:54.86,1:05:56.94,Kindaichi (Bot),,0,0,0,,Precisamente, Kurosawa.
@@ -983,11 +979,9 @@ Dialogue: 0,1:05:57.69,1:06:01.74,Kindaichi (Bot),,0,0,0,,Nojo quería que todos
 Dialogue: 0,1:06:02.89,1:06:05.02,Kindaichi (Bot),,0,0,0,,Es un mal chiste de Seiko.
 Dialogue: 0,1:06:05.66,1:06:08.86,Kindaichi (Bot),,0,0,0,,Me disculpo por la conmoción. Regresemos a cenar.
 Dialogue: 0,1:06:09.19,1:06:11.98,Kindaichi (Bot),,0,0,0,,Nos fuimos porque nos dejamos\Nengañar por lo que dijo.
-Dialogue: 0,1:06:11.98,1:06:14.78,Kindaichi (Bot),,0,0,0,,#Takizawa
 Dialogue: 0,1:06:12.32,1:06:14.78,Kindaichi (Bot),,0,0,0,,Pero en verdad no había nada sobre el escenario.
 Dialogue: 0,1:06:16.11,1:06:18.13,Kindaichi (Bot),,0,0,0,,No, de hecho lo había.
 Dialogue: 0,1:06:18.13,1:06:20.62,Kindaichi (Bot),,0,0,0,,Simplemente hizo que pareciera que no.
-Dialogue: 0,1:06:20.62,1:06:21.37,Kindaichi (Bot),,0,0,0,,#Takizawa
 Dialogue: 0,1:06:23.37,1:06:25.02,Kindaichi (Bot),,0,0,0,,¿La alcancía?
 Dialogue: 0,1:06:25.41,1:06:35.13,Kindaichi (Bot),,0,0,0,,Esta alcancía tiene un espejo ubicado diagonalmente,\Npor lo que no se puede ver su contenido.
 Dialogue: 0,1:06:35.59,1:06:38.76,Kindaichi (Bot),,0,0,0,,Nojo usó el mismo principio.
@@ -997,9 +991,8 @@ Dialogue: 0,1:07:08.79,1:07:11.50,Kindaichi (Bot),,0,0,0,,¿Y cómo logré lleva
 Dialogue: 0,1:07:11.50,1:07:14.93,Kindaichi (Bot),,0,0,0,,Usaste a Takizawa y Midorikawa\Nsin que ellos lo supieran.
 Dialogue: 0,1:07:14.93,1:07:17.38,Kindaichi (Bot),,0,0,0,,Cuando colocaron el retrato de Mika\Nen la pared del teatro,
 Dialogue: 0,1:07:17.38,1:07:21.55,Kindaichi (Bot),,0,0,0,,era tan liviano que no podía creer que fuese\Nel mismo cuadro que ayudé a cargar al bote.
-Dialogue: 0,1:07:22.19,1:07:23.93,Kindaichi (Bot),,0,0,0,,Los espejos estaban dentro del cuadro.
+Dialogue: 0,1:07:22.19,1:07:23.93,Kindaichi (Bot),,0,0,0,,Los espejos estaban junto con el cuadro.
 Dialogue: 0,1:07:23.93,1:07:25.31,Kindaichi (Bot),,0,0,0,,¿O me equivoco?
-Dialogue: 0,1:07:26.85,1:07:29.35,Kindaichi (Bot),,0,0,0,,#Takizawa
 Dialogue: 0,1:07:27.31,1:07:29.35,Kindaichi (Bot),,0,0,0,,El teatro estaba a oscuras.
 Dialogue: 0,1:07:29.35,1:07:32.61,Kindaichi (Bot),,0,0,0,,Y frente al escenario estaba la red\Nque simulaba los barrotes de hierros.
 Dialogue: 0,1:07:33.15,1:07:36.35,Kindaichi (Bot),,0,0,0,,Tendríamos que habernos acercado\Npara notar los espejos.
@@ -1105,7 +1098,7 @@ Dialogue: 0,1:13:27.77,1:13:30.14,Kindaichi (Bot),,0,0,0,,Lo admito... Admito mi
 Dialogue: 0,1:13:30.14,1:13:31.38,Kindaichi (Bot),,0,0,0,,Les diré todo.
 Dialogue: 0,1:13:31.80,1:13:33.80,Kindaichi (Bot),,0,0,0,,Pero tengo dos condiciones.
 Dialogue: 0,1:13:33.80,1:13:35.11,Kindaichi (Bot),,0,0,0,,¿Condiciones?
-Dialogue: 0,1:13:35.11,1:13:36.97,Kindaichi (Bot),,0,0,0,,La primera es sobre esa cinta.
+Dialogue: 0,1:13:35.11,1:13:36.97,Kindaichi (Bot),,0,0,0,,La primera es sobre la cinta.
 Dialogue: 0,1:13:36.97,1:13:38.53,Kindaichi (Bot),,0,0,0,,No quiero mostrársela a nadie.
 Dialogue: 0,1:13:38.53,1:13:39.95,Kindaichi (Bot),,0,0,0,,Quiero que sea destruida.
 Dialogue: 0,1:13:39.95,1:13:41.08,Kindaichi (Bot),,0,0,0,,No, eso es imposible.
@@ -1153,7 +1146,7 @@ Dialogue: 0,1:16:58.94,1:17:04.59,Kindaichi (Bot),,0,0,0,,Al parecer, estaba ate
 Dialogue: 0,1:17:04.59,1:17:08.80,Kindaichi (Bot),,0,0,0,,Estaba convencido de que sucedió\Nporque habías abandonado a Mika.
 Dialogue: 0,1:17:09.18,1:17:12.39,Kindaichi (Bot),,0,0,0,,Ese fue un rumor que difundí, director.
 Dialogue: 0,1:17:13.14,1:17:17.46,Kindaichi (Bot),,0,0,0,,Siempre amé a Mika.
-Dialogue: 0,1:17:17.46,1:17:19.21,Kindaichi (Bot),,0,0,0,,Incluso ahora, eso no cambió.
+Dialogue: 0,1:17:17.46,1:17:19.21,Kindaichi (Bot),,0,0,0,,Incluso ahora, eso no ha cambiado.
 Dialogue: 0,1:17:49.56,1:17:51.03,Kindaichi (Bot),,0,0,0,,Mika lo era todo para mí.
 Dialogue: 0,1:17:51.03,1:17:54.54,Kindaichi (Bot),,0,0,0,,¿Tanto amabas a Mika, Nojo?
 Dialogue: 0,1:17:54.54,1:17:56.42,Kindaichi (Bot),,0,0,0,,Fueron unos largos cuatro años.
@@ -1161,7 +1154,7 @@ Dialogue: 0,1:17:57.11,1:18:00.00,Kindaichi (Bot),,0,0,0,,Para descubrir la verd
 Dialogue: 0,1:18:00.00,1:18:05.97,Kindaichi (Bot),,0,0,0,,me acerqué a Seiko, disfracé mis sentimientos,\Ny me expuse a la absoluta fealdad.
 Dialogue: 0,1:18:05.97,1:18:10.59,Kindaichi (Bot),,0,0,0,,Lo engañé, director, y lo sometí al\Nabuso verbal y a mi horrible actitud.
 Dialogue: 0,1:18:11.05,1:18:12.98,Kindaichi (Bot),,0,0,0,,Fue una larga y dolorosa producción.
-Dialogue: 0,1:18:13.60,1:18:15.87,Kindaichi (Bot),,0,0,0,,Todo los días fue un acto, una función.
+Dialogue: 0,1:18:13.60,1:18:15.87,Kindaichi (Bot),,0,0,0,,Todos los días fue un acto, una función.
 Dialogue: 0,1:18:16.50,1:18:19.92,Kindaichi (Bot),,0,0,0,,Ya no podía distinguir la actuación de lo real.
 Dialogue: 0,1:18:20.42,1:18:22.61,Kindaichi (Bot),,0,0,0,,Sin importar lo que comiera, nada tenía sabor.
 Dialogue: 0,1:18:22.61,1:18:25.81,Kindaichi (Bot),,0,0,0,,Sin importar lo que bebiera, no podía emborracharme.
@@ -1171,7 +1164,7 @@ Dialogue: 0,1:18:34.98,1:18:38.69,Kindaichi (Bot),,0,0,0,,No importa cómo lo ex
 Dialogue: 0,1:18:42.90,1:18:44.65,Kindaichi (Bot),,0,0,0,,Yo sí, Nojo.
 Dialogue: 0,1:18:45.49,1:18:47.28,Kindaichi (Bot),,0,0,0,,Te entiendo.
 Dialogue: 0,1:18:49.49,1:18:56.79,Kindaichi (Bot),,0,0,0,,Cuando Takizawa me mostró esta cinta con el\Nsufrimiento de Mika, me di cuenta de una cosa.
-Dialogue: 0,1:18:56.79,1:19:00.33,Kindaichi (Bot),,0,0,0,,Me había convertido en un demonio,\Nque vivía únicamente para la venganza.
+Dialogue: 0,1:18:56.79,1:19:00.33,Kindaichi (Bot),,0,0,0,,Me había convertido en un demonio\Nque vivía únicamente para la venganza.
 Dialogue: 0,1:19:01.50,1:19:04.89,Kindaichi (Bot),,0,0,0,,Mika murió creyendo que la había abandonado.
 Dialogue: 0,1:19:05.26,1:19:06.21,Kindaichi (Bot),,0,0,0,,Y sin embargo...
 Dialogue: 0,1:19:06.76,1:19:07.93,Kindaichi (Bot),,0,0,0,,Sin embargo...
@@ -1179,10 +1172,10 @@ Dialogue: 0,1:19:08.38,1:19:10.35,Kindaichi (Bot),,0,0,0,,Ella me había perdona
 Dialogue: 0,1:19:11.43,1:19:13.64,Kindaichi (Bot),,0,0,0,,La nota de Mika decía:
 Dialogue: 0,1:19:14.31,1:19:19.74,Kindaichi (Bot),,0,0,0,,"Me derrumbé yo misma.\NGracias por dejarme soñar."
 Dialogue: 0,1:19:20.27,1:19:22.25,Kindaichi (Bot),,0,0,0,,Eso fue lo que escribió.
-Dialogue: 0,1:19:22.25,1:19:23.34,Kindaichi (Bot),,0,0,0,,Para mí...
-Dialogue: 0,1:19:24.11,1:19:27.92,Kindaichi (Bot),,0,0,0,,El tonto que no pudo salvarla.
+Dialogue: 0,1:19:22.25,1:19:23.34,Kindaichi (Bot),,0,0,0,,A mí...
+Dialogue: 0,1:19:24.11,1:19:27.92,Kindaichi (Bot),,0,0,0,,... el tonto que no pudo salvarla.
 Dialogue: 0,1:19:27.92,1:19:29.04,Kindaichi (Bot),,0,0,0,,Ella...
-Dialogue: 0,1:19:29.91,1:19:32.04,Kindaichi (Bot),,0,0,0,,Ella dijo "gracias".
+Dialogue: 0,1:19:29.91,1:19:32.04,Kindaichi (Bot),,0,0,0,,Ella me dijo "gracias".
 Dialogue: 0,1:19:33.45,1:19:38.25,Kindaichi (Bot),,0,0,0,,Esos malditos pisotearon la dignidad de su muerte,\Nviviendo cuando no se lo merecían.
 Dialogue: 0,1:19:38.92,1:19:46.57,Kindaichi (Bot),,0,0,0,,Aún peor, porque lo que hicieron nunca\Nsalió a la luz, se burlaron de Mika.
 Dialogue: 0,1:19:46.57,1:19:49.15,Kindaichi (Bot),,0,0,0,,Había llegado al límite.
@@ -1215,7 +1208,7 @@ Dialogue: 0,1:21:28.78,1:21:30.19,Kindaichi (Bot),,0,0,0,,Perdón por la demora.
 Dialogue: 0,1:21:30.57,1:21:33.81,Kindaichi (Bot),,0,0,0,,De acuerdo al informe forense\Nde la policía de Shizuoka,
 Dialogue: 0,1:21:33.81,1:21:38.93,Kindaichi (Bot),,0,0,0,,lograron recolectar una pequeña muestra de la sangre\Nde Takizawa de las ruinas del edificio.
 Dialogue: 0,1:21:38.93,1:21:41.70,Kindaichi (Bot),,0,0,0,,También se encontró su sangre\Nen los restos de la pintura.
-Dialogue: 0,1:21:41.87,1:21:46.27,Kindaichi (Bot),,0,0,0,,Nojo ya confesó. ¿No es ya caso cerrado?
+Dialogue: 0,1:21:41.87,1:21:46.27,Kindaichi (Bot),,0,0,0,,Nojo confesó. ¿No es ya caso cerrado?
 Dialogue: 0,1:21:46.27,1:21:49.50,Kindaichi (Bot),,0,0,0,,Es verdad que Nojo admitió su responsabilidad\Nen todos los crímenes.
 Dialogue: 0,1:21:49.50,1:21:50.32,Kindaichi (Bot),,0,0,0,,No.
 Dialogue: 0,1:21:50.88,1:21:53.22,Kindaichi (Bot),,0,0,0,,Nojo no fue quien mató a Takizawa.
@@ -1237,14 +1230,14 @@ Dialogue: 0,1:23:01.66,1:23:03.82,Kindaichi (Bot),,0,0,0,,Claramente no se la ha
 Dialogue: 0,1:23:04.50,1:23:08.59,Kindaichi (Bot),,0,0,0,,Y esa fue la única vez que Nojo se cambió de ropa.
 Dialogue: 0,1:23:09.69,1:23:10.59,Kindaichi (Bot),,0,0,0,,Entonces...
 Dialogue: 0,1:23:10.92,1:23:13.84,Kindaichi (Bot),,0,0,0,,Sí, el otro fantasma es...
-Dialogue: 0,1:23:17.47,1:23:19.22,Kindaichi (Bot),,0,0,0,,... quien se fue para cambiarse de ropa...
-Dialogue: 0,1:23:20.68,1:23:22.06,Kindaichi (Bot),,0,0,0,,... Christine.
+Dialogue: 0,1:23:17.47,1:23:19.22,Kindaichi (Bot),,0,0,0,,... quien fue a cambiarse de ropa.
+Dialogue: 0,1:23:20.68,1:23:22.06,Kindaichi (Bot),,0,0,0,,Christine.
 Dialogue: 0,1:23:36.53,1:23:37.95,Kindaichi (Bot),,0,0,0,,¿Qué haces aquí?
 Dialogue: 0,1:23:44.29,1:23:46.79,Kindaichi (Bot),,0,0,0,,Cada vez te pareces más y más a Mika.
 Dialogue: 0,1:23:48.21,1:23:51.25,Kindaichi (Bot),,0,0,0,,#Grabando
 Dialogue: 0,1:24:54.56,1:24:56.83,Kindaichi (Bot),,0,0,0,,No pretendía involucrarte.
 Dialogue: 0,1:24:56.83,1:24:58.51,Kindaichi (Bot),,0,0,0,,Ese era mi trabajo.
-Dialogue: 0,1:24:58.51,1:25:02.05,Kindaichi (Bot),,0,0,0,,No, yo sentía lo misma.
+Dialogue: 0,1:24:58.51,1:25:02.05,Kindaichi (Bot),,0,0,0,,No, yo sentía lo mismo.
 Dialogue: 0,1:25:02.05,1:25:05.17,Kindaichi (Bot),,0,0,0,,El sueño de Mika es nuestro sueño.
 Dialogue: 0,1:25:05.66,1:25:10.97,Kindaichi (Bot),,0,0,0,,Esta producción es el sueño\Ndel director Kurosawa y los demás.
 Dialogue: 0,1:25:36.11,1:25:36.86,Kindaichi (Bot),,0,0,0,,Adelante.
@@ -1293,7 +1286,7 @@ Dialogue: 0,1:28:35.48,1:28:38.01,Kindaichi (Bot),,0,0,0,,No me hagas enojar si 
 Dialogue: 0,1:28:38.01,1:28:39.89,Kindaichi (Bot),,0,0,0,,¿Tú? ¿Agradecerme algo?
 Dialogue: 0,1:28:39.89,1:28:47.05,Kindaichi (Bot),,0,0,0,,Recuerda. Cuando la ópera se incendiaba,\Ntrataste de protegerme desesperadamente.
 Dialogue: 0,1:28:47.05,1:28:48.96,Kindaichi (Bot),,0,0,0,,En ese momento, yo...
-Dialogue: 0,1:28:49.55,1:28:51.41,Kindaichi (Bot),,0,0,0,,Yo fui muy feliz.
+Dialogue: 0,1:28:49.55,1:28:51.41,Kindaichi (Bot),,0,0,0,,Me sentí muy feliz.
 Dialogue: 0,1:28:51.80,1:28:53.80,Kindaichi (Bot),,0,0,0,,Oh, ¿esa vez?
 Dialogue: 0,1:28:54.35,1:28:55.80,Kindaichi (Bot),,0,0,0,,Bueno, no importa.
 Dialogue: 0,1:28:55.80,1:28:56.78,Kindaichi (Bot),,0,0,0,,No diré nada.
@@ -1319,5 +1312,5 @@ Dialogue: 0,1:30:08.56,1:30:09.65,Kindaichi (Bot),,0,0,0,,¡Espera!
 Dialogue: 0,1:30:22.56,1:30:25.08,Kindaichi (Bot),,0,0,0,,¡Me las pagarás, Miyuki!
 Dialogue: 0,1:30:25.08,1:30:27.19,Kindaichi (Bot),,0,0,0,,¡Regresa!
 Dialogue: 0,1:30:27.19,1:30:30.16,Kindaichi (Bot),,0,0,0,,¡Ustedes dos!
-Dialogue: 0,1:30:30.67,1:30:33.03,Kindaichi (Bot),,0,0,0,,¡No rompan el límite de velocidad!
-Dialogue: 0,1:34:06.24,1:34:12.79,Kindaichi (Bot),,0,0,0,,#El fin
+Dialogue: 0,1:30:30.67,1:30:33.03,Kindaichi (Bot),,0,0,0,,¡Respeten el límite de velocidad!
+Dialogue: 0,1:34:06.24,1:34:12.79,Kindaichi (Bot),,0,0,0,,#Fin
