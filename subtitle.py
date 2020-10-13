@@ -42,22 +42,22 @@ class SubPlayer:
         else:
             keep = '--end={end}'
 
-        #self.command = 'mpv --vo=null --start={start} --end={end} {videofile}'
         self.command = 'mpv {video} --start={{start}} {keep} {{videofile}}'.format(video=video, keep=keep)
 
     def play_subtitle(self, range, videofile):
-        raise NotImplementedError('play_subtitle() needs to be overrided')
+        [start, end] = self.parse_range(range)
+        cmd = self.command.format(start=start, end=end, videofile=videofile)
+        subprocess.Popen(cmd.split())
 
 
 class SrtPlayer(SubPlayer):
     def __init__(self, vim, args):
         super().__init__(vim, args)
 
-    def play_subtitle(self, range, videofile):
+    def parse_range(self, range):
         line = self.vim.current.line
-
         if self.is_timestamp(line):
-            self.play(line.split(), videofile)
+            return self.parse(line.split())
         else: #search for a timestamp
             #go up until a blank line or start of file
             line_number = range[0]
@@ -70,10 +70,14 @@ class SrtPlayer(SubPlayer):
             line_number += 2
             line = self.vim.current.buffer[line_number-1]
             if self.is_timestamp(line):
-                self.play(line.split(), videofile)
+                return self.parse(line.split())
             else:
                 raise Exception('No timestamp found: '+line)
 
+    def parse(self, time):
+        start = time[0].replace(',', '.')
+        end = time[2].replace(',', '.')
+        return start, end
 
     def play(self, time, videofile):
         start = time[0].replace(',', '.')
@@ -90,14 +94,10 @@ class AssPlayer(SubPlayer):
     def __init__(self, vim, args):
         super().__init__(vim, args)
 
-    def play_subtitle(self, range, videofile):
+    def parse_range(self, range):
         #Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         line = self.vim.current.line
-
         time = line.split(sep=',')
         start = time[1]
         end = time[2]
-
-        cmd = self.command.format(start=start, end=end, videofile=videofile)
-        print(cmd)
-        subprocess.Popen(cmd.split())
+        return start, end
