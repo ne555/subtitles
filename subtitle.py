@@ -45,7 +45,8 @@ class SubPlayer:
         self.command = 'mpv {video} --start={{start}} {keep} {{videofile}}'.format(video=video, keep=keep)
 
     def play_subtitle(self, range, videofile):
-        [start, end] = self.parse_range(range)
+        start = self.parse_range(range[0])[0]
+        end = self.parse_range(range[1])[1]
         cmd = self.command.format(start=start, end=end, videofile=videofile)
         subprocess.Popen(cmd.split())
 
@@ -54,37 +55,27 @@ class SrtPlayer(SubPlayer):
     def __init__(self, vim, args):
         super().__init__(vim, args)
 
-    def parse_range(self, range):
-        line = self.vim.current.line
+    def search_timestamp(self, line_number):
+        line = self.vim.current.buffer[line_number-1]
         if self.is_timestamp(line):
-            return self.parse(line.split())
+            return line_number
         else: #search for a timestamp
             #go up until a blank line or start of file
-            line_number = range[0]
-            line = self.vim.current.buffer[line_number-1]
             while line_number>0 and line:
                 line_number -= 1
                 line = self.vim.current.buffer[line_number-1]
-            #blank, id, timestamp, text
             #so go 2 lines below
-            line_number += 2
-            line = self.vim.current.buffer[line_number-1]
-            if self.is_timestamp(line):
-                return self.parse(line.split())
-            else:
-                raise Exception('No timestamp found: '+line)
+            return line_number + 2
+
+    def parse_range(self, line_number):
+        time = self.search_timestamp(line_number)
+        return self.parse(self.vim.current.buffer[time-1])
 
     def parse(self, time):
+        time = time.split()
         start = time[0].replace(',', '.')
         end = time[2].replace(',', '.')
         return start, end
-
-    def play(self, time, videofile):
-        start = time[0].replace(',', '.')
-        end = time[2].replace(',', '.')
-        cmd = self.command.format(start=start, end=end, videofile=videofile)
-        print(cmd)
-        subprocess.Popen(cmd.split())
 
     def is_timestamp(self, line):
         time = line.split()
@@ -94,9 +85,9 @@ class AssPlayer(SubPlayer):
     def __init__(self, vim, args):
         super().__init__(vim, args)
 
-    def parse_range(self, range):
+    def parse_range(self, line_number):
         #Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-        line = self.vim.current.line
+        line = self.vim.current.buffer[line_number-1]
         time = line.split(sep=',')
         start = time[1]
         end = time[2]
