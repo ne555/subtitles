@@ -1,7 +1,16 @@
 import pynvim
 import os
+import fnmatch
 import subprocess
 import re
+
+def find_file(pattern, path):
+    result = []
+    for root, dirs, files in os.walk(path):
+        for name in files:
+            if fnmatch.fnmatch(name, pattern):
+                result.append(os.path.join(root, name))
+    return result
 
 @pynvim.plugin
 class Subtitle:
@@ -13,8 +22,9 @@ class Subtitle:
         filename = self.vim.current.buffer.name
         dirname = os.path.dirname(filename)
         filename = os.path.basename(filename)
-        extension = os.path.splitext(filename)[1]
+        (name, extension) = os.path.splitext(filename)
 
+        #factory
         if extension=='.srt':
             player = SrtPlayer(self.vim, args)
         elif extension=='.ass':
@@ -22,11 +32,15 @@ class Subtitle:
         else:
             raise Exception('No known subtitle file type')
 
-        video = re.sub(r'-.*'+extension, '.mkv', filename)
-        player.play_subtitle(range, dirname+'/video/'+video)
-        #en el mismo directorio
-        #video = os.path.splitext(filename)[0] + '.mkv'
-        #player.play_subtitle(range, dirname+'/'+video)
+        #get video filename
+        candidates = find_file(re.sub(r'-.*$', '', name)+'.*', dirname+'/video/')
+        valid_extensions = ['.mkv', '.avi', '.mp4', '.webm', '.wmv']
+        for c in candidates:
+            if os.path.splitext(c)[1] in valid_extensions:
+                video = c
+                break
+
+        player.play_subtitle(range, video)
 
 
 class SubPlayer:
