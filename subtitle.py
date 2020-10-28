@@ -46,6 +46,7 @@ class Subtitle:
 class SubPlayer:
     def __init__(self, vim, args):
         self.vim = vim
+        filename = self.vim.current.buffer.name
         if 'video' in args:
             video = ''
         else:
@@ -56,7 +57,7 @@ class SubPlayer:
         else:
             keep = '--end={end}'
 
-        self.command = 'mpv {video} --start={{start}} {keep} {{videofile}}'.format(video=video, keep=keep)
+        self.command = 'mpv {video} --start={{start}} {keep} --sub-file={subfile} --sub-pos=25 {{videofile}}'.format(video=video, keep=keep, subfile=filename)
 
     def play_subtitle(self, range, videofile):
         start = self.parse_range(range[0])[0]
