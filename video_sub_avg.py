@@ -6,6 +6,9 @@ import sys
 import srt
 import os
 
+import cv2 as cv
+import numpy as np
+
 def usage(program):
     print(program, 'file.srt', 'file.video')
 
@@ -50,6 +53,13 @@ class ass_parse(sub_parse):
 def obtain_times(subtitle_file):
     pass
 
+def average(frames):
+    result = np.zeros(shape=frames[0].shape, dtype='float64')
+    for f in frames:
+        result += f.astype('float64')
+    result /= len(frames)
+    return result.astype('uint8')
+
 def main(argv):
     if len(argv) != 3:
         usage(argv[0])
@@ -62,8 +72,18 @@ def main(argv):
     if extension == '.srt':
         parser = srt_parse(subtitle_name)
 
+    capture = cv.VideoCapture(video_name)
+    fps = capture.get(cv.CAP_PROP_FPS)
     for s in parser.obtain_times():
-        print(s)
+        start = int(s.start * fps)
+        end = int(s.end * fps)
+        capture.set(cv.CAP_PROP_POS_FRAMES, int(s.start * fps))
+        print(s.index, start, end)
+        frames = [capture.read()[1] for K in range(start, end)]
+        avg = average(frames)
+        if s.index > 0:
+            cv.imshow('foo', avg)
+            cv.waitKey()
 
 
 if __name__ == "__main__":
