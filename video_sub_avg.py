@@ -74,16 +74,19 @@ def main(argv):
 
     capture = cv.VideoCapture(video_name)
     fps = capture.get(cv.CAP_PROP_FPS)
+    buffer_size = 2
     for s in parser.obtain_times():
-        start = int(s.start * fps)
-        end = int(s.end * fps)
+        #obtain the frames in the range
+        start = int(s.start * fps) + buffer_size
+        end = int(s.end * fps) - buffer_size
         capture.set(cv.CAP_PROP_POS_FRAMES, int(s.start * fps))
         print(s.index, start, end)
         frames = [capture.read()[1] for K in range(start, end)]
-        avg = average(frames)
-        if s.index > 0:
-            cv.imshow('foo', avg)
-            cv.waitKey()
+
+        if frames:
+            avg = average(frames)
+            output_filename = 'output/{}_{:03d}'.format(os.path.basename(name), s.index) + '.png'
+            cv.imwrite(output_filename, avg)
 
 
 if __name__ == "__main__":
