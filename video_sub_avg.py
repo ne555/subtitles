@@ -12,47 +12,6 @@ import numpy as np
 def usage(program):
     print(program, 'file.srt', 'file.video')
 
-class sub_time:
-    def __init__(self, index, start, end):
-        self.index = index
-        self.start = start
-        self.end = end
-    def __str__(self):
-        return '{}: {} --> {}'.format(self.index, self.start, self.end)
-
-class sub_parse:
-    def __init__(self, input_file):
-        self.input_file = open(input_file)
-
-class srt_parse(sub_parse):
-    def __init__(self, input_file):
-        super().__init__(input_file)
-
-    def extractor(self):
-        return srt.parse(self.input_file)
-
-    @staticmethod
-    def to_seconds(time):
-        return time.seconds + time.microseconds / 1e6
-
-    @staticmethod
-    def format(subtitle):
-        start = srt_parse.to_seconds(subtitle.start)
-        end = srt_parse.to_seconds(subtitle.end)
-        return sub_time(subtitle.index, start, end)
-
-    def obtain_times(self):
-        result = []
-        for s in self.extractor():
-            result.append(self.format(s))
-        return result
-
-class ass_parse(sub_parse):
-    pass
-
-def obtain_times(subtitle_file):
-    pass
-
 def average(frames):
     result = np.zeros(shape=frames[0].shape, dtype='float64')
     for f in frames:
@@ -79,7 +38,7 @@ def main(argv):
         #obtain the frames in the range
         start = int(s.start * fps) + buffer_size
         end = int(s.end * fps) - buffer_size
-        capture.set(cv.CAP_PROP_POS_FRAMES, int(s.start * fps))
+        capture.set(cv.CAP_PROP_POS_FRAMES, start)
         print(s.index, start, end)
         frames = [capture.read()[1] for K in range(start, end)]
 
@@ -91,3 +50,18 @@ def main(argv):
 
 if __name__ == "__main__":
     main(sys.argv)
+
+class extractor:
+    def __init__(self, filename, buffer_size):
+        self.buffer_size = buffer_size
+        self.capture = cv.VideoCapture(filename)
+        self.fps = self.capture.get(cv.CAP_PROP_FPS)
+
+    def get_average_frame(self, time):
+        start = int(time.start * self.fps) + self.buffer_size
+        end = int(time.end * self.fps) - self.buffer_size
+        self.capture.set(cv.CAP_PROP_POS_FRAMES, start)
+        frames = [self.capture.read()[1] for K in range(start, end)]
+
+        if frames:
+            return average(frames)
