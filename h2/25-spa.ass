@@ -28,17 +28,17 @@ Dialogue: 0,0:02:54.67,0:02:56.10,H2 (Inferior),,0,0,0,,¿Quién eres?
 Dialogue: 0,0:02:56.93,0:03:00.85,H2 (Inferior),,0,0,0,,Soy Hikari, la única heredera de la Librería Amamiya.
 Dialogue: 0,0:03:00.85,0:03:01.78,H2 (Inferior),,0,0,0,,¿No te acuerdas de mí?
 Dialogue: 0,0:03:03.11,0:03:05.20,H2 (Inferior),,0,0,0,,Empieza el nuevo semestre y llegarás tarde.
-Dialogue: 0,0:03:06.39,0:03:08.36,H2 (Inferior),,0,0,0,,Hoy comienza el club de béisbol.
+Dialogue: 0,0:03:06.39,0:03:08.36,H2 (Inferior),,0,0,0,,Hoy es el inicio del club de béisbol.
 Dialogue: 0,0:03:09.15,0:03:11.59,H2 (Inferior),,0,0,0,,¿Viniste hasta aquí sólo para decir eso?
 Dialogue: 0,0:03:11.59,0:03:12.90,H2 (Inferior),,0,0,0,,Es que tú no pasaste a verme.
-Dialogue: 0,0:03:14.40,0:03:17.54,H2 (Inferior),,0,0,0,,"Hikari, hoy tenemos un juego."
+Dialogue: 0,0:03:14.40,0:03:17.54,H2 (Inferior),,0,0,0,,"Hikari, hoy tenemos un juego".
 Dialogue: 0,0:03:17.54,0:03:20.75,H2 (Inferior),,0,0,0,,"Hikari, hoy seré lanzador por primera vez".
 Dialogue: 0,0:03:24.28,0:03:28.49,H2 (Inferior),,0,0,0,,Usted siempre me informaba de todo, señor.
 Dialogue: 0,0:03:32.20,0:03:36.86,H2 (Inferior),,0,0,0,,Vamos a escuelas distintas. No siempre podré\Ntomarme las molestias de mantenerte actualizada.
 Dialogue: 0,0:03:36.86,0:03:38.09,H2 (Inferior),,0,0,0,,Entonces eso era.
 Dialogue: 0,0:03:38.65,0:03:40.02,H2 (Inferior),,0,0,0,,Sí, eso era.
-Dialogue: 0,0:03:43.00,0:03:44.37,H2 (Inferior),,0,0,0,,Supongo.
-Dialogue: 0,0:03:44.37,0:03:50.21,H2 (Inferior),,0,0,0,,Hikari, probablemente ya lo sepas, \Npero hoy comienza nuestro club de béisbol.
+Dialogue: 0,0:03:43.00,0:03:44.37,H2 (Inferior),,0,0,0,,Así que eso era.
+Dialogue: 0,0:03:44.37,0:03:50.21,H2 (Inferior),,0,0,0,,Hikari, probablemente ya lo sepas, \Npero hoy es el inicio de nuestro club de béisbol.
 Dialogue: 0,0:03:53.31,0:03:54.49,H2 (Inferior),,0,0,0,,¡Debes estar animado!
 Dialogue: 0,0:03:54.99,0:03:56.00,H2 (Inferior),,0,0,0,,¡Lo estoy!
 Dialogue: 0,0:03:56.80,0:03:58.84,H2 (Inferior),,0,0,0,,¡Corre, Hiro Kunimi!
@@ -53,11 +53,11 @@ Dialogue: 0,0:04:27.64,0:04:30.99,H2 (Inferior),,0,0,0,,¿Cómo se llamaba? Hab�
 Dialogue: 0,0:04:32.28,0:04:33.49,H2 (Inferior),,0,0,0,,¿Quién era?
 Dialogue: 0,0:04:33.49,0:04:35.78,H2 (Inferior),,0,0,0,,Tú sabes, el que estaba en el club de fútbol.
 Dialogue: 0,0:04:37.18,0:04:38.52,H2 (Inferior),,0,0,0,,¡Ah, hablas de Kunimi!
-Dialogue: 0,0:04:41.05,0:04:43.55,H2 (Inferior),,0,0,0,,Había alguien más.
+Dialogue: 0,0:04:41.05,0:04:43.55,H2 (Inferior),,0,0,0,,{\i1}Había alguien más.{\i}
 Dialogue: 0,0:04:43.55,0:04:45.71,H2 (Inferior),,0,0,0,,No era sólo Kunimi, había otros.
-Dialogue: 0,0:04:45.71,0:04:47.30,H2 (Inferior),,0,0,0,,Sí, es cierto.
+Dialogue: 0,0:04:45.71,0:04:47.30,H2 (Inferior),,0,0,0,,{\i1}Sí, es cierto.{\i}
 Dialogue: 0,0:04:47.30,0:04:49.03,H2 (Inferior),,0,0,0,,Sí, también estaba Noda.
-Dialogue: 0,0:04:51.33,0:04:53.15,H2 (Inferior),,0,0,0,,¡No!
+Dialogue: 0,0:04:51.33,0:04:53.15,H2 (Inferior),,0,0,0,,{\i1}¡No!{\i}
 Dialogue: 0,0:04:53.15,0:04:54.99,H2 (Inferior),,0,0,0,,Yanagi también lo hizo muy bien.
 Dialogue: 0,0:04:59.29,0:05:00.79,H2 (Inferior),,0,0,0,,Hola, goleador.
 Dialogue: 0,0:05:02.06,0:05:04.60,H2 (Inferior),,0,0,0,,Así es. Yo soy el goleador--
@@ -78,7 +78,7 @@ Dialogue: 0,0:06:02.52,0:06:03.24,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:06:03.61,0:06:07.04,H2 (Inferior),,0,0,0,,Con esto, nosotros los de tercero\Nya no tenemos arrepentimientos.
 Dialogue: 0,0:06:07.04,0:06:10.47,H2 (Inferior),,0,0,0,,Ahora nos retiramos, pero les deseamos buena suerte.
 Dialogue: 0,0:06:11.63,0:06:14.00,H2 (Inferior),,0,0,0,,¡Muchas gracias!
-Dialogue: 0,0:06:16.48,0:06:17.89,H2 (Inferior),,0,0,0,,@¡Lo conseguí!
+Dialogue: 0,0:06:16.48,0:06:17.89,H2 (Inferior),,0,0,0,,¡Aquí la traigo!
 Dialogue: 0,0:06:20.15,0:06:27.10,H2 (Inferior),,0,0,0,,#Club de béisbol
 Dialogue: 0,0:06:20.82,0:06:22.90,H2 (Inferior),,0,0,0,,¿Estamos todos?
 Dialogue: 0,0:06:22.90,0:06:25.73,H2 (Inferior),,0,0,0,,¡Ya no recuerdo cuánto esperamos por esto!
@@ -114,7 +114,7 @@ Dialogue: 0,0:08:09.46,0:08:12.68,H2 (Inferior),,0,0,0,,Escuché que había cons
 Dialogue: 0,0:08:12.68,0:08:14.59,H2 (Inferior),,0,0,0,,&De aquel lado.
 Dialogue: 0,0:08:13.35,0:08:15.09,H2 (Inferior),,0,0,0,,&¿Son hermanos pero no se hablan?
 Dialogue: 0,0:08:15.09,0:08:16.33,H2 (Inferior),,0,0,0,,Es por la diferencia de edad.
-Dialogue: 0,0:08:16.96,0:08:19.31,H2 (Inferior),,0,0,0,,¡Wow! ¡Cuántas pelotas!
+Dialogue: 0,0:08:16.96,0:08:19.31,H2 (Inferior),,0,0,0,,¡Oh! ¡Cuántas pelotas!
 Dialogue: 0,0:08:20.36,0:08:22.02,H2 (Inferior),,0,0,0,,Y bates y guantes, también.
 Dialogue: 0,0:08:22.02,0:08:25.39,H2 (Inferior),,0,0,0,,Y el campo de béisbol está en construcción.\N¡Tenemos todo lo que necesitamos!
 Dialogue: 0,0:08:26.68,0:08:30.40,H2 (Inferior),,0,0,0,,Cuando mi padre se compromete\Nno hace las cosas a medias.
@@ -126,13 +126,12 @@ Dialogue: 0,0:08:48.95,0:08:49.54,H2 (Inferior),,0,0,0,,Sí...
 Dialogue: 0,0:08:51.70,0:08:52.60,H2 (Inferior),,0,0,0,,Gracias.
 Dialogue: 0,0:08:52.60,0:08:53.72,H2 (Inferior),,0,0,0,,Muchas gracias.
 Dialogue: 0,0:08:54.70,0:08:56.00,H2 (Inferior),,0,0,0,,Akagi.
-Dialogue: 0,0:08:56.49,0:08:59.25,H2 (Inferior),,0,0,0,,Kunimi, ya que fuiste miembro del club de fútbol,
-Dialogue: 0,0:08:59.25,0:09:01.65,H2 (Inferior),,0,0,0,,quería felicitarte por tu nuevo comienzo.
+Dialogue: 0,0:08:56.49,0:09:01.65,H2 (Inferior),,0,0,0,,Kunimi, ya que fuiste miembro del club de fútbol,\Nquería felicitarte por tu nuevo comienzo.
 Dialogue: 0,0:09:01.65,0:09:03.80,H2 (Inferior),,0,0,0,,Por eso vinimos a ayudar. ¿No es así, Kine?
 Dialogue: 0,0:09:06.55,0:09:07.44,H2 (Inferior),,0,0,0,,Sí, así es.
 Dialogue: 0,0:09:08.26,0:09:09.10,H2 (Inferior),,0,0,0,,Gracias.
-Dialogue: 0,0:09:10.74,0:09:14.40,H2 (Inferior),,0,0,0,,Todos ustedes son miembros oficiales del club de béisbol.\NMantengan la frente en alto.
-Dialogue: 0,0:09:15.16,0:09:18.60,H2 (Inferior),,0,0,0,,No soporto a la gente que no tiene orgullo.
+Dialogue: 0,0:09:10.74,0:09:14.40,H2 (Inferior),,0,0,0,,Ustedes son miembros oficiales del club de béisbol.\NMantengan la frente en alto.
+Dialogue: 0,0:09:15.16,0:09:18.60,H2 (Inferior),,0,0,0,,No soporto a la gente sin orgullo.
 Dialogue: 0,0:09:20.11,0:09:22.25,H2 (Inferior),,0,0,0,,Estaba espiando desde hace tiempo.
 Dialogue: 0,0:09:22.25,0:09:27.35,H2 (Inferior),,0,0,0,,La cuestión es cuanto seguirá espiando\Ny evitando unirse a nosotros.
 Dialogue: 0,0:09:31.90,0:09:32.70,H2 (Inferior),,0,0,0,,Kunimi.
@@ -171,7 +170,7 @@ Dialogue: 0,0:11:33.30,0:11:34.39,H2 (Inferior),,0,0,0,,Se esforzarán.
 Dialogue: 0,0:11:35.21,0:11:36.43,H2 (Inferior),,0,0,0,,Para lagartijas.
 Dialogue: 0,0:11:38.00,0:11:39.30,H2 (Inferior),,0,0,0,,Y sentadillas.
 Dialogue: 0,0:11:40.86,0:11:43.00,H2 (Inferior),,0,0,0,,Después de todo, pasará tiempo\Nhasta que podamos usar el campo.
-Dialogue: 0,0:11:43.80,0:11:47.99,H2 (Inferior),,0,0,0,,Trabajaremos en las atrapadas\Ny construir la forma física.
+Dialogue: 0,0:11:43.80,0:11:47.99,H2 (Inferior),,0,0,0,,Trabajaremos en las atrapadas\Ny en fortalecer el físico.
 Dialogue: 0,0:11:47.99,0:11:49.57,H2 (Inferior),,0,0,0,,Precisamente.
 Dialogue: 0,0:11:49.57,0:11:53.98,H2 (Inferior),,0,0,0,,Hablando de eso, ¿qué hace él aquí?
 Dialogue: 0,0:11:57.48,0:11:58.96,H2 (Inferior),,0,0,0,,Tal vez es una persona sociable.
@@ -188,7 +187,7 @@ Dialogue: 0,0:12:34.05,0:12:36.00,H2 (Inferior),,0,0,0,,No voy a mostrártelas.
 Dialogue: 0,0:12:37.00,0:12:40.06,H2 (Inferior),,0,0,0,,Pensé que se enfocarían en el béisbol.
 Dialogue: 0,0:12:41.06,0:12:45.00,H2 (Inferior),,0,0,0,,Recién comenzamos. Todavía estamos\Nen una etapa preparatoria.
 Dialogue: 0,0:12:45.05,0:12:46.75,H2 (Inferior),,0,0,0,,#Entrenamiento\N#Trote 30 minutos\N#Elongación 20 minutos\N#50 sentadillas\N#50 lagartijas\N#200 abanicadas\N#Práctica de recepción 1 hora\N#Práctica de bateo 2 hora
-Dialogue: 0,0:12:46.68,0:12:48.93,H2 (Inferior),,0,0,0,,Nosotros hacemos el doble de eso.
+Dialogue: 0,0:12:46.68,0:12:48.93,H2 (Inferior),,0,0,0,,Nosotros hacemos el doble.
 Dialogue: 0,0:12:49.65,0:12:51.96,H2 (Inferior),,0,0,0,,Noda, multiplícalo por dos.
 Dialogue: 0,0:12:51.96,0:12:53.74,H2 (Inferior),,0,0,0,,No te emociones demasiado.
 Dialogue: 0,0:12:53.74,0:12:55.55,H2 (Inferior),,0,0,0,,¿Quién es el entrenador?
@@ -220,10 +219,10 @@ Dialogue: 0,0:14:51.15,0:14:53.71,H2 (Inferior),,0,0,0,,Pelea, pelea...
 Dialogue: 0,0:14:55.26,0:14:56.72,H2 (Inferior),,0,0,0,,Bajemos el ritmo.
 Dialogue: 0,0:14:56.72,0:14:57.55,H2 (Inferior),,0,0,0,,De acuerdo.
 Dialogue: 0,0:14:58.31,0:15:00.80,H2 (Inferior),,0,0,0,,Después de todo, recién comenzamos.
-Dialogue: 0,0:15:00.80,0:15:05.35,H2 (Inferior),,0,0,0,,Un entrenamiento excesivo de repente \Nen lugar de fortalecerlos los fatigará.
+Dialogue: 0,0:15:00.80,0:15:05.35,H2 (Inferior),,0,0,0,,Un entrenamiento excesivo de repente,\Nen lugar de fortalecerlos los fatigará.
 Dialogue: 0,0:15:05.35,0:15:07.14,H2 (Inferior),,0,0,0,,Un paso a la vez.
 Dialogue: 0,0:15:08.75,0:15:11.67,H2 (Inferior),,0,0,0,,¡Ánimo, club de béisbol de Senkawa!
-Dialogue: 0,0:15:12.51,0:15:13.20,H2 (Inferior),,0,0,0,,Te vez feliz.
+Dialogue: 0,0:15:12.51,0:15:13.20,H2 (Inferior),,0,0,0,,Te ves feliz.
 Dialogue: 0,0:15:14.25,0:15:16.50,H2 (Inferior),,0,0,0,,Es que al fin puedo llamarlos club de béisbol.
 Dialogue: 0,0:15:19.80,0:15:22.53,H2 (Inferior),,0,0,0,,Pero me pregunto si en verdad algo habrá cambiado.
 Dialogue: 0,0:15:23.27,0:15:25.60,H2 (Inferior),,0,0,0,,Por supuesto que sí.
@@ -232,8 +231,8 @@ Dialogue: 0,0:15:27.90,0:15:29.88,H2 (Inferior),,0,0,0,,El viento sopla distinto
 Dialogue: 0,0:15:29.88,0:15:31.08,H2 (Inferior),,0,0,0,,¿El viento?
 Dialogue: 0,0:15:51.40,0:15:52.66,H2 (Inferior),,0,0,0,,Bien, vamos.
 Dialogue: 0,0:15:53.10,0:15:54.88,H2 (Inferior),,0,0,0,,¿Qué? ¿Aún más?
-Dialogue: 0,0:16:01.05,0:16:03.41,H2 (Inferior),,0,0,0,,Es verdad, es el viento de otoño.
-Dialogue: 0,0:16:25.20,0:16:26.00,H2 (Inferior),,0,0,0,,¡Maldición!
+Dialogue: 0,0:16:01.05,0:16:03.41,H2 (Inferior),,0,0,0,,{\i1}Es verdad, es el viento de otoño.{\i}
+Dialogue: 0,0:16:25.20,0:16:26.00,H2 (Inferior),,0,0,0,,{\i1}¡Maldición!{\i}
 Dialogue: 0,0:16:31.06,0:16:32.87,H2 (Inferior),,0,0,0,,¡Gol!
 Dialogue: 0,0:16:37.02,0:16:40.46,H2 (Inferior),,0,0,0,,¿Qué? ¿Están muertos después del trote?
 Dialogue: 0,0:16:40.46,0:16:44.50,H2 (Inferior),,0,0,0,,No soporto verlo. Ya no tienen arreglo.
@@ -266,9 +265,9 @@ Dialogue: 0,0:18:08.38,0:18:09.75,H2 (Inferior),,0,0,0,,No hay manera.
 Dialogue: 0,0:18:09.75,0:18:14.06,H2 (Inferior),,0,0,0,,Dan lástima. Finalmente son un club de béisbol,\N¿y hasta aquí llegaron?
 Dialogue: 0,0:18:14.06,0:18:15.40,H2 (Inferior),,0,0,0,,Akagi.
 Dialogue: 0,0:18:15.40,0:18:16.52,H2 (Inferior),,0,0,0,,¿Qué te trae por aquí?
-Dialogue: 0,0:18:19.60,0:18:20.60,H2 (Inferior),,0,0,0,,Les dije que vengan.
+Dialogue: 0,0:18:19.60,0:18:20.60,H2 (Inferior),,0,0,0,,Vengan, les digo.
 Dialogue: 0,0:18:21.00,0:18:25.70,H2 (Inferior),,0,0,0,,¡Les explicaré por qué siempre me dieron lástima!
-Dialogue: 0,0:18:28.44,0:18:32.65,H2 (Inferior),,0,0,0,,@¡Como jugadores y como compañeros!
+Dialogue: 0,0:18:28.44,0:18:32.65,H2 (Inferior),,0,0,0,,¡Como jugadores y como compañeros!
 Dialogue: 0,0:18:32.65,0:18:34.00,H2 (Inferior),,0,0,0,,¿Compañeros?
 Dialogue: 0,0:18:34.00,0:18:37.15,H2 (Inferior),,0,0,0,,Kunimi, ¿cuál es tu objetivo?
 Dialogue: 0,0:18:37.15,0:18:38.80,H2 (Inferior),,0,0,0,,El campeonato nacional, Akagi.
@@ -282,13 +281,13 @@ Dialogue: 0,0:18:55.80,0:18:58.10,H2 (Inferior),,0,0,0,,¿Se cree el protagonist
 Dialogue: 0,0:18:59.27,0:19:03.20,H2 (Inferior),,0,0,0,,El club de aficionados era no más que una nimiedad.
 Dialogue: 0,0:19:03.20,0:19:07.65,H2 (Inferior),,0,0,0,,Pero ustedes se esforzaron para crear un club\Nde béisbol para poder ir al campeonato nacional.
 Dialogue: 0,0:19:07.65,0:19:10.50,H2 (Inferior),,0,0,0,,Y eso me dejó impresionado.
-Dialogue: 0,0:19:10.50,0:19:13.72,H2 (Inferior),,0,0,0,,Vaya, se dejó llevar él solo.
+Dialogue: 0,0:19:10.50,0:19:13.72,H2 (Inferior),,0,0,0,,Vaya, se dejó llevar.
 Dialogue: 0,0:19:13.72,0:19:17.42,H2 (Inferior),,0,0,0,,Comenzaron el sueño, ¡no lo dejen a la mitad!
 Dialogue: 0,0:19:17.42,0:19:19.09,H2 (Inferior),,0,0,0,,¡Vayan tras él hasta el final!
 Dialogue: 0,0:19:19.09,0:19:19.91,H2 (Inferior),,0,0,0,,¿Lo entienden?
 Dialogue: 0,0:19:19.91,0:19:21.00,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:19:21.60,0:19:25.75,H2 (Inferior),,0,0,0,,Bien, ahora tocan las 200 abanicadas.
-Dialogue: 0,0:19:25.75,0:19:27.77,H2 (Inferior),,0,0,0,,Oh, no, otra vez vino.
+Dialogue: 0,0:19:25.75,0:19:27.77,H2 (Inferior),,0,0,0,,Oh, no, otra vez.
 Dialogue: 0,0:19:27.77,0:19:29.53,H2 (Inferior),,0,0,0,,Voy a hacerlo.
 Dialogue: 0,0:19:29.53,0:19:31.63,H2 (Inferior),,0,0,0,,¡Haremos realidad nuestro sueño!
 Dialogue: 0,0:19:32.30,0:19:33.70,H2 (Inferior),,0,0,0,,Otro más que se entusiasma.

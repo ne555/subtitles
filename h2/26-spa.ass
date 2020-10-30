@@ -18,7 +18,7 @@ Style: H2 (Superior),Fontin Sans Rg,28,&H0000FFFF,&H000000FF,&H00000000,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:37.05,0:01:39.40,H2 (Inferior),,0,0,0,,Pasaron cosas y ahora tenemos un entrenador.
 Dialogue: 0,0:01:40.49,0:01:42.10,H2 (Inferior),,0,0,0,,#Club de béisbol
-Dialogue: 0,0:01:44.03,0:01:47.10,H2 (Inferior),,0,0,0,,Y con eso inauguramos el Club de béisbol\Nde la preparatoria Senkawa.
+Dialogue: 0,0:01:44.03,0:01:47.10,H2 (Inferior),,0,0,0,,Y con eso inauguramos el club de béisbol\Nde la preparatoria Senkawa.
 Dialogue: 0,0:01:51.82,0:01:57.02,H2 (Inferior),,0,0,0,,Pero logramos llegar tan lejos gracias a que nuestros\Ncompañeros crearon el club de aficionados.
 Dialogue: 0,0:02:02.55,0:02:09.20,H2 (Inferior),,0,0,0,,"¡Hasta siempre, compañeros!\NUn triste partido de despedida".
 Dialogue: 0,0:02:16.10,0:02:19.80,H2 (Inferior),,0,0,0,,#Club de béisbol
@@ -35,7 +35,7 @@ Dialogue: 0,0:02:57.12,0:02:59.42,H2 (Inferior),,0,0,0,,¿Qué? ¡No!
 Dialogue: 0,0:02:59.42,0:03:02.46,H2 (Inferior),,0,0,0,,Espere, tan sólo queríamos...
 Dialogue: 0,0:03:02.46,0:03:05.80,H2 (Inferior),,0,0,0,,Si quieren jugar al béisbol,\Ndeben cambiarse de escuela.
 Dialogue: 0,0:03:05.80,0:03:07.71,H2 (Inferior),,0,0,0,,Odio el béisbol.
-Dialogue: 0,0:03:14.09,0:03:15.99,H2 (Inferior),,0,0,0,,Y por eso terminó siendo el club\Nde aficionados al béisbol.
+Dialogue: 0,0:03:14.09,0:03:15.99,H2 (Inferior),,0,0,0,,Y por eso terminó siendo el club de aficionados.
 Dialogue: 0,0:03:17.45,0:03:20.15,H2 (Inferior),,0,0,0,,Pero finalmente se convirtió en\Nun verdadero club de béisbol.
 Dialogue: 0,0:03:24.63,0:03:27.35,H2 (Inferior),,0,0,0,,Incluso con su propia sala.
 Dialogue: 0,0:03:27.35,0:03:28.45,H2 (Inferior),,0,0,0,,Así es.
@@ -109,7 +109,7 @@ Dialogue: 0,0:07:43.49,0:07:45.23,H2 (Inferior),,0,0,0,,Son nuestros amuletos de
 Dialogue: 0,0:07:47.13,0:07:50.76,H2 (Inferior),,0,0,0,,Es nuestro último juego, así que quiero\Nconseguir al menos un hit.
 Dialogue: 0,0:07:50.76,0:07:52.05,H2 (Inferior),,0,0,0,,¡Hola!
 Dialogue: 0,0:07:52.05,0:07:53.40,H2 (Inferior),,0,0,0,,Hola.
-Dialogue: 0,0:07:53.40,0:07:57.98,H2 (Inferior),,0,0,0,,Escuchamos que este es partido\Nde despedida de Yamaguchi y Nemoto.
+Dialogue: 0,0:07:53.40,0:07:57.98,H2 (Inferior),,0,0,0,,Escuchamos que este es el partido\Nde despedida de Yamaguchi y Nemoto.
 Dialogue: 0,0:07:57.98,0:07:59.40,H2 (Inferior),,0,0,0,,Sí, así es.
 Dialogue: 0,0:07:59.40,0:08:03.17,H2 (Inferior),,0,0,0,,De todas maneras, no crean que nos contendremos.\NAsí que prepárense.
 Dialogue: 0,0:08:03.17,0:08:08.20,H2 (Inferior),,0,0,0,,Después de todo, nuestro récord es de\Ncuatro victorias y cuatro derrotas.
@@ -121,7 +121,7 @@ Dialogue: 0,0:08:16.65,0:08:18.31,H2 (Inferior),,0,0,0,,Entonces, será como sie
 Dialogue: 0,0:08:18.31,0:08:19.83,H2 (Inferior),,0,0,0,,Entendido.
 Dialogue: 0,0:08:19.83,0:08:23.65,H2 (Inferior),,0,0,0,,Bueno, como es un partido de despedida,\Nles propongo un trato especial.
 Dialogue: 0,0:08:23.65,0:08:28.00,H2 (Inferior),,0,0,0,,Si ganan, les regalaré un gran plato de fideos\Ny unas empanadillas.
-Dialogue: 0,0:08:28.00,0:08:28.90,H2 (Inferior),,0,0,0,,¡Wow!
+Dialogue: 0,0:08:28.00,0:08:28.90,H2 (Inferior),,0,0,0,,¡Genial!
 Dialogue: 0,0:08:28.90,0:08:31.43,H2 (Inferior),,0,0,0,,Oigan, novatos.
 Dialogue: 0,0:08:31.43,0:08:35.17,H2 (Inferior),,0,0,0,,Ustedes van a perder. No celebren antes de tiempo.
 Dialogue: 0,0:08:35.17,0:08:37.66,H2 (Inferior),,0,0,0,,Tienes mucha confianza.
@@ -134,7 +134,7 @@ Dialogue: 0,0:08:53.68,0:08:55.87,H2 (Inferior),,0,0,0,,Pero no pudo venir hoy.
 Dialogue: 0,0:08:55.87,0:08:57.83,H2 (Inferior),,0,0,0,,¡Idiota!
 Dialogue: 0,0:09:00.80,0:09:04.87,H2 (Inferior),,0,0,0,,¡Si el entrenador no va a los partidos,\Ndeberían despedirlo!
 Dialogue: 0,0:09:04.87,0:09:06.05,H2 (Inferior),,0,0,0,,¡Así es!
-Dialogue: 0,0:09:06.05,0:09:07.76,H2 (Inferior),,0,0,0,,@¿Eh?
+Dialogue: 0,0:09:06.05,0:09:06.50,H2 (Inferior),,0,0,0,,¿Eh?
 Dialogue: 0,0:09:07.45,0:09:08.50,H2 (Inferior),,0,0,0,,Hola.
 Dialogue: 0,0:09:08.50,0:09:10.11,H2 (Inferior),,0,0,0,,¿Papá?
 Dialogue: 0,0:09:10.11,0:09:11.00,H2 (Inferior),,0,0,0,,Señor Kunimi...
@@ -156,7 +156,7 @@ Dialogue: 0,0:10:17.95,0:10:18.99,H2 (Inferior),,0,0,0,,¡Quieto!
 Dialogue: 0,0:10:30.85,0:10:31.92,H2 (Inferior),,0,0,0,,No pasa nada.
 Dialogue: 0,0:10:32.94,0:10:33.80,H2 (Inferior),,0,0,0,,Sí...
 Dialogue: 0,0:10:49.64,0:10:50.27,H2 (Inferior),,0,0,0,,¡Muy bien!
-Dialogue: 0,0:10:54.65,0:10:56.36,H2 (Inferior),,0,0,0,,Una bomba en su @primer intento.
+Dialogue: 0,0:10:54.65,0:10:56.36,H2 (Inferior),,0,0,0,,Una bomba en su primer intento.
 Dialogue: 0,0:10:56.36,0:10:58.98,H2 (Inferior),,0,0,0,,No es raro en la primera entrada.
 Dialogue: 0,0:10:58.98,0:11:03.58,H2 (Inferior),,0,0,0,,Es increíble que pudiera mandarla tan lejos.
 Dialogue: 0,0:11:03.58,0:11:07.00,H2 (Inferior),,0,0,0,,Tal vez no lo parezca, pero el señor Kuma\Nlogró llegar al Koshien.
@@ -203,9 +203,9 @@ Dialogue: 0,0:13:48.44,0:13:49.53,H2 (Inferior),,0,0,0,,¡Así es como debe ser!
 Dialogue: 0,0:13:50.69,0:13:53.39,H2 (Inferior),,0,0,0,,Buen bateo, Nemoto.
 Dialogue: 0,0:13:53.39,0:13:54.32,H2 (Inferior),,0,0,0,,Toma.
 Dialogue: 0,0:14:04.11,0:14:05.11,H2 (Inferior),,0,0,0,,¡Adelante!
-Dialogue: 0,0:14:05.83,0:14:08.10,H2 (Inferior),,0,0,0,,Hola, ¿podría darme un rábano?
+Dialogue: 0,0:14:05.83,0:14:08.10,H2 (Inferior),,0,0,0,,Hola, ¿podría darme un nabo?
 Dialogue: 0,0:14:08.10,0:14:09.90,H2 (Inferior),,0,0,0,,Claro.
-Dialogue: 0,0:14:09.90,0:14:11.45,H2 (Inferior),,0,0,0,,Un rábano. Muchas gracias.
+Dialogue: 0,0:14:09.90,0:14:11.45,H2 (Inferior),,0,0,0,,Un nabo. Muchas gracias.
 Dialogue: 0,0:14:11.45,0:14:13.17,H2 (Inferior),,0,0,0,,¿Y el dueño, señora?
 Dialogue: 0,0:14:13.17,0:14:14.65,H2 (Inferior),,0,0,0,,Como siempre, se fue a jugar al béisbol.
 Dialogue: 0,0:14:14.65,0:14:17.63,H2 (Inferior),,0,0,0,,Tienen un partido de despedida para\Nlos alumnos de tercero de Senkawa,
@@ -279,7 +279,7 @@ Dialogue: 0,0:18:53.85,0:18:57.37,H2 (Inferior),,0,0,0,,Quieren que ser eliminad
 Dialogue: 0,0:19:00.22,0:19:02.35,H2 (Inferior),,0,0,0,,No, la golpearé a como dé lugar.
 Dialogue: 0,0:19:03.18,0:19:04.90,H2 (Inferior),,0,0,0,,Por supuesto, no me contendré.
 Dialogue: 0,0:19:11.74,0:19:12.47,H2 (Inferior),,0,0,0,,¡Foul!
-Dialogue: 0,0:19:13.10,0:19:14.87,H2 (Inferior),,0,0,0,,El puede lograrlo.
+Dialogue: 0,0:19:13.10,0:19:14.87,H2 (Inferior),,0,0,0,,Él puede lograrlo.
 Dialogue: 0,0:19:15.58,0:19:16.30,H2 (Inferior),,0,0,0,,¡Foul!
 Dialogue: 0,0:19:18.01,0:19:18.90,H2 (Inferior),,0,0,0,,¡Foul!
 Dialogue: 0,0:19:19.84,0:19:21.10,H2 (Inferior),,0,0,0,,Está consiguiendo el ritmo correcto.
@@ -312,7 +312,7 @@ Dialogue: 0,0:20:33.65,0:20:34.88,H2 (Inferior),,0,0,0,,Ya veo.
 Dialogue: 0,0:20:34.88,0:20:36.55,H2 (Inferior),,0,0,0,,Lo importante es encontrar el ritmo.
 Dialogue: 0,0:20:36.55,0:20:37.65,H2 (Inferior),,0,0,0,,Entiendo.
 Dialogue: 0,0:20:37.65,0:20:38.30,H2 (Inferior),,0,0,0,,¡A jugar!
-Dialogue: 0,0:20:45.50,0:20:47.84,H2 (Inferior),,0,0,0,,{\i1}Seguir el ritmo con un, dos, tres.{\i}
+Dialogue: 0,0:20:45.50,0:20:47.84,H2 (Inferior),,0,0,0,,{\i1}Seguir el ritmo con{\i} un, dos, tres.
 Dialogue: 0,0:20:52.59,0:20:53.10,H2 (Inferior),,0,0,0,,Un...
 Dialogue: 0,0:20:54.20,0:20:55.48,H2 (Inferior),,0,0,0,,... dos...
 Dialogue: 0,0:20:56.65,0:20:57.35,H2 (Inferior),,0,0,0,,... ¡tres!
