@@ -13,19 +13,10 @@ import os
 
 import cv2 as cv
 import numpy as np
+import pytesseract as tess
 
-def usage(program):
-    print(program, 'fotograma.png')
-
-def main(argv):
-    if len(argv) != 2:
-        usage(argv[0])
-        return 1
-
-    filename = argv[1]
-    print(filename)
-    grayscale = cv.imread(filename, cv.IMREAD_GRAYSCALE)
-
+def preprocess(image):
+    grayscale = cv.cvtColor(image, cv.COLOR_BGR2GRAY)
     watermark = (80, 50)
     grayscale[0:watermark[0], 0:watermark[1]] = 0
 
@@ -36,19 +27,8 @@ def main(argv):
     dilatado = cv.dilate(threshold, kernel)
 
     result = cv.bitwise_and(grayscale, grayscale, mask=dilatado)
-    #cv.imshow('foo', grayscale)
-    #cv.waitKey()
-    #cv.imshow('foo', threshold)
-    #cv.waitKey()
-    #cv.imshow('foo', dilatado)
-    #cv.waitKey()
-    #cv.imshow('foo', result)
-    #cv.waitKey()
+    return result
 
-    output_directory = 'ocr/masked/'
-    filename = os.path.basename(filename)
-    cv.imwrite(output_directory+filename, result)
-
-
-if __name__ == "__main__":
-    main(sys.argv)
+def extract(image):
+    image = preprocess(image)
+    return tess.image_to_string(image)
