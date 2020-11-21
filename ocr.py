@@ -43,17 +43,17 @@ def main(argv):
 
     result = []
     index = 1
+    text = '...'
     for s in tqdm(parser.obtain_times()):
         frame = videofile.get_average_frame(s)
         if len(frame):
-            text = extract_text.extract(frame)
-        else:
-            text = '...'
+            text = extract_text.extract(frame, index)
         result.append(create_subtitle(index, s, text))
         index += 1
 
     with open(output_file, 'w') as salida:
-        print(srt.compose(result), file=salida)
+        for s in result:
+            print(s.to_srt(), file=salida, end='')
 
 if __name__ == "__main__":
     main(sys.argv)
