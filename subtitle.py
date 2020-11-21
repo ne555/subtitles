@@ -57,7 +57,12 @@ class SubPlayer:
         else:
             keep = '--end={end}'
 
-        self.command = 'mpv {video} --start={{start}} {keep} --sub-file={subfile} --sub-pos=25 {{videofile}}'.format(video=video, keep=keep, subfile=filename)
+        if 'pause' in args:
+            pause = '--pause'
+        else:
+            pause = ''
+
+        self.command = 'mpv {video} {pause} --start={{start}} {keep} --sub-file={subfile} --sub-pos=25 {{videofile}}'.format(video=video, pause=pause, keep=keep, subfile=filename)
 
     def play_subtitle(self, range, videofile):
         start = self.parse_range(range[0])[0]
