@@ -61,7 +61,7 @@ class extractor:
         start = int(time.start * self.fps) + self.buffer_size
         end = int(time.end * self.fps) - self.buffer_size
         self.capture.set(cv.CAP_PROP_POS_FRAMES, start)
-        frames = [self.capture.read()[1] for K in range(start, end)]
+        frames = [self.capture.read()[1] for K in range(start, int((start+end)/2))]
 
         if frames:
             return average(frames)
