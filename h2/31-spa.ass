@@ -18,38 +18,28 @@ Style: H2 (Superior),Fontin Sans Rg,28,&H0000FFFF,&H000000FF,&H00000000,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:35.54,0:01:38.44,H2 (Inferior),,0,0,0,,Hideo y yo buscamos desesperadamente a Hikari.
 Dialogue: 0,0:01:43.61,0:01:47.76,H2 (Inferior),,0,0,0,,Temíamos que pudiera ser abusada.
-Dialogue: 0,0:01:54.45,0:01:58.75,H2 (Inferior),,0,0,0,,@Pero lo único que logramos fue aumentar la ansiedad.
+Dialogue: 0,0:01:54.45,0:01:58.75,H2 (Inferior),,0,0,0,,Pero al final, terminamos con un mal sentimiento.
 Dialogue: 0,0:02:00.60,0:02:06.50,H2 (Inferior),,0,0,0,,"¡Un nuevo rival! Hirota de Eikyou"
 Dialogue: 0,0:02:15.05,0:02:20.05,H2 (Inferior),,0,0,0,,#Estadio Municipal
 Dialogue: 0,0:02:15.05,0:02:20.05,H2 (Inferior),,0,0,0,,#Torneo de béisbol de preparatoria de otoño\N#Final: Meiwa contra Eikyou
-Dialogue: 0,0:02:20.06,0:02:22.00,H2 (Inferior),,0,0,0,,#Victoria
-Dialogue: 0,0:02:20.06,0:02:23.72,H2 (Inferior),,0,0,0,,#¡Ganen, los nueve de Meiwa!
-Dialogue: 0,0:02:20.06,0:02:24.57,H2 (Inferior),,0,0,0,,#¡Meiwa ganará!
-Dialogue: 0,0:02:21.35,0:02:25.80,H2 (Inferior),,0,0,0,,#Meiwa
-Dialogue: 0,0:02:25.00,0:02:25.80,H2 (Inferior),,0,0,0,,#¡Buena suerte!
-Dialogue: 0,0:02:30.80,0:02:31.70,H2 (Inferior),,0,0,0,,#Meiwa\N#Iwakiri\N#Shimoike\N#Murabe\N#Tachibana\N#Nakai
+Dialogue: 0,0:02:20.06,0:02:25.80,H2 (Inferior),,0,0,0,,#Victoria\N#¡Ganen, nueve de Meiwa!\N#¡Meiwa ganará!\N#Meiwa
+Dialogue: 0,0:02:30.80,0:02:34.90,H2 (Inferior),,0,0,0,,#Meiwa\N#Iwakiri\N#Shimoike\N#Murabe\N#Tachibana\N#Nakai
 Dialogue: 0,0:02:41.56,0:02:43.63,H2 (Inferior),,0,0,0,,Es fenomenal.
-Dialogue: 0,0:02:43.63,0:02:45.45,H2 (Inferior),,0,0,0,,Sí. Está @comenzando.
-Dialogue: 0,0:03:05.55,0:03:10.00,H2 (Inferior),,0,0,0,,#¡Victoria! Preparatoria Eikyou
-Dialogue: 0,0:03:05.55,0:03:10.00,H2 (Inferior),,0,0,0,,#Buena suerte
-Dialogue: 0,0:03:05.55,0:03:08.81,H2 (Inferior),,0,0,0,,#Denlo todo, los nueve de Eikyou
+Dialogue: 0,0:02:43.63,0:02:45.45,H2 (Inferior),,0,0,0,,Sí. Ha comenzado.
+Dialogue: 0,0:03:05.55,0:03:10.00,H2 (Inferior),,0,0,0,,#¡Victoria! Preparatoria Eikyou\N#Buena suerte\N#Denlo todo, nueve de Eikyou
 Dialogue: 0,0:03:17.36,0:03:18.72,H2 (Inferior),,0,0,0,,¡Pelea!
 Dialogue: 0,0:03:18.72,0:03:20.52,H2 (Inferior),,0,0,0,,¡Será fácil, Tachibana!
 Dialogue: 0,0:03:32.51,0:03:34.40,H2 (Inferior),,0,0,0,,¿Quién crees que ganará?
-Dialogue: 0,0:04:17.43,0:04:18.90,H2 (Inferior),,0,0,0,,@Ah...
-Dialogue: 0,0:04:18.90,0:04:19.90,H2 (Inferior),,0,0,0,,Dun, dun, dun.
-Dialogue: 0,0:04:23.70,0:04:24.90,H2 (Inferior),,0,0,0,,Pop, pop.
-Dialogue: 0,0:04:24.90,0:04:25.80,H2 (Inferior),,0,0,0,,Ah...
 Dialogue: 0,0:04:32.86,0:04:37.45,H2 (Inferior),,0,0,0,,¿Qué están haciendo? ¡La final ya comenzó!
 Dialogue: 0,0:04:40.24,0:04:43.96,H2 (Inferior),,0,0,0,,El estadio está cerca. ¡Vamos! ¡Deprisa!
-Dialogue: 0,0:04:46.72,0:04:50.00,H2 (Inferior),,0,0,0,,Es verdad, vinimos a ver el béisbol.
+Dialogue: 0,0:04:46.72,0:04:50.00,H2 (Inferior),,0,0,0,,Es verdad, íbamos a ver el béisbol.
 Dialogue: 0,0:04:50.00,0:04:50.91,H2 (Inferior),,0,0,0,,Por supuesto.
 Dialogue: 0,0:04:51.60,0:04:53.80,H2 (Inferior),,0,0,0,,Me adelantaré.
 Dialogue: 0,0:04:53.80,0:04:56.14,H2 (Inferior),,0,0,0,,Podría habernos acercado.
 Dialogue: 0,0:05:03.20,0:05:08.65,H2 (Inferior),,0,0,0,,#Meiwa\N#Eikyou
 Dialogue: 0,0:05:11.60,0:05:14.53,H2 (Inferior),,0,0,0,,Al finalizar la alta de la segunda entrada,\Nestán empatados a 0.
 Dialogue: 0,0:05:15.74,0:05:21.65,H2 (Inferior),,0,0,0,,Pero supongo que con haber llegado hasta aquí\Nes probable que te inviten al torneo de primavera.
-Dialogue: 0,0:05:21.65,0:05:25.90,H2 (Inferior),,0,0,0,,Sí. Todos lo años seleccionan\Ndos preparatorias de Tokio.
+Dialogue: 0,0:05:21.65,0:05:25.90,H2 (Inferior),,0,0,0,,Sí. Todos los años seleccionan\Ndos preparatorias de Tokio.
 Dialogue: 0,0:05:29.85,0:05:31.30,H2 (Inferior),,0,0,0,,Pero me alegro por ustedes.
 Dialogue: 0,0:05:33.35,0:05:34.12,H2 (Inferior),,0,0,0,,¿De qué hablas?
 Dialogue: 0,0:05:34.74,0:05:37.97,H2 (Inferior),,0,0,0,,Que no tengan que enfrentarse en las preliminares.
@@ -59,13 +49,13 @@ Dialogue: 0,0:05:52.90,0:05:53.79,H2 (Inferior),,0,0,0,,¿Qué?
 Dialogue: 0,0:05:54.82,0:05:55.70,H2 (Inferior),,0,0,0,,¿Ah?
 Dialogue: 0,0:05:56.65,0:06:01.95,H2 (Inferior),,0,0,0,,Es que justo estamos en el límite\Nentre el sur y norte de Tokio.
 Dialogue: 0,0:06:01.95,0:06:06.08,H2 (Inferior),,0,0,0,,Meiwa clasificará por el sur y Senkawa por el norte.
-Dialogue: 0,0:06:11.25,0:06:13.76,H2 (Inferior),,0,0,0,,¿No lo sabías?
+Dialogue: 0,0:06:11.25,0:06:13.76,H2 (Inferior),,0,0,0,,¿No lo sabían?
 Dialogue: 0,0:06:36.80,0:06:38.16,H2 (Inferior),,0,0,0,,Un doble.
-Dialogue: 0,0:06:39.10,0:06:40.45,H2 (Inferior),,0,0,0,,Perdóname.
+Dialogue: 0,0:06:39.10,0:06:40.45,H2 (Inferior),,0,0,0,,Lo siento.
 Dialogue: 0,0:06:41.80,0:06:44.12,H2 (Inferior),,0,0,0,,Estoy bien.
 Dialogue: 0,0:06:44.90,0:06:48.10,H2 (Inferior),,0,0,0,,Es un buen espectáculo.\NAsí debe ser el béisbol de preparatoria.
 Dialogue: 0,0:06:56.67,0:06:59.74,H2 (Inferior),,0,0,0,,Él es Katsutoshi Hirota de la preparatoria Eikyou.
-Dialogue: 0,0:06:59.74,0:07:03.36,H2 (Inferior),,0,0,0,,Es un primer año que fue seleccionado\Ncomo lanzador estrella y bateador de limpieza.
+Dialogue: 0,0:06:59.74,0:07:03.36,H2 (Inferior),,0,0,0,,Un primer año que fue seleccionado\Ncomo lanzador estrella y bateador de limpieza.
 Dialogue: 0,0:07:04.13,0:07:08.20,H2 (Inferior),,0,0,0,,Un titular de primer año. Es como Tachibana.
 Dialogue: 0,0:07:08.20,0:07:09.30,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:07:10.37,0:07:11.62,H2 (Inferior),,0,0,0,,Norte de Tokio.
@@ -74,13 +64,12 @@ Dialogue: 0,0:07:16.35,0:07:19.78,H2 (Inferior),,0,0,0,,Meiwa es del sur y Senka
 Dialogue: 0,0:07:19.78,0:07:21.70,H2 (Inferior),,0,0,0,,No nos enfrentaremos a Meiwa.
 Dialogue: 0,0:07:23.37,0:07:26.16,H2 (Inferior),,0,0,0,,No sé si sentirme feliz...
 Dialogue: 0,0:07:26.16,0:07:27.70,H2 (Inferior),,0,0,0,,O decepcionado.
-Dialogue: 0,0:07:34.37,0:07:36.11,H2 (Inferior),,0,0,0,,Es un poco insulso.
-Dialogue: 0,0:07:37.85,0:07:39.95,H2 (Inferior),,0,0,0,,#Meiwa\N#Eikyou
-Dialogue: 0,0:07:39.95,0:07:41.80,H2 (Inferior),,0,0,0,,#Meiwa\N#Eikyou
-Dialogue: 0,0:07:58.65,0:07:59.26,H2 (Inferior),,0,0,0,,Fuera.\NOut.
+Dialogue: 0,0:07:34.37,0:07:36.11,H2 (Inferior),,0,0,0,,Se siente un poco insulso.
+Dialogue: 0,0:07:37.85,0:07:41.80,H2 (Inferior),,0,0,0,,#Meiwa\N#Eikyou
+Dialogue: 0,0:07:58.65,0:07:59.26,H2 (Inferior),,0,0,0,,Fuera.
 Dialogue: 0,0:08:00.44,0:08:03.20,H2 (Inferior),,0,0,0,,Tiene buena precisión.
 Dialogue: 0,0:08:03.65,0:08:05.20,H2 (Inferior),,0,0,0,,Así es.
-Dialogue: 0,0:08:13.69,0:08:14.65,H2 (Inferior),,0,0,0,,@La tengo.
+Dialogue: 0,0:08:13.69,0:08:14.65,H2 (Inferior),,0,0,0,,La tengo.
 Dialogue: 0,0:08:17.05,0:08:19.06,H2 (Inferior),,0,0,0,,¿Nunca lanza fuera de la zona de strike?
 Dialogue: 0,0:08:21.20,0:08:24.65,H2 (Inferior),,0,0,0,,Si puede contener a Meiwa de esa forma,\Nes digno de respeto.
 Dialogue: 0,0:08:24.75,0:08:30.20,H2 (Inferior),,0,0,0,,#Murabe\N#Tachibana\N#Nakai
@@ -89,35 +78,35 @@ Dialogue: 0,0:08:28.05,0:08:28.85,H2 (Inferior),,0,0,0,,Ni idea.
 Dialogue: 0,0:08:31.73,0:08:33.60,H2 (Inferior),,0,0,0,,Abanicó el aire.
 Dialogue: 0,0:08:35.92,0:08:38.45,H2 (Inferior),,0,0,0,,Bueno, son cosas que pasan.
 Dialogue: 0,0:08:38.45,0:08:39.30,H2 (Inferior),,0,0,0,,Y además...
-Dialogue: 0,0:08:41.63,0:08:43.81,H2 (Inferior),,0,0,0,,... no fue simplemente @ponchado.
+Dialogue: 0,0:08:41.63,0:08:43.81,H2 (Inferior),,0,0,0,,... no fue simplemente ponchado.
 Dialogue: 0,0:09:30.16,0:09:31.54,H2 (Inferior),,0,0,0,,¡Strike!
 Dialogue: 0,0:09:48.15,0:09:50.81,H2 (Inferior),,0,0,0,,Supongo que no era sólo un rumor.
 Dialogue: 0,0:09:52.18,0:09:53.30,H2 (Inferior),,0,0,0,,¿Qué?
-Dialogue: 0,0:09:54.15,0:09:58.80,H2 (Inferior),,0,0,0,,Toca su gorra una vez y levanta el brazo.\NEsa es la seña.
+Dialogue: 0,0:09:54.15,0:09:58.80,H2 (Inferior),,0,0,0,,Toca su gorra una vez y levanta el brazo.\NEsa es la señal.
 Dialogue: 0,0:10:07.63,0:10:09.30,H2 (Inferior),,0,0,0,,Está anunciando que lo ponchará.
 Dialogue: 0,0:10:09.63,0:10:11.20,H2 (Inferior),,0,0,0,,¿Anuncia que lo ponchará?
 Dialogue: 0,0:10:11.20,0:10:12.30,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:10:12.72,0:10:15.51,H2 (Inferior),,0,0,0,,¿Puede permitirse hacer algo así?
 Dialogue: 0,0:10:15.51,0:10:18.30,H2 (Inferior),,0,0,0,,Claro que lo niega.
 Dialogue: 0,0:10:19.28,0:10:21.17,H2 (Inferior),,0,0,0,,Dice que es una coincidencia.
-Dialogue: 0,0:10:28.60,0:10:30.20,H2 (Inferior),,0,0,0,,@Amigo.
+Dialogue: 0,0:10:28.60,0:10:30.20,H2 (Inferior),,0,0,0,,Compañero.
 Dialogue: 0,0:10:30.20,0:10:31.50,H2 (Inferior),,0,0,0,,¿Sí?
 Dialogue: 0,0:10:31.50,0:10:34.15,H2 (Inferior),,0,0,0,,Ese es mi lugar.
 Dialogue: 0,0:10:34.15,0:10:36.25,H2 (Inferior),,0,0,0,,Oh, lo siento.
 Dialogue: 0,0:10:39.50,0:10:41.26,H2 (Inferior),,0,0,0,,Deberías prestar más atención.
 Dialogue: 0,0:10:42.50,0:10:43.81,H2 (Inferior),,0,0,0,,Sin embargo...
-Dialogue: 0,0:10:46.79,0:10:54.10,H2 (Inferior),,0,0,0,,Si esa coincidencia sucede en cada juego,\Nlos animadores la esperarán.
+Dialogue: 0,0:10:46.79,0:10:54.10,H2 (Inferior),,0,0,0,,Si esa coincidencia sucede en cada juego,\Nlos admiradores la esperarán.
 Dialogue: 0,0:10:54.10,0:10:55.55,H2 (Inferior),,0,0,0,,¡Un momento!
 Dialogue: 0,0:10:56.16,0:11:01.10,H2 (Inferior),,0,0,0,,¿Estás diciendo que ponchó a Hideo\Nluego de haberlo predicho?
 Dialogue: 0,0:11:01.81,0:11:04.26,H2 (Inferior),,0,0,0,,¡Quién sabe!
-Dialogue: 0,0:11:11.25,0:11:13.57,H2 (Inferior),,0,0,0,,¡Bien, @tenemos que conectar!
+Dialogue: 0,0:11:11.25,0:11:13.57,H2 (Inferior),,0,0,0,,¡Bien, no les dejemos conectar!
 Dialogue: 0,0:11:36.35,0:11:40.55,H2 (Inferior),,0,0,0,,#Meiwa\N#Eikyou
-Dialogue: 0,0:11:43.06,0:11:46.00,H2 (Inferior),,0,0,0,,Hikari, voy a comprar un poco de jugo. ¿Quieres?
+Dialogue: 0,0:11:43.06,0:11:46.00,H2 (Inferior),,0,0,0,,Hikari, voy a comprar un refresco. ¿Quieres?
 Dialogue: 0,0:11:46.75,0:11:48.97,H2 (Inferior),,0,0,0,,Si tú invitas, claro.
 Dialogue: 0,0:11:48.97,0:11:52.30,H2 (Inferior),,0,0,0,,Me encanta tu falta de pudor.
 Dialogue: 0,0:11:52.30,0:11:53.37,H2 (Inferior),,0,0,0,,Bien, me voy.
 Dialogue: 0,0:12:11.87,0:12:12.72,H2 (Inferior),,0,0,0,,Hola.
-Dialogue: 0,0:12:16.42,0:12:20.00,H2 (Inferior),,0,0,0,,Oh, @el ingresante. ¿Qué haces aquí?
+Dialogue: 0,0:12:16.42,0:12:20.00,H2 (Inferior),,0,0,0,,Oh, el ingresante. ¿Qué haces aquí?
 Dialogue: 0,0:12:21.29,0:12:23.29,H2 (Inferior),,0,0,0,,Tomo un descanso.
 Dialogue: 0,0:12:26.37,0:12:27.29,H2 (Inferior),,0,0,0,,Fuera.
 Dialogue: 0,0:12:28.29,0:12:32.90,H2 (Inferior),,0,0,0,,*Su puesto en el torneo por invitación está casi decidido.\NFinalmente será una estrella nacional.
@@ -135,20 +124,19 @@ Dialogue: 0,0:13:15.20,0:13:16.90,H2 (Inferior),,0,0,0,,No debes preocuparte.
 Dialogue: 0,0:13:16.90,0:13:20.00,H2 (Inferior),,0,0,0,,No importa qué tan famoso se vuelva, Hide no cambiará.
 Dialogue: 0,0:13:23.15,0:13:25.40,H2 (Inferior),,0,0,0,,Es tu amigo de la infancia.
 Dialogue: 0,0:13:26.62,0:13:28.70,H2 (Inferior),,0,0,0,,Te encanta dar sermones.
-Dialogue: 0,0:13:28.70,0:13:30.30,H2 (Inferior),,0,0,0,,Cuando descubrí que eras más joven que nosotros...
-Dialogue: 0,0:13:30.30,0:13:34.00,H2 (Inferior),,0,0,0,,... tu forma de hacerte el malo\Nme pareció un poco adorable.
+Dialogue: 0,0:13:28.70,0:13:34.00,H2 (Inferior),,0,0,0,,Cuando descubrí que eras más joven que nosotros,\Ntu forma de hacerte el malo me pareció adorable.
 Dialogue: 0,0:13:36.96,0:13:39.26,H2 (Inferior),,0,0,0,,Ah, Hikari...
 Dialogue: 0,0:13:40.07,0:13:41.24,H2 (Inferior),,0,0,0,,Gracias.
-Dialogue: 0,0:13:41.55,0:13:44.70,H2 (Inferior),,0,0,0,,Levántate. Ese es el asiento de mi amiga.
+Dialogue: 0,0:13:41.55,0:13:44.70,H2 (Inferior),,0,0,0,,Apártate. Deja pasar a mi amiga.
 Dialogue: 0,0:13:46.97,0:13:47.95,H2 (Inferior),,0,0,0,,Ah, Shuu.
-Dialogue: 0,0:13:50.55,0:13:52.39,H2 (Inferior),,0,0,0,,¿Lo @abandonaste?
+Dialogue: 0,0:13:50.55,0:13:52.39,H2 (Inferior),,0,0,0,,¿Lo abandonaste?
 Dialogue: 0,0:13:52.39,0:13:53.67,H2 (Inferior),,0,0,0,,¿De qué hablas?
-Dialogue: 0,0:13:53.67,0:13:57.80,H2 (Inferior),,0,0,0,,Tu hermano no enseño béisbol\Nsolamente a Hide, ¿no es así?
+Dialogue: 0,0:13:53.67,0:13:57.80,H2 (Inferior),,0,0,0,,Tu hermano no enseñó béisbol\Nsolamente a Hide, ¿no es así?
 Dialogue: 0,0:14:06.02,0:14:06.74,H2 (Inferior),,0,0,0,,¡Fuera!
 Dialogue: 0,0:14:10.25,0:14:11.14,H2 (Inferior),,0,0,0,,Hirota.
 Dialogue: 0,0:14:11.87,0:14:15.02,H2 (Inferior),,0,0,0,,No necesitamos un juego perfecto o sin hits.
 Dialogue: 0,0:14:16.02,0:14:19.08,H2 (Inferior),,0,0,0,,Lo sé, entrenador. Antes que nada, debemos ganar.
-Dialogue: 0,0:14:22.74,0:14:24.92,H2 (Inferior),,0,0,0,,No tengas ninguna duda.
+Dialogue: 0,0:14:22.74,0:14:24.92,H2 (Inferior),,0,0,0,,Compañero, no vayas con dudas.
 Dialogue: 0,0:14:27.17,0:14:29.85,H2 (Inferior),,0,0,0,,Si vas a hacerlo, asegúrate de llegar hasta el final.
 Dialogue: 0,0:14:30.79,0:14:35.06,H2 (Inferior),,0,0,0,,Si es un accidente, nadie te reclamará.
 Dialogue: 0,0:14:38.00,0:14:44.73,H2 (Inferior),,0,0,0,,¡Pelea, pelea, Meiwa!\N¡Pelea, pelea, Meiwa!
@@ -169,14 +157,14 @@ Dialogue: 0,0:15:48.99,0:15:52.10,H2 (Inferior),,0,0,0,,Pero al considerar todo 
 Dialogue: 0,0:15:53.09,0:15:57.02,H2 (Inferior),,0,0,0,,La calidad de su plantel.\NSus excelentes instalaciones.
 Dialogue: 0,0:15:57.02,0:16:01.93,H2 (Inferior),,0,0,0,,Y sobre todo, el completo respeto\Na las órdenes del entrenador.
 Dialogue: 0,0:16:02.87,0:16:04.28,H2 (Inferior),,0,0,0,,El entrenador Shiroyama.
-Dialogue: 0,0:16:04.28,0:16:09.28,H2 (Inferior),,0,0,0,,Es un famoso entrenador que ganó un torneo de primavera\Ny dos campeonatos nacionales.
+Dialogue: 0,0:16:04.28,0:16:09.28,H2 (Inferior),,0,0,0,,Un famoso entrenador que ganó un torneo de primavera\Ny dos campeonatos nacionales.
 Dialogue: 0,0:16:14.66,0:16:17.00,H2 (Inferior),,0,0,0,,Ha acumulado mucha experiencia en muchos lugares.
-Dialogue: 0,0:16:18.23,0:16:21.40,H2 (Inferior),,0,0,0,,Cuando tengas su edad, tú también\Nserás un entrenador famoso.
+Dialogue: 0,0:16:18.23,0:16:21.40,H2 (Inferior),,0,0,0,,Cuando tenga su edad, usted también\Nserá un entrenador famoso.
 Dialogue: 0,0:16:27.74,0:16:28.54,H2 (Inferior),,0,0,0,,Bola.
 Dialogue: 0,0:16:31.40,0:16:34.45,H2 (Inferior),,0,0,0,,Es la primera vez que tienen la cuenta llena.
-Dialogue: 0,0:16:34.45,0:16:37.37,H2 (Inferior),,0,0,0,,Sí. @No se deja llevar por las emociones.
+Dialogue: 0,0:16:34.45,0:16:37.37,H2 (Inferior),,0,0,0,,Sí. No se deja llevar por las emociones.
 Dialogue: 0,0:16:47.15,0:16:48.10,H2 (Inferior),,0,0,0,,Quieto.
-Dialogue: 0,0:16:53.25,0:16:55.95,H2 (Inferior),,0,0,0,,Tu inicio es lento.
+Dialogue: 0,0:16:53.25,0:16:55.95,H2 (Inferior),,0,0,0,,Compañero, tu inicio es lento.
 Dialogue: 0,0:16:58.12,0:17:00.05,H2 (Inferior),,0,0,0,,Deberías apreciar tu puesto como titular.
 Dialogue: 0,0:17:01.05,0:17:03.25,H2 (Inferior),,0,0,0,,Tenemos un buen suplente de primer año\Npara la tercera base.
 Dialogue: 0,0:17:06.10,0:17:07.55,H2 (Inferior),,0,0,0,,#Murabe\N#Tachibana\N#Nakai
@@ -194,10 +182,10 @@ Dialogue: 0,0:18:46.31,0:18:48.30,H2 (Inferior),,0,0,0,,¿Era un lanzamiento tan
 Dialogue: 0,0:18:48.30,0:18:48.95,H2 (Inferior),,0,0,0,,No.
 Dialogue: 0,0:18:56.97,0:18:59.47,H2 (Inferior),,0,0,0,,Creo que le está devolviendo el favor.
 Dialogue: 0,0:19:15.00,0:19:16.80,H2 (Inferior),,0,0,0,,Si crees que puedes anunciarlo, adelante.
-Dialogue: 0,0:19:34.64,0:19:35.91,H2 (Inferior),,0,0,0,,@Mira...
-Dialogue: 0,0:20:00.26,0:20:02.45,H2 (Inferior),,0,0,0,,Tenía algo distinto.
+Dialogue: 0,0:19:34.64,0:19:35.91,H2 (Inferior),,0,0,0,,Oye...
+Dialogue: 0,0:20:00.26,0:20:02.45,H2 (Inferior),,0,0,0,,Fue distinto esta vez.
 Dialogue: 0,0:20:06.20,0:20:07.60,H2 (Inferior),,0,0,0,,Se lo merece.
-Dialogue: 0,0:20:07.60,0:20:10.13,H2 (Inferior),,0,0,0,,@Supongo que no es alguien que tiente a la suerte.
+Dialogue: 0,0:20:07.60,0:20:10.13,H2 (Inferior),,0,0,0,,Supongo que no es alguien que tiente a la suerte.
 Dialogue: 0,0:20:13.15,0:20:16.80,H2 (Inferior),,0,0,0,,¡Destrózalo, Hideo!
 Dialogue: 0,0:20:33.24,0:20:34.05,H2 (Inferior),,0,0,0,,Hide...
 Dialogue: 0,0:21:48.76,0:21:49.75,H2 (Inferior),,0,0,0,,Hideo...
