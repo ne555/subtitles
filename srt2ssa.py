@@ -1,4 +1,8 @@
 #!/bin/python
+"""
+    Converts from a .srt to .ass
+    Translate italics and line-breaks
+"""
 import srt
 import sys
 from datetime import timedelta
