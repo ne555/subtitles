@@ -1,3 +1,5 @@
+!python ../srt2ssa.py % %:r.ass
+edit %:r.ass
 set nobomb
 % s/,Default,/,H2 (Inferior),/
 "% s/,Default,/,Yawara (Bot),/
