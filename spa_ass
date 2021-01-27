@@ -10,3 +10,4 @@ normal 2kdgg
 0r header.ass
 g/,,$/d
 !ln % video/%:s#-spa##
+write
