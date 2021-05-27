@@ -16,13 +16,13 @@ Style: H2 (Superior),Fontin Sans Rg,28,&H0000FFFF,&H000000FF,&H00000000,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:33.48,0:01:36.45,H2 (Inferior),,0,0,0,,En la preparatoria Eikyou,\Ncandidata al torneo de primavera,
+Dialogue: 0,0:01:33.48,0:01:36.45,H2 (Inferior),,0,0,0,,En la preparatoria Eikyo,\Ncandidata al torneo de primavera,
 Dialogue: 0,0:01:36.45,0:01:38.45,H2 (Inferior),,0,0,0,,se encuentra Hirota, el lanzador estrella\Nque le fracturó el brazo a Hideo.
-Dialogue: 0,0:01:42.82,0:01:48.00,H2 (Inferior),,0,0,0,,Y también al famoso entrenador Shiroyama,\Nque intentó reclutarme cuando estaba en secundaria.
+Dialogue: 0,0:01:42.82,0:01:48.00,H2 (Inferior),,0,0,0,,Y también el famoso entrenador Shiroyama,\Nque intentó reclutarme cuando estaba en secundaria.
 Dialogue: 0,0:01:49.08,0:01:54.12,H2 (Inferior),,0,0,0,,Y luego está Sagawa. Parece que hay\Nciertos rencores entre él e Hirota.
 Dialogue: 0,0:02:00.60,0:02:08.25,H2 (Inferior),,0,0,0,,"No me desagrada un buen enfrentamiento"
-Dialogue: 0,0:02:16.15,0:02:21.55,H2 (Inferior),,0,0,0,,#Bienvenida, preparatoria Eikyou\N#Partido de exhibición\N#del club de béisbol de Senkawa
-Dialogue: 0,0:02:21.55,0:02:29.50,H2 (Inferior),,0,0,0,,#Preparatoria Eikyou
+Dialogue: 0,0:02:16.15,0:02:21.55,H2 (Inferior),,0,0,0,,#Bienvenida, preparatoria Eikyo\N#Partido de exhibición\N#del club de béisbol de Senkawa
+Dialogue: 0,0:02:21.55,0:02:29.50,H2 (Inferior),,0,0,0,,#Preparatoria Eikyo
 Dialogue: 0,0:02:35.31,0:02:38.49,H2 (Inferior),,0,0,0,,No puede controlar sus lanzamientos.
 Dialogue: 0,0:02:38.49,0:02:43.35,H2 (Inferior),,0,0,0,,¿Ese era el lanzador por el que te tomaste\Nla molestia de arreglar este partido?
 Dialogue: 0,0:02:44.83,0:02:48.29,H2 (Inferior),,0,0,0,,El receptor se ve demasiado tranquilo\Ncon esos lanzamientos descolocados.
@@ -47,7 +47,7 @@ Dialogue: 0,0:04:00.85,0:04:06.99,H2 (Inferior),,0,0,0,,#Festival de Senkawa
 Dialogue: 0,0:04:03.33,0:04:04.33,H2 (Inferior),,0,0,0,,¿Qué quieres comer?
 Dialogue: 0,0:04:05.80,0:04:07.00,H2 (Inferior),,0,0,0,,Espero que quede algo...
 Dialogue: 0,0:04:07.05,0:04:13.00,H2 (Inferior),,0,0,0,,#Festival de Senkawa
-Dialogue: 0,0:04:20.39,0:04:22.15,H2 (Inferior),,0,0,0,,#¡Nos visita la preparatoria Eikyou,\N#liderada por el famoso entrenador Shiroyama\N#y candidata al torneo de primavera!\N#El partido comienza a las 1.00 p. m.\N#Club de béisbol de Senkawa
+Dialogue: 0,0:04:20.39,0:04:22.15,H2 (Inferior),,0,0,0,,#¡Nos visita la preparatoria Eikyo,\N#liderada por el famoso entrenador Shiroyama\N#y candidata al torneo de primavera!\N#El partido comienza a las 1.00 p. m.\N#Club de béisbol de Senkawa
 Dialogue: 0,0:04:28.25,0:04:30.20,H2 (Inferior),,0,0,0,,#¡Nos visita la preparatoria Sin Nombre!\N#Partido de exhibición del club de fútbol\N#Inicio a las 1 p. m.
 Dialogue: 0,0:04:42.99,0:04:45.65,H2 (Inferior),,0,0,0,,Nos enfrentamos a un candidato\Nal campeonato nacional.
 Dialogue: 0,0:04:45.65,0:04:48.30,H2 (Inferior),,0,0,0,,Nosotros somos los retadores.\N¡Demos nuestro mejor esfuerzo!
@@ -70,7 +70,7 @@ Dialogue: 0,0:06:05.45,0:06:08.96,H2 (Inferior),,0,0,0,,Ese lanzamiento fue para
 Dialogue: 0,0:06:09.70,0:06:13.36,H2 (Inferior),,0,0,0,,Justo en la esquina interior.\NEs un control impresionante.
 Dialogue: 0,0:06:13.36,0:06:13.98,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:06:21.04,0:06:22.33,H2 (Inferior),,0,0,0,,¡Strike dos!
-Dialogue: 0,0:06:23.56,0:06:25.73,H2 (Inferior),,0,0,0,,Eso no es lanzar para e; contacto...
+Dialogue: 0,0:06:23.56,0:06:25.73,H2 (Inferior),,0,0,0,,Eso no es lanzar para el contacto...
 Dialogue: 0,0:06:31.61,0:06:32.84,H2 (Inferior),,0,0,0,,Así debe ser.
 Dialogue: 0,0:06:42.04,0:06:45.01,H2 (Inferior),,0,0,0,,¿No intenta abanicar a un\Nlanzamiento directo al medio?
 Dialogue: 0,0:06:45.49,0:06:48.64,H2 (Inferior),,0,0,0,,Es que tiene demasiada velocidad.
@@ -116,7 +116,7 @@ Dialogue: 0,0:09:53.65,0:09:56.99,H2 (Inferior),,0,0,0,,Y ahora le toca al lanza
 Dialogue: 0,0:10:00.15,0:10:01.30,H2 (Inferior),,0,0,0,,Qué miedo.
 Dialogue: 0,0:10:03.80,0:10:07.02,H2 (Inferior),,0,0,0,,Entiendo. Cuento contigo, Yanagi.
 Dialogue: 0,0:10:08.00,0:10:09.57,H2 (Inferior),,0,0,0,,{\i1}¡Un rodado a segunda para una doble matanza!{\i}
-Dialogue: 0,0:10:27.65,0:10:31.80,H2 (Inferior),,0,0,0,,#Bienvenida, preparatoria Eikyou\N#Partido de exhibición\N#del club de béisbol de Senkawa
+Dialogue: 0,0:10:27.65,0:10:31.80,H2 (Inferior),,0,0,0,,#Bienvenida, preparatoria Eikyo\N#Partido de exhibición\N#del club de béisbol de Senkawa
 Dialogue: 0,0:10:28.00,0:10:29.01,H2 (Inferior),,0,0,0,,¡Foul!
 Dialogue: 0,0:10:47.80,0:10:50.51,H2 (Inferior),,0,0,0,,Parece que una doble matanza es pedir demasiado.
 Dialogue: 0,0:10:57.18,0:10:59.06,H2 (Inferior),,0,0,0,,Si eso es lo que busca, lo expulsaremos\Ncon un elevado al centro.
@@ -139,10 +139,10 @@ Dialogue: 0,0:12:58.16,0:12:58.90,H2 (Inferior),,0,0,0,,¡Fuera!
 Dialogue: 0,0:12:59.70,0:13:03.09,H2 (Inferior),,0,0,0,,¡Asombroso!
 Dialogue: 0,0:13:12.69,0:13:13.75,H2 (Inferior),,0,0,0,,¡Maldito...!
 Dialogue: 0,0:13:14.68,0:13:17.12,H2 (Inferior),,0,0,0,,El pez que se escapó...
-Dialogue: 0,0:13:18.53,0:13:21.23,H2 (Inferior),,0,0,0,,@De poncharlo a una doble matanza. Justo a tiempo.
+Dialogue: 0,0:13:18.53,0:13:21.23,H2 (Inferior),,0,0,0,,De un ponchazo a una doble matanza. Justo a tiempo.
 Dialogue: 0,0:13:21.23,0:13:23.69,H2 (Inferior),,0,0,0,,Sí. Noda se estaba moviendo bien, también.
 Dialogue: 0,0:13:32.22,0:13:33.51,H2 (Inferior),,0,0,0,,Lo hicieron bien.
-Dialogue: 0,0:13:33.90,0:13:37.30,H2 (Inferior),,0,0,0,,#Eikyou\N#Senkawa
+Dialogue: 0,0:13:33.90,0:13:37.30,H2 (Inferior),,0,0,0,,#Eikyo\N#Senkawa
 Dialogue: 0,0:13:39.21,0:13:40.30,H2 (Inferior),,0,0,0,,Debemos resistir.
 Dialogue: 0,0:13:43.20,0:13:44.80,H2 (Inferior),,0,0,0,,Bueno, yo...
 Dialogue: 0,0:13:47.59,0:13:49.16,H2 (Inferior),,0,0,0,,Por supuesto que resistiremos.
@@ -164,9 +164,9 @@ Dialogue: 0,0:14:54.38,0:14:55.44,H2 (Inferior),,0,0,0,,¿Conque la sonrisa?
 Dialogue: 0,0:14:58.38,0:15:00.65,H2 (Inferior),,0,0,0,,Eso es un problema, Sagawa.
 Dialogue: 0,0:15:00.65,0:15:05.05,H2 (Inferior),,0,0,0,,Si quieres jugar al béisbol en esta escuela,\Ndebes hacer lo que te digo.
 Dialogue: 0,0:15:13.88,0:15:16.11,H2 (Inferior),,0,0,0,,Alguien se robó la ropa interior de los\Nvestidores del club de voleibol.
-Dialogue: 0,0:15:16.11,0:15:17.73,H2 (Inferior),,0,0,0,,¿No sabes quién pudo haber sido?
-Dialogue: 0,0:15:16.11,0:15:19.79,H2 (Inferior),,0,0,0,,¡No tienes estilo, Kine!
-Dialogue: 0,0:15:18.20,0:15:21.45,H2 (Inferior),,0,0,0,,¡Devuélveme el dinero que te presté para el almuerzo!
+Dialogue: 0,0:15:16.11,0:15:17.73,H2 (Inferior),,0,0,0,,&¿No sabes quién pudo haber sido?
+Dialogue: 0,0:15:16.11,0:15:19.79,H2 (Inferior),,0,0,0,,&¡No tienes estilo, Kine!
+Dialogue: 0,0:15:18.20,0:15:21.45,H2 (Inferior),,0,0,0,,&¡Devuélveme el dinero que te presté para el almuerzo!
 Dialogue: 0,0:15:25.79,0:15:26.67,H2 (Inferior),,0,0,0,,¡Vamos!
 Dialogue: 0,0:15:31.24,0:15:32.57,H2 (Inferior),,0,0,0,,¡Strike!
 Dialogue: 0,0:15:39.99,0:15:41.26,H2 (Inferior),,0,0,0,,¡Me está subestimando!
@@ -183,7 +183,7 @@ Dialogue: 0,0:16:29.08,0:16:30.40,H2 (Inferior),,0,0,0,,¡Strike! ¡Bateador fue
 Dialogue: 0,0:16:32.45,0:16:35.10,H2 (Inferior),,0,0,0,,¡Kine, el dinero del almuerzo!
 Dialogue: 0,0:16:38.65,0:16:39.90,H2 (Inferior),,0,0,0,,¡Hirota!
 Dialogue: 0,0:16:39.90,0:16:40.90,H2 (Inferior),,0,0,0,,¡Increíble!
-Dialogue: 0,0:16:43.25,0:16:46.60,H2 (Inferior),,0,0,0,,Nadie lo felicitará superarnos.
+Dialogue: 0,0:16:43.25,0:16:46.60,H2 (Inferior),,0,0,0,,Nadie lo felicitará por superarnos.
 Dialogue: 0,0:16:46.60,0:16:49.43,H2 (Inferior),,0,0,0,,Así que tiene que derrotarnos mientras\Ncanta una canción o algo así.
 Dialogue: 0,0:16:50.88,0:16:53.62,H2 (Inferior),,0,0,0,,Y también puede usarlo como excusa cuando\Nya no pueda expulsarnos.
 Dialogue: 0,0:16:55.11,0:16:57.08,H2 (Inferior),,0,0,0,,Es un sujeto muy simple.
@@ -201,7 +201,7 @@ Dialogue: 0,0:18:45.30,0:18:47.55,H2 (Inferior),,0,0,0,,{\i1}Un cuadrangular de 
 Dialogue: 0,0:18:48.51,0:18:49.38,H2 (Inferior),,0,0,0,,{\i1}Pero...{\i}
 Dialogue: 0,0:18:51.02,0:18:53.65,H2 (Inferior),,0,0,0,,En realidad estás bastante exaltado, ¿no es así?
 Dialogue: 0,0:18:58.23,0:18:59.48,H2 (Inferior),,0,0,0,,No llegará a tiempo.
-Dialogue: 0,0:19:03.40,0:19:07.08,H2 (Inferior),,0,0,0,,No deberías pararte tan lejos de la base.
+Dialogue: 0,0:19:03.40,0:19:07.08,H2 (Inferior),,0,0,0,,No deberías pararte tan atrás.
 Dialogue: 0,0:19:09.79,0:19:15.56,H2 (Inferior),,0,0,0,,De todas maneras, tu arranque es lento.\NDeberías conocer tu alcance.
 Dialogue: 0,0:19:34.40,0:19:35.65,H2 (Inferior),,0,0,0,,{\i1}El béisbol es...{\i}
 Dialogue: 0,0:19:36.88,0:19:42.10,H2 (Inferior),,0,0,0,,{\i1}El béisbol es un deporte donde, mediante\Nel acto de arrojar y golpear la pelota,{\i}
@@ -211,7 +211,7 @@ Dialogue: 0,0:19:54.75,0:19:57.24,H2 (Inferior),,0,0,0,,{\i1}Pero la recompensa 
 Dialogue: 0,0:20:03.14,0:20:03.70,H2 (Inferior),,0,0,0,,¿Eh?
 Dialogue: 0,0:20:04.30,0:20:05.30,H2 (Inferior),,0,0,0,,¡Diablos!
 Dialogue: 0,0:20:14.53,0:20:15.62,H2 (Inferior),,0,0,0,,¡Maldición!
-Dialogue: 0,0:20:16.75,0:20:18.40,H2 (Inferior),,0,0,0,,Era una bola difícil.
+Dialogue: 0,0:20:16.75,0:20:18.40,H2 (Inferior),,0,0,0,,Fue un buen batazo.
 Dialogue: 0,0:20:24.74,0:20:26.92,H2 (Inferior),,0,0,0,,Cualquiera podría batear ese lanzamiento.
 Dialogue: 0,0:20:28.45,0:20:29.59,H2 (Inferior),,0,0,0,,Tienes demasiada confianza.
 Dialogue: 0,0:20:33.66,0:20:36.71,H2 (Inferior),,0,0,0,,Subestimó el poder del bateador\Nde limpieza de Senkawa.
@@ -221,8 +221,8 @@ Dialogue: 0,0:20:42.76,0:20:44.63,H2 (Inferior),,0,0,0,,Creo que será un juego 
 Dialogue: 0,0:20:45.17,0:20:47.90,H2 (Inferior),,0,0,0,,Este partido es simplemente parte del festival.
 Dialogue: 0,0:20:48.26,0:20:54.55,H2 (Inferior),,0,0,0,,Si Hiro se pone serio, lanzará tan fuerte\Nque nadie podrá detenerlo.
 Dialogue: 0,0:20:54.55,0:20:55.26,H2 (Inferior),,0,0,0,,Tienes razón.
-Dialogue: 0,0:20:56.70,0:20:59.20,H2 (Inferior),,0,0,0,,#Eikyou\N#Senkawa
-Dialogue: 0,0:21:03.12,0:21:04.56,H2 (Inferior),,0,0,0,,All right.\NBien.
+Dialogue: 0,0:20:56.70,0:20:59.20,H2 (Inferior),,0,0,0,,#Eikyo\N#Senkawa
+Dialogue: 0,0:21:03.12,0:21:04.56,H2 (Inferior),,0,0,0,,Bien.
 Dialogue: 0,0:21:04.56,0:21:07.25,H2 (Inferior),,0,0,0,,¡Debemos resistir!
 Dialogue: 0,0:21:07.61,0:21:08.51,H2 (Inferior),,0,0,0,,¡Sí!
 Dialogue: 0,0:21:09.28,0:21:12.91,H2 (Inferior),,0,0,0,,Busca el contacto, Kunimi.\N¡La próxima vez la atraparé!
