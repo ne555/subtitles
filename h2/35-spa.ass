@@ -19,7 +19,6 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:35.85,0:01:40.21,H2 (Inferior),,0,0,0,,El partido de exhibición contra la preparatoria Eikyo\Nsurgió como parte del festival cultural.
 Dialogue: 0,0:01:43.86,0:01:48.50,H2 (Inferior),,0,0,0,,La esencia del béisbol es, en parte,\Nuna batalla de ingenio y astucia.
 Dialogue: 0,0:01:50.53,0:01:55.50,H2 (Inferior),,0,0,0,,Pero también hay aquellos que rehuyen de la táctica\Ny se lanzan a un enfrentamiento directo.
-Dialogue: 0,0:02:02.30,0:02:08.80,H2 (Inferior),,0,0,0,,#Festival de Senkawa
 Dialogue: 0,0:02:02.30,0:02:08.80,H2 (Inferior),,0,0,0,,"¿Quieres que anuncie un ponchazo?"
 Dialogue: 0,0:02:08.80,0:02:13.70,H2 (Inferior),,0,0,0,,#Festival de Senkawa
 Dialogue: 0,0:02:15.92,0:02:17.82,H2 (Inferior),,0,0,0,,¡Adelante, adelante!
@@ -27,11 +26,9 @@ Dialogue: 0,0:02:20.10,0:02:22.21,H2 (Inferior),,0,0,0,,¡Tenemos fideos!
 Dialogue: 0,0:02:23.30,0:02:26.25,H2 (Inferior),,0,0,0,,#Poroto colorado
 Dialogue: 0,0:02:26.25,0:02:29.20,H2 (Inferior),,0,0,0,,#Takoyaki
 Dialogue: 0,0:02:27.05,0:02:29.51,H2 (Inferior),,0,0,0,,¡Todo barato!
-Dialogue: 0,0:02:29.20,0:02:30.20,H2 (Inferior),,0,0,0,,#Bienvenida, preparatoria Eikyou\N#Partido de exhibición\N#del club de béisbol de Senkawa
 Dialogue: 0,0:02:30.02,0:02:30.81,H2 (Inferior),,0,0,0,,¡Segunda base!
 Dialogue: 0,0:02:34.15,0:02:35.95,H2 (Inferior),,0,0,0,,#Bienvenida, preparatoria Eikyou\N#Partido de exhibición\N#del club de béisbol de Senkawa
 Dialogue: 0,0:02:35.16,0:02:35.90,H2 (Inferior),,0,0,0,,¡Fuera!
-Dialogue: 0,0:02:35.95,0:02:37.95,H2 (Inferior),,0,0,0,,#¡Nos visita la preparatoria Eikyou,\N#liderada por el famoso entrenador Shiroyama\N#y candidata al torneo de primavera!\N#El partido comienza a las 1.00 p. m.\N#Club de béisbol de Senkawa
 Dialogue: 0,0:02:36.96,0:02:37.75,H2 (Inferior),,0,0,0,,¡Bien hecho, segunda!
 Dialogue: 0,0:02:38.83,0:02:40.10,H2 (Inferior),,0,0,0,,¡Uno fuera! ¡Uno fuera!
 Dialogue: 0,0:02:41.25,0:02:42.67,H2 (Inferior),,0,0,0,,¡Lancemos para el contacto!
@@ -64,7 +61,7 @@ Dialogue: 0,0:04:54.38,0:04:57.93,H2 (Inferior),,0,0,0,,Mi ritmo no fue el adecu
 Dialogue: 0,0:04:57.93,0:04:59.09,H2 (Inferior),,0,0,0,,Oh.
 Dialogue: 0,0:04:59.09,0:05:04.70,H2 (Inferior),,0,0,0,,Con lo mucho que lo habías alabado,\Nesperaba un lanzamiento más rápido.
 Dialogue: 0,0:05:06.13,0:05:07.10,H2 (Inferior),,0,0,0,,Ya veo.
-Dialogue: 0,0:05:07.96,0:05:09.63,H2 (Inferior),,0,0,0,,Lo siento.
+Dialogue: 0,0:05:07.96,0:05:09.63,H2 (Inferior),,0,0,0,,Me disculpo.
 Dialogue: 0,0:05:12.61,0:05:13.63,H2 (Inferior),,0,0,0,,¡Uno más!
 Dialogue: 0,0:05:17.40,0:05:18.00,H2 (Inferior),,0,0,0,,¡Bien!
 Dialogue: 0,0:05:19.10,0:05:19.70,H2 (Inferior),,0,0,0,,¡Fuera!
@@ -82,7 +79,7 @@ Dialogue: 0,0:06:29.17,0:06:30.15,H2 (Inferior),,0,0,0,,¡Cambio!
 Dialogue: 0,0:06:34.43,0:06:35.96,H2 (Inferior),,0,0,0,,¡Hirota!
 Dialogue: 0,0:06:35.96,0:06:37.22,H2 (Inferior),,0,0,0,,¡Eres genial!
 Dialogue: 0,0:06:37.22,0:06:39.12,H2 (Inferior),,0,0,0,,¡Hirota!
-Dialogue: 0,0:06:41.66,0:06:45.50,H2 (Inferior),,0,0,0,,Tres ponchazos, cada una con tres lanzamientos.\NNueve lanzamientos y listo.
+Dialogue: 0,0:06:41.66,0:06:45.50,H2 (Inferior),,0,0,0,,Tres ponchazos, cada uno con tres lanzamientos.\NNueve lanzamientos y listo.
 Dialogue: 0,0:06:45.50,0:06:48.69,H2 (Inferior),,0,0,0,,Y solamente está usando un 80% de su poder.
 Dialogue: 0,0:06:49.33,0:06:51.83,H2 (Inferior),,0,0,0,,¡Nosotros también podemos!
 Dialogue: 0,0:06:54.28,0:06:56.39,H2 (Inferior),,0,0,0,,¡No dejes que alguien así te supere!
@@ -120,7 +117,7 @@ Dialogue: 0,0:09:31.48,0:09:32.62,H2 (Inferior),,0,0,0,,¡No estés perdiendo el
 Dialogue: 0,0:09:32.62,0:09:33.78,H2 (Inferior),,0,0,0,,¡Inútil!
 Dialogue: 0,0:09:33.78,0:09:36.85,H2 (Inferior),,0,0,0,,¿Qué crees que haces, Kine?
 Dialogue: 0,0:09:36.85,0:09:38.00,H2 (Inferior),,0,0,0,,¡Das lástima!
-Dialogue: 0,0:09:42.80,0:09:44.81,H2 (Inferior),,0,0,0,,{\i1}Tres lanzamientos más.{\i}
+Dialogue: 0,0:09:42.80,0:09:44.81,H2 (Inferior),,0,0,0,,Tres lanzamientos más.
 Dialogue: 0,0:09:45.45,0:09:47.70,H2 (Inferior),,0,0,0,,{\i1}El séptimo será aquí.{\i}
 Dialogue: 0,0:09:53.65,0:09:54.37,H2 (Inferior),,0,0,0,,Bola.
 Dialogue: 0,0:09:57.90,0:09:58.85,H2 (Inferior),,0,0,0,,{\i1}El octavo.{\i}
@@ -140,8 +137,8 @@ Dialogue: 0,0:11:04.66,0:11:08.17,H2 (Inferior),,0,0,0,,Les devolví el favor lo
 Dialogue: 0,0:11:10.83,0:11:11.61,H2 (Inferior),,0,0,0,,¿Qué?
 Dialogue: 0,0:11:15.83,0:11:18.45,H2 (Inferior),,0,0,0,,No hay ninguna duda.\NEn verdad fueron nueve lanzamientos.
 Dialogue: 0,0:11:19.52,0:11:20.74,H2 (Inferior),,0,0,0,,¡Maravilloso!
-Dialogue: 0,0:11:21.48,0:11:23.55,H2 (Inferior),,0,0,0,,No entiendo.
-Dialogue: 0,0:11:24.90,0:11:26.33,H2 (Inferior),,0,0,0,,No importa.
+Dialogue: 0,0:11:21.48,0:11:23.55,H2 (Inferior),,0,0,0,,¿Y eso qué?
+Dialogue: 0,0:11:24.90,0:11:26.33,H2 (Inferior),,0,0,0,,Nada.
 Dialogue: 0,0:11:26.33,0:11:26.99,H2 (Inferior),,0,0,0,,Bien.
 Dialogue: 0,0:11:33.22,0:11:35.92,H2 (Inferior),,0,0,0,,#Apunta al campeonato nacional
 Dialogue: 0,0:11:41.21,0:11:43.82,H2 (Inferior),,0,0,0,,#Apunta al campeonato nacional
@@ -150,7 +147,6 @@ Dialogue: 0,0:11:48.65,0:11:49.70,H2 (Inferior),,0,0,0,,¡Eres genial!
 Dialogue: 0,0:11:49.70,0:11:51.99,H2 (Inferior),,0,0,0,,¡Ánimo, Hirota!
 Dialogue: 0,0:11:52.80,0:11:54.00,H2 (Inferior),,0,0,0,,¡Hirota!
 Dialogue: 0,0:11:54.00,0:11:56.00,H2 (Inferior),,0,0,0,,¡Eres genial!
-Dialogue: 0,0:11:54.76,0:11:56.03,H2 (Inferior),,0,0,0,,¡Hirota!
 Dialogue: 0,0:11:58.29,0:11:59.00,H2 (Inferior),,0,0,0,,Hirota...
 Dialogue: 0,0:12:01.09,0:12:01.96,H2 (Inferior),,0,0,0,,¡A jugar!
 Dialogue: 0,0:12:06.17,0:12:07.12,H2 (Inferior),,0,0,0,,¡Strike!
@@ -161,7 +157,7 @@ Dialogue: 0,0:12:39.48,0:12:41.57,H2 (Inferior),,0,0,0,,Parece que el destino qu
 Dialogue: 0,0:12:54.08,0:12:55.17,H2 (Inferior),,0,0,0,,¡Strike dos!
 Dialogue: 0,0:12:56.15,0:13:00.60,H2 (Inferior),,0,0,0,,Parece que nuestra relación\Ntodavía no terminó, Hirota.
 Dialogue: 0,0:13:04.77,0:13:07.15,H2 (Inferior),,0,0,0,,¡Strike! ¡Bateador fuera!
-Dialogue: 0,0:13:08.85,0:13:13.17,H2 (Inferior),,0,0,0,,Con esa forma de abanicar, aunque conecte\Nla bola no irá hacia adelante.
+Dialogue: 0,0:13:08.85,0:13:13.17,H2 (Inferior),,0,0,0,,Con esa forma de abanicar, aunque conecte,\Nla bola no irá hacia adelante.
 Dialogue: 0,0:13:13.17,0:13:14.00,H2 (Inferior),,0,0,0,,Es verdad.
 Dialogue: 0,0:13:14.77,0:13:19.40,H2 (Inferior),,0,0,0,,Agrega 100 abanicadas a su entrenamiento.
 Dialogue: 0,0:13:19.40,0:13:20.28,H2 (Inferior),,0,0,0,,Enseguida.
