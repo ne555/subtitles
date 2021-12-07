@@ -20,9 +20,9 @@ Dialogue: 0,0:01:32.69,0:01:37.40,H2 (Inferior),,0,0,0,,Le pedí a Koga que fuer
 Dialogue: 0,0:01:39.80,0:01:46.44,H2 (Inferior),,0,0,0,,Pero Sagawa, el amigo de la infancia de Hideo,\Nme desafió diciendo que golpearía mis lanzamientos.
 Dialogue: 0,0:01:48.25,0:01:53.06,H2 (Inferior),,0,0,0,,Me enfoqué tanto en el reto que me olvidé\Ncompletamente de mi promesa con Koga.
 Dialogue: 0,0:01:54.49,0:01:56.58,H2 (Inferior),,0,0,0,,Lo siento, Koga.
-Dialogue: 0,0:02:00.65,0:02:05.70,H2 (Inferior),,0,0,0,,"La primera cita. Mis mejores deseos\Npara nuestro futuro."
+Dialogue: 0,0:02:00.65,0:02:05.70,H2 (Inferior),,0,0,0,,"La primera cita. Mis mejores deseos\Npara nuestro futuro"
 Dialogue: 0,0:02:06.80,0:02:09.80,H2 (Inferior),,0,0,0,,#¡Buena suerte, Hiro Kunimi!
-Dialogue: 0,0:02:24.43,0:02:25.60,H2 (Inferior),,0,0,0,,Debo irme, Tercera.
+Dialogue: 0,0:02:24.43,0:02:25.60,H2 (Inferior),,0,0,0,,Ya me voy, Tercera.
 Dialogue: 0,0:03:10.53,0:03:11.93,H2 (Inferior),,0,0,0,,¿Quieres un helado?
 Dialogue: 0,0:03:14.05,0:03:15.02,H2 (Inferior),,0,0,0,,Gracias.
 Dialogue: 0,0:03:15.55,0:03:16.80,H2 (Inferior),,0,0,0,,Oh, es cierto.
@@ -37,7 +37,7 @@ Dialogue: 0,0:03:41.21,0:03:44.88,H2 (Inferior),,0,0,0,,Además, pasarás todo e
 Dialogue: 0,0:03:46.84,0:03:51.10,H2 (Inferior),,0,0,0,,Pagarás por todo y harás todo lo que te pida.
 Dialogue: 0,0:03:51.96,0:03:56.83,H2 (Inferior),,0,0,0,,¡No pidas tanto! ¿Se supone que pague todo esto?
 Dialogue: 0,0:03:56.83,0:04:00.13,H2 (Inferior),,0,0,0,,Si una chica linda te lo pide, debes hacerlo.
-Dialogue: 0,0:04:00.13,0:04:02.68,H2 (Inferior),,0,0,0,,Aunque seas bonita, eres una niña.\N@la prima.
+Dialogue: 0,0:04:00.13,0:04:02.68,H2 (Inferior),,0,0,0,,Aunque seas bonita, eres mi prima.
 Dialogue: 0,0:04:04.30,0:04:05.90,H2 (Inferior),,0,0,0,,¡Mira, qué bonito!
 Dialogue: 0,0:04:05.90,0:04:06.34,H2 (Inferior),,0,0,0,,¿Qué?
 Dialogue: 0,0:04:06.34,0:04:07.65,H2 (Inferior),,0,0,0,,¿Me lo compras?
@@ -48,12 +48,12 @@ Dialogue: 0,0:04:14.53,0:04:16.90,H2 (Inferior),,0,0,0,,Claro, después de todo,
 Dialogue: 0,0:04:16.90,0:04:19.00,H2 (Inferior),,0,0,0,,De ninguna manera sentirías envidia de nadie.
 Dialogue: 0,0:04:19.73,0:04:22.58,H2 (Inferior),,0,0,0,,¿Qué? ¿Contigo?
 Dialogue: 0,0:04:22.58,0:04:24.00,H2 (Inferior),,0,0,0,,Eres feliz, ¿no es así?
-Dialogue: 0,0:04:31.41,0:04:35.30,H2 (Inferior),,0,0,0,,Muy bien, señorita. Puede pedirme cualquier deseo.
-Dialogue: 0,0:04:33.95,0:04:36.31,H2 (Inferior),,0,0,0,,No importa qué tan fantaseoso sea.
+Dialogue: 0,0:04:31.41,0:04:33.95,H2 (Inferior),,0,0,0,,Muy bien, señorita. Puede pedirme cualquier deseo.
+Dialogue: 0,0:04:33.95,0:04:36.31,H2 (Inferior),,0,0,0,,No importa qué tan fantasioso sea.
 Dialogue: 0,0:04:37.20,0:04:38.45,H2 (Inferior),,0,0,0,,Deseo fantástico número uno.
 Dialogue: 0,0:04:42.29,0:04:43.50,H2 (Inferior),,0,0,0,,¿En verdad quieres subirte?
 Dialogue: 0,0:04:43.50,0:04:44.76,H2 (Inferior),,0,0,0,,Deseo fantástico número dos.
-Dialogue: 0,0:04:46.74,0:04:48.64,H2 (Inferior),,0,0,0,,Bajamos atrás.
+Dialogue: 0,0:04:46.74,0:04:48.64,H2 (Inferior),,0,0,0,,Vayamos atrás.
 Dialogue: 0,0:04:48.64,0:04:49.51,H2 (Inferior),,0,0,0,,Número tres.
 Dialogue: 0,0:04:51.22,0:04:53.36,H2 (Inferior),,0,0,0,,¿Qué? ¿Se va parado?
 Dialogue: 0,0:04:53.74,0:04:54.50,H2 (Inferior),,0,0,0,,Número cuatro.
@@ -83,9 +83,9 @@ Dialogue: 0,0:06:36.05,0:06:38.00,H2 (Inferior),,0,0,0,,Digo, en lugar del baile
 Dialogue: 0,0:06:40.34,0:06:42.60,H2 (Inferior),,0,0,0,,Entresemana es mejor. No hay tanta gente.
 Dialogue: 0,0:06:43.30,0:06:44.30,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:07:08.66,0:07:09.51,H2 (Inferior),,0,0,0,,Koga.
-Dialogue: 0,0:07:09.51,0:07:10.00,H2 (Inferior),,0,0,0,,Dime.
+Dialogue: 0,0:07:09.51,0:07:10.00,H2 (Inferior),,0,0,0,,¿Sí?.
 Dialogue: 0,0:07:12.06,0:07:14.87,H2 (Inferior),,0,0,0,,Las carpas son unas glotonas.
-Dialogue: 0,0:07:17.74,0:07:18.93,H2 (Inferior),,0,0,0,,Tienes razón.
+Dialogue: 0,0:07:17.74,0:07:18.93,H2 (Inferior),,0,0,0,,Es verdad.
 Dialogue: 0,0:07:23.80,0:07:24.43,H2 (Inferior),,0,0,0,,Oigan.
 Dialogue: 0,0:07:29.71,0:07:32.12,H2 (Inferior),,0,0,0,,Son estudiantes de preparatoria, ¿no es así?
 Dialogue: 0,0:07:32.12,0:07:33.40,H2 (Inferior),,0,0,0,,Sí.
@@ -132,9 +132,9 @@ Dialogue: 0,0:09:41.76,0:09:42.58,H2 (Inferior),,0,0,0,,Es el 23.
 Dialogue: 0,0:09:42.58,0:09:44.16,H2 (Inferior),,0,0,0,,¿Los estás contando, Kunimi?
 Dialogue: 0,0:09:44.16,0:09:44.90,H2 (Inferior),,0,0,0,,Era broma.
 Dialogue: 0,0:09:47.65,0:09:55.20,H2 (Inferior),,0,0,0,,% Como tú, subo corriendo al puente peatonal...
-Dialogue: 0,0:09:49.66,0:09:50.84,H2 (Inferior),,0,0,0,,¿Eso es todo?
+Dialogue: 0,0:09:49.66,0:09:50.84,H2 (Inferior),,0,0,0,,¿Eso?
 Dialogue: 0,0:09:51.84,0:09:53.15,H2 (Inferior),,0,0,0,,No.
-Dialogue: 0,0:09:53.15,0:09:56.12,H2 (Inferior),,0,0,0,,Me estoy reservando uno para el final.
+Dialogue: 0,0:09:53.15,0:09:56.12,H2 (Inferior),,0,0,0,,Me lo estoy reservando para el final.
 Dialogue: 0,0:09:55.20,0:10:03.15,H2 (Inferior),,0,0,0,,% Quiero que el cielo despejado me llene de coraje.
 Dialogue: 0,0:09:57.25,0:09:57.99,H2 (Inferior),,0,0,0,,Vamos.
 Dialogue: 0,0:10:03.15,0:10:09.65,H2 (Inferior),,0,0,0,,% ¿Cómo puede mantener esa expresión?
@@ -204,7 +204,7 @@ Dialogue: 0,0:16:41.54,0:16:42.48,H2 (Inferior),,0,0,0,,Un poco.
 Dialogue: 0,0:16:48.70,0:16:51.75,H2 (Inferior),,0,0,0,,Pero dijiste que querías subirte.
 Dialogue: 0,0:16:51.75,0:16:54.56,H2 (Inferior),,0,0,0,,Es que parecía que tú sí.
 Dialogue: 0,0:16:59.13,0:17:01.51,H2 (Inferior),,0,0,0,,¡No te muevas! ¡Se va a caer!
-Dialogue: 0,0:17:03.13,0:17:06.05,H2 (Inferior),,0,0,0,,Cuando nos conocimos, era primavera.
+Dialogue: 0,0:17:03.13,0:17:06.05,H2 (Inferior),,0,0,0,,Era primavera cuando nos conocimos.
 Dialogue: 0,0:17:08.33,0:17:10.00,H2 (Inferior),,0,0,0,,¿Pudiste quemarla?
 Dialogue: 0,0:17:11.41,0:17:13.27,H2 (Inferior),,0,0,0,,Hiro Kunimi.
 Dialogue: 0,0:17:15.80,0:17:19.04,H2 (Inferior),,0,0,0,,Soy Haruka Koga, mánager del\Nclub de béisbol de Senkawa.
@@ -218,7 +218,7 @@ Dialogue: 0,0:18:30.25,0:18:31.30,H2 (Inferior),,0,0,0,,Sí.
 Dialogue: 0,0:18:57.20,0:18:57.96,H2 (Inferior),,0,0,0,,Gracias.
 Dialogue: 0,0:19:01.99,0:19:02.94,H2 (Inferior),,0,0,0,,Qué agradable.
 Dialogue: 0,0:19:16.25,0:19:17.08,H2 (Inferior),,0,0,0,,Perdona.
-Dialogue: 0,0:19:27.76,0:19:28.89,H2 (Inferior),,0,0,0,,¿Desde cuando?
+Dialogue: 0,0:19:27.76,0:19:28.89,H2 (Inferior),,0,0,0,,¿Desde cuándo?
 Dialogue: 0,0:19:28.89,0:19:31.18,H2 (Inferior),,0,0,0,,Desde que me levanté en la mañana.
 Dialogue: 0,0:19:31.18,0:19:35.01,H2 (Inferior),,0,0,0,,¡Eres una tonta!\N¡Tendrías que haberme llamado y cancelado!
 Dialogue: 0,0:19:35.01,0:19:37.20,H2 (Inferior),,0,0,0,,¡De ninguna manera! Habría sido un desperdicio.
@@ -245,10 +245,10 @@ Dialogue: 0,0:21:27.96,0:21:28.58,H2 (Inferior),,0,0,0,,Dime.
 Dialogue: 0,0:21:32.55,0:21:34.38,H2 (Inferior),,0,0,0,,¿Podría tomarnos una foto?
 Dialogue: 0,0:21:41.30,0:21:48.20,H2 (Inferior),,0,0,0,,Hoy también.\NEl romance en el parque de diversiones\NConstruyo la felicidad.
 Dialogue: 0,0:21:48.20,0:21:49.25,H2 (Inferior),,0,0,0,,Demasiadas sílabas.
-Dialogue: 0,0:21:50.20,0:21:51.20,H2 (Inferior),,0,0,0,,¡Digan whisky!
+Dialogue: 0,0:21:50.20,0:21:51.20,H2 (Inferior),,0,0,0,,¡Sonrían!
 Dialogue: 0,0:21:55.17,0:21:57.40,H2 (Inferior),,0,0,0,,No deberías haber tomado una foto así.
 Dialogue: 0,0:21:57.40,0:21:59.99,H2 (Inferior),,0,0,0,,Es para conmemorar nuestra primera cita.
-Dialogue: 0,0:21:59.99,0:22:01.15,H2 (Inferior),,0,0,0,,Ah...
+Dialogue: 0,0:21:59.99,0:22:01.15,H2 (Inferior),,0,0,0,,Cielos...
 Dialogue: 0,0:22:01.15,0:22:03.41,H2 (Inferior),,0,0,0,,Espero pasar más tiempo contigo.
 Dialogue: 0,0:23:42.34,0:23:45.98,H2 (Inferior),,0,0,0,,Hiro, finalmente le sacan el yeso a Hide.
 Dialogue: 0,0:23:45.98,0:23:51.09,H2 (Inferior),,0,0,0,,¿Así que empieza la rehabilitación?\NDebe haber perdido mucho músculo.
@@ -256,5 +256,5 @@ Dialogue: 0,0:23:51.09,0:23:54.50,H2 (Inferior),,0,0,0,,Pero si se sobre esfuerz
 Dialogue: 0,0:23:54.50,0:23:58.18,H2 (Inferior),,0,0,0,,Entonces debes ser fuerte y decirle. No dudes.
 Dialogue: 0,0:23:58.18,0:24:00.67,H2 (Inferior),,0,0,0,,Pero no puedo decirlo en la forma que quiero.
 Dialogue: 0,0:24:00.67,0:24:02.27,H2 (Inferior),,0,0,0,,Es más fácil para ti.
-Dialogue: 0,0:24:03.27,0:24:07.17,H2 (Inferior),,0,0,0,,Next episode of H2 is, \N"The Cast in Your Heart Isn't Gone Yet."\NEn el próximo H2: "Todavía no te quitas\Nel yeso del corazón."
+Dialogue: 0,0:24:03.27,0:24:07.17,H2 (Inferior),,0,0,0,,En el próximo H2: "Todavía no te quitas\Nel yeso del corazón."
 Dialogue: 0,0:24:07.17,0:24:08.43,H2 (Inferior),,0,0,0,,¿Tienes un entrenamiento renovador?
